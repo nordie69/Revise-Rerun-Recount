@@ -1,0 +1,51 @@
+gelesen: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N01de95/auftrag_VF.txt
+gelesen (Verzeichnisliste): /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N01de95/
+gelesen (Verzeichnisliste): /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N01de95/seiten/
+gelesen (Verzeichnisliste): /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N01de95/vf/
+gelesen: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N01de95/gutachten.md
+gelesen: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N01de95/text.json
+gelesen: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N01de95/egusphere-2025-4733.pdf
+geschrieben: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N01de95/vf/text_lines.txt
+geschrieben: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N01de95/vf/layout.txt
+geschrieben: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N01de95/vf/hi/ (p-01.png bis p-33.png, 300 dpi)
+geschrieben: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N01de95/vf/hi/f2_bo5_right.png
+geschrieben: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N01de95/vf/hi/f2_bo6_right.png
+geschrieben: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N01de95/vf/f2.py
+geschrieben: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N01de95/vf/runs.py
+geschrieben: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N01de95/vf/hue.py
+geschrieben: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N01de95/vf/hi/f3_bo6.png
+geschrieben: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N01de95/vf/hi/p11_units.png
+geschrieben: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N01de95/vf/box.py
+gelesen: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N01de95/seiten/seite-01.png bis /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N01de95/seiten/seite-29.png (Seitenbilder 1 bis 29)
+gelesen: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N01de95/vf/hi/p-04.png, p-06.png, p-08.png, p-11.png, p-14.png (Pixelauswertung)
+gelesen: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N01de95/vf/hi/f2_bo5_right.png, /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N01de95/vf/hi/f3_bo6.png, /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N01de95/vf/hi/p11_units.png
+URL (WebSearch): Kneafsey 2025 EGS Collab Geothermics
+URL: https://www.pnnl.gov/publications/egs-collab-project-outcomes-and-lessons-learned-hydraulic-fracture-stimulations
+URL: https://pangea.stanford.edu/ERE/db/GeoConf/papers/SGW/2023/Kneafsey.pdf
+URL (WebSearch): Scibek 2020 Scientific Data
+URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7081332/ (Weiterleitung)
+URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC7081332 (nicht lesbar, Captcha)
+URL: https://www.nature.com/articles/s41597-020-0435-5 (abgewiesen)
+URL: https://escholarship.mcgill.ca/downloads/sj139636k
+URL (WebSearch): Brixel 2020 JGR
+URL: https://eos.org/editor-highlights/fluctuating-fluid-flows-in-a-fractured-fault
+URL (WebSearch): Mizrahi 2024
+URL: https://www.usgs.gov/publications/developing-testing-and-communicating-earthquake-forecasts-current-practices-and-future
+URL (WebSearch): Cappa 2018 GRL
+URL: https://projets.oca.eu/images/hydroseis/pdf/Cappa_et_al-2018-Geophysical_Research_Letters.pdf
+URL: https://doaj.org/article/a3785fb87ab54487b1e0c071b5dd46be
+URL (WebSearch): Evans Forster Goddard 1997
+URL: https://digitalcommons.usu.edu/geology_facpub/34
+URL (WebSearch): Davy 2023
+URL: https://comptes-rendus.academie-sciences.fr/geoscience/item/10.5802/crgeos.174.pdf
+URL (WebSearch): Luetzenkirchen Loew 2011
+URL: https://sjg.pensoft.net/article_preview.php?id=36219
+URL (WebSearch): Achtziger-Zupancic 2024 Solid Earth (Trefferliste, keine Copernicus-Seite geoeffnet)
+URL (WebSearch): Ceccato 2024 Tectonics
+URL: https://www.research-collection.ethz.ch/items/29fe063b-5e85-4e74-a692-735977c6d745
+URL (WebSearch): Gardner equation
+URL: https://www.spec2000.net/25-edit15.htm (Login, nicht lesbar)
+URL: https://www.crewes.org/Documents/ResearchReports/1999/1999-55.pdf (nicht lesbar)
+URL: https://zenodo.org/records/17233183 (abgewiesen)
+URL (WebSearch): zenodo 17233183
+geschrieben: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N01de95/vf/verifikation.md

@@ -1,0 +1,25 @@
+GELESEN: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G51faf2/e2_t4/auftrag_EK.txt
+GELESEN: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G51faf2/teil4.md
+GELESEN: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G51faf2/text.json
+GELESEN: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G51faf2/seiten/ (Verzeichnisliste)
+GESCHRIEBEN: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G51faf2/e2_t4/ms.txt (Hilfsdatei, Textauszug aus text.json)
+GESCHRIEBEN: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G51faf2/e2_t4/zugriff_EK.txt
+GELESEN: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G51faf2/egusphere-2025-4733.pdf (Seiten 6, 14 bis 22, 24 bis 27 mit pdftoppm gerendert)
+GESCHRIEBEN: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G51faf2/e2_t4/hr/ (Hilfsbilder 300 dpi)
+GELESEN: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G51faf2/e2_t4/ms.txt
+GELESEN: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G51faf2/seiten/seite-06.png
+GELESEN: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G51faf2/seiten/seite-14.png
+GELESEN: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G51faf2/seiten/seite-16.png
+GELESEN: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G51faf2/seiten/seite-17.png
+GELESEN: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G51faf2/seiten/seite-19.png
+GELESEN: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G51faf2/seiten/seite-20.png
+GELESEN: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G51faf2/e2_t4/hr/p6-06.png
+GELESEN: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G51faf2/e2_t4/hr/p16-16.png
+GELESEN: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G51faf2/e2_t4/hr/p24-24.png
+GELESEN: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G51faf2/e2_t4/hr/p25-25.png
+GELESEN: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G51faf2/e2_t4/hr/p26-26.png
+GELESEN: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G51faf2/e2_t4/hr/p27-27.png
+GESCHRIEBEN: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G51faf2/e2_t4/m1.py (Hilfsskript Farbprofil)
+GESCHRIEBEN: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G51faf2/e2_t4/einstufung.md
+URL (WebSearch): Anfrage "Evans Forster Goddard 1997 Permeability of fault-related rocks implications for hydraulic structure of fault zones abstract protolith decline confining pressure"
+URL (WebFetch): https://digitalcommons.usu.edu/geology_facpub/34

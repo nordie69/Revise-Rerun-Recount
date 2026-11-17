@@ -1,0 +1,54 @@
+GELESEN: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G355a0f/e2_t2/auftrag_EK.txt
+GELESEN: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G355a0f/teil2.md
+GELESEN: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G355a0f/text.json
+GELESEN: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G355a0f/seiten/seite-02.png
+GELESEN: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G355a0f/seiten/seite-04.png
+GELESEN: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G355a0f/seiten/seite-05.png
+GELESEN: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G355a0f/seiten/seite-06.png
+GELESEN: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G355a0f/seiten/seite-08.png
+GELESEN: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G355a0f/seiten/seite-10.png
+GESCHRIEBEN/GELESEN (Hilfsdatei): /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G355a0f/e2_t2/c_fig1box.png
+GESCHRIEBEN/GELESEN (Hilfsdatei): /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G355a0f/e2_t2/c_fig1glob.png
+GESCHRIEBEN/GELESEN (Hilfsdatei): /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G355a0f/e2_t2/c_fig2a.png
+GESCHRIEBEN/GELESEN (Hilfsdatei): /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G355a0f/e2_t2/c_fig2b.png
+GELESEN: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G355a0f/seiten/seite-14.png
+GELESEN: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G355a0f/seiten/seite-17.png
+GELESEN: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G355a0f/seiten/seite-18.png
+GELESEN: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G355a0f/seiten/seite-19.png
+GELESEN: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G355a0f/seiten/seite-21.png
+GELESEN: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G355a0f/seiten/seite-23.png
+GELESEN: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G355a0f/seiten/seite-28.png
+GELESEN (nur Pixelmessung per Python): /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G355a0f/seiten/seite-26.png
+GELESEN (nur Pixelmessung per Python): /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G355a0f/seiten/seite-27.png
+GELESEN (nur Pixelmessung per Python): /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G355a0f/seiten/seite-29.png
+GESCHRIEBEN/GELESEN (Hilfsdatei): /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G355a0f/e2_t2/c_p5l102.png
+GESCHRIEBEN/GELESEN (Hilfsdatei): /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G355a0f/e2_t2/c_fig2c_leg.png
+GESCHRIEBEN/GELESEN (Hilfsdatei): /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G355a0f/e2_t2/c_fig1input.png
+GESCHRIEBEN: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G355a0f/e2_t2/einstufung.md
+GESCHRIEBEN: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G355a0f/e2_t2/zugriff_EK.txt
+WEBSEARCH: Lin Wang Xie Cheng Deng 2022 Multiscale effects fracturing fragmentation rock blocks rock avalanche propagation NHESS
+WEBSEARCH: Ge Tang Li 2021 "Mechanical energy evolution in the propagation of rock avalanches using field survey and numerical simulation" Landslides
+WEBSEARCH: Gao Meguid Chouinard Xu "Insights into the transport and fragmentation characteristics of earthquake-induced rock avalanche" Tangjia
+WEBSEARCH: Jaboyedoff Chigira Arai Derron Rudaz Tsou 2019 Testing a failure surface prediction and deposit reconstruction method Typhoon Talas Earth Surface Dynamics
+WEBSEARCH: Zhao Crosta Utili De Blasio 2017 "Investigation of rock fragmentation during rockfalls and rock avalanches via 3-D discrete element analyses"
+WEBSEARCH: von Wartburg Ivy-Ochs Aaron 2020 Molveno landslide "contour lines" pre-failure topography Dan3D Frontiers Earth Science
+WEBSEARCH: De Pedrini Ambrosi Scapozza 2022 1513 Monte Crenone rock avalanche numerical model geomorphological analysis Geographica Helvetica
+WEBSEARCH: van Herwijnen Schweizer 2011 "Monitoring avalanche activity using a seismic sensor" Cold Regions Science and Technology
+WEBSEARCH: "The Mogangling giant landslide triggered by the 1786 Moxi M 7.75 earthquake" Zhao Natural Hazards volume
+WEBSEARCH: He Wang Zhao 2023 "Seismic response of an irregular slope containing surficial weak layer and internal fractures in Dadu River" Mogangling
+WEBFETCH (abgelehnt, nicht abgerufen): https://doi.org/10.5194/nhess-22-639-2022
+WEBFETCH: https://nhess.copernicus.org/articles/22/639/2022/
+WEBFETCH: https://link.springer.com/article/10.1007/s10346-021-01750-1
+WEBFETCH (fehlgeschlagen): https://www.geogroup.mcgill.ca/Research/Journals/55-Insights into the transport and fragmentation characteristics_Gao-ASCE_IJOG-2020.pdf
+WEBFETCH: https://structurae.de/de/fachliteratur/fachartikel/insights-into-the-transport-and-fragmentation-characteristics-of-earthquake-induced-rock-avalanche-numerical-study
+WEBFETCH: https://ascelibrary.com/doi/10.1061/%28ASCE%29GM.1943-5622.0001800
+WEBFETCH: https://esurf.copernicus.org/articles/7/439/2019/
+WEBFETCH: https://bura.brunel.ac.uk/handle/2438/18045
+WEBFETCH (Weiterleitung, nicht abgerufen): https://frontiersin.org/journals/earth-science/articles/10.3389/feart.2020.00164/text
+WEBFETCH: https://public-pages-files-2025.frontiersin.org/journals/earth-science/articles/10.3389/feart.2020.00164/text
+WEBFETCH: https://www.frontiersin.org/articles/10.3389/feart.2020.00164/pdf
+WEBFETCH: https://gh.copernicus.org/articles/77/21/2022/
+WEBFETCH: https://www.slf.ch/fileadmin/user_upload/WSL/Mitarbeitende/schweizj/vanHerwijnen_Schweizer_Avalanche_activity_seismic_monitoring_CRST_2011.pdf
+WEBFETCH (abgelehnt, nicht abgerufen): https://link.springer.com/article/10.1007/s11069-020-04471-1
+WEBFETCH: https://ideas.repec.org/a/spr/nathaz/v106y2021i1d10.1007_s11069-020-04471-1.html
+WEBFETCH: https://journal.hep.com.cn/jes/EN/1160318253862020026

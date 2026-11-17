@@ -1,0 +1,47 @@
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N69429e/auftrag_VF.txt
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N69429e/ (Verzeichnisliste)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N69429e/seiten/ (Verzeichnisliste)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N69429e/supplement/ (Verzeichnisliste)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N69429e/vf/zugriff_VF.txt
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N69429e/text.json
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N69429e/gutachten.md
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N69429e/supplement/text.json
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N69429e/supplement/fassung.json
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N69429e/vf/zeilen.tsv (geschrieben)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N69429e/vf/skripte/map.py (geschrieben)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N69429e/supplement/seiten/seite-21.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N69429e/egusphere-2025-5046.pdf (gerendert)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N69429e/egusphere-2025-5046-supplement.pdf (gerendert)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N69429e/vf/r/ (geschrieben, Renderings)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N69429e/seiten/seite-04.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N69429e/seiten/seite-05.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N69429e/seiten/seite-08.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N69429e/seiten/seite-24.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N69429e/seiten/seite-26.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N69429e/seiten/seite-27.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N69429e/seiten/seite-28.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N69429e/seiten/seite-29.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N69429e/supplement/seiten/seite-04.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N69429e/supplement/seiten/seite-06.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N69429e/supplement/seiten/seite-08.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N69429e/vf/s1.json (geschrieben)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N69429e/vf/s2.json (geschrieben)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N69429e/vf/items.json (geschrieben)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N69429e/vf/skripte/*.py (geschrieben)
+https://boris.unibe.ch/57917
+https://boris.unibe.ch/37302
+https://epic2-clone.awi.de/38919/1/lambert15grl.pdf
+https://boa.unimib.it/retrieve/e39773b7-1d77-35a3-e053-3a05fe0aac26/Lambert_2021_EPSL_Dust-iron-CO2.pdf
+https://boa.unimib.it/handle/10281/6594
+https://boa.unimib.it/handle/10281/156340
+https://asu.elsevierpure.com/en/publications/downscaling-last-glacial-maximum-climate-over-southern-africa/
+https://pmc.ncbi.nlm.nih.gov/articles/PMC9704702 (erst abgelehnt, dann ueber Suchergebnis gelesen)
+WebSearch: Struve Longman Zander Lamy Winckler Pahnke 2022 Systematic changes in circumpolar dust transport Subantarctic Pacific PNAS
+WebSearch: Aarons 2017 Dust composition changes from Taylor Glacier East Antarctica last glacial-interglacial transition multi-proxy Quaternary Science Reviews
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9704702/ (Weiterleitung)
+https://byrd.osu.edu/sites/default/files/2020-12/Aarons_et_al_QSR_2017.pdf
+https://boa.unimib.it/handle/10281/393168
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N69429e/seiten/seite-16.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N69429e/supplement/seiten/seite-13.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N69429e/vf/r/s17-17.png (gerendert)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N69429e/vf/verifikation.md (geschrieben)

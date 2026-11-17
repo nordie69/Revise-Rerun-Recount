@@ -1,0 +1,105 @@
+gelesen: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N2de8c5/auftrag_VF.txt
+gelesen (Verzeichnisliste): /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N2de8c5/
+gelesen (Verzeichnisliste): /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N2de8c5/seiten/
+geschrieben: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N2de8c5/vf/zugriff_VF.txt
+gelesen: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N2de8c5/gutachten.md
+gelesen: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N2de8c5/text.json
+geschrieben: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N2de8c5/vf/text.txt
+gelesen: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N2de8c5/egusphere-2025-4733.pdf
+geschrieben: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N2de8c5/vf/hr/p12-12.png
+geschrieben: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N2de8c5/vf/hr/p14-14.png
+geschrieben: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N2de8c5/vf/hr/p16-16.png
+geschrieben: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N2de8c5/vf/hr/p17-17.png
+geschrieben: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N2de8c5/vf/hr/p19-19.png
+geschrieben: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N2de8c5/vf/hr/p20-20.png
+geschrieben: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N2de8c5/vf/hr/p21-21.png
+geschrieben: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N2de8c5/vf/hr/p22-22.png
+geschrieben: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N2de8c5/vf/hr/p24-24.png
+geschrieben: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N2de8c5/vf/hr/p25-25.png
+geschrieben: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N2de8c5/vf/hr/p26-26.png
+geschrieben: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N2de8c5/vf/hr/p27-27.png
+geschrieben: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N2de8c5/vf/hr/p4-04.png
+geschrieben: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N2de8c5/vf/hr/p6-06.png
+geschrieben: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N2de8c5/vf/hr/p8-08.png
+geschrieben: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N2de8c5/vf/hr/p9-09.png
+gelesen: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N2de8c5/seiten/seite-01.png
+gelesen: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N2de8c5/seiten/seite-02.png
+gelesen: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N2de8c5/seiten/seite-03.png
+gelesen: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N2de8c5/seiten/seite-04.png
+gelesen: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N2de8c5/seiten/seite-05.png
+gelesen: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N2de8c5/seiten/seite-06.png
+gelesen: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N2de8c5/seiten/seite-07.png
+gelesen: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N2de8c5/seiten/seite-08.png
+gelesen: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N2de8c5/seiten/seite-09.png
+gelesen: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N2de8c5/seiten/seite-10.png
+gelesen: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N2de8c5/seiten/seite-11.png
+gelesen: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N2de8c5/seiten/seite-12.png
+gelesen: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N2de8c5/seiten/seite-13.png
+gelesen: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N2de8c5/seiten/seite-14.png
+gelesen: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N2de8c5/seiten/seite-15.png
+gelesen: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N2de8c5/seiten/seite-16.png
+gelesen: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N2de8c5/seiten/seite-17.png
+gelesen: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N2de8c5/seiten/seite-18.png
+gelesen: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N2de8c5/seiten/seite-19.png
+gelesen: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N2de8c5/seiten/seite-20.png
+gelesen: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N2de8c5/seiten/seite-21.png
+gelesen: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N2de8c5/seiten/seite-22.png
+gelesen: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N2de8c5/seiten/seite-23.png
+gelesen: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N2de8c5/seiten/seite-28.png
+gelesen: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N2de8c5/seiten/seite-29.png
+gelesen: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N2de8c5/seiten/seite-32.png
+geschrieben: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N2de8c5/vf/c_f6k.png
+geschrieben: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N2de8c5/vf/c_f7k.png
+geschrieben: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N2de8c5/vf/prof.py
+geschrieben: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N2de8c5/vf/c_f6k_z.png
+geschrieben: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N2de8c5/vf/c_f7k_z.png
+geschrieben: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N2de8c5/vf/c_f3_bo6.png
+geschrieben: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N2de8c5/vf/calc.py
+gelesen: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N2de8c5/seiten/seite-24.png
+gelesen: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N2de8c5/seiten/seite-25.png
+gelesen: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N2de8c5/seiten/seite-26.png
+gelesen: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N2de8c5/seiten/seite-27.png
+gelesen: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N2de8c5/vf/c_f6k.png
+gelesen: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N2de8c5/vf/c_f7k.png
+gelesen: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N2de8c5/vf/c_f6k_z.png
+gelesen: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N2de8c5/vf/c_f7k_z.png
+gelesen: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N2de8c5/vf/c_f3_bo6.png
+gelesen: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N2de8c5/vf/hr/p4 (300 dpi Rendering, Pixelauswertung)
+gelesen: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N2de8c5/vf/hr/p6 (300 dpi Rendering, Pixelauswertung)
+gelesen: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N2de8c5/vf/hr/p8 (300 dpi Rendering, Pixelauswertung)
+gelesen: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N2de8c5/vf/hr/p14 (300 dpi Rendering, Pixelauswertung)
+gelesen: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N2de8c5/vf/hr/p16 (300 dpi Rendering, Pixelauswertung)
+gelesen: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N2de8c5/vf/text.txt
+WebSearch: Rast Galli Ruh Guillong Madonna 2022 Geology along the Bedretto tunnel Rotondo granite zircon age
+URL (abgelehnt, nicht gelesen): https://doi.org/10.1186/s00015-022-00409-w
+URL (Weiterleitung, nicht gelesen): https://sjg.springeropen.com/counter/pdf/10.1186/s00015-022-00409-w
+URL (abgelehnt, nicht gelesen): https://link.springer.com/content/pdf/10.1186/s00015-022-00409-w.pdf
+URL: https://www.research-collection.ethz.ch/entities/publication/40d52cbd-7620-4cdf-a893-e104ed84368d
+URL (abgelehnt, nicht gelesen): https://sjg.springeropen.com/articles/10.1186/s00015-022-00409-w
+URL: https://sjg.pensoft.net/article_preview.php?id=36774
+WebSearch: Guillot Menot 2009 Paleozoic evolution of the External Crystalline Massifs of the Western Alps abstract
+URL: https://comptes-rendus.academie-sciences.fr/geoscience/articles/10.1016/j.crte.2008.11.010/
+WebSearch: Evans Forster Goddard 1997 Permeability of fault-related rocks abstract
+URL: https://digitalcommons.usu.edu/geology_facpub/34
+WebSearch: Davy Le Goc Darcel Selroos 2023 Scaling of fractured rock flow
+URL: https://comptes-rendus.academie-sciences.fr/geoscience/item/10.5802/crgeos.174.pdf
+WebSearch: Mizrahi 2024 Developing Testing and Communicating Earthquake Forecasts abstract
+URL: https://pubs.usgs.gov/publication/70270090
+WebSearch: Navarro-Rodriguez 2025 Early Earthquake Magnitude Estimation Machine Learning Systematic Review
+URL: https://doaj.org/article/fcffbe44f4ef45949e9818a20b321efc
+WebSearch: Cappa Guglielmi Nussbaum Birkholzer 2018 fault permeability aseismic slip
+URL: https://projets.oca.eu/images/hydroseis/pdf/Cappa_et_al-2018-Geophysical_Research_Letters.pdf
+WebSearch: Evans Moriya Niitsuma 2004 Soultz massive fluid injections abstract (zweimal)
+URL: https://earthref.org/ERR/85980
+URL: https://www.research-collection.ethz.ch/entities/publication/c853094e-73a2-44be-a491-e11fec16534f
+URL: https://bibsonomy.org/bibtex/b8bc00468e60e0c8a6906c3ee4d97dfd
+WebSearch: Brixel et al 2020 Tracking fluid flow in shallow crustal fault zones 1
+URL: https://eos.org/editor-highlights/fluctuating-fluid-flows-in-a-fractured-fault
+WebSearch: Osten et al 2024 multi-method investigation permeability structure (zweimal)
+URL (Zugriff verweigert): https://publica.fraunhofer.de/handle/publica/459679
+URL: https://link.springer.com/article/10.1007/s00767-023-00561-6
+WebSearch: Kneafsey EGS Collab outcomes lessons learned Geothermics 2025
+URL: https://www.osti.gov/pages/biblio/2481285-egs-collab-project-outcomes-lessons-learned-from-hydraulic-fracture-stimulations-crystalline-rock-km-depth
+WebSearch: Luetzenkirchen Loew 2011 Swiss Journal of Geosciences Rotondo granite
+URL: https://sjg.pensoft.net/article_preview.php?id=36219
+geschrieben: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N2de8c5/vf/verifikation.md

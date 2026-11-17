@@ -1,0 +1,38 @@
+| Gruppe | Urteil | Begründung (ein Satz mit Seite und Zeile) |
+|---|---|---|
+| BG-109 | zutreffend | Auf S. 10, Z. 325 steht laut Seitenbild "input -down to 33%-" mit Bindestrichen als Einschubzeichen, was typografisch fehlerhaft ist. |
+| BG-110 | zutreffend | S. 10, Z. 327 mischt Halbgeviertstrich vor "i.e." und Bindestrich nach "here" als Einschubzeichen und lässt das Komma nach "respectively" fehlen; die Einzelbefunde unterscheiden sich nur in der Umformulierung. |
+| BG-111 | zutreffend | DS ist bereits auf S. 4, Z. 129 ("39 dust sources, DS") eingeführt und wird auf S. 10, Z. 329 als "Dust Source (DS)" erneut definiert. |
+| BG-112 | zutreffend | Abschnitt 4.2 (ab S. 8, Z. 24 der Einlesedatei) erwähnt McMurdo nicht, die McMurdo-Quellen stehen in Abschnitt 2 auf S. 4, Z. 132 bis 133, der Verweis auf S. 10, Z. 329 bis 330 ist also falsch. |
+| BG-113 | zutreffend | S. 10, Z. 331 schreibt "East Antarctic Plateau" ohne Abkürzung, S. 13, Z. 427 verwendet "at the interior of EAP" ohne Definition und mit unidiomatischer Präposition. |
+| BG-114 | zutreffend | S. 10, Z. 335 bis 336 ("during the ACR, YD reaching") fehlt die Konjunktion, und Z. 338 ("centered ~9 kyrs BP") weicht von der sonst verwendeten Einheit "kyr" ab und hat keine Präposition. |
+| BG-115 | zutreffend | Auf S. 10, Z. 335 bis 336 steht "during the ACR, YD reaching minimum values", die Aufzählung ist ohne "and" und ohne Komma vor dem Partizip grammatisch unvollständig. |
+| BG-116 | zutreffend | S. 6, Z. 187 definiert nur Early Holocene (11,7 bis 7,5 kyr BP) und Late Holocene, während S. 10, Z. 336 bis 337 das Intervall 10 bis 6 kyr BP als "mid Holocene" bezeichnet, das größtenteils ins selbst definierte Frühholozän fällt. |
+| BG-117 | zutreffend | S. 10, Z. 338 schreibt "centered ~9 kyrs BP", die Einheit lautet im übrigen Text "kyr"; zwei Einzelbefunde ändern nur die Einheit ohne "at", der Kern ist gleich. |
+| BG-118 | zutreffend | S. 10, Z. 338 bis 340 behauptet "matching well" mit Potrok Aike, ohne Maß, gemeinsame Zeitachse oder Altersunsicherheit, und Figure 5 (S. 29) zeigt für den PAT-Abfall bei 6 bis 6,5 kyr keine Entsprechung im MDF-Verlauf, womit Ziel 3 (S. 3, Z. 94 bis 95) nur durch Augenschein beantwortet wird; die digitalisierten Korrelationswerte eines Einzelbefunds habe ich nicht nachgerechnet. |
+| BG-119 | zutreffend | S. 10, Z. 339 bis 340 und S. 11, Z. 348 bis 349 nennen "Potrok Aike bog", während die Legende auf S. 29, Z. 881 bis 882 und der Titel der Quelle (S. 19, Z. 690 bis 692) "lacustrine sediments of Laguna Potrok Aike" angeben. |
+| BG-120 | zutreffend | Alle drei Punkte auf S. 10, Z. 339 bis 341 bestehen ("is matching well", "Potrok Aike bog", "South Westerlies Winds (SWW)"), wobei die Archivbezeichnung und die Windbezeichnung sachliche Fehler sind und nur die Verbform stilistisch ist. |
+| BG-121 | Ansichtssache | "is matching well with" auf S. 10, Z. 339 steht so im Text, die Verlaufsform ist ungewöhnlich, aber nicht falsch, die Änderung ist eine Stilfrage. |
+| BG-122 | zutreffend | SWW wird auf S. 10, Z. 339 verwendet und erst in Z. 340 bis 341 als "South Westerlies Winds (SWW)" definiert. |
+| BG-123 | zutreffend | Figure 5 wird auf S. 10, Z. 340 zuerst zitiert, Figure 4 erst auf S. 12, Z. 405, die Nummerierung folgt also nicht der Reihenfolge der Erstnennung; Nebenpunkte einzelner Befunde (Table S4, S5) gehören nicht zum Kern. |
+| BG-124 | zutreffend | S. 10, Z. 340 bis 341 schreibt "South Westerlies Winds" mit doppeltem Plural, üblich und in der zitierten Literatur (S. 18, Z. 7; S. 20, Z. 8) ist "Southern Westerlies"; ein Einzelbefund schlägt nur "the SWW" vor, der Kern ist derselbe. |
+| BG-125 | zutreffend | In der Klammer auf S. 10, Z. 341 steht "Moreno et al. (2010);" als narrative Zitierform zwischen parenthetischen Belegen. |
+| BG-126 | zutreffend | S. 10, Z. 342 bis 343 schreibt "Quake and Kaplan, 2017", der Eintrag auf S. 20, Z. 755 und S. 11, Z. 349 lauten "Quade". |
+| BG-127 | zutreffend | S. 10, Z. 346 lautet "Fires co-emit mineral soil-dust particle", der Singular ohne Artikel ist grammatisch falsch. |
+| BG-128 | zutreffend | S. 11, Z. 348 bis 349 nennt "Potrok Aike bog 52°S", die Legende auf S. 29, Z. 881 bis 882 beschreibt Seesedimente der Laguna Potrok Aike. |
+| BG-129 | Ansichtssache | "S-E Patagonia" auf S. 11, Z. 348 steht so im Text, ob ausgeschrieben werden muss, ist eine Frage der Stilvorgaben. |
+| BG-130 | zutreffend | S. 11, Z. 350 bis 351 sagt, der PAT-Abfall bei 6 bis 6,5 kyr BP sei auch im Potrok-Aike-Windarchiv vorhanden, in Figure 5B (S. 29) verläuft die MDF-Kurve zwischen etwa 0,6 und 0,65 auf der Zeitachse jedoch flach ohne Ausschlag zu höheren MDF-Werten. |
+| BG-131 | Ansichtssache | "had its prime time" auf S. 11, Z. 353 ist umgangssprachlich, ob es ersetzt werden muss, hängt vom Stilempfinden ab. |
+| BG-132 | zutreffend | Der Kongruenzfehler "Dust emission from PAP are" auf S. 11, Z. 354 besteht, während "had its prime time" in Z. 353 nur stilistisch ist. |
+| BG-133 | zutreffend | S. 11, Z. 354 lautet "Dust emission from PAP are", Subjekt und Verb stimmen nicht überein; ein Einzelbefund korrigiert das Verb statt des Nomens, der Kern ist gleich. |
+| BG-134 | zutreffend | Table S1 (Suppl. S. 12) gibt Altiplano 100,0 % bei 8629 yr und 75,7 % bei 9957 yr, Suppl. S. 13 97,0 % bei 11228 yr, während der Altiplano-Panel von Figure S3 (Suppl. S. 6) dort nur niedrige Werte zeigt und sein Maximum von rund 66 % bei etwa 6,4 kyr liegt, worauf sich S. 11, Z. 355 bis 360 stützt. |
+| BG-135 | Ansichtssache | "(i.e., North Puna does not contribute)" auf S. 11, Z. 356 ist als erläuternder Einschub vertretbar, die Streichung von "i.e." ist eine Stilfrage. |
+| BG-136 | zutreffend | Table S1 (Suppl. S. 13) zeigt in beiden YD-Zeilen 12841 Altiplano 16,6 % und 12,8 %, und Figure S3 zeigt Altiplano-Werte vor 11,2 kyr, was der Aussage auf S. 11, Z. 357 bis 358 "only after approximately 11.2 kyr BP" widerspricht, auf der die Coipasa-Verknüpfung in Z. 358 bis 360 beruht. |
+| BG-137 | zutreffend | Das Seitenbild von S. 11, Z. 365 zeigt "(Gili et al., 2016) ." mit Leerzeichen vor dem Punkt. |
+| BG-138 | zutreffend | Gili et al. 2016 (S. 11, Z. 365) hat keinen Eintrag, ebenso wenig die im Supplement zitierten Marx et al. 2005, McGowan et al. 2005, Marx and Kamber 2010, Diaz et al. 2018 (Table S2, Suppl. S. 17 bis 19) sowie Aarons et al. 2017 und Bory et al. 2010 (Table S4, Suppl. S. 21), und das Supplement hat kein eigenes Verzeichnis; der Vallelonga-Punkt eines Einzelbefunds weicht vom Kern ab. |
+| BG-139 | zutreffend | Das Verzeichnis führt Gili et al. nur für 2017 und 2022 (S. 18), und der Eintrag Gaiero, Brunet, Probst und Depetris 2007 (S. 18, Z. 630 bis 632) wird im Text nirgends als "Gaiero et al., 2007" zitiert. |
+| BG-140 | zutreffend | S. 11, Z. 366 lautet "As far as Australian dust contribution, our model", die Wendung ist ohne "is concerned" und Artikel unvollständig. |
+| BG-141 | zutreffend | Beide Punkte bestehen: S. 11, Z. 366 ist unvollständig formuliert, und Z. 367 schreibt "De Deccker", der Eintrag auf S. 17, Z. 557 lautet "De Deckker". |
+| BG-142 | Ansichtssache | S. 11, Z. 366 schreibt "Darling sub-basin", Z. 371 und Table S2 "Darling Basin"; als Teilbecken des Murray-Darling-Systems ist der Ausdruck fachlich vertretbar, die Vereinheitlichung ist eine Stilfrage. |
+| BG-143 | zutreffend | S. 11, Z. 367 schreibt "De Deccker et al. (2010)", der Eintrag auf S. 17, Z. 557 lautet "De Deckker, P., Norman, M., ..., 2010". |
+| BG-144 | zutreffend | Neben S. 11, Z. 367 steht auch auf S. 13, Z. 439 "De Deccker et al., 2019", während der Eintrag auf S. 17 "De Deckker, P., 2019" mit nur einem Autor lautet. |

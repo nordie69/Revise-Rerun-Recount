@@ -1,0 +1,42 @@
+| Gruppe | Urteil | Begründung (ein Satz mit Seite und Zeile) |
+|---|---|---|
+| BG-161 | zutreffend | Seite 17, Zeile 526 steht "Reviews in mineralogy, Mineralogical society of America", der Gesellschaftsname ist damit falsch klein geschrieben. |
+| BG-162 | zutreffend | Seite 18, Zeile 567 steht "oCLC: 1402659188" statt "OCLC". |
+| BG-163 | zutreffend | Seite 19, Zeile 578 steht "[No title found]" als Titel; der Titel der Arbeit unter DOI 10.1007/s00027-002-8060-2 lautet laut Publikationsnachweis "Landscape indicators of human impacts to riverine systems". |
+| BG-164 | zutreffend | Seite 19, Zeile 583 nennt für Gjems (1967) nur Autor, Titel und Jahr, ohne Reihe, Band, Seiten oder Verlag, anders als die übrigen Einträge. |
+| BG-165 | zutreffend | Seite 19, Zeile 599 bis 600 steht "Yang, Y." und kein "in:", während der Verlagsnachweis und rruff.info "Yang, H." (Hexiong Yang) und einen Sammelband mit Herausgebern nennen. |
+| BG-166 | zutreffend | Seite 20, Zeile 612 steht "New-York" mit Bindestrich; die Einzelbefunde weichen nur im Nebenpunkt Seitenangabe ab, die im Eintrag tatsächlich "378 bis 379" lautet (Zeile 613), nicht "378". |
+| BG-167 | Ansichtssache | Seite 20, Zeile 635 stehen tatsächlich zwei ISBN (Druck und E-Book) nur durch Leerzeichen getrennt; ob ein Eintrag eine oder zwei ISBN führt, ist Stilfrage, allenfalls das fehlende Trennzeichen ist ein Formfehler. |
+| BG-168 | zutreffend | Seite 20, Zeile 639 hängt die hochgestellte 137 am Wort "fallout" und vor "Cs" steht ein Leerzeichen ("Bomb-fallout¹³⁷ Cs"). |
+| BG-169 | Ansichtssache | Seite 22 bis 24 (Fig. 1b, 2b, 3b, 2c, 1d): Pfeilspitze, schwarze Balken in Fig. 2b, graue Zylindersegmente und nur eine Farbrampe in Fig. 2c sind ohne Legende, doch bei rein schematischen Abbildungen mit verständlichem Ablauf ist der Erklärungsbedarf eine Ermessensfrage. |
+| BG-170 | zutreffend | Seite 24, Fig. 3c, Legende steht "quarz pattern alignment", im Text Seite 9, Zeile 256 "quartz". |
+| BG-171 | zutreffend | Seite 25, Bildunterschrift Fig. 4 lautet nur "Study area: location, land cover and geology.", und "ELA estimation" der Einsatzlegende wird im ganzen Text nicht aufgelöst (Textsuche "ELA", "equilibrium": 0 Treffer). |
+| BG-172 | zutreffend | Seite 25, Credit-Block Fig. 4 nennt SwissTopo 2018, GeoCover und eine persönliche Mitteilung, die im Literaturverzeichnis (Seite 17 bis 21) fehlen und weder Seite 9, Zeile 270 bis 272 noch die Verfügbarkeitserklärung Seite 16, Zeile 490 erwähnen. |
+| BG-173 | zutreffend | Seite 25 und 33, Legenden Fig. 4 und 12 enthalten am Seitenbild "caclcite-zoisite", "schits", "silimanite", "calcarious", "GornergratPermo-Mesozoic" sowie "epidotamphibolites", "garnetamphibolites". |
+| BG-174 | zutreffend | Seite 25, Legende Fig. 4 (in Fig. 12 identisch): gemessen Stockhorn #ff7333, Stockhorn-Aufschlüsse #fd3333, Monte-Rosa-Gneis-Aufschlüsse #ff5933, RGB-Abstandssummen 26 und 40, auf der schattierten Karte praktisch nicht unterscheidbar. |
+| BG-175 | zutreffend | Seite 25, 26, 36, 37: "ELA", "S.,T.,G.", "MR", "ZSF" und "JS" werden in keiner Bildunterschrift oder Legende aufgelöst, ELA nirgends, ZSF und MR erst Seite 14, Zeile 431 bis 432; Einzelbefund Bd14f3 irrt mit der Angabe, Fig. 11 löse ZSF auf. |
+| BG-176 | Ansichtssache | Seite 25, 32, 35 bis 37: die Bildunterschriften zählen tatsächlich nur Teilbilder auf, aber wie ausführlich eine Bildunterschrift sein soll, ist Ermessen; der abweichende Nebenpunkt in Bcf7cf zu den markierten Werten in Fig. 10 (Seite 31) ist ein eigener Gegenstand. |
+| BG-177 | zutreffend | Seite 26 bis 27, Fig. 5a bis c, e und 6a bis c, e: Farbbalken ohne Größe und Einheit, Fehlerachsen ohne Einheit, Fig. 6g bis i ohne x-Achsentitel; Fig. 11 (Seite 32) ohne Werteachse, Fig. 13 (Seite 34) oberes Teilbild ohne Dichteskala. |
+| BG-178 | zutreffend | Seite 26, Fig. 5b und Seite 35 bis 37, Fig. 14 bis 16 zeigen schraffierte "Low-confidence areas", ein Kriterium steht weder in Text noch Bildunterschriften (Textsuche "confiden", "hatch": 0 Treffer), in Fig. 6 (Seite 27) fehlt die Beschriftung; die Weiterungen zur Lage über den Peaks gehen über den gemeinsamen Kern hinaus. |
+| BG-179 | zutreffend | Seite 36, Fig. 15 gemessen: Balken sind die Legendenfarben mit etwa 70 % Deckkraft, der S.,T.,G.-Balken #ff844d liegt mit Abstand 17 beim Feld "MR gneiss, mica" (#ff7f41), der MR-Gneis-Balken #ffa57a mit 47 beim Feld "MR granite". |
+| BG-180 | zutreffend | Seite 27, Fig. 6g und 6h ohne x-Achsentitel, Fig. 6i ohne Achsentitel, ohne Exponent und ohne Farbbalkentitel, und das Schraffurfeld unter Teilbild b ohne Text, anders als Fig. 5 (Seite 26). |
+| BG-181 | Ansichtssache | Seite 27, Bildunterschrift Fig. 6 schreibt "Steepest-Descent (SD)", doch der Text selbst schreibt Seite 7, Zeile 210 "Steepest Descent (SD)" groß und erst Seite 11, Zeile 309 bis 312 klein, sodass die Bezugsstelle "as in l. 210" nicht stimmt und die Großschreibung eine Stilfrage bleibt. |
+| BG-182 | zutreffend | Seite 29, Bildunterschrift Fig. 8 lautet "then the half-way in between source signatures", was grammatisch fehlerhaft ist. |
+| BG-183 | zutreffend | Seite 30, Fig. 9 Farbbalkentitel lautet "Number of tracrs". |
+| BG-184 | zutreffend | Seite 30, Fig. 9, linkes Streudiagramm zeigt unter dem y-Achsentitel ein zweites, einzelnes Summenzeichen. |
+| BG-185 | zutreffend | Seite 31, Fig. 10 erste Zeile, x-Achse der mittleren Spalte und Farbbalken der dritten Spalte lauten "Smooting distance (m)". |
+| BG-186 | zutreffend | Seite 31, Fig. 10 fünfte Zeile, dritte Spalte steht "n_m = 25" mit Unterstrich statt tiefgestelltem m wie in der Bildunterschrift. |
+| BG-187 | zutreffend | Seite 31, Fig. 10: Wortboxen der Vektorschrift messen 4,8 pt (242 Teilstrichzahlen) und 5,6 pt (62 Achsentitel) gegen 10,8 pt der Bildunterschrift, also Schrift deutlich unter 6 pt. |
+| BG-188 | zutreffend | Seite 31, Fig. 10 liegt mit 4,8 bis 5,6 pt Boxhöhe klar unter 6 pt, Fig. 14 bis 16 (Seite 35 bis 37) mit 5,8 bis 6,1 pt Boxhöhe knapp darunter; der Kern liegt bei Fig. 10, die übrigen Unterschreitungen sind gering. |
+| BG-189 | zutreffend | Seite 32, Bildunterschrift Fig. 11 enthält "Stockhorn-Turftgrat-Gornergrat" und "ecologites". |
+| BG-190 | zutreffend | Seite 32, Fig. 11 hat sieben Balkenspalten ohne Werteachse, Teilstriche oder Spaltenköpfe; die Zuordnung folgt nur aus der Reihenfolge der Bildunterschrift. |
+| BG-191 | zutreffend | Seite 32 und 36: Quarz ist in Fig. 11 bei vier Einheiten gleich lang (je 244 px, Anteil 0,209), in Fig. 15 aber 0,176, 0,229, 0,324 und 0,214, sodass Fig. 15 nicht aus Fig. 11 mit der Normierung von Seite 9, Zeile 260 bis 262 folgt. |
+| BG-192 | zutreffend | Seite 33, Fig. 12 zeigt das ganze Einzugsgebiet mit teils blassen Farben und ohne Grenzlinie des Teileinzugsgebiets, die nur im Einsatz von Fig. 13 (Seite 34) gestrichelt erscheint; die Vermutung zum ZSF-Sedimentstreifen (B1c4c0) geht über den Kern hinaus. |
+| BG-193 | zutreffend | Seite 34, Fig. 13 oberes Teilbild hat die Achse "Density" ohne Werte, während die Bildunterschrift Peakhöhen als Konsistenz deutet. |
+| BG-194 | Ansichtssache | Seite 34, Einsatz Fig. 13 sagt "Gorner-Grenz catchment", Text Seite 14, Zeile 411 "subcatchment"; da es das Einzugsgebiet des Zusammenflusses ist, ist die Bezeichnung nicht falsch, sondern eine Frage einheitlicher Wortwahl. |
+| BG-195 | zutreffend | Seite 34, Fig. 13 zeigen die KDE-Beschriftungen sichtbare Sperrungen "Monte R osa", "ZS F", "S tockhorn". |
+| BG-196 | zutreffend | Seite 35 und 37: Bildunterschrift Fig. 14, y-Achse "per Zr age bin" und Titel Fig. 16 verwenden das Elementsymbol "Zr" für das Mineral Zirkon, während derselbe Titel in Fig. 14 und der Text "zircon" schreiben. |
+| BG-197 | zutreffend | Seite 35 bis 37, Legende unter der Erosionskarte von Fig. 14 bis 16 lautet "Low-con dence area" mit fehlender fi-Ligatur. |
+| BG-198 | zutreffend | Seite 35, Fig. 14 hat für Geologiekarte und Balken keine Legende, und in Fig. 15 und 16 (Seite 36, 37) überdeckt das Feld "ZSF metabasites" den Text "ZSF serpentinites", in Fig. 16 ist die oberste Legendenzeile abgeschnitten. |
+| BG-199 | zutreffend | Seite 36 und 37, Legende Fig. 15 und 16: das Farbfeld "ZSF metabasites" schneidet das Ende von "ZSF serpentinites" ab, in Fig. 16 ist zusätzlich die obere Zeile angeschnitten. |
+| BG-200 | zutreffend | Seite 36, Fig. 15, y-Achse lautet "Normalised abundance per mineral or age", obwohl das Teilbild nur 21 Minerale und keine Altersklassen zeigt. |

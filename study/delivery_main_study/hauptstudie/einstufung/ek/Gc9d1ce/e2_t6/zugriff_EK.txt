@@ -1,0 +1,27 @@
+Basis: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/Gc9d1ce
+
+GELESEN
+- e2_t6/auftrag_EK.txt
+- teil6.md
+- text.json
+- supplement/text.json
+- seiten/seite-24.png, seite-26.png, seite-27.png, seite-28.png, seite-29.png (Bildgrößen auch von seite-20.png)
+- supplement/seiten/seite-02.png (nur Bildgröße), seite-04.png, seite-08.png
+- egusphere-2025-5046.pdf (pdfinfo, pdftoppm alle Seiten 300 dpi)
+- egusphere-2025-5046-supplement.pdf (pdfinfo, pdfimages -list Seiten 1 bis 4, pdftoppm Seiten 2 bis 10 300 dpi)
+- Verzeichnislisten (ls): e2_t6/, supplement/, seiten/, supplement/seiten/ sowie einmal versehentlich die Namensliste des Ordners Gc9d1ce/ selbst (nur Dateinamen angezeigt, keine der verbotenen Dateien oder Ordner geöffnet)
+
+GESCHRIEBEN (alle in e2_t6/)
+- g.py, crop.py, h.py, hl.py, s1.py, s1.npy (Hilfsdateien)
+- hi-01.png bis hi-29.png (Manuskriptseiten 300 dpi)
+- sup-02.png bis sup-10.png (Supplementseiten 300 dpi)
+- c_p16.png, c_p20.png, c1.png, c2.png (Ausschnitte)
+- einstufung.md
+- zugriff_EK.txt
+
+URLS
+- WebSearch: Caldenius 1932 "Las glaciaciones cuaternarias en la Patagonia y Tierra del Fuego" Geografiska Annaler
+- WebSearch: Shi Krom Bonneville 2011 "Influence of chemical weathering and aging of iron oxides" Global Biogeochemical Cycles 25 GB2010
+- WebSearch: Parrenin 2007 "The EDC3 chronology for the EPICA Dome C ice core" Climate of the Past 3 485-497
+- WebFetch: https://ueaeprints.uea.ac.uk/id/eprint/36944/
+- WebFetch: https://pubs.usgs.gov/pp/p1386i/chile-arg/wet/past.html

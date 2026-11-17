@@ -1,0 +1,57 @@
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N1dd881/auftrag_VF.txt
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N1dd881/gutachten.md
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N1dd881/text.json
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N1dd881/supplement/text.json
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N1dd881/supplement/fassung.json
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N1dd881/egusphere-2025-5046.pdf
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N1dd881/vf/ms_layout.txt
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N1dd881/vf/skripte/nummer.py
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N1dd881/vf/ms_num.txt
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N1dd881/egusphere-2025-5046-supplement.pdf
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N1dd881/vf/sup_layout.txt
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N1dd881/vf/skripte/s1.py
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N1dd881/vf/s1.json
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N1dd881/vf/skripte/s2.py
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N1dd881/vf/s2.json
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N1dd881/vf/skripte/a1.py
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N1dd881/vf/skripte/a2.py
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N1dd881/vf/r300/ (p-24..p-29.png)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N1dd881/vf/skripte/crop.py
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N1dd881/vf/skripte/a3.py
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N1dd881/vf/r300/q-16.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N1dd881/seiten/seite-04.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N1dd881/seiten/seite-05.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N1dd881/seiten/seite-08.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N1dd881/seiten/seite-24.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N1dd881/seiten/seite-26.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N1dd881/seiten/seite-27.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N1dd881/seiten/seite-28.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N1dd881/seiten/seite-29.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N1dd881/supplement/seiten/seite-05.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N1dd881/supplement/seiten/seite-06.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N1dd881/supplement/seiten/seite-10.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N1dd881/supplement/seiten/seite-11.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N1dd881/supplement/seiten/seite-21.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N1dd881/vf/c_f1leg.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N1dd881/vf/c_f2leg.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N1dd881/vf/c_f3.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N1dd881/vf/c_f3b.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N1dd881/vf/c_f3c.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N1dd881/vf/c_f4.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N1dd881/vf/c_f5.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N1dd881/vf/c_f5b.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N1dd881/vf/c_p16.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N1dd881/vf/c_p16b.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N1dd881/vf/verifikation.md
+https://cp.copernicus.org/articles/18/67/2022/
+WebSearch: Davies 2020 PATICE abstract maximum extent
+https://researchportal.port.ac.uk/en/publications/the-evolution-of-the-patagonian-ice-sheet-from-35-ka-to-the-prese/
+https://adam.antarcticanz.govt.nz/nodes/view/63689
+WebSearch: Neff Bertler 2015 trajectory modeling full text
+https://www.marineinfo.org/doc/publication/382930
+WebSearch: Vallelonga 2010 Lead isotopic compositions EPICA Dome C
+https://epic.awi.de/id/eprint/19910/
+https://bpcrc.osu.edu/sites/default/files/2020-12/QSR Vallelonga 2010.pdf
+https://boa.unimib.it/handle/10281/553
+WebSearch: Aarons 2017 Taylor Glacier dust provenance
+https://byrd.osu.edu/sites/default/files/2020-12/Aarons_et_al_QSR_2017.pdf

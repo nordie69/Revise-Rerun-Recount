@@ -1,0 +1,82 @@
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N73bf13/auftrag_VF.txt
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N73bf13/
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N73bf13/seiten/
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N73bf13/supplement/
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N73bf13/vf/
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N73bf13/vf/zugriff_VF.txt
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N73bf13/gutachten.md
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N73bf13/vf/ms.txt
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N73bf13/vf/msn.txt
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N73bf13/vf/supp.txt
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N73bf13/vf/suppn.txt
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N73bf13/egusphere-2025-5046.pdf
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N73bf13/egusphere-2025-5046-supplement.pdf
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/vfscripts/num.py
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N73bf13/text.json
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N73bf13/supplement/fassung.json
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N73bf13/supplement/seiten/seite-10.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/vfscripts/s1.py
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/vfscripts/lib.py
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/vfscripts/quotes.py
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N73bf13/vf/s1.json
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N73bf13/vf/quotes.txt
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N73bf13/seiten/seite-04.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N73bf13/seiten/seite-05.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N73bf13/seiten/seite-08.png
+WebSearch: Gabrielli 2010 A major glacial-interglacial change in aeolian dust composition abstract
+https://bpcrc.osu.edu/sites/default/files/2020-12/QSR Gabrielli 2010.pdf
+https://cp.copernicus.org/articles/8/135/2012/
+WebSearch: Martinez-Garcia 2014 Iron fertilization of the Subantarctic Ocean abstract
+https://boris.unibe.ch/57917
+https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2015GL064250 (not fetched, allowlist)
+WebSearch: Lambert 2015 Dust fluxes and iron fertilization 20 ppm
+https://epic.awi.de/id/eprint/38919/
+https://publications.marum.de/2914
+https://repositorio.uchile.cl/handle/2250/134830
+https://epic2-clone.awi.de/38919/1/lambert15grl.pdf
+WebSearch: Lambert 2021 Regional patterns ocean iron fertilization ppmv
+https://boa.unimib.it/retrieve/e39773b7-1d77-35a3-e053-3a05fe0aac26/Lambert_2021_EPSL_Dust-iron-CO2.pdf
+WebSearch: Longman Struve Pahnke 2022 Spatial and temporal trends mineral dust provenance South Pacific
+https://pmc.ncbi.nlm.nih.gov/articles/PMC9704702
+https://nrl.northumbria.ac.uk/id/eprint/51437
+https://nrl.northumbria.ac.uk/51437/1/Paleoceanog%20and%20Paleoclimatol%20-%202022%20-%20Longman%20-%20Spatial%20and%20Temporal%20Trends%20in%20Mineral%20Dust%20Provenance%20in%20the%20South.pdf
+WebSearch: Lambert 2008 Dust-climate couplings 800,000 years abstract
+https://ideas.repec.org/a/nat/nature/v452y2008i7187d10.1038_nature06763.html
+WebSearch: Delmonte 2008 Aeolian dust in East Antarctica EPICA-Dome C and Vostok abstract
+https://hal-insu.archives-ouvertes.fr/insu-00378332
+https://boa.unimib.it/handle/10281/6594
+WebSearch: Delmonte 2017 Causes of dust size variability Dome B abstract
+https://boa.unimib.it/handle/10281/156340
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/vfscripts/s2.py
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N73bf13/vf/s2.json
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N73bf13/seiten/seite-24.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N73bf13/seiten/seite-26.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N73bf13/seiten/seite-27.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N73bf13/seiten/seite-28.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N73bf13/seiten/seite-29.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N73bf13/supplement/seiten/seite-02.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N73bf13/supplement/seiten/seite-04.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N73bf13/supplement/seiten/seite-06.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N73bf13/supplement/seiten/seite-08.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N73bf13/supplement/seiten/seite-10.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N73bf13/supplement/seiten/seite-21.png
+https://cp.copernicus.org/articles/18/67/2022/
+https://cp.copernicus.org/articles/8/741/2012/
+WebSearch: Davies 2020 PATICE abstract maximum extent
+https://ore.exeter.ac.uk/repository/handle/10871/122637
+WebSearch: Neff Bertler 2015 Trajectory modeling abstract
+https://adam.antarcticanz.govt.nz/nodes/view/63689
+WebSearch: Coppo 2022 Coeval minimum south American abstract
+https://boa.unimib.it/handle/10281/393168
+WebSearch: Vallelonga 2010 Lead isotopic compositions EPICA Dome C
+https://bpcrc.osu.edu/sites/default/files/2020-12/QSR Vallelonga 2010.pdf
+WebSearch: Gili 2016 Provenance of dust to Antarctica lead isotopic perspective
+https://ri.conicet.gov.ar/handle/11336/130678
+WebSearch: Magee 2004 Continuous 150 k.y. monsoon record Lake Eyre abstract
+https://openresearch-repository.anu.edu.au/items/26d833cc-b13b-4873-abea-fabc74be54cb
+https://acp.copernicus.org/articles/21/8169/2021/
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N73bf13/vf/verifikation.md
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/vfscripts/write.py
+WebSearch: PANGAEA.683641 Fischer 2007 EPICA Dome C nssCa flux
+https://doi.pangaea.de/10.1594/PANGAEA.683641 (not fetched, allowlist)
+https://b2find.eudat.eu/dataset/3b467a06-05ad-52aa-a77d-f34672a2b1ec

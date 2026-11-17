@@ -1,0 +1,49 @@
+GELESEN (Dateien)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/Gc9d1ce/e2_t1/auftrag_EK.txt
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/Gc9d1ce/teil1.md
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/Gc9d1ce/text.json
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/Gc9d1ce/seiten/seite-01.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/Gc9d1ce/seiten/seite-02.png (nur Ausschnitt erzeugt)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/Gc9d1ce/supplement/text.json
+Verzeichnislisten: Gc9d1ce/seiten, Gc9d1ce/supplement, Gc9d1ce/supplement/seiten, Gc9d1ce/e2_t1
+
+GESCHRIEBEN (Hilfsdateien und Ausgaben, alle im Ausgabeordner)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/Gc9d1ce/e2_t1/haupt.txt
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/Gc9d1ce/e2_t1/supp.txt
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/Gc9d1ce/e2_t1/s1.py
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/Gc9d1ce/e2_t1/s1.json
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/Gc9d1ce/e2_t1/an.py
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/Gc9d1ce/e2_t1/crop1.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/Gc9d1ce/e2_t1/crop2.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/Gc9d1ce/e2_t1/einstufung.md
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/Gc9d1ce/e2_t1/zugriff_EK.txt
+
+WEBSEARCH (Abfragen)
+Engelbrecht 2019 "Downscaling Last Glacial Maximum climate over southern Africa" abstract
+Lambert 2008 Nature "Dust-climate couplings over the past 800,000 years" abstract sources and lifetime
+Longman Struve Pahnke 2022 "Spatial and temporal trends in mineral dust provenance in the South Pacific" mixing models
+Wegner 2012 Clim. Past "Change in dust variability in the Atlantic sector of Antarctica at the end of the last deglaciation" abstract
+Gabrielli 2010 "A major glacial-interglacial change in aeolian dust composition inferred from Rare Earth Elements in Antarctic ice" abstract 15 kyr
+Delmonte Andersson Hansson Schöberg 2008 "Aeolian dust in East Antarctica (EPICA-Dome C and Vostok): Provenance during glacial ages over the last 800 kyr" pdf
+Siggaard-Andersen 2007 "Soluble and insoluble lithium dust in the EPICA DomeC ice core" provenance glacial-interglacial transition
+Marino 2008 G3 "Defining the geochemical composition of the EPICA Dome C ice core dust during the last glacial-interglacial cycle"
+Aarons 2017 "Dust composition changes from Taylor Glacier (East Antarctica) during the last glacial-interglacial transition: A multi-proxy approach"
+Vallelonga 2010 "Lead isotopic compositions in the EPICA Dome C ice core and Southern Hemisphere Potential Source Areas" abstract
+Vanderstraeten 2023 Science of the Total Environment DEPOT EDML REE patterns quantifying dust sources synthetic mixtures test algorithm (Trefferliste enthielt Seiten von egusphere.copernicus.org und cp.copernicus.org; diese wurden nicht geöffnet)
+Delmonte 2017 "Causes of dust size variability in central East Antarctica (Dome B)" pdf
+
+WEBFETCH (geöffnete URLs)
+https://asu.elsevierpure.com/en/publications/downscaling-last-glacial-maximum-climate-over-southern-africa/
+https://boris.unibe.ch/37302
+https://researchportal.northumbria.ac.uk/en/publications/spatial-and-temporal-trends-in-mineral-dust-provenance-in-the-sou/
+https://boris.unibe.ch/57917
+https://cp.copernicus.org/articles/8/135/2012/ (Wegner et al. 2012, Clim. Past, zitierte Literatur, nicht das begutachtete Manuskript)
+https://boris.unibe.ch/4607
+https://boa.unimib.it/handle/10281/6594
+https://boa.unimib.it/handle/10281/156340
+https://hal-insu.archives-ouvertes.fr/insu-00378332 (Zugriff verweigert)
+https://www.taldice.org/pub/taldice/Delmonte_QSR_2010_EDC_TALDICE.pdf
+https://www.iceandclimate.nbi.ku.dk/publications/papers/abstracts/abstract_10/
+https://researchportalplus.anu.edu.au/en/publications/defining-the-geochemical-composition-of-the-epica-dome-c-ice-core/
+https://marineinfo.org/doc/publication/382930
+https://arpi.unipi.it/handle/11568/857944

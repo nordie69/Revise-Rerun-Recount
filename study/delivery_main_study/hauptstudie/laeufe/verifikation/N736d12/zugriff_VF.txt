@@ -1,0 +1,43 @@
+gelesen: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N736d12/auftrag_VF.txt
+gelesen: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N736d12/ (Verzeichnisliste)
+gelesen: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N736d12/seiten/ (Verzeichnisliste)
+geschrieben: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N736d12/vf/zugriff_VF.txt
+gelesen: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N736d12/gutachten.md
+gelesen: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N736d12/text.json
+geschrieben: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N736d12/vf/text.txt
+geschrieben: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N736d12/vf/skripte/zeilen.py
+geschrieben: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N736d12/vf/zeilen.txt
+gelesen: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N736d12/egusphere-2025-4506.pdf
+geschrieben: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N736d12/vf/r300/ (p-01.png bis p-29.png, 300 dpi)
+geschrieben: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N736d12/vf/layout.txt
+geschrieben: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N736d12/vf/skripte/fig2c.py
+geschrieben: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N736d12/vf/crop_scale.png
+geschrieben: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N736d12/vf/crop_fig2c.png
+geschrieben: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N736d12/vf/crop_a2.png
+geschrieben: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N736d12/vf/crop_f5b.png
+geschrieben: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N736d12/vf/skripte/rotpunkte.py
+geschrieben: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N736d12/vf/skripte/fig8.py
+geschrieben: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N736d12/vf/skripte/ziffern.py
+geschrieben: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N736d12/vf/skripte/hoehe.py
+gelesen: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N736d12/seiten/seite-01.png, seite-02.png, seite-05.png, seite-06.png, seite-07.png, seite-08.png, seite-09.png, seite-10.png, seite-11.png, seite-12.png, seite-13.png, seite-14.png, seite-17.png, seite-18.png, seite-19.png, seite-20.png, seite-21.png, seite-22.png, seite-23.png, seite-24.png, seite-25.png
+gelesen: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N736d12/vf/crop_scale.png, /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N736d12/vf/crop_fig2c.png, /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N736d12/vf/crop_a2.png, /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N736d12/vf/crop_f5b.png
+URL (WebSearch): Carpignano Golia Di Mauro Bouchon Nordvik methodological approach definition multi-risk maps regional level first application Journal of Risk Research 2009
+URL: https://ideas.repec.org/a/taf/jriskr/v12y2009i3-4p513-534.html
+URL (WebSearch): Song Wang Liu Huang "Landslide Deformation Prediction by Numerical Simulation in the Three Gorges" abstract
+URL (WebFetch, abgelehnt): https://link.springer.com/chapter/10.1007/978-3-319-53483-1_36
+URL (WebSearch): "Landslide Deformation Prediction by Numerical Simulation in the Three Gorges, China" Advancing Culture of Living with Landslides 2017
+URL (WebFetch, abgelehnt): https://doi.org/10.1007/978-3-319-53483-1_36
+URL (WebSearch): Song Kun Wang Fawu Three Gorges landslide deformation prediction numerical simulation GPS WLF4 2017 chapter
+URL (WebSearch, extended): "Landslide Deformation Prediction by Numerical Simulation" Song Wang Liu Huang
+URL (WebSearch): Ge Tang Li "Mechanical energy evolution in the propagation of rock avalanches using field survey and numerical simulation" Landslides 2021 abstract (Treffer auf egusphere/nhess nicht geoeffnet)
+URL (WebSearch, egusphere und nhess gesperrt): "Mechanical energy evolution in the propagation of rock avalanches" Ge Landslides 18 3559
+URL: https://link.springer.com/article/10.1007/s10346-021-01750-1
+URL: https://esurf.copernicus.org/articles/7/439/2019/
+URL (WebSearch): Zhao Crosta Utili De Blasio "Investigation of rock fragmentation during rockfalls and rock avalanches via 3-D discrete element analyses" 2017
+URL: https://bura.brunel.ac.uk/handle/2438/18045?mode=full
+geschrieben: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N736d12/vf/skripte/rechnung.py
+geschrieben: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N736d12/vf/crop_f10a.png
+geschrieben: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N736d12/vf/verifikation.md
+gelesen: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N736d12/vf/verifikation.md (Pruefung)
+gelesen (per Skript): /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N736d12/vf/r300/p-06.png, p-12.png, p-20.png, p-21.png, p-23.png, p-24.png, p-25.png
+gelesen: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N736d12/vf/text.txt, /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N736d12/vf/zeilen.txt, /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N736d12/vf/layout.txt, /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N736d12/vf/crop_f10a.png

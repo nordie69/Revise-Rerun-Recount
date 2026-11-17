@@ -1,0 +1,38 @@
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N57872e/auftrag_VF.txt
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N57872e/
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N57872e/seiten/
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N57872e/gutachten.md
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N57872e/text.json
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N57872e/egusphere-2025-4506.pdf
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N57872e/vf/layout.txt
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N57872e/vf/nummeriert.txt
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N57872e/vf/skripte/nummer.py
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N57872e/vf/bilder/ (300 dpi renders s-*.png)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N57872e/vf/skripte/fig8.py
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N57872e/seiten/seite-06.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N57872e/seiten/seite-08.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N57872e/seiten/seite-09.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N57872e/seiten/seite-10.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N57872e/seiten/seite-12.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N57872e/seiten/seite-14.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N57872e/seiten/seite-18.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N57872e/seiten/seite-19.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N57872e/seiten/seite-20.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N57872e/seiten/seite-21.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N57872e/seiten/seite-22.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N57872e/seiten/seite-23.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N57872e/seiten/seite-25.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N57872e/vf/bilder/c06_map.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N57872e/vf/bilder/c06_scale.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N57872e/vf/bilder/c12_b.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N57872e/vf/bilder/c25_de.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N57872e/vf/bilder/c23_lab.png
+https://publications.jrc.ec.europa.eu/repository/handle/JRC53161
+https://esurf.copernicus.org/articles/7/439/2019/
+https://bura.brunel.ac.uk/handle/2438/17005?mode=full
+https://bura.brunel.ac.uk/handle/2438/18045?mode=full
+WebSearch: Carpignano Golia Di Mauro Bouchon Nordvik 2009 methodological approach multi-risk maps regional level first application abstract
+WebSearch: Jaboyedoff 2019 Testing a failure surface prediction and deposit reconstruction method landslide cluster Typhoon Talas Earth Surface Dynamics SLBL
+WebSearch: Zhao Crosta Dattola Utili 2018 Dynamic fragmentation of jointed rock blocks during rockslide-avalanches insights from discrete element analyses JGR Solid Earth
+WebSearch: Zhao Crosta Utili De Blasio 2017 Investigation of rock fragmentation during rockfalls and rock avalanches via 3-D discrete element analyses
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N57872e/vf/verifikation.md

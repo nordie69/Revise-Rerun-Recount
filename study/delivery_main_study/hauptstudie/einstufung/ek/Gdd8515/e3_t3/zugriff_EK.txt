@@ -1,0 +1,23 @@
+GELESEN:
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/Gdd8515/e3_t3/auftrag_EK.txt
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/Gdd8515/teil3.md
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/Gdd8515/egusphere-2025-4695.pdf (pdftotext, pdftoppm, pdfinfo)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/Gdd8515/text.json
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/Gdd8515/seiten/ (Verzeichnisliste)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/Gdd8515/seiten/seite-11.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/Gdd8515/seiten/seite-26.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/Gdd8515/seiten/seite-27.png
+
+GESCHRIEBEN (Hilfsdateien im Ausgabeordner, nach Gebrauch geloescht):
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/Gdd8515/e3_t3/volltext.txt
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/Gdd8515/e3_t3/haupt.txt
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/Gdd8515/e3_t3/r300-13.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/Gdd8515/e3_t3/r300-26.png bis r300-31.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/Gdd8515/e3_t3/r150-32.png bis r150-34.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/Gdd8515/e3_t3/c5g.png, c6g.png, c6h.png, c13a.png, c13b.png
+
+GESCHRIEBEN (Ausgabe):
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/Gdd8515/e3_t3/einstufung.md
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/Gdd8515/e3_t3/zugriff_EK.txt
+
+URLS: keine

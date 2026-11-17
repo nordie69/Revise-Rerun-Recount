@@ -1,0 +1,59 @@
+GELESEN (Dateien)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/Gc9d1ce/e3_t6/auftrag_EK.txt
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/Gc9d1ce/teil6.md
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/Gc9d1ce/text.json
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/Gc9d1ce/supplement/text.json
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/Gc9d1ce/supplement/fassung.json (erste 600 Byte)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/Gc9d1ce/egusphere-2025-5046.pdf (pdftoppm, Seiten 24, 26, 27, 29)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/Gc9d1ce/egusphere-2025-5046-supplement.pdf (pdftotext Seiten 11 bis 15, pdftoppm Seite 8, pdfimages -list Seiten 2 und 4)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/Gc9d1ce/seiten/seite-16.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/Gc9d1ce/seiten/seite-20.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/Gc9d1ce/seiten/seite-24.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/Gc9d1ce/seiten/seite-26.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/Gc9d1ce/seiten/seite-27.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/Gc9d1ce/seiten/seite-28.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/Gc9d1ce/seiten/seite-29.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/Gc9d1ce/supplement/seiten/seite-02.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/Gc9d1ce/supplement/seiten/seite-04.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/Gc9d1ce/supplement/seiten/seite-08.png
+/root/.claude/projects/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/tool-results/br667s5aq.txt (vom Werkzeug ausgelagerte Ausgabe meines eigenen Befehls, Auszug aus haupt.txt)
+Verzeichnislisten: Gc9d1ce/ (nur Namen), seiten/, supplement/, supplement/seiten/, e3_t6/
+
+GESCHRIEBEN (alle im Ausgabeordner e3_t6/)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/Gc9d1ce/e3_t6/haupt.txt
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/Gc9d1ce/e3_t6/supp.txt
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/Gc9d1ce/e3_t6/s1.txt
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/Gc9d1ce/e3_t6/t1.py
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/Gc9d1ce/e3_t6/t1.json
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/Gc9d1ce/e3_t6/box.py
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/Gc9d1ce/e3_t6/stats.py
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/Gc9d1ce/e3_t6/iso.py
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/Gc9d1ce/e3_t6/iso.json
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/Gc9d1ce/e3_t6/h24-24.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/Gc9d1ce/e3_t6/h26-26.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/Gc9d1ce/e3_t6/h27-27.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/Gc9d1ce/e3_t6/h29-29.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/Gc9d1ce/e3_t6/s08-08.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/Gc9d1ce/e3_t6/crop1.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/Gc9d1ce/e3_t6/einstufung.md
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/Gc9d1ce/e3_t6/zugriff_EK.txt
+
+WEBSEARCH (Abfragen)
+Caldenius 1932 "Las glaciaciones cuaternarias en la Patagonia y Tierra del Fuego" Geografiska Annaler
+Parrenin 2007 "The EDC3 chronology for the EPICA Dome C ice core" Climate of the Past 3 485
+Shi Krom Bonneville 2011 "Influence of chemical weathering and aging of iron oxides" Global Biogeochemical Cycles 25 GB2010
+Sugden McCulloch Bory Hein 2009 "Influence of Patagonian glaciers on Antarctic dust deposition during the last glacial period" Nature Geoscience
+Rudnick Gao 2003 "Composition of the Continental Crust" Treatise on Geochemistry volume 3 Holland Turekian editors 3.01 pages 1-64
+Delmonte Petit Basile-Doelsch Jagoutz Maggi 2007 "Late Quaternary Interglacials in East Antarctica from Ice-Core Dust Records" Developments in Quaternary Sciences 7 chapter 6
+"glaciaciones cuaternarias en la Patagonia y Tierra del Fuego" Caldenius
+
+WEBFETCH (URLs)
+https://www.paleoarchive.com/literature/Ljungner1949-BalanceQuaternaryIceCapsPatagoniaScandinavia.pdf
+https://ueaeprints.uea.ac.uk/id/eprint/36944/
+https://nora.nerc.ac.uk/id/eprint/11865/
+https://hal-insu.archives-ouvertes.fr/insu-01713360v1/html_references (Zugriff verweigert)
+https://nora.nerc.ac.uk/id/eprint/11307
+https://earthref.org/ERR/2651/
+https://hal-insu.archives-ouvertes.fr/insu-00421398v1 (Zugriff verweigert)
+https://doi.org/10.1080/20014422.1932.11880545 (nicht abgerufen, nicht freigegeben)
+https://pubs.usgs.gov/pp/p1386i/chile-arg/wet/past.html

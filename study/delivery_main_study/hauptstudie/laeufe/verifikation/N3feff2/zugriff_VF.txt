@@ -1,0 +1,94 @@
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N3feff2/auftrag_VF.txt
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N3feff2
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N3feff2/seiten
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N3feff2/gutachten.md
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N3feff2/text.json
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N3feff2/vf/lines.txt
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/seiten/seite-01.png (Fehlversuch, existiert nicht)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N3feff2/seiten/seite-01.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N3feff2/seiten/seite-02.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N3feff2/seiten/seite-03.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N3feff2/seiten/seite-04.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N3feff2/seiten/seite-05.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N3feff2/seiten/seite-06.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N3feff2/seiten/seite-07.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N3feff2/seiten/seite-08.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N3feff2/seiten/seite-09.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N3feff2/seiten/seite-10.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N3feff2/seiten/seite-11.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N3feff2/seiten/seite-12.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N3feff2/seiten/seite-13.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N3feff2/seiten/seite-14.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N3feff2/seiten/seite-15.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N3feff2/seiten/seite-16.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N3feff2/seiten/seite-17.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N3feff2/seiten/seite-18.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N3feff2/seiten/seite-19.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N3feff2/seiten/seite-20.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N3feff2/seiten/seite-21.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N3feff2/seiten/seite-22.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N3feff2/seiten/seite-23.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N3feff2/seiten/seite-24.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N3feff2/seiten/seite-25.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N3feff2/seiten/seite-26.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N3feff2/seiten/seite-27.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N3feff2/seiten/seite-28.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N3feff2/seiten/seite-29.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N3feff2/seiten/seite-30.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N3feff2/seiten/seite-31.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N3feff2/seiten/seite-32.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N3feff2/seiten/seite-33.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N3feff2/seiten/seite-34.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N3feff2/seiten/seite-35.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N3feff2/seiten/seite-36.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N3feff2/seiten/seite-37.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N3feff2/egusphere-2025-4695.pdf
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N3feff2/vf/r300/p-25.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N3feff2/vf/r300/p-26.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N3feff2/vf/r300/p-27.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N3feff2/vf/r300/p-28.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N3feff2/vf/r300/p-29.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N3feff2/vf/r300/p-30.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N3feff2/vf/r300/p-31.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N3feff2/vf/r300/p-32.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N3feff2/vf/r300/p-33.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N3feff2/vf/r300/p-34.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N3feff2/vf/r300/p-35.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N3feff2/vf/r300/p-36.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N3feff2/vf/r300/p-37.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N3feff2/vf/c26g.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N3feff2/vf/c29.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N3feff2/vf/c31cb.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N3feff2/vf/c31t.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N3feff2/vf/c36leg.png
+https://hsbiblio.uni-tuebingen.de (Suchergebnis)
+https://deepblue.lib.umich.edu/items/460ed15b-87a0-45fd-8c50-840c87a1b68e
+https://esurf.copernicus.org/articles/8/931/2020/
+https://pubs.usgs.gov/publication/70032707
+https://pubs.usgs.gov/publication/70026557
+https://link.springer.com/article/10.1007/s11368-019-02424-1
+https://webarchive.unesco.org/web/20151226104117/http://unesdoc.unesco.org/images/0018/001850/185078E.pdf
+https://unesdoc.unesco.org/ark:/48223/pf0000185078 (abgelehnt)
+https://raw.githubusercontent.com/fdedonck/Non-Linear-XRD-Inversion/v1.0.0/README.md (abgelehnt)
+https://zenodo.org/records/17120374 (abgelehnt)
+https://api.crossref.org/works/10.1029/2023WR034500 (abgelehnt)
+WebSearch: Ehlers Szameitat Enkelmann Yanites Woodsworth 2015
+WebSearch: Bernard Steer Gallagher Lundbek Egholm 2020
+WebSearch: Andrews Eberl 2012 SedUnMix
+WebSearch: Niu 2020 multiple composite fingerprints
+WebSearch: Walling 2009 UNESCO global change erosion
+WebSearch: Eberl 2004 Yukon
+WebSearch: ISBN 9789231041358 Walling
+WebSearch: Gergel 2002 Landscape indicators
+WebSearch: Walling D. E. 2009 UNESCO WWAP
+WebSearch: fdedonck Non-Linear-XRD-Inversion zenodo (Ergebnisse mit gesperrten Seiten nicht geoeffnet)
+WebSearch: Das Remesan Gupta 2023 abstract (Ergebnisse mit gesperrten Seiten nicht geoeffnet)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N3feff2/vf/py/crop.py (geschrieben)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N3feff2/vf/py/fig11.py (geschrieben)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N3feff2/vf/py/numcheck.py (geschrieben)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N3feff2/vf/py/search.py (geschrieben)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N3feff2/vf/py/texth.py (geschrieben)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N3feff2/vf/locs.txt (geschrieben)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N3feff2/vf/py/locs.py (geschrieben)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N3feff2/vf/verifikation.md (geschrieben)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N3feff2/vf/zugriff_VF.txt (geschrieben)

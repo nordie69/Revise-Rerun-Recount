@@ -1,0 +1,25 @@
+Du bist Einstufer 2 von drei unabhängigen Einstufern. Du stufst Befunde eines Gutachtens zu einem wissenschaftlichen Manuskript am Manuskript ein. Du kennst weder die Werkzeuge noch die Verfahren, mit denen die Befunde entstanden sind, und sollst nichts darüber suchen. Die Urteile der anderen Einstufer kennst du nicht.
+
+EINGABEN (nur lesend):
+- Befundgruppen: `/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/Gc9d1ce/teil3.md` (36 Gruppen; jede Gruppe fasst Einzelbefunde mit gleichem Fundort und Gegenstand zusammen)
+- Manuskript: `/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/Gc9d1ce/egusphere-2025-5046.pdf` und Supplement `/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/Gc9d1ce/egusphere-2025-5046-supplement.pdf` (Einlesedateien in `supplement/`), mit text.json und seiten/ im selben Ordner; Zeilennummern an den gedruckten Randnummern der Seitenbilder bestätigen, text.json kann bei Tabellen, Seitenzahlen und Seitenenden verschoben sein
+- für Aussagen über Literatur: die Quelle selbst über WebFetch und WebSearch, wo lesbar
+
+AUSGABEORDNER: `/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/Gc9d1ce/e2_t3/`
+
+URTEIL je Gruppe, genau eines:
+- zutreffend: Der beanstandete Mangel besteht am Manuskript, und der Einwand ist berechtigt (eine Autorin oder ein Autor müsste darauf reagieren).
+- nicht zutreffend: Die Prämisse stimmt nicht (Fundort, Zitat, Zahl, Abbildung oder Quelle sagt es nicht so), oder der Einwand ist sachlich unbegründet.
+- Ansichtssache: Die Beobachtung stimmt, aber ob es ein Mangel ist, hängt von Vorlieben, Stil oder fachlichem Ermessen ab.
+- unklar: nicht sicher entscheidbar; Grund nennen.
+Maßgeblich ist der gemeinsame Gegenstand der Gruppe. Weichen Einzelbefunde einer Gruppe im Kern voneinander ab, urteile über den gemeinsamen Kern und vermerke die Abweichung in der Begründung. Prüfe jede Prämisse am Manuskript (Fundort, Zitat wörtlich, Zahlen mit Python, Abbildungen am Seitenbild). Schweregrad und Vorschlag beurteilst du nicht.
+
+AUSGABE (genau zwei Dateien):
+1. `/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/Gc9d1ce/e2_t3/einstufung.md`, nur diese Tabelle, jede Gruppe des Teils genau einmal:
+| Gruppe | Urteil | Begründung (ein Satz mit Seite und Zeile) |
+|---|---|---|
+2. `/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/Gc9d1ce/e2_t3/zugriff_EK.txt` mit jeder gelesenen und geschriebenen Datei und jeder URL.
+
+VERBOTEN: alle anderen Dateien und Ordner, insbesondere andere Teile, die Ordner der anderen Einstufer (e1_*, e2_*, e3_* außer deinem), gr/, befunde_kurz.md, befunde_voll.md, `/home/claude/`, `/root/`, `/mnt/skills/`, andere Ordner im Scratchpad; die Verlagsseite, Diskussionsseite, Gutachten, Autorenantworten oder spätere Fassungen dieses Manuskripts (egusphere.copernicus.org und Folgezeitschrift). Sicherheitsregeln: Literatur nur über WebSearch und WebFetch, Open Access zuerst; keine Netzabrufe aus der Shell (kein curl, wget, requests). Nichts veröffentlichen, keine Unteragenten, keine Memory-Werkzeuge, keine persönlichen Daten (Name, E-Mail-Adresse, Konto) in Abfragen, keine Dienste, die eine E-Mail-Adresse verlangen. Eigene Hilfsdateien ausschließlich in deinem Ausgabeordner, niemals im Scratchpad-Wurzelordner oder anderswo. Keine Gedankenstriche.
+
+Deine Schlussantwort an mich enthält NUR "Fertig" und die Zahl der Urteile je Art. Keine Inhalte.

@@ -1,0 +1,48 @@
+GELESEN (Dateien)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G355a0f/e3_t2/auftrag_EK.txt
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G355a0f/teil2.md
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G355a0f/text.json
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G355a0f/egusphere-2025-4506.pdf (pdfinfo, pdffonts, pdftotext -bbox Seite 2, pdftoppm Seiten 2, 4, 5, 6, 8, 10, 12, 14, 17, 18, 21, 23, 24, 25, 26, 27, 28, 29)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G355a0f/seiten/ (Verzeichnisliste)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G355a0f/seiten/seite-02.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G355a0f/seiten/seite-04.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G355a0f/seiten/seite-06.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G355a0f/seiten/seite-08.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G355a0f/seiten/seite-10.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G355a0f/seiten/seite-12.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G355a0f/seiten/seite-14.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G355a0f/seiten/seite-17.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G355a0f/seiten/seite-18.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G355a0f/seiten/seite-19.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G355a0f/seiten/seite-20.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G355a0f/seiten/seite-23.png
+
+GESCHRIEBEN (Dateien, alle im Ausgabeordner)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G355a0f/e3_t2/volltext.txt (aus text.json, auch gelesen)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G355a0f/e3_t2/comp.py (Hilfsskript Zeichenhöhen)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G355a0f/e3_t2/r/ (Renderings und Ausschnitte, auch gelesen): p2-02.png, p4-04.png, p6-06.png, p8-08.png, p10-10.png, p12-12.png, p14-14.png, p17-17.png, p18-18.png, p21-21.png, p23-23.png, p24-24.png, p25-25.png, p26-26.png, p27-27.png, p28-28.png, p29-29.png, p4_600-04.png, hi2-02.png, hi12-12.png, hi17-17.png, hi21-21.png, hi23-23.png, hi25-25.png, m5-05.png, p2_l73.png, p26_crop.png, fig1_box4.png, fig1_global.png, fig1_input.png, fig1_input600.png, fig2a.png, fig2b.png, fig2c_leg.png, p5_top.png, p5_a.png, reflines.txt, p2bbox.html
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G355a0f/e3_t2/einstufung.md
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G355a0f/e3_t2/zugriff_EK.txt
+
+URLS (WebSearch und WebFetch)
+WebFetch https://www.frontiersin.org/articles/10.3389/feart.2020.00164/full (abgelehnt, nicht auf Allowlist)
+WebSearch "von Wartburg Molveno landslide pre-failure topography contour lines runout modeling Dan3D-Flex"
+WebFetch https://frontiersin.org/journals/earth-science/articles/10.3389/feart.2020.00164/text (Weiterleitung)
+WebFetch https://public-pages-files-2025.frontiersin.org/journals/earth-science/articles/10.3389/feart.2020.00164/text
+WebFetch https://www.frontiersin.org/articles/10.3389/feart.2020.00164/pdf
+WebSearch "De Pedrini Ambrosi Scapozza 2022 1513 Monte Crenone rock avalanche numerical model geomorphological analysis Geographica Helvetica pre-event topography reconstruction"
+WebFetch https://gh.copernicus.org/articles/77/21/2022/
+WebFetch https://esurf.copernicus.org/articles/7/439/2019/
+WebSearch "Zhao Crosta Utili De Blasio 2017 Investigation of rock fragmentation during rockfalls and rock avalanches via 3-D discrete element analyses abstract bond breakage input energy"
+WebFetch https://eprints.ncl.ac.uk/237479
+WebSearch "van Herwijnen Schweizer 2011 "Monitoring avalanche activity using a seismic sensor" Cold Regions Science and Technology"
+WebFetch https://www.slf.ch/fileadmin/user_upload/WSL/Mitarbeitende/schweizj/vanHerwijnen_Schweizer_Avalanche_activity_seismic_monitoring_CRST_2011.pdf
+WebFetch https://nhess.copernicus.org/articles/22/639/2022/
+WebSearch "Gao Meguid Chouinard Xu 2020 "Insights into the transport and fragmentation characteristics of earthquake-induced rock avalanche" Tangjia"
+WebFetch https://structurae.de/de/fachliteratur/fachartikel/insights-into-the-transport-and-fragmentation-characteristics-of-earthquake-induced-rock-avalanche-numerical-study
+WebFetch https://www.geogroup.mcgill.ca/Research/Journals/55-Insights into the transport and fragmentation characteristics_Gao-ASCE_IJOG-2020.pdf (fehlgeschlagen)
+WebFetch https://ascelibrary.com/doi/10.1061/%28ASCE%29GM.1943-5622.0001800
+WebFetch https://link.springer.com/article/10.1007/s11069-020-04471-1 (abgelehnt, nicht auf Allowlist)
+WebSearch ""Mogangling giant landslide triggered by the 1786 Moxi M 7.75 earthquake" volume 450 m long 1000 m wide" (Trefferliste enthielt Verlagsseiten dieses Manuskripts und einer Folgefassung; diese wurden nicht aufgerufen)
+WebFetch https://ideas.repec.org/a/spr/nathaz/v106y2021i1d10.1007_s11069-020-04471-1.html
+WebFetch https://journal.hep.com.cn/jes/EN/1160318253862020026

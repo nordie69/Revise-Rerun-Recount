@@ -1,0 +1,37 @@
+READ /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/Gdd8515/e2_t1/auftrag_EK.txt
+READ /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/Gdd8515/teil1.md
+READ /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/Gdd8515/text.json
+READ /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/Gdd8515/seiten/seite-01.png
+READ /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/Gdd8515/seiten/seite-05.png
+READ /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/Gdd8515/seiten/seite-08.png
+READ /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/Gdd8515/seiten/seite-14.png
+WRITE /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/Gdd8515/e2_t1/ms.txt
+READ /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/Gdd8515/e2_t1/ms.txt
+WRITE /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/Gdd8515/e2_t1/chk.py
+READ /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/Gdd8515/e2_t1/chk.py
+WRITE /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/Gdd8515/e2_t1/einstufung.md
+WRITE /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/Gdd8515/e2_t1/zugriff_EK.txt
+WEBSEARCH Barker Dixon Hooke 1997 "Use of terrestrial photogrammetry for monitoring and measuring bank erosion" abstract
+WEBSEARCH Walling 2009 UNESCO "The impact of global change on erosion and sediment transport by rivers" ISBN 9789231041358
+WEBSEARCH Kobe 2021 "Ubuntu as a spirituality of liberation for black theology of liberation" HTS
+WEBSEARCH "Walling" "The impact of global change on erosion and sediment transport by rivers: current progress and future challenges" UNESCO 2009
+WEBSEARCH Wilson Clark McAdam Cooper 1993 "Soil erosion in the Falkland Islands: an assessment" Applied Geography abstract
+WEBSEARCH Olley Murray Mackenzie Edwards 1993 "Identifying sediment sources in a gullied catchment using natural and anthropogenic radioactivity"
+WEBSEARCH Blaen 2016 "Real-time monitoring of nutrients and dissolved organic matter in rivers: Capturing event dynamics" abstract
+WEBSEARCH Vanden Bygaart Protz 2001 "Bomb-fallout 137Cs as a marker of geomorphic stability in dune sands and soils, Pinery Provincial Park"
+WEBSEARCH Klages Hsieh 1975 Gallatin River suspended solids mineralogy inferring sources X-ray diffraction
+WEBSEARCH Ehlers Szameitat Enkelmann Yanites Woodsworth 2015 "Identifying spatial variations in glacial catchment erosion with detrital thermochronology"
+WEBSEARCH Niu Zhang Qu Liu Homan Tan An 2020 "multiple composite fingerprints" arid region Bayesian frequentist uncertainty Danghe pdf
+URL https://researchportal.port.ac.uk/en/publications/use-of-terrestrial-photogrammetry-for-monitoring-and-measuring-ba/
+URL https://webarchive.unesco.org/web/20151226104117/http://unesdoc.unesco.org/images/0018/001850/185078E.pdf
+URL https://hts.org.za/index.php/hts/article/view/6176
+URL https://api.openalex.org/works/doi:10.1002/esp.215 (nicht abgerufen, nicht freigegeben)
+URL https://api.openalex.org/works/doi:10.1029/92WR02710 (nicht abgerufen, nicht freigegeben)
+URL https://api.openalex.org/works/doi:10.1016/j.scitotenv.2016.06.116 (nicht abgerufen, nicht freigegeben)
+URL https://api.openalex.org/works/doi:10.1016/S0022-1694(97)00078-4 (nicht abgerufen, nicht freigegeben)
+URL https://research.birmingham.ac.uk/en/publications/real-time-monitoring-of-nutrients-and-dissolved-organic-matter-in/
+URL https://zendy.io/title/10.1002/esp.215
+URL https://earthref.org/ERR/67869/
+URL https://pubs.usgs.gov/publication/70032707
+URL https://pubs.usgs.gov/publication/70026557
+URL https://link.springer.com/article/10.1007/s11368-019-02424-1

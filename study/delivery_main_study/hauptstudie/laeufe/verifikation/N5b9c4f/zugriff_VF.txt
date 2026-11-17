@@ -1,0 +1,63 @@
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N5b9c4f/auftrag_VF.txt
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N5b9c4f/gutachten.md
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N5b9c4f/text.json
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N5b9c4f/seiten/
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N5b9c4f/vf/text_lines.txt
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N5b9c4f/egusphere-2025-4695.pdf
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N5b9c4f/vf/layout.txt
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N5b9c4f/vf/num.py
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N5b9c4f/vf/p25-25.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N5b9c4f/vf/p32-32.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N5b9c4f/vf/p33-33.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N5b9c4f/vf/p36-36.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N5b9c4f/vf/bars.py
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N5b9c4f/vf/col.py
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N5b9c4f/vf/p31bbox.html
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N5b9c4f/vf/checks.py
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N5b9c4f/vf/c11.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N5b9c4f/vf/c13.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N5b9c4f/vf/c16.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N5b9c4f/vf/c20.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N5b9c4f/vf/crops.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N5b9c4f/seiten/seite-11.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N5b9c4f/seiten/seite-13.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N5b9c4f/seiten/seite-16.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N5b9c4f/seiten/seite-20.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N5b9c4f/seiten/seite-05.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N5b9c4f/seiten/seite-06.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N5b9c4f/seiten/seite-07.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N5b9c4f/seiten/seite-08.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N5b9c4f/seiten/seite-12.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N5b9c4f/seiten/seite-14.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N5b9c4f/seiten/seite-25.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N5b9c4f/seiten/seite-26.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N5b9c4f/seiten/seite-27.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N5b9c4f/seiten/seite-28.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N5b9c4f/seiten/seite-29.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N5b9c4f/seiten/seite-30.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N5b9c4f/seiten/seite-31.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N5b9c4f/seiten/seite-32.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N5b9c4f/seiten/seite-33.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N5b9c4f/seiten/seite-34.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N5b9c4f/seiten/seite-35.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N5b9c4f/seiten/seite-36.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N5b9c4f/seiten/seite-37.png
+WebSearch: Eberl 2004 Quantitative mineralogy of the Yukon River system sediment provenance American Mineralogist
+WebSearch: Andrews Eberl 2012 SedUnMix unmixing mineralogy source-area sediments Marine Geology
+WebSearch: Niu 2020 Using multiple composite fingerprints abstract
+WebSearch: Blaen 2016 Real-time monitoring of nutrients abstract
+WebSearch: Olley 1993 Identifying sediment sources gullied catchment radioactivity
+WebSearch: Barker Dixon Hooke 1997 terrestrial photogrammetry bank erosion
+WebSearch: Walling 2009 impact of global change on erosion and sediment transport by rivers UNESCO
+WebSearch: Gergel 2002 Landscape indicators of human impacts to riverine systems
+WebSearch: chrysolite olivine variety chrysotile serpentine
+WebSearch: Walling 2009 UNESCO ISBN 9789231041358
+https://pubs.usgs.gov/publication/70026557
+https://pubs.usgs.gov/publication/70032707
+https://link.springer.com/article/10.1007/s11368-019-02424-1
+https://research.birmingham.ac.uk/en/publications/real-time-monitoring-of-nutrients-and-dissolved-organic-matter-in/
+https://earthref.org/ERR/67869/
+https://researchportal.port.ac.uk/en/publications/use-of-terrestrial-photogrammetry-for-monitoring-and-measuring-ba/
+https://webarchive.unesco.org/web/20151226104117/http://unesdoc.unesco.org/images/0018/001850/185078E.pdf
+https://experts.illinois.edu/en/publications/landscape-indicators-of-human-impacts-to-riverine-systems/
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N5b9c4f/vf/verifikation.md

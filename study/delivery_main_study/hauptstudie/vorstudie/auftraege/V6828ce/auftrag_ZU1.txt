@@ -1,0 +1,27 @@
+Du bist Zuordner 1 von drei unabhängigen Zuordnern. Du kennst keine Skills, keine Gutachten-Werkzeuge und weißt nicht, wie das Gutachten entstanden ist; du sollst nichts darüber suchen. Die Urteile der anderen Zuordner kennst du nicht.
+
+AUFGABE: Stelle für jeden bestätigten Sollbefund fest, ob das Gutachten ihn trifft.
+
+EINGABEN (nur lesend):
+- Sollbefundliste: `/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/vor/V6828ce/sollbefunde.md`
+- Gutachten: `/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/vor/V6828ce/gutachten.md`
+- Manuskript, nur um einen Fundort nachzusehen: `/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/vor/V6828ce/Talk_Check_Decide_A_Skill-Based_Workflow.pdf`, mit text.json und seiten/ im selben Ordner
+
+AUSGABEORDNER: `/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/vor/V6828ce/zu1/`
+
+REGELN:
+1. Antwort je Sollbefund genau eine: getroffen (ein Befund oder eine Kleinkorrektur des Gutachtens nennt denselben Mangel an derselben Stelle oder für dieselbe Sache), teilweise (ein Befund trifft einen Teil des Sollbefunds oder nur den Gegenstand ohne den Kern), verfehlt (kein Eintrag des Gutachtens trifft ihn), unklar (nicht sicher entscheidbar; Grund nennen).
+2. Bei getroffen und teilweise nennst du die Kennung jedes treffenden Eintrags (GB-nn, KK-nn), mehrere mit Komma.
+3. Ein Eintrag des Gutachtens darf mehrere Sollbefunde treffen; mehrere Einträge dürfen denselben Sollbefund treffen.
+4. Maßgeblich ist der Inhalt, nicht der Wortlaut: Ein Eintrag trifft auch, wenn er den Mangel anders begründet oder eine andere Änderung vorschlägt, solange er denselben Mangel benennt.
+5. Du urteilst nicht, ob der Sollbefund oder der Befund zutrifft; beides ist hier nicht die Frage.
+
+AUSGABE (genau zwei Dateien, dazu höchstens eigene Hilfsdateien im selben Ordner):
+1. `/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/vor/V6828ce/zu1/zuordnung.md`, nur diese Tabelle, jede Kennung der Sollbefundliste genau einmal:
+| Sollbefund | Antwort | Einträge des Gutachtens | Begründung (ein Satz) |
+|---|---|---|---|
+2. `/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/vor/V6828ce/zu1/zugriff_ZU.txt` mit jeder gelesenen und geschriebenen Datei.
+
+VERBOTEN: alle anderen Dateien und Ordner, insbesondere die Ordner der anderen Zuordner, `/home/claude/`, `/root/`, `/mnt/skills/`, andere Ordner im Scratchpad; Websuche und Webseiten (nicht nötig). Sicherheitsregeln: Keine Netzabrufe aus der Shell (kein curl, wget, requests). Nichts veröffentlichen, keine Unteragenten, keine Memory-Werkzeuge, keine persönlichen Daten (Name, E-Mail-Adresse, Konto) in Abfragen, keine Dienste, die eine E-Mail-Adresse verlangen. Keine Gedankenstriche. Eigene Hilfsdateien (Skripte, Notizen, Zwischenstände) nur im eigenen Ausgabeordner, nie im Scratchpad-Ordner oder in einem anderen Ordner. Quellen und Links nur ins Zugriffsprotokoll, nicht in die Schlussantwort.
+
+Deine Schlussantwort an mich enthält NUR "Fertig" und die Zahl der Antworten je Art. Keine Inhalte, keine Quellen, keine Links.

@@ -1,0 +1,35 @@
+GELESEN
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/Gc9d1ce/e2_t5/auftrag_EK.txt
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/Gc9d1ce/teil5.md
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/Gc9d1ce/text.json
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/Gc9d1ce/supplement/text.json
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/Gc9d1ce/seiten/seite-11.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/Gc9d1ce/seiten/seite-12.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/Gc9d1ce/seiten/seite-13.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/Gc9d1ce/seiten/seite-14.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/Gc9d1ce/seiten/seite-28.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/Gc9d1ce/supplement/seiten/seite-04.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/Gc9d1ce/supplement/seiten/seite-06.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/Gc9d1ce/supplement/seiten/seite-08.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/Gc9d1ce/supplement/seiten/seite-10.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/Gc9d1ce/supplement/seiten/seite-13.png
+Verzeichnisauflistung (nur Dateinamen, kein Inhalt): /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/Gc9d1ce/ , .../supplement/ , .../seiten/ , .../supplement/seiten/
+
+GESCHRIEBEN
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/Gc9d1ce/e2_t5/hilf/s1.py
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/Gc9d1ce/e2_t5/hilf/m.py
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/Gc9d1ce/e2_t5/einstufung.md
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/Gc9d1ce/e2_t5/zugriff_EK.txt
+
+URL (WebSearch)
+Suche: Magee Miller Spooner Questiaux 2004 Lake Eyre monsoon record
+Suche: Vickery Eckardt Bryant 2013 dust plume source inventory southern Africa
+Suche: Yang Carey-Smith Turner 2024 merged superposed jet southwest Pacific
+Suche: Vallelonga 2002 lead pollution history Law Dome
+
+URL (WebFetch)
+https://eprints.whiterose.ac.uk/83805/1/vickeryetal2013.pdf
+https://doaj.org/article/173ec72a37974e0caea5c21872df5bee
+https://espace.curtin.edu.au/handle/20.500.11937/2580?show=full
+https://openresearch-repository.anu.edu.au/items/26d833cc-b13b-4873-abea-fabc74be54cb
+https://openresearch-repository.anu.edu.au/items/26d833cc-b13b-4873-abea-fabc74be54cb/full

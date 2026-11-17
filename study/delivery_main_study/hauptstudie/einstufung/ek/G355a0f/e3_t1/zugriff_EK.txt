@@ -1,0 +1,53 @@
+GELESEN (Dateien)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G355a0f/e3_t1/auftrag_EK.txt
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G355a0f/teil1.md
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G355a0f/text.json
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G355a0f/seiten/ (Verzeichnisliste)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G355a0f/seiten/seite-01.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G355a0f/seiten/seite-02.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G355a0f/seiten/seite-04.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G355a0f/seiten/seite-07.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G355a0f/seiten/seite-09.png (Ausschnitt)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G355a0f/seiten/seite-13.png (Ausschnitt)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G355a0f/seiten/seite-25.png (Ausschnitt)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G355a0f/e3_t1/hilf_text_4_24.txt
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G355a0f/e3_t1/hilf_p7.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G355a0f/e3_t1/hilf_p9.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G355a0f/e3_t1/hilf_p13.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G355a0f/e3_t1/hilf_p25.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G355a0f/e3_t1/einstufung.md (Prüfung der Zeilenzahl)
+
+GESCHRIEBEN (Dateien)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G355a0f/e3_t1/hilf_text_4_24.txt
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G355a0f/e3_t1/hilf_p7.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G355a0f/e3_t1/hilf_p9.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G355a0f/e3_t1/hilf_p13.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G355a0f/e3_t1/hilf_p25.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G355a0f/e3_t1/einstufung.md
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G355a0f/e3_t1/zugriff_EK.txt
+
+URL (WebFetch)
+https://api.openalex.org/works/doi:10.1080/13669870903050269 (abgewiesen, nicht auf Freigabeliste)
+https://pubs.usgs.gov/publication/70204730
+https://ideas.repec.org/a/taf/jriskr/v12y2009i3-4p513-534.html
+https://link.springer.com/chapter/10.1007/978-3-319-53483-1_36 (abgewiesen, nicht auf Freigabeliste)
+https://www.frontiersin.org/journals/earth-science/articles/10.3389/feart.2024.1466751/full (abgewiesen, nicht auf Freigabeliste)
+https://public-pages-files-2025.frontiersin.org/journals/earth-science/articles/10.3389/feart.2024.1466751/text
+https://doaj.org/article/1667b0c8845746618e49f7b29624794a
+https://www.frontiersin.org/journals/earth-science/articles/10.3389/feart.2024.1466751/pdf (Fehler beim Abruf)
+https://www.frontiersin.org/journals/earth-science/articles/10.3389/feart.2024.1466751/epub (nur Binärdaten)
+https://doi.org/10.1007/978-3-319-53483-1_36 (abgewiesen, nicht auf Freigabeliste)
+https://esurf.copernicus.org/articles/7/439/2019/
+https://gh.copernicus.org/articles/77/21/2022/
+https://link.springer.com/article/10.1007/s10346-021-01750-1
+
+WEBSEARCH (Abfragen)
+Carpignano Golia Di Mauro Bouchon Nordvik 2009 "multi-risk maps at the regional level" abstract
+Song Wang Liu Huang 2017 "Landslide Deformation Prediction by Numerical Simulation in the Three Gorges"
+Li Dai Cheng Yang Zhang Xiong 2024 "chain-type failure mechanism of large-scale ancient landslides" Frontiers Earth Science
+"Landslide Deformation Prediction by Numerical Simulation in the Three Gorges, China" Advancing Culture of Living with Landslides abstract GPS
+Song Kun Wang Fawu 2017 landslide deformation prediction numerical simulation Three Gorges reservoir GPS monitoring WLF4 chapter
+Ge Tang Li 2021 "Mechanical energy evolution in the propagation of rock avalanches using field survey and numerical simulation" Landslides abstract
+"Mechanical energy evolution in the propagation of rock avalanches" effective collisions kinetic energy blocks front (egusphere.copernicus.org und nhess.copernicus.org ausgeschlossen)
+
+Hinweis: Eine Trefferliste enthielt Links auf egusphere.copernicus.org und nhess.copernicus.org; diese wurden nicht geöffnet.

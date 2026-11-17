@@ -1,0 +1,34 @@
+gelesen: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Nf15aa1/auftrag_VF.txt
+gelesen (Verzeichnisliste): /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Nf15aa1/
+gelesen (Verzeichnisliste): /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Nf15aa1/seiten/
+geschrieben: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Nf15aa1/vf/zugriff_VF.txt
+gelesen: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Nf15aa1/gutachten.md
+gelesen: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Nf15aa1/text.json
+geschrieben: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Nf15aa1/vf/text.txt
+gelesen: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Nf15aa1/seiten/seite-01.png ... seite-33.png (nach Bedarf, s.u.)
+gelesen: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Nf15aa1/egusphere-2025-4733.pdf
+geschrieben: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Nf15aa1/vf/r/p-01.png ... p-33.png (200 dpi)
+geschrieben: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Nf15aa1/vf/crop.py
+geschrieben: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Nf15aa1/vf/c_01.png c_02 c_03 c_05 c_07 c_08 (Ausschnitte)
+geschrieben: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Nf15aa1/vf/c_10.png c_11 c_12 c_13 c_15
+geschrieben: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Nf15aa1/vf/h/p-14.png ... p-17.png (300 dpi)
+geschrieben: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Nf15aa1/vf/box.py
+geschrieben: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Nf15aa1/vf/z14k.png
+geschrieben: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Nf15aa1/vf/z16k.png
+geschrieben: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Nf15aa1/vf/c_18.png c_19 c_20 c_22 c_23 c_28
+geschrieben: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Nf15aa1/vf/h/p-06.png p-25.png p-26.png p-27.png (300 dpi)
+geschrieben: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Nf15aa1/vf/zoptv.png
+geschrieben: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Nf15aa1/vf/c_33.png c_29.png
+geschrieben: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Nf15aa1/vf/verifikation.md
+gelesen: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Nf15aa1/vf/h/p-14.png, /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Nf15aa1/vf/h/p-16.png, /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Nf15aa1/vf/z14k.png, /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Nf15aa1/vf/z16k.png, /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Nf15aa1/vf/r/p-04.png p-06 p-09 p-12 p-14 p-16 p-17 p-21 p-24 p-25 p-26 p-27, /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Nf15aa1/vf/c_*.png
+WebSearch: Bröker Ma 2022 Estimating the Least Principal Stress in a Granitic Rock Mass mini-frac Bedretto
+URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9072525/ (Weiterleitung)
+URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC9072525
+URL: https://sjg.springeropen.com/articles/10.1186/s00015-022-00409-w (nicht abgerufen, nicht freigegeben)
+WebSearch: Rast Galli Ruh Guillong Madonna 2022 Geology along the Bedretto tunnel Rotondo granite TM 5218
+URL: https://sjg.springeropen.com/articles/10.1186/s00015-022-00409-w/figures/3
+WebSearch: Brixel 2020 Tracking fluid flow in shallow crustal fault zones 1 single-hole permeability estimates abstract
+URL: https://eos.org/editor-highlights/fluctuating-fluid-flows-in-a-fractured-fault
+URL: https://api.crossref.org/works/10.5194/se-15-1087-2024 (nicht abgerufen, nicht freigegeben)
+WebSearch: Achtziger-Zupančič Selection and characterisation of the target fault ... Solid Earth 15 1087
+URL: https://doaj.org/article/cf901c0cf5b34c8ea40c519b832b9e6e

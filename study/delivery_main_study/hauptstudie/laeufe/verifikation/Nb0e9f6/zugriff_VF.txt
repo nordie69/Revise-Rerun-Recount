@@ -1,0 +1,58 @@
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Nb0e9f6/auftrag_VF.txt
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Nb0e9f6/ (Verzeichnisliste)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Nb0e9f6/seiten/ (Verzeichnisliste)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Nb0e9f6/vf/ (angelegt)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Nb0e9f6/gutachten.md
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Nb0e9f6/text.json
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Nb0e9f6/egusphere-2025-4506.pdf (pdftotext)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Nb0e9f6/vf/layout.txt (geschrieben)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Nb0e9f6/vf/skripte/nummer.py (geschrieben)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Nb0e9f6/vf/nummeriert.txt (geschrieben)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Nb0e9f6/vf/skripte/zitate.py (geschrieben)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Nb0e9f6/vf/skripte/zitate2.py (geschrieben)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Nb0e9f6/vf/bilder/ (eingebettete Abbildungen, geschrieben)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Nb0e9f6/vf/konkl.txt (geschrieben)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Nb0e9f6/vf/p-02.png p-26..29.png (gerendert)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Nb0e9f6/vf/bbox.html (geschrieben)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Nb0e9f6/seiten/seite-13.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Nb0e9f6/vf/p-05.png (gerendert)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Nb0e9f6/vf/bilder/img-004-003.jpg (Fig1)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Nb0e9f6/vf/bilder/img-006-006.jpg (Fig2)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Nb0e9f6/vf/bilder/img-008-009.jpg (Fig3a)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Nb0e9f6/vf/bilder/img-008-010.jpg (Fig3b)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Nb0e9f6/vf/bilder/img-009-012.jpg (Fig3c)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Nb0e9f6/vf/bilder/img-010-014.jpg (Fig4)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Nb0e9f6/vf/bilder/img-012-017.jpg bis img-012-022.jpg (Fig5)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Nb0e9f6/vf/bilder/img-014-025.jpg (Fig6)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Nb0e9f6/vf/bilder/img-017-029.jpg bis img-018-043.jpg (Fig7 a bis n)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Nb0e9f6/vf/bilder/img-019-045.jpg (Fig7 o)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Nb0e9f6/vf/bilder/img-020-047.jpg (Fig8)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Nb0e9f6/vf/bilder/img-021-049.jpg bis img-022-059.jpg (Fig9)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Nb0e9f6/vf/bilder/img-023-061.jpg, img-023-062.jpg (Fig10)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Nb0e9f6/vf/bilder/img-023-063.jpg, img-024-072.jpg (Fig11)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Nb0e9f6/vf/bilder/img-025-075.jpg, img-025-076.jpg (Fig12)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Nb0e9f6/vf/c1.png c2.png c3.png c4.png c5.png c6.png c7.png (Ausschnitte, geschrieben)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Nb0e9f6/vf/fig7ag.png fig7hn.png fig9.png (Montagen, geschrieben)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Nb0e9f6/vf/sek3.txt (geschrieben)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Nb0e9f6/vf/skripte/crop.py rows.py rechnen.py (geschrieben)
+WebSearch: Carpignano Golia Di Mauro Bouchon Nordvik multi-risk maps
+https://ideas.repec.org/a/taf/jriskr/v12y2009i3-4p513-534.html
+https://api.openalex.org/works/doi:10.1080/13669870903050269 (abgelehnt, nicht gelesen)
+https://gh.copernicus.org/articles/77/21/2022/
+https://link.springer.com/chapter/10.1007/978-3-319-53483-1_36 (abgelehnt, nicht gelesen)
+https://api.crossref.org/works/10.1007/978-3-319-53483-1_36 (abgelehnt, nicht gelesen)
+WebSearch: Song Wang Liu Huang Landslide Deformation Prediction Three Gorges (2 Abfragen, kein lesbarer Treffer)
+WebSearch: Li Dai Cheng chain-type failure mechanism Zhongbao
+https://doaj.org/article/1667b0c8845746618e49f7b29624794a
+WebSearch: Du Zhang Yao Jiaobunong landslide
+https://jms.imde.ac.cn/article/doi/10.1007/s11629-020-6617-y
+WebSearch: van Herwijnen Schweizer 2011 Monitoring avalanche activity
+https://www.slf.ch/fileadmin/user_upload/WSL/Mitarbeitende/schweizj/vanHerwijnen_Schweizer_Avalanche_activity_seismic_monitoring_CRST_2011.pdf
+WebSearch: Lin Wang Xie Cheng Deng 2022 nhess-22-639
+https://nhess.copernicus.org/articles/22/639/2022/
+WebSearch: Daudon Villard Richefeu Mollon 2015
+https://comptes-rendus.academie-sciences.fr/mecanique/articles/10.1016/j.crme.2014.11.003/
+WebSearch: Zhao Mogangling giant landslide 1786 Moxi
+https://ideas.repec.org/a/spr/nathaz/v106y2021i1d10.1007_s11069-020-04471-1.html
+https://journal.hep.com.cn/jes/EN/1160318253862020026
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Nb0e9f6/vf/verifikation.md (geschrieben)

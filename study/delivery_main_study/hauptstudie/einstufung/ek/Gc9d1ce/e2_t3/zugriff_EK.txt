@@ -1,0 +1,52 @@
+GELESEN (Dateien)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/Gc9d1ce/e2_t3/auftrag_EK.txt
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/Gc9d1ce/teil3.md
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/Gc9d1ce/text.json
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/Gc9d1ce/supplement/text.json
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/Gc9d1ce/seiten/seite-07.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/Gc9d1ce/seiten/seite-08.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/Gc9d1ce/seiten/seite-09.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/Gc9d1ce/seiten/seite-10.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/Gc9d1ce/seiten/seite-26.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/Gc9d1ce/supplement/seiten/seite-11.png (per PIL zugeschnitten)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/Gc9d1ce/supplement/seiten/seite-13.png (per PIL zugeschnitten)
+
+VERZEICHNISLISTEN (nur Namen, keine Inhalte geöffnet)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/Gc9d1ce/ (ls; Namen anderer Ordner und Dateien erschienen in der Liste, wurden nicht geöffnet)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/Gc9d1ce/supplement/
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/Gc9d1ce/seiten/
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/Gc9d1ce/supplement/seiten/
+Hinweis: Eine lange Shell-Ausgabe wurde vom Werkzeug automatisch unter /root/.claude/projects/.../tool-results/b2z3ptc70.txt abgelegt; diese Datei wurde nicht gelesen.
+
+GESCHRIEBEN (und selbst gelesen)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/Gc9d1ce/e2_t3/hilf/parse.py
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/Gc9d1ce/e2_t3/hilf/s1.json
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/Gc9d1ce/e2_t3/hilf/stats.py
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/Gc9d1ce/e2_t3/hilf/iso.py
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/Gc9d1ce/e2_t3/hilf/s11top.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/Gc9d1ce/e2_t3/hilf/s13mid.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/Gc9d1ce/e2_t3/einstufung.md
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/Gc9d1ce/e2_t3/zugriff_EK.txt
+
+WEBSEARCH (Abfragen)
+Davies 2020 "The evolution of the Patagonian Ice Sheet from 35 ka to the present day" abstract maximum extent 33-28 ka 2090 km (im Original mit Halbgeviertstrich)
+Krätschmer 2022 Simulating glacial dust changes in the Southern Hemisphere using ECHAM6.3-HAM2.3 Australia predominant source Antarctica LGM
+Neff Bertler 2015 Trajectory modeling of modern dust transport to the Southern Ocean and Antarctica abstract "independent of deposition"
+Neff Bertler 2015 New Zealand trajectories percent Dome C East Antarctica "32%" OR "32 %" dust trajectory
+Coppo 2022 "Coeval minimum south American and maximum Antarctic last glacial maximum dust deposition" abstract southern Puna Pampean loess
+Kok et al. 2021 "Contribution of the world's main dust source regions to the global cycle of desert dust" Antarctica South America 71% Australia 18% southern Africa
+Delmonte Basile-Doelsch Petit 2004 "Comparing the Epica and Vostok dust records during the last 220,000 years" Earth-Science Reviews 66 Sr Nd
+Hinweis: Eine Trefferliste enthielt Links auf egusphere.copernicus.org zu diesem Manuskript; sie wurden nicht geöffnet.
+
+WEBFETCH (URLs)
+https://ore.exeter.ac.uk/repository/handle/10871/122637
+https://par.nsf.gov/servlets/purl/10145792
+https://epic.awi.de/id/eprint/55658/1/cp-18-67-2022.pdf (Zugriff verweigert)
+https://openpolar.no/Record/ftawi:oai:epic.awi.de:55658
+https://cp.copernicus.org/articles/18/67/2022/ (Krätschmer et al. 2022, anderes Werk)
+https://adam.antarcticanz.govt.nz/nodes/view/63689
+https://agu.confex.com/agu/fm14/webprogram/Paper20815.html (Weiterleitung, nicht gefolgt)
+https://boa.unimib.it/handle/10281/393168
+https://acp.copernicus.org/articles/21/8169/2021/acp-21-8169-2021.html (Kok et al. 2021, anderes Werk)
+https://publikationen.bibliothek.kit.edu/1000133474/115882392
+https://boa.unimib.it/handle/10281/553

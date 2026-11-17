@@ -1,0 +1,49 @@
+GELESEN (Dateien)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G51faf2/e1_t6/auftrag_EK.txt
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G51faf2/teil6.md
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G51faf2/text.json
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G51faf2/egusphere-2025-4733.pdf (Seiten 24 bis 33 mit pdftoppm in den Ausgabeordner gerendert)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G51faf2/seiten/seite-08.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G51faf2/seiten/seite-20.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G51faf2/seiten/seite-23.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G51faf2/seiten/seite-24.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G51faf2/seiten/seite-25.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G51faf2/seiten/seite-26.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G51faf2/seiten/seite-27.png
+eigene Hilfsdateien im Ausgabeordner (siehe unten), gelesen bzw. ausgewertet: hr/p-24.png, hr/p-25.png, hr/p-28.png, hr/p-33.png, crop_a2c.png, crop_a2b.png, crop_p28.png, crop_p28b.png, crop_p33.png, zeilen.py
+
+NUR VERZEICHNISLISTUNG (Inhalte nicht gelesen)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G51faf2/ (ls zeigte Datei- und Ordnernamen, keine anderen Dateien geöffnet)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G51faf2/seiten/
+
+GESCHRIEBEN (alle im Ausgabeordner /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G51faf2/e1_t6/)
+zeilen.py
+hr/p-24.png bis hr/p-33.png (10 Dateien, 300 dpi)
+crop_a2c.png
+crop_a2b.png
+crop_p28.png
+crop_p28b.png
+crop_p33.png
+crop_p30.png
+einstufung.md
+zugriff_EK.txt
+
+WEBSEARCH (Abfragen)
+Berger Mercolli Herwegh Gnos 2017 geological map Aar Massif Tavetsch Gotthard nappes
+Thiem 1906 "Hydrologische Methoden" Gebhardt Leipzig
+Achtziger-Zupančič "Selection and characterization of the target fault for fluid-induced activation and earthquake rupture experiments" Solid Earth 15 1087
+"Thiem, G." 1906 "Hydrologische Methoden" "J.M. Gebhardt"
+Thiem Günther 1906 Hydrologische Methoden Leipzig Gebhardt 56 S.
+"Hydrologische Methoden" "Gebhardt, Leipzig"
+zenodo 17233183
+
+WEBFETCH (URLs)
+https://doaj.org/article/cf901c0cf5b34c8ea40c519b832b9e6e
+https://www.history-of-hydrology.net/mediawiki/index.php/Houben_and_Batelaan_(2022)_Adolf_and_Günther_Thiem
+https://boris.unibe.ch/105456
+https://www.deutsche-biographie.de/pnd117336645.html
+https://hess.copernicus.org/articles/26/4055/2022/hess-26-4055-2022.html
+https://hess.copernicus.org/articles/26/4055/2022/hess-26-4055-2022.pdf (dreimal, mit offset 0, 150000, 75000)
+https://meetingorganizer.copernicus.org/EGU2018/EGU2018-5674.pdf
+https://literature.wolkersdorfer.info/literature/Hydrogeologische Gelände- und Kartiermethoden.pdf
+https://doi.org/10.5281/zenodo.17233183 (abgewiesen, nicht auf der Allowlist, kein Inhalt erhalten)

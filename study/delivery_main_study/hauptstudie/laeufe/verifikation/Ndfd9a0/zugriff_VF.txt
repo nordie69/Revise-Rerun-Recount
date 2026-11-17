@@ -1,0 +1,104 @@
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Ndfd9a0/auftrag_VF.txt
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Ndfd9a0/gutachten.md
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Ndfd9a0/text.json
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Ndfd9a0/egusphere-2025-4695.pdf
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Ndfd9a0/vf/text.txt
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Ndfd9a0/vf/bbox.html
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Ndfd9a0/vf/linemap.txt
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Ndfd9a0/vf/linemap2.txt
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Ndfd9a0/vf/fig/
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Ndfd9a0/vf/figtext.txt
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Ndfd9a0/vf/figbbox.html
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Ndfd9a0/vf/zahlen.txt
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Ndfd9a0/ (Verzeichnisliste)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Ndfd9a0/seiten/ (Verzeichnisliste)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Ndfd9a0/seiten/seite-01.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Ndfd9a0/seiten/seite-02.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Ndfd9a0/seiten/seite-03.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Ndfd9a0/seiten/seite-05.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Ndfd9a0/seiten/seite-06.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Ndfd9a0/seiten/seite-22.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Ndfd9a0/seiten/seite-23.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Ndfd9a0/seiten/seite-25.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Ndfd9a0/seiten/seite-26.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Ndfd9a0/seiten/seite-27.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Ndfd9a0/seiten/seite-28.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Ndfd9a0/seiten/seite-29.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Ndfd9a0/seiten/seite-30.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Ndfd9a0/seiten/seite-31.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Ndfd9a0/seiten/seite-32.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Ndfd9a0/seiten/seite-33.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Ndfd9a0/seiten/seite-34.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Ndfd9a0/seiten/seite-35.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Ndfd9a0/seiten/seite-36.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Ndfd9a0/vf/fig/f10a.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Ndfd9a0/vf/fig/f10b.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Ndfd9a0/vf/fig/f10c.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Ndfd9a0/vf/fig/f11_bars.json
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Ndfd9a0/vf/fig/f13stg.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Ndfd9a0/vf/fig/f15leg.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Ndfd9a0/vf/fig/f5g.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Ndfd9a0/vf/fig/f6g.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Ndfd9a0/vf/fig/k21.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Ndfd9a0/vf/fig/k23.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Ndfd9a0/vf/fig/k27.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Ndfd9a0/vf/fig/k31.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Ndfd9a0/vf/fig/p200-07.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Ndfd9a0/vf/fig/p200-08.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Ndfd9a0/vf/fig/p29s.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Ndfd9a0/vf/fig/p300-22.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Ndfd9a0/vf/fig/p300-23.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Ndfd9a0/vf/fig/p300-24.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Ndfd9a0/vf/fig/p300-25.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Ndfd9a0/vf/fig/p300-26.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Ndfd9a0/vf/fig/p300-27.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Ndfd9a0/vf/fig/p300-28.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Ndfd9a0/vf/fig/p300-29.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Ndfd9a0/vf/fig/p300-30.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Ndfd9a0/vf/fig/p300-31.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Ndfd9a0/vf/fig/p300-32.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Ndfd9a0/vf/fig/p300-33.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Ndfd9a0/vf/fig/p300-34.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Ndfd9a0/vf/fig/p300-35.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Ndfd9a0/vf/fig/p300-36.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Ndfd9a0/vf/fig/p300-37.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Ndfd9a0/vf/fig/p7eq.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Ndfd9a0/vf/fig/p8eq.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Ndfd9a0/vf/fig/t200-11.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Ndfd9a0/vf/fig/t200-12.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Ndfd9a0/vf/fig/t200-13.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Ndfd9a0/vf/scripts/linemap.py
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Ndfd9a0/vf/scripts/linemap2.py
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Ndfd9a0/vf/scripts/find.py
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/vfscripts/ (anfangs angelegt, Skripte nach /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Ndfd9a0/vf/scripts/ verschoben, Ordner entfernt)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Ndfd9a0/vf/f11_bars.json (Schreibversuch abgebrochen, nicht angelegt)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Ndfd9a0/vf/verifikation.md
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Ndfd9a0/vf/zugriff_VF.txt
+WebSearch: Barker Dixon Hooke 1997 Use of terrestrial photogrammetry for monitoring and measuring bank erosion abstract
+WebSearch: Gergel Turner Miller Melack Stanley 2002 Aquatic Sciences 64 118-128 Landscape indicators of human impacts to riverine systems
+WebSearch: Andrews Eberl 2012 SedUnMix Marine Geology Determination of sediment provenance by unmixing the mineralogy of source-area sediments
+WebSearch: Ehlers Szameitat Enkelmann Yanites Woodsworth 2015 Identifying spatial variations in glacial catchment erosion with detrital thermochronology
+WebSearch: De Doncker Herman Prasicek Adatte Mettra Belotti EGU21-6207 Present-day sediment dynamics and provenance of the Gornergletscher
+WebSearch: Walling 2009 UNESCO The impact of global change on erosion and sediment transport by rivers ISBN 9789231041358
+WebSearch: Walling, D. E. 2009 The impact of global change on erosion and sediment transport by rivers UNESCO Paris
+WebSearch: impact of global change on erosion and sediment transport by rivers Walling UNESCO World Water Assessment Programme 2009
+WebSearch: Kobe 2021 Ubuntu as a spirituality of liberation for black theology of liberation HTS 6176
+WebSearch: Niu 2020 Using multiple composite fingerprints to quantify source contributions and uncertainties in an arid region abstract
+WebSearch: De Doncker Herman Fox 2020 Inversion of provenance data and sediment load into spatially varying erosion rates abstract
+WebSearch: Torres Astorga 2020 Use of geochemical fingerprints to trace sediment sources in an agricultural catchment of Argentina total organic carbon
+WebSearch: Collins et al. 2020 Sediment source fingerprinting benchmarking recent outputs remaining challenges and emerging themes artificial mixtures
+https://pubs.usgs.gov/publication/70032707
+https://researchportal.port.ac.uk/en/publications/use-of-terrestrial-photogrammetry-for-monitoring-and-measuring-ba/
+https://experts.illinois.edu/en/publications/landscape-indicators-of-human-impacts-to-riverine-systems/
+https://hsbiblio.uni-tuebingen.de/xmlui/handle/10900/67198
+https://infoscience.epfl.ch/record/291522?ln=en
+https://webarchive.unesco.org/web/20151226104117/http://unesdoc.unesco.org/images/0018/001850/185078E.pdf (nur Verifikationsseite erhalten)
+https://serval.unil.ch/notice/serval:BIB_1A4D2FF81D64
+https://link.springer.com/article/10.1007/s11368-019-02424-1
+https://hts.org.za/index.php/hts/article/view/6176
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7679299/ (Weiterleitung)
+https://pmc.ncbi.nlm.nih.gov/articles/PMC7679299 (reCAPTCHA, nicht gelesen)
+https://doaj.org/article/560852e27a6b4958916a927c631668db
+https://link.springer.com/article/10.1007/s11368-020-02755-4 (gesperrt, nicht abgerufen)
+https://repository.rothamsted.ac.uk/item/981v7/sediment-source-fingerprinting-benchmarking-recent-outputs-remaining-challenges-and-emerging-themes
+https://doi.org/10.5281/zenodo.17120374 (gesperrt, nicht abgerufen)

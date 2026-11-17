@@ -1,0 +1,80 @@
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N513539/auftrag_VF.txt
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N513539/gutachten.md
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N513539/text.json
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N513539/egusphere-2025-5046.pdf
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N513539/seiten/
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N513539/supplement/
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N513539/vf/zugriff_VF.txt
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N513539/vf/main.txt
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N513539/vf/suppl.txt
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N513539/supplement/text.json
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N513539/supplement/fassung.json
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N513539/vf/num.py
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N513539/vf/main_num.txt
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N513539/vf/s1.py
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N513539/vf/s1.json
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N513539/vf/a1.py
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N513539/vf/s2.py
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N513539/vf/s2.json
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N513539/vf/a2.py
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N513539/vf/a3.py
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N513539/vf/a4.py
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N513539/vf/img/ (extracted figure images)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N513539/vf/font.py
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N513539/vf/img/p16crop.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N513539/seiten/seite-04.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N513539/seiten/seite-05.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N513539/seiten/seite-08.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N513539/seiten/seite-16.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N513539/seiten/seite-24.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N513539/supplement/seiten/seite-02.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N513539/supplement/seiten/seite-04.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N513539/supplement/seiten/seite-06.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N513539/supplement/seiten/seite-08.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N513539/supplement/seiten/seite-13.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N513539/supplement/seiten/seite-21.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N513539/egusphere-2025-5046-supplement.pdf
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N513539/vf/img/m-007.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N513539/vf/img/m-009.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N513539/vf/img/m-011.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N513539/vf/img/m-013.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N513539/vf/verifikation.md
+https://cp.copernicus.org/articles/18/67/2022/
+https://cp.copernicus.org/articles/8/741/2012/
+https://cp.copernicus.org/articles/3/485/2007/ (nicht abgerufen, nicht freigegeben)
+https://cp.copernicus.org/articles/8/741/2012/cp-8-741-2012.pdf
+WebSearch: Lambert 2021 Regional patterns iron fertilization CO2 drawdown
+https://boa.unimib.it/handle/10281/298134
+WebSearch: Lambert 2015 Dust fluxes and iron fertilization key points
+https://boa.unimib.it/retrieve/e39773b7-1d77-35a3-e053-3a05fe0aac26/Lambert_2021_EPSL_Dust-iron-CO2.pdf
+https://epic2-clone.awi.de/38919/1/lambert15grl.pdf
+WebSearch: Vallelonga 2010 Lead isotopic compositions EPICA Dome C
+WebSearch: Aarons 2017 Taylor Glacier dust composition
+https://epic.awi.de/id/eprint/19910/
+https://boa.unimib.it/handle/10281/148752
+https://bpcrc.osu.edu/sites/default/files/2020-12/QSR Vallelonga 2010.pdf
+WebSearch: Davies 2020 PATICE
+WebSearch: Neff Bertler 2015 trajectory modeling
+https://ore.exeter.ac.uk/repository/handle/10871/122637
+https://adam.antarcticanz.govt.nz/nodes/view/63689
+WebSearch: Speirs 2010 Foehn winds McMurdo
+WebSearch: Vickery 2013 dust plume source inventory southern Africa
+https://data.ucar.edu/dataset/597c12d5-add5-4236-9b5d-46c03610e484
+https://eprints.whiterose.ac.uk/83805/1/vickeryetal2013.pdf
+WebSearch: Vanderstraeten 2023 EDML provenance (Treffer auf egusphere.copernicus.org nicht geoeffnet)
+WebSearch: Magee 2004 Lake Eyre
+https://openpolar.no/Record/ftinsu:oai:HAL:hal-04323160v1
+https://openresearch-repository.anu.edu.au/items/26d833cc-b13b-4873-abea-fabc74be54cb/full
+https://hal.science/hal-04323160 (nicht abgerufen, nicht freigegeben)
+WebSearch: De Deckker 2010 Lead isotopic evidence Australian source
+https://ro.uow.edu.au/scipapers/4382
+https://marineinfo.org/id/publication/382930
+https://researchportalplus.anu.edu.au/en/publications/lead-isotopic-evidence-for-an-australian-source-of-aeolian-dust-t/
+WebSearch: Yang 2024 merged superposed jet southwest Pacific
+https://doaj.org/article/173ec72a37974e0caea5c21872df5bee
+WebSearch: Vallelonga 2002 Law Dome lead pollution
+https://espace.curtin.edu.au/handle/20.500.11937/2580?show=full
+WebSearch: Gabrielli 2010 glacial-interglacial change REE
+https://bpcrc.osu.edu/sites/default/files/2020-12/QSR Gabrielli 2010.pdf
+WebSearch: Parrenin EDC3 chronology authors
+https://nora.nerc.ac.uk/id/eprint/11865/

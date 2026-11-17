@@ -1,0 +1,1406 @@
+[
+ {
+  "welle": 1,
+  "bedingung": "C",
+  "manuskript": "4695",
+  "wdh": 1,
+  "code": "L01",
+  "kennung": "H-C-4695-1",
+  "R": "/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/haupt/L01",
+  "S": "/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/haupt/L01/skills",
+  "pdf": "egusphere-2025-4695.pdf",
+  "supp": "",
+  "G": "egusphere-2025-4695_Gutachten.md",
+  "pakete": [
+   "9fc7d78e7d32",
+   "d10a409da3e8",
+   "9c9a62f9996c"
+  ],
+  "pdf_sha": "9c80676054f9",
+  "fassung": "1.3.0/1.2.0/1.2.0",
+  "aufbau": "nacheinander",
+  "rollen": [
+   "C"
+  ]
+ },
+ {
+  "welle": 1,
+  "bedingung": "D",
+  "manuskript": "4733",
+  "wdh": 1,
+  "code": "L02",
+  "kennung": "H-D-4733-1",
+  "R": "/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/haupt/L02",
+  "S": "/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/haupt/L02/skills",
+  "pdf": "egusphere-2025-4733.pdf",
+  "supp": "",
+  "G": "egusphere-2025-4733_Gutachten.md",
+  "pakete": [
+   "66dcd7c60f8a",
+   "ce3468d00215",
+   "9c9a62f9996c"
+  ],
+  "pdf_sha": "e2a7d5b75ca6",
+  "fassung": "1.4.0/1.3.0/1.2.0",
+  "aufbau": "getrennt",
+  "rollen": [
+   "VB",
+   "S1",
+   "S2",
+   "S3",
+   "S4",
+   "AB",
+   "SD",
+   "ZF"
+  ]
+ },
+ {
+  "welle": 1,
+  "bedingung": "D",
+  "manuskript": "4506",
+  "wdh": 1,
+  "code": "L03",
+  "kennung": "H-D-4506-1",
+  "R": "/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/haupt/L03",
+  "S": "/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/haupt/L03/skills",
+  "pdf": "egusphere-2025-4506.pdf",
+  "supp": "",
+  "G": "egusphere-2025-4506_Gutachten.md",
+  "pakete": [
+   "66dcd7c60f8a",
+   "ce3468d00215",
+   "9c9a62f9996c"
+  ],
+  "pdf_sha": "64cb37874562",
+  "fassung": "1.4.0/1.3.0/1.2.0",
+  "aufbau": "getrennt",
+  "rollen": [
+   "VB",
+   "S1",
+   "S2",
+   "S3",
+   "S4",
+   "AB",
+   "SD",
+   "ZF"
+  ]
+ },
+ {
+  "welle": 1,
+  "bedingung": "B",
+  "manuskript": "4733",
+  "wdh": 1,
+  "code": "L04",
+  "kennung": "H-B-4733-1",
+  "R": "/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/haupt/L04",
+  "S": "/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/haupt/L04/skills",
+  "pdf": "egusphere-2025-4733.pdf",
+  "supp": "",
+  "G": "egusphere-2025-4733_Gutachten.md",
+  "pakete": [
+   "9fc7d78e7d32",
+   "d10a409da3e8",
+   "9c9a62f9996c"
+  ],
+  "pdf_sha": "e2a7d5b75ca6",
+  "fassung": "1.3.0/1.2.0/1.2.0",
+  "aufbau": "getrennt",
+  "rollen": [
+   "VB",
+   "S1",
+   "S2",
+   "S3",
+   "S4",
+   "AB",
+   "SD",
+   "ZF"
+  ]
+ },
+ {
+  "welle": 1,
+  "bedingung": "A",
+  "manuskript": "5046",
+  "wdh": 1,
+  "code": "L05",
+  "kennung": "H-A-5046-1",
+  "R": "/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/haupt/L05",
+  "S": "/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/haupt/L05/skills",
+  "pdf": "egusphere-2025-5046.pdf",
+  "supp": "egusphere-2025-5046-supplement.pdf",
+  "G": "egusphere-2025-5046_Gutachten.md",
+  "pakete": [
+   "7a2d507149f7",
+   "3885b3029401",
+   "a44abec7eafc"
+  ],
+  "pdf_sha": "f598b53d01e3",
+  "fassung": "1.0.0/1.0.0/1.0.0",
+  "aufbau": "getrennt",
+  "rollen": [
+   "VB",
+   "S1",
+   "S2",
+   "S3",
+   "S4",
+   "AB",
+   "SD",
+   "ZF"
+  ]
+ },
+ {
+  "welle": 1,
+  "bedingung": "C",
+  "manuskript": "5046",
+  "wdh": 1,
+  "code": "L06",
+  "kennung": "H-C-5046-1",
+  "R": "/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/haupt/L06",
+  "S": "/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/haupt/L06/skills",
+  "pdf": "egusphere-2025-5046.pdf",
+  "supp": "egusphere-2025-5046-supplement.pdf",
+  "G": "egusphere-2025-5046_Gutachten.md",
+  "pakete": [
+   "9fc7d78e7d32",
+   "d10a409da3e8",
+   "9c9a62f9996c"
+  ],
+  "pdf_sha": "f598b53d01e3",
+  "fassung": "1.3.0/1.2.0/1.2.0",
+  "aufbau": "nacheinander",
+  "rollen": [
+   "C"
+  ]
+ },
+ {
+  "welle": 1,
+  "bedingung": "B",
+  "manuskript": "4506",
+  "wdh": 1,
+  "code": "L07",
+  "kennung": "H-B-4506-1",
+  "R": "/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/haupt/L07",
+  "S": "/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/haupt/L07/skills",
+  "pdf": "egusphere-2025-4506.pdf",
+  "supp": "",
+  "G": "egusphere-2025-4506_Gutachten.md",
+  "pakete": [
+   "9fc7d78e7d32",
+   "d10a409da3e8",
+   "9c9a62f9996c"
+  ],
+  "pdf_sha": "64cb37874562",
+  "fassung": "1.3.0/1.2.0/1.2.0",
+  "aufbau": "getrennt",
+  "rollen": [
+   "VB",
+   "S1",
+   "S2",
+   "S3",
+   "S4",
+   "AB",
+   "SD",
+   "ZF"
+  ]
+ },
+ {
+  "welle": 1,
+  "bedingung": "B",
+  "manuskript": "4695",
+  "wdh": 1,
+  "code": "L08",
+  "kennung": "H-B-4695-1",
+  "R": "/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/haupt/L08",
+  "S": "/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/haupt/L08/skills",
+  "pdf": "egusphere-2025-4695.pdf",
+  "supp": "",
+  "G": "egusphere-2025-4695_Gutachten.md",
+  "pakete": [
+   "9fc7d78e7d32",
+   "d10a409da3e8",
+   "9c9a62f9996c"
+  ],
+  "pdf_sha": "9c80676054f9",
+  "fassung": "1.3.0/1.2.0/1.2.0",
+  "aufbau": "getrennt",
+  "rollen": [
+   "VB",
+   "S1",
+   "S2",
+   "S3",
+   "S4",
+   "AB",
+   "SD",
+   "ZF"
+  ]
+ },
+ {
+  "welle": 1,
+  "bedingung": "D",
+  "manuskript": "5046",
+  "wdh": 1,
+  "code": "L09",
+  "kennung": "H-D-5046-1",
+  "R": "/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/haupt/L09",
+  "S": "/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/haupt/L09/skills",
+  "pdf": "egusphere-2025-5046.pdf",
+  "supp": "egusphere-2025-5046-supplement.pdf",
+  "G": "egusphere-2025-5046_Gutachten.md",
+  "pakete": [
+   "66dcd7c60f8a",
+   "ce3468d00215",
+   "9c9a62f9996c"
+  ],
+  "pdf_sha": "f598b53d01e3",
+  "fassung": "1.4.0/1.3.0/1.2.0",
+  "aufbau": "getrennt",
+  "rollen": [
+   "VB",
+   "S1",
+   "S2",
+   "S3",
+   "S4",
+   "AB",
+   "SD",
+   "ZF"
+  ]
+ },
+ {
+  "welle": 1,
+  "bedingung": "D",
+  "manuskript": "4695",
+  "wdh": 1,
+  "code": "L10",
+  "kennung": "H-D-4695-1",
+  "R": "/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/haupt/L10",
+  "S": "/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/haupt/L10/skills",
+  "pdf": "egusphere-2025-4695.pdf",
+  "supp": "",
+  "G": "egusphere-2025-4695_Gutachten.md",
+  "pakete": [
+   "66dcd7c60f8a",
+   "ce3468d00215",
+   "9c9a62f9996c"
+  ],
+  "pdf_sha": "9c80676054f9",
+  "fassung": "1.4.0/1.3.0/1.2.0",
+  "aufbau": "getrennt",
+  "rollen": [
+   "VB",
+   "S1",
+   "S2",
+   "S3",
+   "S4",
+   "AB",
+   "SD",
+   "ZF"
+  ]
+ },
+ {
+  "welle": 1,
+  "bedingung": "A",
+  "manuskript": "4695",
+  "wdh": 1,
+  "code": "L11",
+  "kennung": "H-A-4695-1",
+  "R": "/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/haupt/L11",
+  "S": "/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/haupt/L11/skills",
+  "pdf": "egusphere-2025-4695.pdf",
+  "supp": "",
+  "G": "egusphere-2025-4695_Gutachten.md",
+  "pakete": [
+   "7a2d507149f7",
+   "3885b3029401",
+   "a44abec7eafc"
+  ],
+  "pdf_sha": "9c80676054f9",
+  "fassung": "1.0.0/1.0.0/1.0.0",
+  "aufbau": "getrennt",
+  "rollen": [
+   "VB",
+   "S1",
+   "S2",
+   "S3",
+   "S4",
+   "AB",
+   "SD",
+   "ZF"
+  ]
+ },
+ {
+  "welle": 1,
+  "bedingung": "C",
+  "manuskript": "4733",
+  "wdh": 1,
+  "code": "L12",
+  "kennung": "H-C-4733-1",
+  "R": "/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/haupt/L12",
+  "S": "/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/haupt/L12/skills",
+  "pdf": "egusphere-2025-4733.pdf",
+  "supp": "",
+  "G": "egusphere-2025-4733_Gutachten.md",
+  "pakete": [
+   "9fc7d78e7d32",
+   "d10a409da3e8",
+   "9c9a62f9996c"
+  ],
+  "pdf_sha": "e2a7d5b75ca6",
+  "fassung": "1.3.0/1.2.0/1.2.0",
+  "aufbau": "nacheinander",
+  "rollen": [
+   "C"
+  ]
+ },
+ {
+  "welle": 1,
+  "bedingung": "A",
+  "manuskript": "4733",
+  "wdh": 1,
+  "code": "L13",
+  "kennung": "H-A-4733-1",
+  "R": "/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/haupt/L13",
+  "S": "/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/haupt/L13/skills",
+  "pdf": "egusphere-2025-4733.pdf",
+  "supp": "",
+  "G": "egusphere-2025-4733_Gutachten.md",
+  "pakete": [
+   "7a2d507149f7",
+   "3885b3029401",
+   "a44abec7eafc"
+  ],
+  "pdf_sha": "e2a7d5b75ca6",
+  "fassung": "1.0.0/1.0.0/1.0.0",
+  "aufbau": "getrennt",
+  "rollen": [
+   "VB",
+   "S1",
+   "S2",
+   "S3",
+   "S4",
+   "AB",
+   "SD",
+   "ZF"
+  ]
+ },
+ {
+  "welle": 1,
+  "bedingung": "B",
+  "manuskript": "5046",
+  "wdh": 1,
+  "code": "L14",
+  "kennung": "H-B-5046-1",
+  "R": "/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/haupt/L14",
+  "S": "/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/haupt/L14/skills",
+  "pdf": "egusphere-2025-5046.pdf",
+  "supp": "egusphere-2025-5046-supplement.pdf",
+  "G": "egusphere-2025-5046_Gutachten.md",
+  "pakete": [
+   "9fc7d78e7d32",
+   "d10a409da3e8",
+   "9c9a62f9996c"
+  ],
+  "pdf_sha": "f598b53d01e3",
+  "fassung": "1.3.0/1.2.0/1.2.0",
+  "aufbau": "getrennt",
+  "rollen": [
+   "VB",
+   "S1",
+   "S2",
+   "S3",
+   "S4",
+   "AB",
+   "SD",
+   "ZF"
+  ]
+ },
+ {
+  "welle": 1,
+  "bedingung": "A",
+  "manuskript": "4506",
+  "wdh": 1,
+  "code": "L15",
+  "kennung": "H-A-4506-1",
+  "R": "/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/haupt/L15",
+  "S": "/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/haupt/L15/skills",
+  "pdf": "egusphere-2025-4506.pdf",
+  "supp": "",
+  "G": "egusphere-2025-4506_Gutachten.md",
+  "pakete": [
+   "7a2d507149f7",
+   "3885b3029401",
+   "a44abec7eafc"
+  ],
+  "pdf_sha": "64cb37874562",
+  "fassung": "1.0.0/1.0.0/1.0.0",
+  "aufbau": "getrennt",
+  "rollen": [
+   "VB",
+   "S1",
+   "S2",
+   "S3",
+   "S4",
+   "AB",
+   "SD",
+   "ZF"
+  ]
+ },
+ {
+  "welle": 1,
+  "bedingung": "C",
+  "manuskript": "4506",
+  "wdh": 1,
+  "code": "L16",
+  "kennung": "H-C-4506-1",
+  "R": "/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/haupt/L16",
+  "S": "/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/haupt/L16/skills",
+  "pdf": "egusphere-2025-4506.pdf",
+  "supp": "",
+  "G": "egusphere-2025-4506_Gutachten.md",
+  "pakete": [
+   "9fc7d78e7d32",
+   "d10a409da3e8",
+   "9c9a62f9996c"
+  ],
+  "pdf_sha": "64cb37874562",
+  "fassung": "1.3.0/1.2.0/1.2.0",
+  "aufbau": "nacheinander",
+  "rollen": [
+   "C"
+  ]
+ },
+ {
+  "welle": 2,
+  "bedingung": "A",
+  "manuskript": "5046",
+  "wdh": 2,
+  "code": "L17",
+  "kennung": "H-A-5046-2",
+  "R": "/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/haupt/L17",
+  "S": "/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/haupt/L17/skills",
+  "pdf": "egusphere-2025-5046.pdf",
+  "supp": "egusphere-2025-5046-supplement.pdf",
+  "G": "egusphere-2025-5046_Gutachten.md",
+  "pakete": [
+   "7a2d507149f7",
+   "3885b3029401",
+   "a44abec7eafc"
+  ],
+  "pdf_sha": "f598b53d01e3",
+  "fassung": "1.0.0/1.0.0/1.0.0",
+  "aufbau": "getrennt",
+  "rollen": [
+   "VB",
+   "S1",
+   "S2",
+   "S3",
+   "S4",
+   "AB",
+   "SD",
+   "ZF"
+  ]
+ },
+ {
+  "welle": 2,
+  "bedingung": "B",
+  "manuskript": "4733",
+  "wdh": 2,
+  "code": "L18",
+  "kennung": "H-B-4733-2",
+  "R": "/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/haupt/L18",
+  "S": "/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/haupt/L18/skills",
+  "pdf": "egusphere-2025-4733.pdf",
+  "supp": "",
+  "G": "egusphere-2025-4733_Gutachten.md",
+  "pakete": [
+   "9fc7d78e7d32",
+   "d10a409da3e8",
+   "9c9a62f9996c"
+  ],
+  "pdf_sha": "e2a7d5b75ca6",
+  "fassung": "1.3.0/1.2.0/1.2.0",
+  "aufbau": "getrennt",
+  "rollen": [
+   "VB",
+   "S1",
+   "S2",
+   "S3",
+   "S4",
+   "AB",
+   "SD",
+   "ZF"
+  ]
+ },
+ {
+  "welle": 2,
+  "bedingung": "C",
+  "manuskript": "4733",
+  "wdh": 2,
+  "code": "L19",
+  "kennung": "H-C-4733-2",
+  "R": "/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/haupt/L19",
+  "S": "/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/haupt/L19/skills",
+  "pdf": "egusphere-2025-4733.pdf",
+  "supp": "",
+  "G": "egusphere-2025-4733_Gutachten.md",
+  "pakete": [
+   "9fc7d78e7d32",
+   "d10a409da3e8",
+   "9c9a62f9996c"
+  ],
+  "pdf_sha": "e2a7d5b75ca6",
+  "fassung": "1.3.0/1.2.0/1.2.0",
+  "aufbau": "nacheinander",
+  "rollen": [
+   "C"
+  ]
+ },
+ {
+  "welle": 2,
+  "bedingung": "D",
+  "manuskript": "4733",
+  "wdh": 2,
+  "code": "L20",
+  "kennung": "H-D-4733-2",
+  "R": "/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/haupt/L20",
+  "S": "/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/haupt/L20/skills",
+  "pdf": "egusphere-2025-4733.pdf",
+  "supp": "",
+  "G": "egusphere-2025-4733_Gutachten.md",
+  "pakete": [
+   "66dcd7c60f8a",
+   "ce3468d00215",
+   "9c9a62f9996c"
+  ],
+  "pdf_sha": "e2a7d5b75ca6",
+  "fassung": "1.4.0/1.3.0/1.2.0",
+  "aufbau": "getrennt",
+  "rollen": [
+   "VB",
+   "S1",
+   "S2",
+   "S3",
+   "S4",
+   "AB",
+   "SD",
+   "ZF"
+  ]
+ },
+ {
+  "welle": 2,
+  "bedingung": "C",
+  "manuskript": "4695",
+  "wdh": 2,
+  "code": "L21",
+  "kennung": "H-C-4695-2",
+  "R": "/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/haupt/L21",
+  "S": "/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/haupt/L21/skills",
+  "pdf": "egusphere-2025-4695.pdf",
+  "supp": "",
+  "G": "egusphere-2025-4695_Gutachten.md",
+  "pakete": [
+   "9fc7d78e7d32",
+   "d10a409da3e8",
+   "9c9a62f9996c"
+  ],
+  "pdf_sha": "9c80676054f9",
+  "fassung": "1.3.0/1.2.0/1.2.0",
+  "aufbau": "nacheinander",
+  "rollen": [
+   "C"
+  ]
+ },
+ {
+  "welle": 2,
+  "bedingung": "A",
+  "manuskript": "4695",
+  "wdh": 2,
+  "code": "L22",
+  "kennung": "H-A-4695-2",
+  "R": "/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/haupt/L22",
+  "S": "/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/haupt/L22/skills",
+  "pdf": "egusphere-2025-4695.pdf",
+  "supp": "",
+  "G": "egusphere-2025-4695_Gutachten.md",
+  "pakete": [
+   "7a2d507149f7",
+   "3885b3029401",
+   "a44abec7eafc"
+  ],
+  "pdf_sha": "9c80676054f9",
+  "fassung": "1.0.0/1.0.0/1.0.0",
+  "aufbau": "getrennt",
+  "rollen": [
+   "VB",
+   "S1",
+   "S2",
+   "S3",
+   "S4",
+   "AB",
+   "SD",
+   "ZF"
+  ]
+ },
+ {
+  "welle": 2,
+  "bedingung": "C",
+  "manuskript": "4506",
+  "wdh": 2,
+  "code": "L23",
+  "kennung": "H-C-4506-2",
+  "R": "/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/haupt/L23",
+  "S": "/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/haupt/L23/skills",
+  "pdf": "egusphere-2025-4506.pdf",
+  "supp": "",
+  "G": "egusphere-2025-4506_Gutachten.md",
+  "pakete": [
+   "9fc7d78e7d32",
+   "d10a409da3e8",
+   "9c9a62f9996c"
+  ],
+  "pdf_sha": "64cb37874562",
+  "fassung": "1.3.0/1.2.0/1.2.0",
+  "aufbau": "nacheinander",
+  "rollen": [
+   "C"
+  ]
+ },
+ {
+  "welle": 2,
+  "bedingung": "A",
+  "manuskript": "4506",
+  "wdh": 2,
+  "code": "L24",
+  "kennung": "H-A-4506-2",
+  "R": "/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/haupt/L24",
+  "S": "/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/haupt/L24/skills",
+  "pdf": "egusphere-2025-4506.pdf",
+  "supp": "",
+  "G": "egusphere-2025-4506_Gutachten.md",
+  "pakete": [
+   "7a2d507149f7",
+   "3885b3029401",
+   "a44abec7eafc"
+  ],
+  "pdf_sha": "64cb37874562",
+  "fassung": "1.0.0/1.0.0/1.0.0",
+  "aufbau": "getrennt",
+  "rollen": [
+   "VB",
+   "S1",
+   "S2",
+   "S3",
+   "S4",
+   "AB",
+   "SD",
+   "ZF"
+  ]
+ },
+ {
+  "welle": 2,
+  "bedingung": "D",
+  "manuskript": "4506",
+  "wdh": 2,
+  "code": "L25",
+  "kennung": "H-D-4506-2",
+  "R": "/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/haupt/L25",
+  "S": "/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/haupt/L25/skills",
+  "pdf": "egusphere-2025-4506.pdf",
+  "supp": "",
+  "G": "egusphere-2025-4506_Gutachten.md",
+  "pakete": [
+   "66dcd7c60f8a",
+   "ce3468d00215",
+   "9c9a62f9996c"
+  ],
+  "pdf_sha": "64cb37874562",
+  "fassung": "1.4.0/1.3.0/1.2.0",
+  "aufbau": "getrennt",
+  "rollen": [
+   "VB",
+   "S1",
+   "S2",
+   "S3",
+   "S4",
+   "AB",
+   "SD",
+   "ZF"
+  ]
+ },
+ {
+  "welle": 2,
+  "bedingung": "B",
+  "manuskript": "5046",
+  "wdh": 2,
+  "code": "L26",
+  "kennung": "H-B-5046-2",
+  "R": "/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/haupt/L26",
+  "S": "/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/haupt/L26/skills",
+  "pdf": "egusphere-2025-5046.pdf",
+  "supp": "egusphere-2025-5046-supplement.pdf",
+  "G": "egusphere-2025-5046_Gutachten.md",
+  "pakete": [
+   "9fc7d78e7d32",
+   "d10a409da3e8",
+   "9c9a62f9996c"
+  ],
+  "pdf_sha": "f598b53d01e3",
+  "fassung": "1.3.0/1.2.0/1.2.0",
+  "aufbau": "getrennt",
+  "rollen": [
+   "VB",
+   "S1",
+   "S2",
+   "S3",
+   "S4",
+   "AB",
+   "SD",
+   "ZF"
+  ]
+ },
+ {
+  "welle": 2,
+  "bedingung": "D",
+  "manuskript": "5046",
+  "wdh": 2,
+  "code": "L27",
+  "kennung": "H-D-5046-2",
+  "R": "/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/haupt/L27",
+  "S": "/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/haupt/L27/skills",
+  "pdf": "egusphere-2025-5046.pdf",
+  "supp": "egusphere-2025-5046-supplement.pdf",
+  "G": "egusphere-2025-5046_Gutachten.md",
+  "pakete": [
+   "66dcd7c60f8a",
+   "ce3468d00215",
+   "9c9a62f9996c"
+  ],
+  "pdf_sha": "f598b53d01e3",
+  "fassung": "1.4.0/1.3.0/1.2.0",
+  "aufbau": "getrennt",
+  "rollen": [
+   "VB",
+   "S1",
+   "S2",
+   "S3",
+   "S4",
+   "AB",
+   "SD",
+   "ZF"
+  ]
+ },
+ {
+  "welle": 2,
+  "bedingung": "B",
+  "manuskript": "4506",
+  "wdh": 2,
+  "code": "L28",
+  "kennung": "H-B-4506-2",
+  "R": "/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/haupt/L28",
+  "S": "/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/haupt/L28/skills",
+  "pdf": "egusphere-2025-4506.pdf",
+  "supp": "",
+  "G": "egusphere-2025-4506_Gutachten.md",
+  "pakete": [
+   "9fc7d78e7d32",
+   "d10a409da3e8",
+   "9c9a62f9996c"
+  ],
+  "pdf_sha": "64cb37874562",
+  "fassung": "1.3.0/1.2.0/1.2.0",
+  "aufbau": "getrennt",
+  "rollen": [
+   "VB",
+   "S1",
+   "S2",
+   "S3",
+   "S4",
+   "AB",
+   "SD",
+   "ZF"
+  ]
+ },
+ {
+  "welle": 2,
+  "bedingung": "D",
+  "manuskript": "4695",
+  "wdh": 2,
+  "code": "L29",
+  "kennung": "H-D-4695-2",
+  "R": "/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/haupt/L29",
+  "S": "/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/haupt/L29/skills",
+  "pdf": "egusphere-2025-4695.pdf",
+  "supp": "",
+  "G": "egusphere-2025-4695_Gutachten.md",
+  "pakete": [
+   "66dcd7c60f8a",
+   "ce3468d00215",
+   "9c9a62f9996c"
+  ],
+  "pdf_sha": "9c80676054f9",
+  "fassung": "1.4.0/1.3.0/1.2.0",
+  "aufbau": "getrennt",
+  "rollen": [
+   "VB",
+   "S1",
+   "S2",
+   "S3",
+   "S4",
+   "AB",
+   "SD",
+   "ZF"
+  ]
+ },
+ {
+  "welle": 2,
+  "bedingung": "A",
+  "manuskript": "4733",
+  "wdh": 2,
+  "code": "L30",
+  "kennung": "H-A-4733-2",
+  "R": "/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/haupt/L30",
+  "S": "/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/haupt/L30/skills",
+  "pdf": "egusphere-2025-4733.pdf",
+  "supp": "",
+  "G": "egusphere-2025-4733_Gutachten.md",
+  "pakete": [
+   "7a2d507149f7",
+   "3885b3029401",
+   "a44abec7eafc"
+  ],
+  "pdf_sha": "e2a7d5b75ca6",
+  "fassung": "1.0.0/1.0.0/1.0.0",
+  "aufbau": "getrennt",
+  "rollen": [
+   "VB",
+   "S1",
+   "S2",
+   "S3",
+   "S4",
+   "AB",
+   "SD",
+   "ZF"
+  ]
+ },
+ {
+  "welle": 2,
+  "bedingung": "C",
+  "manuskript": "5046",
+  "wdh": 2,
+  "code": "L31",
+  "kennung": "H-C-5046-2",
+  "R": "/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/haupt/L31",
+  "S": "/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/haupt/L31/skills",
+  "pdf": "egusphere-2025-5046.pdf",
+  "supp": "egusphere-2025-5046-supplement.pdf",
+  "G": "egusphere-2025-5046_Gutachten.md",
+  "pakete": [
+   "9fc7d78e7d32",
+   "d10a409da3e8",
+   "9c9a62f9996c"
+  ],
+  "pdf_sha": "f598b53d01e3",
+  "fassung": "1.3.0/1.2.0/1.2.0",
+  "aufbau": "nacheinander",
+  "rollen": [
+   "C"
+  ]
+ },
+ {
+  "welle": 2,
+  "bedingung": "B",
+  "manuskript": "4695",
+  "wdh": 2,
+  "code": "L32",
+  "kennung": "H-B-4695-2",
+  "R": "/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/haupt/L32",
+  "S": "/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/haupt/L32/skills",
+  "pdf": "egusphere-2025-4695.pdf",
+  "supp": "",
+  "G": "egusphere-2025-4695_Gutachten.md",
+  "pakete": [
+   "9fc7d78e7d32",
+   "d10a409da3e8",
+   "9c9a62f9996c"
+  ],
+  "pdf_sha": "9c80676054f9",
+  "fassung": "1.3.0/1.2.0/1.2.0",
+  "aufbau": "getrennt",
+  "rollen": [
+   "VB",
+   "S1",
+   "S2",
+   "S3",
+   "S4",
+   "AB",
+   "SD",
+   "ZF"
+  ]
+ },
+ {
+  "welle": 3,
+  "bedingung": "A",
+  "manuskript": "4506",
+  "wdh": 3,
+  "code": "L33",
+  "kennung": "H-A-4506-3",
+  "R": "/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/haupt/L33",
+  "S": "/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/haupt/L33/skills",
+  "pdf": "egusphere-2025-4506.pdf",
+  "supp": "",
+  "G": "egusphere-2025-4506_Gutachten.md",
+  "pakete": [
+   "7a2d507149f7",
+   "3885b3029401",
+   "a44abec7eafc"
+  ],
+  "pdf_sha": "64cb37874562",
+  "fassung": "1.0.0/1.0.0/1.0.0",
+  "aufbau": "getrennt",
+  "rollen": [
+   "VB",
+   "S1",
+   "S2",
+   "S3",
+   "S4",
+   "AB",
+   "SD",
+   "ZF"
+  ]
+ },
+ {
+  "welle": 3,
+  "bedingung": "D",
+  "manuskript": "4733",
+  "wdh": 3,
+  "code": "L34",
+  "kennung": "H-D-4733-3",
+  "R": "/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/haupt/L34",
+  "S": "/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/haupt/L34/skills",
+  "pdf": "egusphere-2025-4733.pdf",
+  "supp": "",
+  "G": "egusphere-2025-4733_Gutachten.md",
+  "pakete": [
+   "66dcd7c60f8a",
+   "ce3468d00215",
+   "9c9a62f9996c"
+  ],
+  "pdf_sha": "e2a7d5b75ca6",
+  "fassung": "1.4.0/1.3.0/1.2.0",
+  "aufbau": "getrennt",
+  "rollen": [
+   "VB",
+   "S1",
+   "S2",
+   "S3",
+   "S4",
+   "AB",
+   "SD",
+   "ZF"
+  ]
+ },
+ {
+  "welle": 3,
+  "bedingung": "A",
+  "manuskript": "4695",
+  "wdh": 3,
+  "code": "L35",
+  "kennung": "H-A-4695-3",
+  "R": "/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/haupt/L35",
+  "S": "/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/haupt/L35/skills",
+  "pdf": "egusphere-2025-4695.pdf",
+  "supp": "",
+  "G": "egusphere-2025-4695_Gutachten.md",
+  "pakete": [
+   "7a2d507149f7",
+   "3885b3029401",
+   "a44abec7eafc"
+  ],
+  "pdf_sha": "9c80676054f9",
+  "fassung": "1.0.0/1.0.0/1.0.0",
+  "aufbau": "getrennt",
+  "rollen": [
+   "VB",
+   "S1",
+   "S2",
+   "S3",
+   "S4",
+   "AB",
+   "SD",
+   "ZF"
+  ]
+ },
+ {
+  "welle": 3,
+  "bedingung": "D",
+  "manuskript": "5046",
+  "wdh": 3,
+  "code": "L36",
+  "kennung": "H-D-5046-3",
+  "R": "/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/haupt/L36",
+  "S": "/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/haupt/L36/skills",
+  "pdf": "egusphere-2025-5046.pdf",
+  "supp": "egusphere-2025-5046-supplement.pdf",
+  "G": "egusphere-2025-5046_Gutachten.md",
+  "pakete": [
+   "66dcd7c60f8a",
+   "ce3468d00215",
+   "9c9a62f9996c"
+  ],
+  "pdf_sha": "f598b53d01e3",
+  "fassung": "1.4.0/1.3.0/1.2.0",
+  "aufbau": "getrennt",
+  "rollen": [
+   "VB",
+   "S1",
+   "S2",
+   "S3",
+   "S4",
+   "AB",
+   "SD",
+   "ZF"
+  ]
+ },
+ {
+  "welle": 3,
+  "bedingung": "C",
+  "manuskript": "5046",
+  "wdh": 3,
+  "code": "L37",
+  "kennung": "H-C-5046-3",
+  "R": "/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/haupt/L37",
+  "S": "/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/haupt/L37/skills",
+  "pdf": "egusphere-2025-5046.pdf",
+  "supp": "egusphere-2025-5046-supplement.pdf",
+  "G": "egusphere-2025-5046_Gutachten.md",
+  "pakete": [
+   "9fc7d78e7d32",
+   "d10a409da3e8",
+   "9c9a62f9996c"
+  ],
+  "pdf_sha": "f598b53d01e3",
+  "fassung": "1.3.0/1.2.0/1.2.0",
+  "aufbau": "nacheinander",
+  "rollen": [
+   "C"
+  ]
+ },
+ {
+  "welle": 3,
+  "bedingung": "C",
+  "manuskript": "4695",
+  "wdh": 3,
+  "code": "L38",
+  "kennung": "H-C-4695-3",
+  "R": "/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/haupt/L38",
+  "S": "/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/haupt/L38/skills",
+  "pdf": "egusphere-2025-4695.pdf",
+  "supp": "",
+  "G": "egusphere-2025-4695_Gutachten.md",
+  "pakete": [
+   "9fc7d78e7d32",
+   "d10a409da3e8",
+   "9c9a62f9996c"
+  ],
+  "pdf_sha": "9c80676054f9",
+  "fassung": "1.3.0/1.2.0/1.2.0",
+  "aufbau": "nacheinander",
+  "rollen": [
+   "C"
+  ]
+ },
+ {
+  "welle": 3,
+  "bedingung": "C",
+  "manuskript": "4733",
+  "wdh": 3,
+  "code": "L39",
+  "kennung": "H-C-4733-3",
+  "R": "/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/haupt/L39",
+  "S": "/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/haupt/L39/skills",
+  "pdf": "egusphere-2025-4733.pdf",
+  "supp": "",
+  "G": "egusphere-2025-4733_Gutachten.md",
+  "pakete": [
+   "9fc7d78e7d32",
+   "d10a409da3e8",
+   "9c9a62f9996c"
+  ],
+  "pdf_sha": "e2a7d5b75ca6",
+  "fassung": "1.3.0/1.2.0/1.2.0",
+  "aufbau": "nacheinander",
+  "rollen": [
+   "C"
+  ]
+ },
+ {
+  "welle": 3,
+  "bedingung": "D",
+  "manuskript": "4695",
+  "wdh": 3,
+  "code": "L40",
+  "kennung": "H-D-4695-3",
+  "R": "/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/haupt/L40",
+  "S": "/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/haupt/L40/skills",
+  "pdf": "egusphere-2025-4695.pdf",
+  "supp": "",
+  "G": "egusphere-2025-4695_Gutachten.md",
+  "pakete": [
+   "66dcd7c60f8a",
+   "ce3468d00215",
+   "9c9a62f9996c"
+  ],
+  "pdf_sha": "9c80676054f9",
+  "fassung": "1.4.0/1.3.0/1.2.0",
+  "aufbau": "getrennt",
+  "rollen": [
+   "VB",
+   "S1",
+   "S2",
+   "S3",
+   "S4",
+   "AB",
+   "SD",
+   "ZF"
+  ]
+ },
+ {
+  "welle": 3,
+  "bedingung": "B",
+  "manuskript": "4506",
+  "wdh": 3,
+  "code": "L41",
+  "kennung": "H-B-4506-3",
+  "R": "/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/haupt/L41",
+  "S": "/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/haupt/L41/skills",
+  "pdf": "egusphere-2025-4506.pdf",
+  "supp": "",
+  "G": "egusphere-2025-4506_Gutachten.md",
+  "pakete": [
+   "9fc7d78e7d32",
+   "d10a409da3e8",
+   "9c9a62f9996c"
+  ],
+  "pdf_sha": "64cb37874562",
+  "fassung": "1.3.0/1.2.0/1.2.0",
+  "aufbau": "getrennt",
+  "rollen": [
+   "VB",
+   "S1",
+   "S2",
+   "S3",
+   "S4",
+   "AB",
+   "SD",
+   "ZF"
+  ]
+ },
+ {
+  "welle": 3,
+  "bedingung": "A",
+  "manuskript": "5046",
+  "wdh": 3,
+  "code": "L42",
+  "kennung": "H-A-5046-3",
+  "R": "/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/haupt/L42",
+  "S": "/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/haupt/L42/skills",
+  "pdf": "egusphere-2025-5046.pdf",
+  "supp": "egusphere-2025-5046-supplement.pdf",
+  "G": "egusphere-2025-5046_Gutachten.md",
+  "pakete": [
+   "7a2d507149f7",
+   "3885b3029401",
+   "a44abec7eafc"
+  ],
+  "pdf_sha": "f598b53d01e3",
+  "fassung": "1.0.0/1.0.0/1.0.0",
+  "aufbau": "getrennt",
+  "rollen": [
+   "VB",
+   "S1",
+   "S2",
+   "S3",
+   "S4",
+   "AB",
+   "SD",
+   "ZF"
+  ]
+ },
+ {
+  "welle": 3,
+  "bedingung": "A",
+  "manuskript": "4733",
+  "wdh": 3,
+  "code": "L43",
+  "kennung": "H-A-4733-3",
+  "R": "/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/haupt/L43",
+  "S": "/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/haupt/L43/skills",
+  "pdf": "egusphere-2025-4733.pdf",
+  "supp": "",
+  "G": "egusphere-2025-4733_Gutachten.md",
+  "pakete": [
+   "7a2d507149f7",
+   "3885b3029401",
+   "a44abec7eafc"
+  ],
+  "pdf_sha": "e2a7d5b75ca6",
+  "fassung": "1.0.0/1.0.0/1.0.0",
+  "aufbau": "getrennt",
+  "rollen": [
+   "VB",
+   "S1",
+   "S2",
+   "S3",
+   "S4",
+   "AB",
+   "SD",
+   "ZF"
+  ]
+ },
+ {
+  "welle": 3,
+  "bedingung": "B",
+  "manuskript": "4733",
+  "wdh": 3,
+  "code": "L44",
+  "kennung": "H-B-4733-3",
+  "R": "/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/haupt/L44",
+  "S": "/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/haupt/L44/skills",
+  "pdf": "egusphere-2025-4733.pdf",
+  "supp": "",
+  "G": "egusphere-2025-4733_Gutachten.md",
+  "pakete": [
+   "9fc7d78e7d32",
+   "d10a409da3e8",
+   "9c9a62f9996c"
+  ],
+  "pdf_sha": "e2a7d5b75ca6",
+  "fassung": "1.3.0/1.2.0/1.2.0",
+  "aufbau": "getrennt",
+  "rollen": [
+   "VB",
+   "S1",
+   "S2",
+   "S3",
+   "S4",
+   "AB",
+   "SD",
+   "ZF"
+  ]
+ },
+ {
+  "welle": 3,
+  "bedingung": "B",
+  "manuskript": "5046",
+  "wdh": 3,
+  "code": "L45",
+  "kennung": "H-B-5046-3",
+  "R": "/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/haupt/L45",
+  "S": "/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/haupt/L45/skills",
+  "pdf": "egusphere-2025-5046.pdf",
+  "supp": "egusphere-2025-5046-supplement.pdf",
+  "G": "egusphere-2025-5046_Gutachten.md",
+  "pakete": [
+   "9fc7d78e7d32",
+   "d10a409da3e8",
+   "9c9a62f9996c"
+  ],
+  "pdf_sha": "f598b53d01e3",
+  "fassung": "1.3.0/1.2.0/1.2.0",
+  "aufbau": "getrennt",
+  "rollen": [
+   "VB",
+   "S1",
+   "S2",
+   "S3",
+   "S4",
+   "AB",
+   "SD",
+   "ZF"
+  ]
+ },
+ {
+  "welle": 3,
+  "bedingung": "B",
+  "manuskript": "4695",
+  "wdh": 3,
+  "code": "L46",
+  "kennung": "H-B-4695-3",
+  "R": "/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/haupt/L46",
+  "S": "/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/haupt/L46/skills",
+  "pdf": "egusphere-2025-4695.pdf",
+  "supp": "",
+  "G": "egusphere-2025-4695_Gutachten.md",
+  "pakete": [
+   "9fc7d78e7d32",
+   "d10a409da3e8",
+   "9c9a62f9996c"
+  ],
+  "pdf_sha": "9c80676054f9",
+  "fassung": "1.3.0/1.2.0/1.2.0",
+  "aufbau": "getrennt",
+  "rollen": [
+   "VB",
+   "S1",
+   "S2",
+   "S3",
+   "S4",
+   "AB",
+   "SD",
+   "ZF"
+  ]
+ },
+ {
+  "welle": 3,
+  "bedingung": "C",
+  "manuskript": "4506",
+  "wdh": 3,
+  "code": "L47",
+  "kennung": "H-C-4506-3",
+  "R": "/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/haupt/L47",
+  "S": "/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/haupt/L47/skills",
+  "pdf": "egusphere-2025-4506.pdf",
+  "supp": "",
+  "G": "egusphere-2025-4506_Gutachten.md",
+  "pakete": [
+   "9fc7d78e7d32",
+   "d10a409da3e8",
+   "9c9a62f9996c"
+  ],
+  "pdf_sha": "64cb37874562",
+  "fassung": "1.3.0/1.2.0/1.2.0",
+  "aufbau": "nacheinander",
+  "rollen": [
+   "C"
+  ]
+ },
+ {
+  "welle": 3,
+  "bedingung": "D",
+  "manuskript": "4506",
+  "wdh": 3,
+  "code": "L48",
+  "kennung": "H-D-4506-3",
+  "R": "/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/haupt/L48",
+  "S": "/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/haupt/L48/skills",
+  "pdf": "egusphere-2025-4506.pdf",
+  "supp": "",
+  "G": "egusphere-2025-4506_Gutachten.md",
+  "pakete": [
+   "66dcd7c60f8a",
+   "ce3468d00215",
+   "9c9a62f9996c"
+  ],
+  "pdf_sha": "64cb37874562",
+  "fassung": "1.4.0/1.3.0/1.2.0",
+  "aufbau": "getrennt",
+  "rollen": [
+   "VB",
+   "S1",
+   "S2",
+   "S3",
+   "S4",
+   "AB",
+   "SD",
+   "ZF"
+  ]
+ }
+]

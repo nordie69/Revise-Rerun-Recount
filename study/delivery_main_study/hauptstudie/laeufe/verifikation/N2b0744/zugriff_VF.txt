@@ -1,0 +1,74 @@
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N2b0744/auftrag_VF.txt
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N2b0744 (Verzeichnisliste)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N2b0744/seiten (Verzeichnisliste)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N2b0744/supplement (Verzeichnisliste)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N2b0744/gutachten.md
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N2b0744/vf/zugriff_VF.txt
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N2b0744/text.json
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N2b0744/supplement/text.json
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N2b0744/supplement/fassung.json
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N2b0744/supplement/seiten (Verzeichnisliste)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N2b0744/vf/main.txt
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N2b0744/vf/supp.txt
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N2b0744/vf/skripte/margin.py
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N2b0744/vf/main_m.txt
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N2b0744/vf/m.txt
+/root/.claude/projects/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/tool-results/bc39nvowy.txt
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N2b0744/seiten/seite-26.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N2b0744/seiten/seite-24.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N2b0744/seiten/seite-04.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N2b0744/supplement/seiten/seite-02.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N2b0744/supplement/seiten/seite-13.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N2b0744/supplement/seiten/seite-17.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N2b0744/supplement/seiten/seite-19.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N2b0744/vf/s1.csv
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N2b0744/vf/s2.json
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N2b0744/vf/skripte/s1.py
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N2b0744/vf/skripte/s2.py
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N2b0744/vf/skripte/stats1.py
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N2b0744/vf/skripte/stats2.py
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N2b0744/vf/skripte/iso.py
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N2b0744/vf/fig2crop.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N2b0744/seiten/seite-27.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N2b0744/seiten/seite-28.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N2b0744/seiten/seite-29.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N2b0744/supplement/seiten/seite-04.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N2b0744/supplement/seiten/seite-06.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N2b0744/supplement/seiten/seite-08.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N2b0744/supplement/seiten/seite-10.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N2b0744/supplement/seiten/seite-21.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N2b0744/vf/skripte/stats3.py
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N2b0744/vf/s5crop.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N2b0744/vf/skripte/kk.py
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N2b0744/seiten/seite-05.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N2b0744/seiten/seite-08.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N2b0744/seiten/seite-16.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N2b0744/vf/verifikation.md
+WebSearch: Vanderstraeten 2023 EDML abstract
+https://marineinfo.org/doc/publication/382930
+https://doi.org/10.1002/2015GL064250 (blockiert, nicht abgerufen)
+WebSearch: Lambert 2015 dust fluxes iron fertilization
+https://epic2-clone.awi.de/id/eprint/38919
+WebSearch: Lambert 2021 iron fertilization CO2 drawdown
+https://boa.unimib.it/retrieve/e39773b7-1d77-35a3-e053-3a05fe0aac26/Lambert_2021_EPSL_Dust-iron-CO2.pdf
+WebSearch: Engelbrecht 2019 downscaling LGM southern Africa
+https://asu.elsevierpure.com/en/publications/downscaling-last-glacial-maximum-climate-over-southern-africa/
+WebSearch: Lambert 2008 dust climate couplings
+https://boris.unibe.ch/37302
+WebSearch: Delmonte 2017 Dome B
+https://boa.unimib.it/handle/10281/156340
+WebSearch: Siggaard-Andersen 2007 lithium
+https://www.iceandclimate.nbi.ku.dk/publications/papers/abstracts/abstract_10/
+WebSearch: Marino 2008 G-cubed
+https://researchportalplus.anu.edu.au/en/publications/defining-the-geochemical-composition-of-the-epica-dome-c-ice-core/
+WebSearch: Vallelonga 2010 Pb EDC
+https://epic.awi.de/id/eprint/19910/ (Zugriff verweigert)
+https://espace.curtin.edu.au/handle/20.500.11937/20060
+WebSearch: Delmonte 2004 Earth-Science Reviews
+https://hal.archives-ouvertes.fr/hal-01695944 (Zugriff verweigert)
+https://www.documentation.ird.fr/hor/PAR00000018
+WebSearch: Davies 2020 PATICE
+https://ore.exeter.ac.uk/repository/handle/10871/122637
+https://cp.copernicus.org/articles/18/67/2022/
+https://doi.pangaea.de/10.1594/PANGAEA.696109 (erster Versuch blockiert, nach WebSearch abgerufen)
+WebSearch: PANGAEA.696109

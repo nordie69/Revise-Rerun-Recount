@@ -1,0 +1,36 @@
+GELESEN
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G355a0f/e3_t6/auftrag_EK.txt
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G355a0f/teil6.md
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G355a0f/text.json
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G355a0f/egusphere-2025-4506.pdf (gerendert mit pdftoppm, Seiten 20 bis 29)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G355a0f/seiten/seite-23.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G355a0f/seiten/ (nur Verzeichnisliste)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G355a0f/ (nur Verzeichnisliste, keine weiteren Dateien geöffnet)
+
+GESCHRIEBEN (alle im Ausgabeordner e3_t6)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G355a0f/e3_t6/ms.txt (Textfassung aus text.json, gelesen)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G355a0f/e3_t6/hr-21.png (gelesen)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G355a0f/e3_t6/hr-22.png (gelesen)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G355a0f/e3_t6/hr20-20.png (gelesen)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G355a0f/e3_t6/hr23-23.png (gelesen)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G355a0f/e3_t6/hr25-25.png (gelesen)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G355a0f/e3_t6/m-24.png (gelesen)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G355a0f/e3_t6/m-25.png (gelesen)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G355a0f/e3_t6/m-26.png (gelesen)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G355a0f/e3_t6/m-27.png (gelesen)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G355a0f/e3_t6/m-28.png (gelesen)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G355a0f/e3_t6/m-29.png (gelesen)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G355a0f/e3_t6/c_10a.png (gelesen)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G355a0f/e3_t6/c_10b.png (gelesen)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G355a0f/e3_t6/c_12.png (gelesen)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G355a0f/e3_t6/c_12b.png (gelesen)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G355a0f/e3_t6/c_8.png (gelesen)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G355a0f/e3_t6/c_c1.png (gelesen)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G355a0f/e3_t6/c_cap9.png (nicht gelesen)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G355a0f/e3_t6/c_red.png (gelesen)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G355a0f/e3_t6/einstufung.md
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G355a0f/e3_t6/zugriff_EK.txt
+
+URLS
+WebSearch: Copernicus Publications data policy "upon request" data availability statement explanation
+WebFetch: https://www.biogeosciences.net/about/data_policy.html

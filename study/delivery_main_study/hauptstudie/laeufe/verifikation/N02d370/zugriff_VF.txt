@@ -1,0 +1,48 @@
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N02d370/auftrag_VF.txt
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N02d370/
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N02d370/seiten/
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N02d370/vf/zugriff_VF.txt
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N02d370/gutachten.md
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N02d370/text.json
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N02d370/vf/text.txt
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N02d370/egusphere-2025-4695.pdf
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N02d370/vf/hr/ (300 dpi renders p25-37)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N02d370/seiten/seite-01.png bis seite-37.png (gelesen: 01 bis 15, 16, 17, 18, 19, 20, 21, 22 bis 37)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N02d370/vf/hr/p25-25.png bis p37-37.png (geschrieben und gelesen)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N02d370/vf/skripte/such.py (geschrieben)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N02d370/vf/skripte/crop.py (geschrieben)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N02d370/vf/skripte/axes.py (geschrieben)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N02d370/vf/skripte/tick.py (geschrieben)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N02d370/vf/skripte/mark.py (geschrieben)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N02d370/vf/skripte/zitate.py (geschrieben)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N02d370/vf/f5g.png (geschrieben und gelesen)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N02d370/vf/f6g.png (geschrieben)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N02d370/vf/f6h.png (geschrieben)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N02d370/vf/f6h_zoom.png (geschrieben und gelesen)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N02d370/vf/f10r1.png (geschrieben und gelesen)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N02d370/vf/f10r5.png (geschrieben)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N02d370/vf/verifikation.md (geschrieben)
+https://researchportal.port.ac.uk/en/publications/use-of-terrestrial-photogrammetry-for-monitoring-and-measuring-ba/
+https://hts.org.za/index.php/hts/article/view/6176
+https://api.openalex.org/works/doi:10.1002/esp.215 (nicht abgerufen, nicht freigegeben)
+https://api.openalex.org/works/doi:10.2134/jeq1975.00472425000400010016x (nicht abgerufen, nicht freigegeben)
+https://pubs.usgs.gov/publication/70026557
+https://pubs.usgs.gov/publication/70032707
+https://api.openalex.org/works/doi:10.1002/2014JF003432 (nicht abgerufen, nicht freigegeben)
+https://arxiv.org/abs/math-ph/0401050
+https://minerals.net/variety/chrysolite
+https://api.openalex.org/works/doi:10.1016/0143-6228(93)90036-Z (nicht abgerufen, nicht freigegeben)
+WebSearch: Klages Hsieh 1975 Gallatin River mineralogy (zwei Suchen)
+WebSearch: Vanden Bygaart Protz 2001
+WebSearch: Ehlers et al. 2015 detrital thermochronology
+WebSearch: Walling 2009 UNESCO
+WebSearch: Gergel et al. 2002 Aquatic Sciences
+WebSearch: Blaen 2016
+https://scholarworks.montana.edu/handle/1/5446
+https://scholarworks.montana.edu/bitstreams/54ae29c9-b365-44bd-b573-f508763c73d5/download
+https://zendy.io/title/10.1002/esp.215
+https://hsbiblio.uni-tuebingen.de/xmlui/handle/10900/67198
+https://webarchive.unesco.org/web/20151226104117/http://unesdoc.unesco.org/images/0018/001850/185078E.pdf
+https://experts.illinois.edu/en/publications/landscape-indicators-of-human-impacts-to-riverine-systems/
+https://research.birmingham.ac.uk/en/publications/real-time-monitoring-of-nutrients-and-dissolved-organic-matter-in/
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N02d370/vf/verifikation.md (überarbeitet)

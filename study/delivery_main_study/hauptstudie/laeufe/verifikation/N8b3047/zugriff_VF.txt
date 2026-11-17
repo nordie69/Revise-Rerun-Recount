@@ -1,0 +1,43 @@
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N8b3047/auftrag_VF.txt
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N8b3047/ (Verzeichnisliste)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N8b3047/seiten/ (Verzeichnisliste)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N8b3047/gutachten.md
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N8b3047/text.json
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N8b3047/vf/zugriff_VF.txt
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N8b3047/egusphere-2025-4733.pdf
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N8b3047/vf/text.txt
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N8b3047/vf/layout.txt
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N8b3047/vf/p300/ (300-dpi-Seitenbilder p-01.png bis p-33.png, geschrieben)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N8b3047/vf/bbox.html
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N8b3047/vf/skripte/zeilen.py
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N8b3047/vf/zeilen.txt
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N8b3047/vf/crops/ (Ausschnitte, geschrieben)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N8b3047/vf/img/ (eingebettete Bilder, geschrieben)
+WebFetch https://api.crossref.org/works/10.5194/se-15-1087-2024 (abgelehnt, nicht abgerufen)
+WebSearch: Achtziger-Zupancic Selection and characterisation ... Solid Earth 15 1087 (nur Trefferliste)
+WebFetch https://doaj.org/article/cf901c0cf5b34c8ea40c519b832b9e6e
+WebFetch https://doi.org/10.1186/s00015-022-00409-w (abgelehnt)
+WebSearch: Rast Galli Ruh Guillong Madonna 2022 Geology along the Bedretto tunnel (Trefferliste)
+WebFetch https://sjg.springeropen.com/counter/pdf/10.1186/s00015-022-00409-w (Weiterleitung, nicht gelesen)
+WebFetch https://link.springer.com/content/pdf/10.1186/s00015-022-00409-w.pdf?... (abgelehnt)
+WebFetch https://sjg.pensoft.net/article_preview.php?id=36774
+WebFetch https://sjg.springeropen.com/articles/10.1186/s00015-022-00409-w (abgelehnt)
+WebFetch https://www.research-collection.ethz.ch/entities/publication/40d52cbd-7620-4cdf-a893-e104ed84368d
+WebSearch: Rast 2022 Bedretto tunnel Rotondo granite 294 Ma Tremola Prato Val Nalps (Trefferliste)
+WebFetch https://link.springer.com/10.1186/s00015-022-00409-w
+WebFetch https://flore.unifi.it/handle/2158/1463772
+WebSearch: Broker Ma 2022 Estimating the Least Principal Stress ... (Trefferliste)
+WebFetch https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9072525/ (Weiterleitung)
+WebFetch https://pmc.ncbi.nlm.nih.gov/articles/PMC9072525 (zweimal)
+WebSearch: Wenning Madonna de Haller Burg 2018 ... (Trefferliste)
+WebFetch https://www.research-collection.ethz.ch/items/5ad04439-7844-4e53-b14f-94a1088f2398
+WebSearch: Permeability and seismic velocity anisotropy ... pdf (Trefferliste)
+WebFetch https://se.copernicus.org/articles/9/683/2018/se-9-683-2018.pdf (Wenning et al. 2018, fremde Arbeit, nicht dieses Manuskript)
+WebSearch: Brixel Klepikova ... 2020 Tracking fluid flow ... (Trefferliste)
+WebFetch https://eos.org/editor-highlights/fluctuating-fluid-flows-in-a-fractured-fault
+WebFetch https://doi.org/10.5281/zenodo.17233183 (abgelehnt)
+WebSearch: zenodo 17233183 (Trefferliste, kein Treffer zum Datensatz)
+WebSearch: Schaber zenodo dataset Hydraulic Testing Lab MC fault Bedretto (Trefferliste; Treffer auf egusphere.copernicus.org und se.copernicus.org zu diesem Manuskript wurden NICHT geoeffnet)
+WebFetch https://zenodo.org/records/17233183 (abgelehnt)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N8b3047/vf/verifikation.md (geschrieben)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N8b3047/vf/skripte/ (prof.py, seg.py, edges.py, ticks.py, colruns.py, cc.py, caph.py, f2.py, z.sh; geschrieben)

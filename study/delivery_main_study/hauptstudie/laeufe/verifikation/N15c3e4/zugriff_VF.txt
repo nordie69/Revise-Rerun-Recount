@@ -1,0 +1,70 @@
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N15c3e4/auftrag_VF.txt
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N15c3e4/gutachten.md
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N15c3e4/vf/
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N15c3e4/vf/zugriff_VF.txt
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N15c3e4/text.json
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N15c3e4/vf/text_dump.txt
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N15c3e4/vf/fig_text.txt
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N15c3e4/egusphere-2025-4695.pdf
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N15c3e4/seiten/seite-01.png bis seite-37.png (gesichtet: 01-16, 18, 20, 24-27)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N15c3e4/vf/r300/ (300-dpi-Renderings der Seiten 22 bis 37)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N15c3e4/seiten/seite-01.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N15c3e4/seiten/seite-02.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N15c3e4/seiten/seite-03.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N15c3e4/seiten/seite-04.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N15c3e4/seiten/seite-05.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N15c3e4/seiten/seite-06.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N15c3e4/seiten/seite-07.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N15c3e4/seiten/seite-08.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N15c3e4/seiten/seite-09.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N15c3e4/seiten/seite-10.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N15c3e4/seiten/seite-11.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N15c3e4/seiten/seite-12.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N15c3e4/seiten/seite-13.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N15c3e4/seiten/seite-14.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N15c3e4/seiten/seite-15.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N15c3e4/seiten/seite-16.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N15c3e4/seiten/seite-18.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N15c3e4/seiten/seite-20.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N15c3e4/seiten/seite-24.png bis seite-37.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N15c3e4/vf/r300/p-22.png bis p-37.png (geschrieben und gelesen: p-26, p-31, p-32, p-35, p-36)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/vfscripts/fig11.py (geschrieben, Hilfsskript ausserhalb des Datenordners)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/vfscripts/fig15.py (geschrieben)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/vfscripts/leg.py (geschrieben)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/vfscripts/digit.py (geschrieben)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/vfscripts/calc.py (geschrieben)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/vfscripts/fig14.py (geschrieben)
+/root/.claude/projects/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/tool-results/b7idzjj9a.txt (vom Werkzeug automatisch angelegte Ausgabedatei, nicht gelesen)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N15c3e4/vf/verifikation.md (geschrieben)
+WebSearch: Kobe 2021 Ubuntu HTS 6176
+https://hts.org.za/index.php/hts/article/view/6176
+WebSearch: Ehlers et al. 2015 detrital thermochronology
+https://publikationen.uni-tuebingen.de/xmlui/handle/10900/67198
+https://deepblue.lib.umich.edu/items/460ed15b-87a0-45fd-8c50-840c87a1b68e
+WebSearch: Eberl 2004 Yukon
+https://pubs.usgs.gov/publication/70026557
+WebSearch: Andrews Eberl 2012 SedUnMix
+https://pubs.usgs.gov/publication/70032707
+WebSearch: Wirgin 2004 inverse crime
+https://arxiv.org/abs/math-ph/0401050
+WebSearch: UNESCO 2009 Walling impact of global change
+https://webarchive.unesco.org/web/20151226104117/http://unesdoc.unesco.org/images/0018/001850/185078E.pdf (nur Sitzungspruefung, nicht lesbar)
+WebSearch: Walling 2009 UNESCO World Water Development Report
+WebSearch: 9789231041358 Walling
+WebSearch: Butler et al. 2019 Geoderma
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6358122/ (Weiterleitung)
+https://pmc.ncbi.nlm.nih.gov/articles/PMC6358122 (reCAPTCHA, nicht lesbar)
+https://research.slu.se/en/publications/pre-treatment-of-soil-x-ray-powder-diffraction-data-for-cluster-a/
+https://minerals.net/variety/chrysolite
+https://minerals.net/variety/chrysotile
+WebSearch: Niu et al. 2020 composite fingerprints
+https://link.springer.com/article/10.1007/s11368-019-02424-1
+WebSearch: De Doncker Herman Fox 2020 (Treffer auf egusphere und esurf nicht geoeffnet)
+https://serval.unil.ch/notice/serval:BIB_1A4D2FF81D64
+WebSearch: BGS eclogite
+https://webapps.bgs.ac.uk/bgsrcs/rcs_details.cfm?code=ECLOG
+WebSearch: Gergel et al. 2002 Aquatic Sciences
+https://marineinfo.org/id/publication/42202
+https://www.caryinstitute.org/bibcite/reference/823
+WebSearch: Landscape indicators of human impacts to riverine systems
+https://experts.illinois.edu/en/publications/landscape-indicators-of-human-impacts-to-riverine-systems/

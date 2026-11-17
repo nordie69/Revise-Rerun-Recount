@@ -1,0 +1,51 @@
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Na3c5a1/auftrag_VF.txt
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Na3c5a1/
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Na3c5a1/gutachten.md
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Na3c5a1/text.json
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Na3c5a1/seiten/
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Na3c5a1/vf/text.txt
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Na3c5a1/vf/num.py
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Na3c5a1/vf/numbered.txt
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Na3c5a1/egusphere-2025-4506.pdf
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Na3c5a1/vf/hr/ (p-01..p-29.png, 300 dpi)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Na3c5a1/vf/crop.py
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Na3c5a1/vf/c_fig2ab.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Na3c5a1/vf/c_fig5a.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Na3c5a1/vf/fig8.py
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Na3c5a1/vf/fig8b.py
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Na3c5a1/vf/fig8c.py
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Na3c5a1/vf/rechnungen.py
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Na3c5a1/vf/fig10.py
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Na3c5a1/vf/grey.py
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Na3c5a1/vf/fig2c.py
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Na3c5a1/vf/c_aost600-06.png
+WebFetch (nicht abgerufen, nicht auf Allowlist): https://www.frontiersin.org/articles/10.3389/feart.2020.00164/full
+WebSearch: von Wartburg Molveno landslide Brenta "manually modified the contour lines" pre-failure topography
+WebFetch (Redirect): https://frontiersin.org/journals/earth-science/articles/10.3389/feart.2020.00164/text
+WebFetch: https://public-pages-files-2025.frontiersin.org/journals/earth-science/articles/10.3389/feart.2020.00164/text
+WebFetch: https://www.frontiersin.org/journals/earth-science/articles/10.3389/feart.2020.00164/epub
+WebFetch: https://www.frontiersin.org/articles/10.3389/feart.2020.00164/pdf
+WebFetch (nicht abgerufen, nicht auf Allowlist): https://nhess.copernicus.org/articles/22/639/2022/
+WebSearch: Lin Wang Xie Cheng Deng 2022 "Multiscale effects caused by the fracturing and fragmentation of rock blocks" NHESS
+WebFetch: https://nhess.copernicus.org/articles/22/639/2022/nhess-22-639-2022.html
+WebSearch: Hibert Mangeney Grandjean Shapiro 2011 Slope instabilities in Dolomieu crater
+WebFetch (Zugriff verweigert): https://hal-brgm.archives-ouvertes.fr/hal-00673723
+WebSearch: Farin Mangeney Toussaint 2015 "Characterization of rockfalls from seismic signal"
+WebFetch: https://www.ipgp.fr/~mangeney/hibert_etal_2011_jgr.pdf
+WebFetch: https://www.ipgp.fr/~mangeney/farin_etal_jgr_2015.pdf
+WebSearch: Fan Scaringi Korup 2019 "Earthquake-induced chains of geologic hazards" Reviews of Geophysics abstract
+WebFetch: https://pubs.usgs.gov/publication/70204730
+WebSearch: Carpignano Golia Di Mauro Bouchon Nordvik 2009 multi-risk maps
+WebFetch: https://ideas.repec.org/a/taf/jriskr/v12y2009i3-4p513-534.html
+WebSearch: Li Dai Cheng Yang Zhang Xiong 2024 "Study on the chain-type failure mechanism of large-scale ancient landslides"
+WebFetch (Fehler beim Abruf): https://www.frontiersin.org/journals/earth-science/articles/10.3389/feart.2024.1466751/pdf
+WebFetch: https://public-pages-files-2025.frontiersin.org/journals/earth-science/articles/10.3389/feart.2024.1466751/text
+WebFetch: https://www.frontiersin.org/journals/earth-science/articles/10.3389/feart.2024.1466751/epub
+WebSearch: Du Zhang Yao Yang Yuan 2021 "Jiaobunong landslide"
+WebFetch: https://jms.imde.ac.cn/article/doi/10.1007/s11629-020-6617-y
+WebSearch: Song Wang Liu Huang 2017 "Landslide Deformation Prediction by Numerical Simulation in the Three Gorges, China" GPS monitoring
+WebFetch (nicht abgerufen, nicht auf Allowlist): https://link.springer.com/chapter/10.1007/978-3-319-53483-1_36
+WebSearch: "Landslide Deformation Prediction by Numerical Simulation in the Three Gorges" Song Advancing Culture of Living with Landslides 2017 abstract
+WebSearch: "10.1007/978-3-319-53483-1_36"
+Hinweis: In Suchergebnissen erschienene Links auf egusphere.copernicus.org (AC1-Supplement dieses Manuskripts) wurden nicht geoeffnet.
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Na3c5a1/vf/verifikation.md

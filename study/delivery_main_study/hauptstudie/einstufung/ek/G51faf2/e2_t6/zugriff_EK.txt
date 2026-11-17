@@ -1,0 +1,37 @@
+Basis: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G51faf2
+
+GELESEN
+Basis/e2_t6/auftrag_EK.txt
+Basis/teil6.md
+Basis/text.json
+Basis/egusphere-2025-4733.pdf (gerendert mit pdftoppm S. 24 bis 28, 30, 33; eingebettete Bilder mit pdfimages S. 24 bis 27)
+Basis/seiten/seite-20.png
+Basis/seiten/seite-23.png
+Basis/seiten/seite-24.png
+Basis/seiten/seite-25.png
+Basis/seiten/seite-24.png bis seite-27.png (nur Bildgröße per PIL abgefragt)
+Verzeichnislisting Basis/ und Basis/seiten/ (nur Dateinamen, keine anderen Dateien geöffnet)
+
+GESCHRIEBEN (Hilfsdateien, nach Abschluss gelöscht)
+Basis/e2_t6/text_dump.txt
+Basis/e2_t6/p300-24.png, p300-25.png, p300-26.png, p300-27.png
+Basis/e2_t6/p200-28.png, p200-30.png, p200-33.png
+Basis/e2_t6/img-000.png bis img-007.png
+Basis/e2_t6/crop_a1_f1.png, crop_a1_f3.png, crop_a2b_red.png, crop_a2c_low.png, crop_p28.png, crop_p28b.png, crop_p30.png, crop_p33.png
+
+GESCHRIEBEN (Ausgabe)
+Basis/e2_t6/einstufung.md
+Basis/e2_t6/zugriff_EK.txt
+
+URL UND SUCHEN
+WebFetch https://zenodo.org/records/17233183 (abgelehnt, nicht auf der Freigabeliste, kein Inhalt erhalten)
+WebSearch "zenodo 17233183 Bedretto fault zone hydraulic testing lab data" (nur Trefferliste; Treffer von egusphere.copernicus.org und se.copernicus.org/articles/17/ nicht geöffnet)
+WebFetch https://doaj.org/article/cf901c0cf5b34c8ea40c519b832b9e6e
+WebSearch "Berger Mercolli Herwegh Gnos 2017 \"Geological map of the Aar Massif, Tavetsch and Gotthard nappes\"" (nur Trefferliste)
+WebSearch "Thiem 1906 \"Hydrologische Methoden\" Leipzig Gebhardt" (nur Trefferliste)
+WebFetch https://www.history-of-hydrology.net/mediawiki/index.php/Houben_and_Batelaan_(2022)_Adolf_and_Günther_Thiem
+WebFetch https://hess.copernicus.org/articles/26/4055/2022/
+WebFetch https://hess.copernicus.org/articles/26/4055/2022/hess-26-4055-2022.pdf (dreimal: ohne offset, offset 150000, offset 80000)
+WebFetch https://www.deutsche-biographie.de/pnd117336645.html
+WebSearch "\"Hydrologische Methoden\" Thiem \"J. M. Gebhardt\"" (nur Trefferliste)
+WebFetch https://hess.copernicus.org/articles/22/1713/2018/hess-22-1713-2018-relations.html

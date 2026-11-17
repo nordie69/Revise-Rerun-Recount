@@ -1,0 +1,62 @@
+gelesen: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N6e43a1/auftrag_VF.txt
+gelesen (Verzeichnisliste): /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N6e43a1/
+gelesen (Verzeichnisliste): /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N6e43a1/seiten/
+geschrieben: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N6e43a1/vf/zugriff_VF.txt
+gelesen: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N6e43a1/gutachten.md
+gelesen: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N6e43a1/text.json
+geschrieben: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N6e43a1/vf/text.txt
+gelesen: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N6e43a1/egusphere-2025-4506.pdf
+gelesen: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N6e43a1/seiten/seite-01.png
+geschrieben: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N6e43a1/vf/r300/p-01.png bis p-29.png
+geschrieben: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N6e43a1/vf/c06a.png
+geschrieben: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N6e43a1/vf/c08b.png
+geschrieben: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N6e43a1/vf/c12d.png
+geschrieben: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N6e43a1/vf/c14.png
+geschrieben: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N6e43a1/vf/r600/q-21.png, q-23.png, q-25.png
+geschrieben: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N6e43a1/vf/c25a.png
+geschrieben: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N6e43a1/vf/rechnung.py
+gelesen: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N6e43a1/vf/text.txt
+gelesen: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N6e43a1/seiten/seite-02.png
+gelesen: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N6e43a1/seiten/seite-06.png
+gelesen: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N6e43a1/seiten/seite-08.png
+gelesen: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N6e43a1/seiten/seite-09.png
+gelesen: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N6e43a1/seiten/seite-10.png
+gelesen: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N6e43a1/seiten/seite-11.png
+gelesen: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N6e43a1/seiten/seite-12.png
+gelesen: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N6e43a1/seiten/seite-13.png
+gelesen: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N6e43a1/seiten/seite-14.png
+gelesen: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N6e43a1/seiten/seite-18.png
+gelesen: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N6e43a1/seiten/seite-19.png
+gelesen: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N6e43a1/seiten/seite-20.png
+gelesen: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N6e43a1/seiten/seite-21.png
+gelesen: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N6e43a1/seiten/seite-22.png
+gelesen: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N6e43a1/seiten/seite-23.png
+gelesen: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N6e43a1/seiten/seite-24.png
+gelesen: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N6e43a1/seiten/seite-25.png
+gelesen: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N6e43a1/seiten/seite-26.png
+gelesen: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N6e43a1/vf/r300/p-06.png, p-08.png, p-12.png, p-14.png, p-20.png, p-23.png (Pixelauswertung)
+gelesen: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N6e43a1/vf/r600/q-21.png, q-23.png, q-25.png (Pixelauswertung)
+gelesen: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N6e43a1/vf/c06a.png
+gelesen: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N6e43a1/vf/c08b.png
+gelesen: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N6e43a1/vf/c12d.png
+gelesen: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N6e43a1/vf/c14.png
+gelesen: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N6e43a1/vf/c25a.png
+geschrieben: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N6e43a1/vf/c25a_zoom.png
+geschrieben: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N6e43a1/vf/c23z.png
+geschrieben: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N6e43a1/vf/verifikation.md
+URL (WebSearch): Carpignano 2009 multi-risk maps abstract
+URL: https://ideas.repec.org/a/taf/jriskr/v12y2009i3-4p513-534.html
+URL (WebSearch): Li et al. 2024 chain-type failure mechanism Frontiers
+URL: https://doaj.org/article/1667b0c8845746618e49f7b29624794a
+URL: https://public-pages-files-2025.frontiersin.org/journals/earth-science/articles/10.3389/feart.2024.1466751/text
+URL: https://www.frontiersin.org/journals/earth-science/articles/10.3389/feart.2024.1466751/pdf (Fehler)
+URL: https://www.frontiersin.org/journals/earth-science/articles/10.3389/feart.2024.1466751/epub (binaer)
+URL: https://www.frontiersin.org/journals/earth-science/articles/10.3389/feart.2024.1466751/full (nicht freigegeben)
+URL (WebSearch): Zhongbao landslide GeoStudio
+URL (WebSearch): Song et al. 2017 Landslide Deformation Prediction (zwei Abfragen)
+URL: https://link.springer.com/chapter/10.1007/978-3-319-53483-1_36 (nicht freigegeben)
+URL: https://katalog.hcu-hamburg.de/vufind/Search2Record/SPR055087728 (Bot-Sperre)
+URL (WebSearch): Guimpier EGU21-4803
+URL: https://meetingorganizer.copernicus.org/EGU21/EGU21-4803.html
+URL (WebSearch): Zhou et al. 2024 Dynamic Effect of Landslides Triggered by Earthquake
+URL: https://journal.hep.com.cn/jes/EN/1160318253862020026

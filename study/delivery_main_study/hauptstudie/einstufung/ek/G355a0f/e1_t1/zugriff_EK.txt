@@ -1,0 +1,37 @@
+GELESEN (Dateien):
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G355a0f/e1_t1/auftrag_EK.txt
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G355a0f/teil1.md
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G355a0f/text.json
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G355a0f/seiten/seite-01.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G355a0f/seiten/seite-02.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G355a0f/seiten/seite-03.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G355a0f/seiten/seite-04.png
+Verzeichnislisting (nur Dateinamen): /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G355a0f/ und .../seiten/
+
+GESCHRIEBEN:
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G355a0f/e1_t1/einstufung.md
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G355a0f/e1_t1/zugriff_EK.txt
+
+URLS (WebFetch):
+https://ideas.repec.org/a/taf/jriskr/v12y2009i3-4p513-534.html
+https://pubs.usgs.gov/publication/70204730
+https://link.springer.com/chapter/10.1007/978-3-319-53483-1_36 (nicht abgerufen, nicht freigegeben)
+https://www.frontiersin.org/journals/earth-science/articles/10.3389/feart.2024.1466751/full (nicht abgerufen, nicht freigegeben)
+https://public-pages-files-2025.frontiersin.org/journals/earth-science/articles/10.3389/feart.2024.1466751/text (zweimal)
+https://doaj.org/article/1667b0c8845746618e49f7b29624794a
+https://www.frontiersin.org/journals/earth-science/articles/10.3389/feart.2024.1466751/pdf (Fehler)
+https://www.frontiersin.org/journals/earth-science/articles/10.3389/feart.2024.1466751/epub (Binärdaten)
+https://api.openalex.org/works/doi:10.1007/978-3-319-53483-1_36 (nicht abgerufen, nicht freigegeben)
+https://esurf.copernicus.org/articles/7/439/2019/
+https://frontiersin.org/journals/earth-science/articles/10.3389/feart.2020.00164/text (Weiterleitung, nicht verfolgt)
+https://www.research-collection.ethz.ch/items/6604a861-0cb2-419f-9257-805068c87edf
+
+WEBSEARCH (Abfragen):
+Song Wang Liu Huang "Landslide Deformation Prediction by Numerical Simulation in the Three Gorges" abstract
+"Study on the chain-type failure mechanism of large-scale ancient landslides" Frontiers Earth Science 2024 Zhongbao
+Zhongbao landslide Wulong ancient landslide chain-type failure SEEP/W SLOPE/W rainfall seepage stability Li Dai Cheng 2024
+"Landslide Deformation Prediction by Numerical Simulation in the Three Gorges, China" Advancing Culture of Living with Landslides
+Ge Tang Li 2021 "Mechanical energy evolution in the propagation of rock avalanches using field survey and numerical simulation" Landslides abstract
+"rock avalanches" "effective collision" kinetic potential dissipated energy Ge Tang Li Landslides 18 3559
+von Wartburg 2020 Molveno landslide "pre-failure topography" "modified the contour lines" Frontiers Earth Science
+Hinweis: Trefferlisten enthielten Links auf egusphere.copernicus.org und nhess.copernicus.org (moegliche Folgefassung); diese wurden nicht geoeffnet.
