@@ -949,17 +949,13 @@ Die Erwartung von RQ3 ist für die Summe F1 bis F7 erfüllt, aber nicht in jeder
 
 Übereinstimmung Auftraggeber gegen Gruppenurteil auf 60 Einzelbefunden: 57 gleich, 95,0 %; je Bedingung A 14, B 14, C 14, D 15 von 15. Die Schwelle von 80 % ist erreicht; eine Erweiterung auf 120 war nicht nötig. Die drei Abweichungen:
 
-| Zufallskennung | Gruppe | Gruppengröße | KI-Mehrheit | Auftraggeber |
-|---|---|---|---|---|
-| Bb0138 | Gdd8515/BG-151 | 1 | ansichtssache | nicht veröffentlicht |
-| B269b0 | G51faf2/BG-195 | 9 | ansichtssache | nicht veröffentlicht |
-| B17541 | Gc9d1ce/BG-176 | 9 | zutreffend | nicht veröffentlicht |
+Kennung, Gruppe und KI-Mehrheit der drei Abweichungen sind nicht veröffentlicht.
 
 Nach Punkt 4 gilt das Urteil des Auftraggebers für die ganze Gruppe; das ist in `endgueltig_gruppen.json` so umgesetzt (19 Einzelbefunde betroffen).
 
 ## 8. Abweichungen vom Protokoll und Nachträge in Abschnitt 13
 
-Abschnitt 13 des gelieferten Protokolls enthält drei Nachträge, alle vom 2026-10-17 (Zählung der Vorstudie nur in der Zuordnung; Effektregel entscheidet; Neubestätigung der Sollbefunde der Vorstudie). Nach dem ersten Lauf steht kein Nachtrag.
+Abschnitt 13 des gelieferten Protokolls enthält drei Nachträge, alle vom 2026-10-17 (Zählung der Vorstudie nur in der Zuordnung; Effektregel entscheidet; Neubestätigung der Sollbefunde der Vorstudie). Kein Nachtrag ist später als am Tag des ersten Laufs datiert; die Uhrzeit der Nachträge geht aus dem Protokoll nicht hervor.
 
 | Nr. | Abweichung | Beleg in den Daten | datierter Nachtrag in Abschnitt 13 |
 |---|---|---|---|
