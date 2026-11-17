@@ -2,6 +2,8 @@
 
 Data, skill packages and scripts for the paper "Revise, Rerun, Recount: Measuring whether revising AI review skills helps them find the issues human referees raise in geoscience preprints" (Stefan Mohr, independent researcher, Hamburg; ORCID 0000-0003-4657-3501).
 
+![Graphical abstract: an AI review and human referees assess one preprint, shared issues count as hits; revising the AI's review instructions gave no gain (29.1 % vs 28.7 % of substantive referee issues hit); separate agents hit more issues; new rules about halved targeted errors, but wrong counts rose.](figures/ga.png)
+
 The study ran three review skills for an AI assistant in four conditions on four EGUsphere preprints, three times each (48 reviews), and measured the reviews against the objections in the public referee reports. Most files are in German, the working language of the study; the paper is in English.
 
 ## Contents
