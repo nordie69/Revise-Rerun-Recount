@@ -1,0 +1,3594 @@
+{
+ "G355a0f": {
+  "BG-001": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-002": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-003": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-004": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-005": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-006": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-007": {
+   "urteil": "ansichtssache",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-008": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-009": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-010": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-011": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-012": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-013": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-014": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-015": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-016": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-017": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-018": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-019": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-020": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-021": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-022": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-023": {
+   "urteil": "ansichtssache",
+   "quelle": "set under the protocol, not by AI majority"
+  },
+  "BG-024": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-025": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-026": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-027": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-028": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-029": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-030": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-031": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-032": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-033": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-034": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-035": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-036": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-037": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-038": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-039": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-040": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-041": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-042": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-043": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-044": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-045": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-046": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-047": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-048": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-049": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-050": {
+   "urteil": "ansichtssache",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-051": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-052": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-053": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-054": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-055": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-056": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-057": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-058": {
+   "urteil": "ansichtssache",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-059": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-060": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-061": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-062": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-063": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-064": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-065": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-066": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-067": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-068": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-069": {
+   "urteil": "ansichtssache",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-070": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-071": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-072": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-073": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-074": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-075": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-076": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-077": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-078": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-079": {
+   "urteil": "ansichtssache",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-080": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-081": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-082": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-083": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-084": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-085": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-086": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-087": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-088": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-089": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-090": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-091": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-092": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-093": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-094": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-095": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-096": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-097": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-098": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-099": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-100": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-101": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-102": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-103": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-104": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-105": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-106": {
+   "urteil": "ansichtssache",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-107": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-108": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-109": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-110": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-111": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-112": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-113": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-114": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-115": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-116": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-117": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-118": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-119": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-120": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-121": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-122": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-123": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-124": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-125": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-126": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-127": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-128": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-129": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-130": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-131": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-132": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-133": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-134": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-135": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-136": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-137": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-138": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-139": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-140": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-141": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-142": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-143": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-144": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-145": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-146": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-147": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-148": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-149": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-150": {
+   "urteil": "ansichtssache",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-151": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-152": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-153": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-154": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-155": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-156": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-157": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-158": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-159": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-160": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-161": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-162": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-163": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-164": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-165": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-166": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-167": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-168": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-169": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-170": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-171": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-172": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-173": {
+   "urteil": "ansichtssache",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-174": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-175": {
+   "urteil": "ansichtssache",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-176": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-177": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-178": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-179": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-180": {
+   "urteil": "ansichtssache",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-181": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-182": {
+   "urteil": "ansichtssache",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-183": {
+   "urteil": "nicht zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-184": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-185": {
+   "urteil": "ansichtssache",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-186": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-187": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-188": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-189": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-190": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-191": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-192": {
+   "urteil": "ansichtssache",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-193": {
+   "urteil": "ansichtssache",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-194": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-195": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-196": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-197": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-198": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-199": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-200": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-201": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-202": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-203": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-204": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-205": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-206": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-207": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-208": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-209": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-210": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-211": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-212": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-213": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-214": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-215": {
+   "urteil": "ansichtssache",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-216": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-217": {
+   "urteil": "ansichtssache",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-218": {
+   "urteil": "ansichtssache",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-219": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-220": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-221": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-222": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-223": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-224": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-225": {
+   "urteil": "ansichtssache",
+   "quelle": "KI-Mehrheit"
+  }
+ },
+ "Gdd8515": {
+  "BG-001": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-002": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-003": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-004": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-005": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-006": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-007": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-008": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-009": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-010": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-011": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-012": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-013": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-014": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-015": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-016": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-017": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-018": {
+   "urteil": "ansichtssache",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-019": {
+   "urteil": "ansichtssache",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-020": {
+   "urteil": "zutreffend",
+   "quelle": "set under the protocol, not by AI majority"
+  },
+  "BG-021": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-022": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-023": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-024": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-025": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-026": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-027": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-028": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-029": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-030": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-031": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-032": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-033": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-034": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-035": {
+   "urteil": "ansichtssache",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-036": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-037": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-038": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-039": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-040": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-041": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-042": {
+   "urteil": "ansichtssache",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-043": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-044": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-045": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-046": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-047": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-048": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-049": {
+   "urteil": "ansichtssache",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-050": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-051": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-052": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-053": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-054": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-055": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-056": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-057": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-058": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-059": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-060": {
+   "urteil": "ansichtssache",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-061": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-062": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-063": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-064": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-065": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-066": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-067": {
+   "urteil": "ansichtssache",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-068": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-069": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-070": {
+   "urteil": "ansichtssache",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-071": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-072": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-073": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-074": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-075": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-076": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-077": {
+   "urteil": "ansichtssache",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-078": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-079": {
+   "urteil": "ansichtssache",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-080": {
+   "urteil": "ansichtssache",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-081": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-082": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-083": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-084": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-085": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-086": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-087": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-088": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-089": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-090": {
+   "urteil": "ansichtssache",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-091": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-092": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-093": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-094": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-095": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-096": {
+   "urteil": "ansichtssache",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-097": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-098": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-099": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-100": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-101": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-102": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-103": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-104": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-105": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-106": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-107": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-108": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-109": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-110": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-111": {
+   "urteil": "zutreffend",
+   "quelle": "set under the protocol, not by AI majority"
+  },
+  "BG-112": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-113": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-114": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-115": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-116": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-117": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-118": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-119": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-120": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-121": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-122": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-123": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-124": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-125": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-126": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-127": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-128": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-129": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-130": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-131": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-132": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-133": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-134": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-135": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-136": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-137": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-138": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-139": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-140": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-141": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-142": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-143": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-144": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-145": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-146": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-147": {
+   "urteil": "ansichtssache",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-148": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-149": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-150": {
+   "urteil": "ansichtssache",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-151": {
+   "urteil": "nicht zutreffend",
+   "quelle": "set under the protocol, not by AI majority"
+  },
+  "BG-152": {
+   "urteil": "ansichtssache",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-153": {
+   "urteil": "ansichtssache",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-154": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-155": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-156": {
+   "urteil": "ansichtssache",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-157": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-158": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-159": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-160": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-161": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-162": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-163": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-164": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-165": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-166": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-167": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-168": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-169": {
+   "urteil": "ansichtssache",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-170": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-171": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-172": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-173": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-174": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-175": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-176": {
+   "urteil": "ansichtssache",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-177": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-178": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-179": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-180": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-181": {
+   "urteil": "ansichtssache",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-182": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-183": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-184": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-185": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-186": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-187": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-188": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-189": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-190": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-191": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-192": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-193": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-194": {
+   "urteil": "ansichtssache",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-195": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-196": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-197": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-198": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-199": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-200": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  }
+ },
+ "G51faf2": {
+  "BG-001": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-002": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-003": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-004": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-005": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-006": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-007": {
+   "urteil": "ansichtssache",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-008": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-009": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-010": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-011": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-012": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-013": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-014": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-015": {
+   "urteil": "ansichtssache",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-016": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-017": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-018": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-019": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-020": {
+   "urteil": "ansichtssache",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-021": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-022": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-023": {
+   "urteil": "ansichtssache",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-024": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-025": {
+   "urteil": "ansichtssache",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-026": {
+   "urteil": "nicht zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-027": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-028": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-029": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-030": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-031": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-032": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-033": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-034": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-035": {
+   "urteil": "nicht zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-036": {
+   "urteil": "ansichtssache",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-037": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-038": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-039": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-040": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-041": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-042": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-043": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-044": {
+   "urteil": "ansichtssache",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-045": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-046": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-047": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-048": {
+   "urteil": "ansichtssache",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-049": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-050": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-051": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-052": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-053": {
+   "urteil": "ansichtssache",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-054": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-055": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-056": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-057": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-058": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-059": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-060": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-061": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-062": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-063": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-064": {
+   "urteil": "ansichtssache",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-065": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-066": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-067": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-068": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-069": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-070": {
+   "urteil": "zutreffend",
+   "quelle": "set under the protocol, not by AI majority"
+  },
+  "BG-071": {
+   "urteil": "ansichtssache",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-072": {
+   "urteil": "nicht zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-073": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-074": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-075": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-076": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-077": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-078": {
+   "urteil": "ansichtssache",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-079": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-080": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-081": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-082": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-083": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-084": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-085": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-086": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-087": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-088": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-089": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-090": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-091": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-092": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-093": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-094": {
+   "urteil": "ansichtssache",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-095": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-096": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-097": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-098": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-099": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-100": {
+   "urteil": "ansichtssache",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-101": {
+   "urteil": "nicht zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-102": {
+   "urteil": "ansichtssache",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-103": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-104": {
+   "urteil": "nicht zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-105": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-106": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-107": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-108": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-109": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-110": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-111": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-112": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-113": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-114": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-115": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-116": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-117": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-118": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-119": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-120": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-121": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-122": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-123": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-124": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-125": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-126": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-127": {
+   "urteil": "ansichtssache",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-128": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-129": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-130": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-131": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-132": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-133": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-134": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-135": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-136": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-137": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-138": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-139": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-140": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-141": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-142": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-143": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-144": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-145": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-146": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-147": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-148": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-149": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-150": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-151": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-152": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-153": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-154": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-155": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-156": {
+   "urteil": "ansichtssache",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-157": {
+   "urteil": "ansichtssache",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-158": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-159": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-160": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-161": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-162": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-163": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-164": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-165": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-166": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-167": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-168": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-169": {
+   "urteil": "nicht zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-170": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-171": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-172": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-173": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-174": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-175": {
+   "urteil": "ansichtssache",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-176": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-177": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-178": {
+   "urteil": "ansichtssache",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-179": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-180": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-181": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-182": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-183": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-184": {
+   "urteil": "ansichtssache",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-185": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-186": {
+   "urteil": "ansichtssache",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-187": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-188": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-189": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-190": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-191": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-192": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-193": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-194": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-195": {
+   "urteil": "zutreffend",
+   "quelle": "set under the protocol, not by AI majority"
+  },
+  "BG-196": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-197": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-198": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-199": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-200": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-201": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-202": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-203": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-204": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-205": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-206": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-207": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-208": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-209": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-210": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-211": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-212": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-213": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-214": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-215": {
+   "urteil": "ansichtssache",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-216": {
+   "urteil": "ansichtssache",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-217": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-218": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-219": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-220": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-221": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-222": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-223": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-224": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-225": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  }
+ },
+ "Gc9d1ce": {
+  "BG-001": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-002": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-003": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-004": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-005": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-006": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-007": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-008": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-009": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-010": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-011": {
+   "urteil": "ansichtssache",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-012": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-013": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-014": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-015": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-016": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-017": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-018": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-019": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-020": {
+   "urteil": "zutreffend",
+   "quelle": "set under the protocol, not by AI majority"
+  },
+  "BG-021": {
+   "urteil": "ansichtssache",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-022": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-023": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-024": {
+   "urteil": "ansichtssache",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-025": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-026": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-027": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-028": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-029": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-030": {
+   "urteil": "ansichtssache",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-031": {
+   "urteil": "ansichtssache",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-032": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-033": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-034": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-035": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-036": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-037": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-038": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-039": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-040": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-041": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-042": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-043": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-044": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-045": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-046": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-047": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-048": {
+   "urteil": "ansichtssache",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-049": {
+   "urteil": "ansichtssache",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-050": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-051": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-052": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-053": {
+   "urteil": "ansichtssache",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-054": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-055": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-056": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-057": {
+   "urteil": "ansichtssache",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-058": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-059": {
+   "urteil": "ansichtssache",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-060": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-061": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-062": {
+   "urteil": "nicht zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-063": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-064": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-065": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-066": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-067": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-068": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-069": {
+   "urteil": "nicht zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-070": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-071": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-072": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-073": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-074": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-075": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-076": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-077": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-078": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-079": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-080": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-081": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-082": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-083": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-084": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-085": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-086": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-087": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-088": {
+   "urteil": "ansichtssache",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-089": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-090": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-091": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-092": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-093": {
+   "urteil": "ansichtssache",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-094": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-095": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-096": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-097": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-098": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-099": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-100": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-101": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-102": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-103": {
+   "urteil": "nicht zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-104": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-105": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-106": {
+   "urteil": "nicht zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-107": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-108": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-109": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-110": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-111": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-112": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-113": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-114": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-115": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-116": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-117": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-118": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-119": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-120": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-121": {
+   "urteil": "ansichtssache",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-122": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-123": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-124": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-125": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-126": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-127": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-128": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-129": {
+   "urteil": "ansichtssache",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-130": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-131": {
+   "urteil": "ansichtssache",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-132": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-133": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-134": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-135": {
+   "urteil": "ansichtssache",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-136": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-137": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-138": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-139": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-140": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-141": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-142": {
+   "urteil": "ansichtssache",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-143": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-144": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-145": {
+   "urteil": "zutreffend",
+   "quelle": "set under the protocol, not by AI majority"
+  },
+  "BG-146": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-147": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-148": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-149": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-150": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-151": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-152": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-153": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-154": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-155": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-156": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-157": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-158": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-159": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-160": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-161": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-162": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-163": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-164": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-165": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-166": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-167": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-168": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-169": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-170": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-171": {
+   "urteil": "ansichtssache",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-172": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-173": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-174": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-175": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-176": {
+   "urteil": "ansichtssache",
+   "quelle": "set under the protocol, not by AI majority"
+  },
+  "BG-177": {
+   "urteil": "ansichtssache",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-178": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-179": {
+   "urteil": "ansichtssache",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-180": {
+   "urteil": "ansichtssache",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-181": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-182": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-183": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-184": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-185": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-186": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-187": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-188": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-189": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-190": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-191": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-192": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-193": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-194": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-195": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-196": {
+   "urteil": "ansichtssache",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-197": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-198": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-199": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-200": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-201": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-202": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-203": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-204": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-205": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-206": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-207": {
+   "urteil": "ansichtssache",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-208": {
+   "urteil": "ansichtssache",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-209": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-210": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-211": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-212": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-213": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-214": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-215": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-216": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-217": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-218": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-219": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-220": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-221": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-222": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-223": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-224": {
+   "urteil": "nicht zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-225": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-226": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-227": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-228": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-229": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-230": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-231": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-232": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-233": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-234": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-235": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-236": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-237": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-238": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-239": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-240": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-241": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-242": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-243": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-244": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-245": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  },
+  "BG-246": {
+   "urteil": "zutreffend",
+   "quelle": "KI-Mehrheit"
+  }
+ }
+}

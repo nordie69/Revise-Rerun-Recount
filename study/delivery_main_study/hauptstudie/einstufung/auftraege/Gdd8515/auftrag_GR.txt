@@ -1,0 +1,27 @@
+Du fasst strittige Einzelbefunde zu einem wissenschaftlichen Manuskript zu Befundgruppen zusammen. Du kennst weder die Werkzeuge noch die Verfahren, mit denen die Befunde entstanden sind, und sollst nichts darüber suchen.
+
+EINGABEN (nur lesend):
+- Kurzliste aller Einzelbefunde: `/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/Gdd8515/befunde_kurz.md` (Kennung, Art, Fundort, Kurzfassung)
+- Volltext aller Einzelbefunde: `/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/Gdd8515/befunde_voll.md` (für Zweifelsfälle)
+- Manuskript, nur um einen Fundort nachzusehen: `/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/Gdd8515/egusphere-2025-4695.pdf` mit text.json und seiten/ im selben Ordner
+
+AUSGABEORDNER: `/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/Gdd8515/gr/`
+
+REGELN:
+1. Eine Befundgruppe umfasst Einzelbefunde mit gleichem Fundort und gleichem Gegenstand, also denselben Mangel an derselben Stelle oder für dieselbe Sache, auch wenn Wortlaut, Begründung, Vorschlag oder Schweregrad verschieden sind. Befunde und Kleinkorrekturen dürfen in einer Gruppe stehen, wenn sie dasselbe beanstanden.
+2. Jeder Einzelbefund gehört zu genau einer Gruppe. Ein Befund ohne Gegenstück bildet eine eigene Gruppe.
+3. Verschiedene Mängel an derselben Stelle sind verschiedene Gruppen; derselbe Mangel an mehreren Stellen ist eine Gruppe nur, wenn die Befunde dieselben Stellen nennen.
+4. Du urteilst nicht, ob ein Befund zutrifft; das ist hier nicht die Frage.
+
+AUSGABE (genau zwei Dateien):
+1. `/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/Gdd8515/gr/gruppen.md`, nur diese Tabelle, jede Kennung der Kurzliste genau einmal:
+| Gruppe | Einzelbefunde | Fundort | Gegenstand (ein Satz) |
+|---|---|---|---|
+Gruppen heißen BG-001, BG-002 usw. in der Reihenfolge der Fundorte; Einzelbefunde mit Komma getrennt.
+2. `/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/Gdd8515/gr/zugriff_GR.txt` mit jeder gelesenen und geschriebenen Datei.
+
+Prüfe am Ende mit Python, dass jede Kennung der Kurzliste genau einmal in gruppen.md steht (Hilfsdateien nur in gr/).
+
+VERBOTEN: alle anderen Dateien und Ordner, `/home/claude/`, `/root/`, `/mnt/skills/`, andere Ordner im Scratchpad. Sicherheitsregeln: Keine Websuche, keine Webseiten, keine Netzabrufe aus der Shell. Nichts veröffentlichen, keine Unteragenten, keine Memory-Werkzeuge, keine persönlichen Daten in Abfragen. Eigene Hilfsdateien ausschließlich im Ordner gr/, niemals im Scratchpad oder anderswo. Keine Gedankenstriche.
+
+Deine Schlussantwort an mich enthält NUR "Fertig", die Zahl der Einzelbefunde und die Zahl der Gruppen. Keine Inhalte.

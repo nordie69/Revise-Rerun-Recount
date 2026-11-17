@@ -1,0 +1,11 @@
+GELESEN:
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/Gdd8515/auftrag_GR.txt
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/Gdd8515/befunde_kurz.md
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/Gdd8515/befunde_voll.md (nur Einträge B1d84d, Bc5a20, Bc0d54, B0fc37, B147ab)
+GESCHRIEBEN:
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/Gdd8515/gr/build.py (Hilfsdatei, danach gelöscht)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/Gdd8515/gr/pruefung.py (Hilfsdatei, danach gelöscht)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/Gdd8515/gr/gruppen.md
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/Gdd8515/gr/zugriff_GR.txt
+NICHT GELESEN:
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/Gdd8515/egusphere-2025-4695.pdf, text.json, seiten/

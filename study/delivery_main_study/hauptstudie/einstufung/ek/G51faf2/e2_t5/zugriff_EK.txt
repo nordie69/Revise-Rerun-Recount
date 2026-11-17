@@ -1,0 +1,43 @@
+GELESEN (Dateien):
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G51faf2/e2_t5/auftrag_EK.txt
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G51faf2/teil5.md
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G51faf2/text.json
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G51faf2/egusphere-2025-4733.pdf (Seiten 17 bis 22 mit pdftoppm bei 300 dpi gerendert)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G51faf2/seiten/seite-06.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G51faf2/seiten/seite-08.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G51faf2/seiten/seite-17.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G51faf2/seiten/seite-18.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G51faf2/seiten/seite-19.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G51faf2/seiten/seite-20.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G51faf2/seiten/seite-21.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G51faf2/seiten/seite-22.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G51faf2/seiten/seite-32.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G51faf2/seiten/ (Verzeichnisliste)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G51faf2/ (nur Verzeichnisliste, keine weiteren Dateien geöffnet)
+
+GESCHRIEBEN (Dateien, alle im Ausgabeordner):
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G51faf2/e2_t5/hr/p-17.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G51faf2/e2_t5/hr/p-18.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G51faf2/e2_t5/hr/p-19.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G51faf2/e2_t5/hr/p-20.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G51faf2/e2_t5/hr/p-21.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G51faf2/e2_t5/hr/p-22.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G51faf2/e2_t5/hr/c18_394.png (auch gelesen)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G51faf2/e2_t5/einstufung.md (zur Prüfung auch gelesen)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G51faf2/e2_t5/zugriff_EK.txt
+
+WEBSEARCH (Abfragen):
+Davy Le Goc Darcel Selroos 2023 "Scaling of fractured rock flow" Comptes Rendus Géoscience
+Caine Evans Forster 1996 "Fault zone architecture and permeability structure" pdf architectural index Fa conduit barrier
+Caine 1996 "distributed conduit" "localized conduit" "localized barrier" "combined conduit-barrier" damage zone fault core Fa
+Copernicus Publications English guidelines house standards "data" plural
+
+WEBFETCH (URLs):
+https://comptes-rendus.academie-sciences.fr/geoscience/item/10.5802/crgeos.174.pdf (gelesen)
+https://data.nbmg.unr.edu/public/Geothermal/Presentations/GRC_2006_Explor_Workshop/Structure Davatzes Selected References/CaineEtAl1996.pdf (nicht abrufbar, robots)
+https://digitalcommons.usu.edu/geology_facpub/35 (nur Metadaten)
+https://works.bepress.com/james_evans/71 (Weiterleitung, nicht gefolgt)
+https://digitalcommons.usu.edu/cgi/viewcontent.cgi?article=1034&context=geology_facpub (abgelehnt, nicht auf Freigabeliste)
+https://blogs.egu.eu/divisions/ts/?p=9969 (gelesen)
+https://www.geological-digressions.com/geofluids-the-permeability-of-faults/ (gelesen)
+https://arxiv.org/pdf/2301.04931 (gelesen)

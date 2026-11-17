@@ -1,0 +1,42 @@
+GELESEN:
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G51faf2/e2_t1/auftrag_EK.txt
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G51faf2/teil1.md
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G51faf2/text.json
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G51faf2/egusphere-2025-4733.pdf (nur Dateiliste)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G51faf2/seiten/ (Verzeichnisliste)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G51faf2/seiten/seite-02.png
+GESCHRIEBEN: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G51faf2/e2_t1/volltext.txt (Hilfsdatei)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G51faf2/seiten/seite-01.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G51faf2/seiten/seite-03.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G51faf2/seiten/seite-04.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G51faf2/seiten/seite-05.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G51faf2/seiten/seite-06.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G51faf2/seiten/seite-08.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G51faf2/seiten/seite-09.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G51faf2/seiten/seite-12.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G51faf2/seiten/seite-04.png und seite-08.png (Bildgröße per PIL geprüft)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G51faf2/e2_t1/volltext.txt (Hilfsdatei, gelesen)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G51faf2/e2_t1/einstufung.md (zur Prüfung gelesen)
+
+GESCHRIEBEN:
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G51faf2/e2_t1/einstufung.md
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G51faf2/e2_t1/zugriff_EK.txt
+
+URL (WebSearch):
+WebSearch: Kneafsey 2025 EGS Collab project outcomes lessons learned hydraulic fracture stimulations crystalline rock 1.25 and 1.5 km depth Geothermics
+WebSearch: Brixel Klepikova Jalali 2020 "Tracking fluid flow in shallow crustal fault zones" single-hole permeability estimates abstract
+WebSearch: Scibek Gleeson McKenzie 2016 biases and trends in fault zone hydrogeology conceptual models Geofluids abstract observation method conduit
+WebSearch: Cappa Guglielmi Nussbaum Birkholzer 2018 "On the relationship between fault permeability increases, induced stress perturbation, and the growth of aseismic slip during fluid injection" abstract 282 m
+WebSearch: Ceccato Behr Zappone Tavazzani Giuliani 2024 Rotondo granite Tectonics peak metamorphic conditions °C GPa abstract
+WebSearch: "Paradis gneiss" OR "Paradisgneis" Gotthard Bedretto
+
+URL (WebFetch):
+https://www.osti.gov/pages/biblio/2481285-egs-collab-project-outcomes-lessons-learned-from-hydraulic-fracture-stimulations-crystalline-rock-km-depth
+https://eos.org/editor-highlights/fluctuating-fluid-flows-in-a-fractured-fault
+https://dspace.library.uvic.ca/handle/1828/8323
+https://pubs.usgs.gov/publication/70270090
+https://projets.oca.eu/images/hydroseis/pdf/Cappa_et_al-2018-Geophysical_Research_Letters.pdf
+https://se.copernicus.org/articles/13/301/2022/se-13-301-2022.html
+https://comptes-rendus.academie-sciences.fr/geoscience/articles/10.1016/j.crte.2008.11.010/
+https://www.research-collection.ethz.ch/items/29fe063b-5e85-4e74-a692-735977c6d745
+https://www.strati.ch/en/stratigraphic/paradis-gneiskomplex

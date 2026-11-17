@@ -1,0 +1,62 @@
+Zugriffe Einstufer 1, Teil 2
+
+GELESEN (Dateien)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G355a0f/e1_t2/auftrag_EK.txt
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G355a0f/teil2.md
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G355a0f/text.json
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G355a0f/egusphere-2025-4506.pdf (Seiten 2, 4, 6, 21, 23, 25 mit pdftoppm bei 300 dpi gerendert; pdfinfo)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G355a0f/seiten/seite-02.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G355a0f/seiten/seite-04.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G355a0f/seiten/seite-05.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G355a0f/seiten/seite-06.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G355a0f/seiten/seite-08.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G355a0f/seiten/seite-10.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G355a0f/seiten/seite-14.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G355a0f/seiten/seite-17.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G355a0f/seiten/seite-18.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G355a0f/seiten/seite-19.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G355a0f/seiten/seite-20.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G355a0f/seiten/seite-23.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G355a0f/seiten/seite-26.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G355a0f/seiten/seite-27.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G355a0f/seiten/seite-28.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G355a0f/seiten/seite-29.png
+/root/.claude/projects/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/tool-results/b45ywa50l.txt (vom Werkzeug automatisch abgelegte eigene Ausgabe eines text.json-Auszugs, p. 6 bis 25)
+
+VERZEICHNISLISTEN (nur Namen, keine Inhalte gelesen)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G355a0f/ (ls)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G355a0f/seiten/ (ls)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G355a0f/e1_t2/ (ls)
+
+GESCHRIEBEN
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G355a0f/e1_t2/einstufung.md
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G355a0f/e1_t2/zugriff_EK.txt
+Hilfsdateien im Ausgabeordner, nach Gebrauch gelöscht: p-02.png, p-04.png, p-06.png, p-21.png, p-23.png, p-25.png (Renderings 300 dpi), c_fig1box.png, c_fig1glob.png, c_fig2a.png, c_fig2b.png, c_l73.png, c_T.png, c_F.png, c_175.png, c_300.png (Ausschnitte)
+
+URLS (WebFetch)
+https://www.frontiersin.org/articles/10.3389/feart.2020.00164/full (nicht abgerufen, nicht freigegeben)
+https://frontiersin.org/journals/earth-science/articles/10.3389/feart.2020.00164/text (Weiterleitung)
+https://public-pages-files-2025.frontiersin.org/journals/earth-science/articles/10.3389/feart.2020.00164/text
+https://www.frontiersin.org/articles/10.3389/feart.2020.00164/pdf
+https://nhess.copernicus.org/articles/22/639/2022/
+https://esurf.copernicus.org/articles/7/439/2019/
+https://gh.copernicus.org/articles/77/21/2022/
+https://ideas.repec.org/a/spr/nathaz/v106y2021i1d10.1007_s11069-020-04471-1.html
+https://www.geogroup.mcgill.ca/Research/Journals/55-Insights into the transport and fragmentation characteristics_Gao-ASCE_IJOG-2020.pdf (Abruf fehlgeschlagen)
+https://ascelibrary.com/doi/10.1061/%28ASCE%29GM.1943-5622.0001800
+https://journal.hep.com.cn/jes/EN/1160318253862020026
+https://link.springer.com/article/10.1007/s10346-021-01750-1
+https://link.springer.com/article/10.1007/s10346-023-02171-y (nicht abgerufen, nicht freigegeben)
+https://link.springer.com/article/10.1007/s12594-013-0150-3 (nicht abgerufen, nicht freigegeben)
+
+WEBSEARCH (Suchanfragen)
+von Wartburg 2020 Molveno landslide "contour lines" source area pre-failure surface Dan3D-Flex Frontiers in Earth Science
+Zhao Crosta Utili De Blasio 2017 "Investigation of rock fragmentation during rockfalls and rock avalanches via 3-D discrete element analyses"
+Gao Meguid Chouinard Xu 2020 "Insights into the transport and fragmentation characteristics of earthquake-induced rock avalanche" Tangjia
+Zhao Wang Wu Su Liu Jin "Mogangling giant landslide triggered by the 1786 Moxi M 7.75 earthquake" volume abstract
+He Wang Zhao 2023 "Seismic response of an irregular slope containing surficial weak layer and internal fractures in Dadu River" Mogangling PGA crest toe 5.3
+Ge Tang Li 2021 "Mechanical energy evolution in the propagation of rock avalanches using field survey and numerical simulation" abstract
+"Seismic response of an irregular slope containing surficial weak layer and internal fractures" Mogangling
+van Herwijnen Schweizer 2011 "Monitoring avalanche activity using a seismic sensor" Cold Regions Science and Technology
+Navarre Bourova Roulle Deliot 2009 "seismic detection of avalanches" ISSW
+Hinweis: Eine Trefferliste enthielt einen Link auf egusphere.copernicus.org zu diesem Manuskript; er wurde nicht geöffnet.

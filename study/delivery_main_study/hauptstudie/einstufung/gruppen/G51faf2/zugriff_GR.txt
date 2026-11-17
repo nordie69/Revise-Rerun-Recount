@@ -1,0 +1,14 @@
+Gelesen:
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G51faf2/auftrag_GR.txt
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G51faf2/befunde_kurz.md
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G51faf2/befunde_voll.md (nur Einträge B7606e, B2c750, B826f1)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G51faf2/gr/gruppen_def.txt (Hilfsdatei, durch Prüfskript)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G51faf2/gr/gruppen.md (Prüfung)
+
+Geschrieben:
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G51faf2/gr/gruppen_def.txt (Hilfsdatei)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G51faf2/gr/check.py (Hilfsdatei)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G51faf2/gr/gruppen.md
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/G51faf2/gr/zugriff_GR.txt
+
+Nicht gelesen: egusphere-2025-4733.pdf, text.json, seiten/

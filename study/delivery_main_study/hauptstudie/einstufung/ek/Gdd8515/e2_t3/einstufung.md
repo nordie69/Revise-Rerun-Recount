@@ -1,0 +1,42 @@
+| Gruppe | Urteil | Begründung (ein Satz mit Seite und Zeile) |
+|---|---|---|
+| BG-081 | zutreffend | Die PDF-Textschicht zeigt auf S. 11, Z. 307 und in den Bildunterschriften von Fig. 5 und 6 (S. 26, 27) gerade Anführungszeichen ("greedy", "true"), während S. 10, Z. 288 und 291 typografische setzen. |
+| BG-082 | zutreffend | Fig. 6g (S. 27) endet nach 200 Iterationen bei etwa 193, Fig. 5g (S. 26) nach 100 Iterationen bei etwa 201 mit Minimum nahe 197, die Läufe haben ungleiche Budgets und für SD fehlen die Einstellungen, sodass "more stable and accurate" auf S. 11, Z. 320 bis 321 für die Genauigkeit nicht gestützt ist. |
+| BG-083 | zutreffend | S. 11, Z. 317 lautet wörtlich "(Figure 6G versus Figure 6G)", die Kovarianz steht laut Bildunterschrift in Teilbild h, und Fig. 6h (S. 27) zeigt einen Knick bei etwa 135 bis 140 Iterationen ohne erkennbare Oszillation ab 125. |
+| BG-084 | zutreffend | Auf dem Seitenbild S. 11, Z. 319 steht "(Figure 6D, 6E and 6F )" mit Leerzeichen vor der Klammer. |
+| BG-085 | zutreffend | Der Text nennt die Größe auf S. 11, Z. 330 und 335 "area mismatch", Fig. 7 (S. 28) "Area difference" und "Geology misalignment (m²)", und die Karten heißen in Z. 332 bis 339 und in Fig. 7 jeweils anders. |
+| BG-086 | zutreffend | Das Fehlermaß heißt auf S. 10, Z. 305, S. 11, Z. 335, S. 12, Z. 352, S. 13, Z. 381 und in den Achsen von Fig. 5g und 7 bis 10 jeweils anders, und das Symbol e der Achsen kommt in Abschnitt 3 (S. 5 bis 8, nur ė und ε) nicht vor. |
+| BG-087 | zutreffend | S. 11, Z. 333 bis 334 schreibt "the map proposed by (Steck et al., 2015)", wo ein erzählender Beleg "Steck et al. (2015)" stehen müsste. |
+| BG-088 | zutreffend | Die Fehlerachsen von Fig. 5 bis 10 zeigen eine Summe ohne Einheit, und eine Suche nach "pixel" auf S. 1 bis 16 ergibt keine Pixelzahl, die Pixelgröße folgt nur aus S. 10, Z. 294 (1200 m durch 4). |
+| BG-089 | zutreffend | Fig. 7 (S. 28) zeigt etwa 197 (gleiche Karte), 193,5 (minimale Änderung) und 275 (Steck), sodass die allgemeine Aussage auf S. 11, Z. 337 bis 338 nur vom größten Fall, nicht von allen drei Karten getragen wird. |
+| BG-090 | Ansichtssache | "erosion-rate bump" auf S. 12, Z. 341 ist korrekt belegt, ob das umgangssprachliche "bump" statt "hotspot" (S. 10, Z. 289) ein Mangel ist, ist Stilfrage. |
+| BG-091 | zutreffend | S. 12, Z. 343 bis 344 lautet "by approaching each lithology's mineral concentration to its mean", eine im Englischen ungrammatische Konstruktion von "approach". |
+| BG-092 | zutreffend | S. 12, Z. 345 sagt "measures the similarity", obwohl eine Distanz Unähnlichkeit misst, wie Z. 346 selbst mit "values closer to zero indicate more similar" zeigt. |
+| BG-093 | zutreffend | Die Fingerprints werden auf S. 9, Z. 261 durch das Maximum normiert, und S. 12, Z. 345 bis 347 nennt weder eine Umrechnung in Verteilungen mit Summe eins noch die Logarithmusbasis der JS-Distanz. |
+| BG-094 | zutreffend | Text S. 12, Z. 348 ("highly blended, intermediate, original synthetic"), Teilbildtitel ("Almost fully blended, Medium blended, Unblended") und Bildunterschrift von Fig. 8 (S. 29, "most blended, half-way in between") benennen dieselben drei Sätze verschieden. |
+| BG-095 | zutreffend | S. 12, Z. 348 nennt 20 getestete Werte, Fig. 8 (S. 29) zeigt im linken und mittleren Diagramm je 14 Punkte, und die Bildunterschrift erklärt nur einen fehlenden Fall, fünf bleiben unerklärt. |
+| BG-096 | Ansichtssache | "The more resemblant" auf S. 12, Z. 351 ist belegt, das Wort ist selten, aber nicht falsch, und der Ersatz durch "similar" ist eine Stilpräferenz. |
+| BG-097 | zutreffend | Die Fehlerachse von Fig. 8 (S. 29) ist eine einheitenlose Summe bis 700000, Punkte bei JS 0,50 bis 0,54 liegen ebenfalls weit über 700, sodass "errors exceeding 700 mm/yr for JS < 0.44" auf S. 12, Z. 352 bis 353 die Abbildung nicht beschreibt. |
+| BG-098 | zutreffend | "mm/yr" kommt nur auf S. 12, Z. 352 vor, sonst durchgehend "mm/y" (etwa S. 10, Z. 295; S. 11, Z. 325; S. 13, Z. 384). |
+| BG-099 | zutreffend | Szenario 2 läuft laut S. 11, Z. 324 mit 25 Iterationen, S. 13, Z. 388 nennt Stabilisierung erst nach 115, und "fails to converge" auf S. 12, Z. 353 ist nirgends definiert. |
+| BG-100 | zutreffend | Die x-Achsen der linken und mittleren Streudiagramme von Fig. 9 (S. 30) tragen "Avg. JS distance between lithologies", zeigen aber Werte 0 bis 21 der Tracerzahl, die Farbskala heißt "Number of tracrs". |
+| BG-101 | zutreffend | Der Datenmisfit ist nach Gl. 7 und 8 (S. 6) eine Summe über die m Tracer, und S. 12, Z. 360 bis 362 vergleicht ihn ohne Normierung über Läufe mit 1 bis 21 Tracern (Fig. 9, S. 30). |
+| BG-102 | zutreffend | Die Rangfolge auf S. 12, Z. 363 bis 365 vergleicht frei gewählte Störungsbereiche, und am jeweiligen Extrem liegt der Fehler bei einem Tracer (etwa 347, Fig. 9) über dem der Steck-Karte (etwa 275, Fig. 7). |
+| BG-103 | zutreffend | Fig. 10 (S. 31) markiert "L = 3000 m", "σm = 6.2" und "σd = 0.003 mm/y", während S. 11, Z. 324 bis 326 1200 m, 3 und 0,01 mm/y verwendet, und die Bildunterschrift erklärt die Markierungen nicht. |
+| BG-104 | zutreffend | S. 12, Z. 370 schreibt "the maximal amount of non-linear iterations", wo bei einem zählbaren Substantiv "maximum number" korrekt ist. |
+| BG-105 | zutreffend | Fig. 10 (S. 31) zeigt in Zeile 1 einen monotonen Fehlerabfall bis 3000 m, in Zeile 3 eine Änderung im Bereich von 0,02 bei Versatz +1.974e2 und in Zeile 5 bereits bei 15 Iterationen etwa 201, im Widerspruch zu S. 12, Z. 372 bis S. 13, Z. 389. |
+| BG-106 | zutreffend | Zeile 1 von Fig. 10 (S. 31) endet bei 3000 m mit dem kleinsten Fehler (etwa 76), es gibt keinen Lauf darüber, und S. 13, Z. 374 bis 376 beschreibt selbst eine Verringerung der Abweichung bei größerem L. |
+| BG-107 | zutreffend | Zeile 3 von Fig. 10 (S. 31) steigt mit Versatz +1.974e2 monoton von etwa 0,020 auf 0,043, ohne große Werte bei kleinem σd, Minimum oder Plateau, wie S. 13, Z. 380 bis 384 sie beschreibt. |
+| BG-108 | zutreffend | Die PDF-Textschicht zeigt auf S. 13, Z. 384 "10-2 mm/y" mit Bindestrich auf der Grundlinie, Z. 388 dagegen "10−5" hochgestellt. |
+| BG-109 | zutreffend | Zeile 5 von Fig. 10 (S. 31) zeigt nur bei 5 Iterationen etwa 269, bei 15 Iterationen schon etwa 201 wie das Plateau, sodass "below 25" auf S. 13, Z. 387 bis 388 nicht gestützt ist. |
+| BG-110 | zutreffend | S. 13, Z. 388 bis 389 nennt die Schwelle "below 10−5" ohne Angabe, ob absolut oder relativ, bei Datenmisfits der Größenordnung 1e6 bis 1e8 in Fig. 10, und der Verlauf ist nicht gezeigt. |
+| BG-111 | zutreffend | Die Abbruchregel auf S. 9, Z. 243 bis 244 kann die mit festen 25 Iterationen gerechneten Läufe (S. 11, Z. 324; S. 14, Z. 426) nicht beendet haben, wenn sich der Datenmisfit laut S. 13, Z. 388 bis Iteration 115 noch ändert. |
+| BG-112 | zutreffend | Die Liste auf S. 13, Z. 394 bis 396 enthält Dolomit, Ankerit und Magnesit, aber keinen Calcit, obwohl S. 10, Z. 275 und 278 kalkige Glimmerschiefer und Marmore nennen. |
+| BG-113 | zutreffend | Die Mineralnamen auf S. 13, Z. 394 bis 396 sind großgeschrieben, während S. 10, Z. 274 dieselben Gattungsnamen klein schreibt ("antigorite and chrysotile"). |
+| BG-114 | zutreffend | S. 13, Z. 395 nennt "Chrysolite", Fig. 11 (S. 32) und die Fingerprintachsen von Fig. 15 und 16 nennen an derselben Stelle "Chrysotile", zwei verschiedene Minerale. |
+| BG-115 | zutreffend | S. 13, Z. 399 bis 401 behauptet die Übereinstimmung ohne Erwartungswerte oder Kriterium, und Fig. 11 (S. 32) zeigt etwa hohe Antigorit- und Chrysotilwerte in den ZSF-Sedimenten und hohen Tremolit im Monte-Rosa-Granit. |
+| BG-116 | zutreffend | S. 13, Z. 400 lautet "supporting the 1) the robustness" mit doppeltem Artikel. |
+| BG-117 | zutreffend | Nur die ZSF-Sedimente fehlen im Teileinzugsgebiet (S. 14, Z. 411), "close to zero" auf Z. 414 hat kein Kriterium, und in Fig. 13 (S. 34) liegt auch das Maximum der vorhandenen Furgg-Serie bei null. |
+| BG-118 | zutreffend | "sub-catchment" steht auf S. 14, Z. 409, 411 und 413 sowie S. 16, Z. 488 neben "subcatchment" auf S. 10, Z. 283 bis 284 und S. 14, Z. 411, also im selben Satz uneinheitlich. |
+| BG-119 | zutreffend | S. 14, Z. 413 spricht nur von "multiple detrital samples", die Bildunterschrift von Fig. 13 (S. 34) von "multiple inversions", ohne Anzahl, Daten oder Parameter. |
+| BG-120 | zutreffend | Die Pixelgröße folgt nur aus S. 10, Z. 294 (1200 m durch 4), die 13 Altersklassen nur aus Fig. 14 (S. 35) und die 34 Tracer des kombinierten Laufs auf S. 15, Z. 443 bis 445 nur aus den Abbildungen. |

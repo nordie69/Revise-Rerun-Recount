@@ -1,0 +1,38 @@
+| Gruppe | Urteil | Begründung (ein Satz mit Seite und Zeile) |
+|---|---|---|
+| BG-181 | zutreffend | S. 16, Z. 497 steht "St. B", Z. 498 dagegen "St.B.", die Kürzel sind also uneinheitlich. |
+| BG-182 | zutreffend | S. 16, Z. 536 steht "Las glaciaciones cuaternarios", was zum femininen "glaciaciones" nicht passt; Suchtreffer für den Titel zeigen "cuaternarias". |
+| BG-183 | zutreffend | S. 17, Z. 553 bis 560 steht De Deckker et al. (2014) vor 2010, während die Liste sonst bei gleichem Erstautor chronologisch ordnet (Gaiero 2003, 2004, 2007, S. 18; Delmonte 2004 bis 2020, S. 17). |
+| BG-184 | zutreffend | S. 17, Z. 565 steht "2007. 6. Late quaternary interglacials" mit überzähligem "6." und kleingeschriebenem "quaternary". |
+| BG-185 | zutreffend | Der Eintrag S. 18, Z. 630 bis 632 (Gaiero et al., 2007) wird weder im Haupttext noch im Supplement zitiert, dort steht nur "Gaiero, 2007" (S. 8, Z. 274; S. 26, Z. 862); den Nebenpunkt zu EPICA 2006 (nur in der Caption von Fig. S2) bringt nur einer der Einzelbefunde. |
+| BG-186 | zutreffend | S. 20, Z. 726 bis 729 endet der Eintrag mit "Clim. Past." ohne Band, Seiten und DOI (laut Quelle Clim. Past 3, 485 bis 497), außerdem ist die Autorenliste gekürzt, wie zwei Einzelbefunde zusätzlich anmerken. |
+| BG-187 | zutreffend | S. 20, Z. 732 steht "doi: https://doi.org/10.1130/B25770.1" mit doppeltem DOI-Präfix. |
+| BG-188 | zutreffend | S. 20, Z. 748 steht "Environùental characterization". |
+| BG-189 | zutreffend | S. 20, Z. 762 bis 763 steht "2003. 01 Composition of the Continental Crust. In Treatise on Geochemistry Vol. 03" mit überzähliger "01" und ohne Bandtitel und Bandherausgeber. |
+| BG-190 | zutreffend | S. 20, Z. 763 steht "Turkian KK (eds)" statt des Herausgebernamens Turekian. |
+| BG-191 | zutreffend | S. 21, Z. 770 steht "Global Biogeochem. Cycles 25, n/a-n/a." statt der Artikelnummer, die laut Quelle GB2010 lautet. |
+| BG-192 | zutreffend | Der Eintrag S. 21, Z. 800 lautet "Sudgen, D. E.", im Text steht dagegen S. 8, Z. 266 "Sugden et al., 2009"; den Zusatz eines Einzelbefunds, der Eintrag sei umzustellen, trägt das nicht, denn Sudgen und Sugden stehen alphabetisch an derselben Stelle. |
+| BG-193 | zutreffend | S. 22, Z. 844 bis 846 steht "Yang, Y., Carey-Smith, T., & Turner, R. (2024)." im APA-Stil, abweichend vom Listenstil; auch Ding et al. (S. 17, Z. 584 bis 585) und Gaiero et al. 2013 (S. 18, Z. 633 bis 636) weichen ab. |
+| BG-194 | zutreffend | Alle drei Stellen bestehen: "between 2852 to" (S. 25, Z. 851), "mobile average over 9 steps" (S. 25, Z. 852; S. 29, Z. 882; Caption Fig. S5) und "contribution are" (S. 25, Z. 853); die dritte steht allerdings in der Caption von Fig. 1, nicht in der von Fig. S5. |
+| BG-195 | zutreffend | S. 25, Z. 851 steht "between 2852 to 33699 yr BP" und Z. 853 "their dust emissions contribution are very low". |
+| BG-196 | zutreffend | Die Captions S. 25 bis 29 (Z. 851 bis 882) lösen die Abkürzungen der Abbildungen (PAT, AUS, SAF, NZ, PAP, YD, ACR, HS1, MIS3, "Holo", "Iso") nicht auf, während Fig. 1 nur die nicht gezeigten Regionen CWA und Antarktis ausschreibt; die Einzelbefunde unterscheiden sich in Nebenpunkten (Periodengrenzen, Datenlücke). |
+| BG-197 | zutreffend | S. 25, Z. 851 steht "between 2852 to 33699 yr BP"; die Einzelbefunde schlagen dafür "and" oder "from" vor. |
+| BG-198 | zutreffend | S. 25, Z. 851 steht "between 2852 to", ebenso Supplement S. 5 in der Caption von Fig. S3 "between 2.852 to 33.699 kyr BP". |
+| BG-199 | zutreffend | "mobile average over 9 steps" steht S. 25, Z. 852, S. 29, Z. 882 und in der Caption von Fig. S5 (Suppl. S. 9), richtig wäre "moving average"; ein Einzelbefund belässt "steps". |
+| BG-200 | zutreffend | S. 25, Z. 853 steht "their dust emissions contribution are very low", Subjekt und Verb stimmen also nicht überein. |
+| BG-201 | zutreffend | S. 26, Z. 865 verweist für den isotopischen Fingerabdruck der Endglieder auf Table S4, doch Table S4 (Suppl. S. 21) enthält Messwerte aus Eiskernen, und die Endgliedwerte stehen in Table S3 (Suppl. S. 20). |
+| BG-202 | zutreffend | Die Captions S. 27, Z. 872 und Suppl. S. 7 nennen die Whisker "lower and upper extremes", obwohl jenseits der Whisker Punkte liegen, etwa beim AUS-Whisker um 80 % mit Punkten bei 84, 95 und 98 %; das entspricht der Grenze Q3 plus 1,5 IQR (81,3) aus Table S1 für das Frühholozän. |
+| BG-203 | zutreffend | S. 27, Z. 872 bis 873 nennt nur "HS1, ACR and YD", Fig. S4 (Suppl. S. 7 bis 8) hat aber fünf Panels, zusätzlich Early Holocene und MIS3. |
+| BG-204 | zutreffend | S. 28, Z. 875 heißt es "Histograms", Fig. 4 zeigt aber Balkendiagramme mit einem Balken je Periode und keine Häufigkeitsverteilung; Einzelbefund Bcaed2 enthält zusätzlich eine fremde Zeile zum Sudgen-Eintrag. |
+| BG-205 | zutreffend | S. 28, Z. 875 bis 876 stehen "Histograms" für Balkendiagramme und "(Table S4)", obwohl die Periodenmittel beider Kerne in Table S5 stehen (Suppl. S. 22). |
+| BG-206 | zutreffend | S. 28, Z. 876 verweist auf Table S4 (Isotope aus Eiskernen), die Periodenmittel für EDC und EDML stehen aber in Table S5 (Suppl. S. 22). |
+| BG-207 | zutreffend | Die Caption S. 25, Z. 851 bis 854 schreibt nur die nicht gezeigten Regionen CWA und Antarktis aus, nicht aber die Achsen- und Periodenkürzel von Fig. 1 (S. 24). |
+| BG-208 | Ansichtssache | In Fig. 1 (S. 24) zeigt die Legende "Raw data" tatsächlich Mediane aus Table S1 (S. 25, Z. 851 bis 852; S. 5, Z. 164 bis 165), doch im Gegensatz zu "smoothed" ist "Raw data" als Bezeichnung für die ungeglättete Reihe vertretbar. |
+| BG-209 | zutreffend | Table S1 hat zwischen 21,7 und 27,3 kyr BP nur vier Proben (22150, 23104, 25384, 25640), die Lücke ist auf S. 4, Z. 113 genannt, doch in Fig. 1, 5A, S3 und S5 laufen die geglätteten Kurven dort als gerade Strecken ohne Markierung. |
+| BG-210 | zutreffend | Mit Gl. 3 und 4 (S. 8, Z. 245 bis 250) aus Table S1 und S3 nachgerechnet, liegen die spätholozänen Proben (z. B. 6570 yr, 0,7236 und minus 13,17) auf hellroten Punkten, also "EDC Early Holocene", und die frühholozänen (z. B. 10511 yr) auf dunkelroten, also "EDC Holocene" (S. 26); die Legende widerspricht damit der Periodendefinition S. 6, Z. 187 bis 188. |
+| BG-211 | zutreffend | Das Panel "Holocene" in Fig. 3 (S. 27, Z. 869) zeigt PAT-Quartile von etwa 12, 55 und 73 und ein SAF-Maximum von etwa 54, nachgerechnet aus Table S1 ist das das Frühholozän (12,3; 55,2; 73,0; Max 54,3) und nicht das ganze Holozän (18,4; 58,6; 73,8; Max 73,5); das Panel "Early Holocene" von Fig. S4 (Suppl. S. 8) entspricht dem Spätholozän (18,9; 61,7; 80,7; AUS-Maximum 94,0). |
+| BG-212 | zutreffend | Die y-Achsen von Fig. 3 (S. 27) und Fig. S4 (Suppl. S. 8) tragen Beschriftungen mit Dezimalkomma ("0,00" bis "100,00") in einem englischsprachigen Manuskript. |
+| BG-213 | zutreffend | Die y-Achsen von Fig. 3 (S. 27) sind mit "100,00" usw. beschriftet, also mit Dezimalkomma und überflüssigen Nachkommastellen. |
+| BG-214 | zutreffend | Bei 300 dpi gemessen sind die Ziffern der Achsen in Fig. 5 (S. 29) 13 bis 14 px hoch, das entspricht etwa 4,3 bis 4,7 pt, in Fig. 1 (S. 24) 17 px, etwa 5,7 pt, also unter 6 pt; welche Abbildungen außerdem betroffen sind (Fig. 2, 3, 4), geben die Einzelbefunde unterschiedlich an. |
+| BG-215 | zutreffend | Die Karte von Fig. S1 (Suppl. S. 2) ist mit 800 x 450 px bei 78 ppi eingebettet, Ortsnamen und Maßstäbe sind kaum lesbar, und die Beschriftungen sind französisch ("Argentine", "Nouvelle-Zélande"). |
+| BG-216 | zutreffend | In Fig. S2 (Suppl. S. 4) haben die Achsen "nssCa2+ flux", "δ18O" und "deuterium excess" keine Einheiten, obwohl S. 5, Z. 166 die Flusseinheit nennt, und Panel B fehlen die grauen Periodenzonen von A und C. |

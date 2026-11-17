@@ -1,0 +1,294 @@
+{
+ "laufplan": {
+  "zahl": 48,
+  "je_bed_ms": {
+   "A-4506": [
+    1,
+    2,
+    3
+   ],
+   "A-4695": [
+    1,
+    2,
+    3
+   ],
+   "A-4733": [
+    1,
+    2,
+    3
+   ],
+   "A-5046": [
+    1,
+    2,
+    3
+   ],
+   "B-4506": [
+    1,
+    2,
+    3
+   ],
+   "B-4695": [
+    1,
+    2,
+    3
+   ],
+   "B-4733": [
+    1,
+    2,
+    3
+   ],
+   "B-5046": [
+    1,
+    2,
+    3
+   ],
+   "C-4506": [
+    1,
+    2,
+    3
+   ],
+   "C-4695": [
+    1,
+    2,
+    3
+   ],
+   "C-4733": [
+    1,
+    2,
+    3
+   ],
+   "C-5046": [
+    1,
+    2,
+    3
+   ],
+   "D-4506": [
+    1,
+    2,
+    3
+   ],
+   "D-4695": [
+    1,
+    2,
+    3
+   ],
+   "D-4733": [
+    1,
+    2,
+    3
+   ],
+   "D-5046": [
+    1,
+    2,
+    3
+   ]
+  },
+  "kennungen_doppelt": [],
+  "N_doppelt": [],
+  "fassung_je_bed": {
+   "A": [
+    [
+     "1.0.0/1.0.0/1.0.0",
+     [
+      "7a2d507149f7",
+      "3885b3029401",
+      "a44abec7eafc"
+     ],
+     "getrennt"
+    ]
+   ],
+   "B": [
+    [
+     "1.3.0/1.2.0/1.2.0",
+     [
+      "9fc7d78e7d32",
+      "d10a409da3e8",
+      "9c9a62f9996c"
+     ],
+     "getrennt"
+    ]
+   ],
+   "C": [
+    [
+     "1.3.0/1.2.0/1.2.0",
+     [
+      "9fc7d78e7d32",
+      "d10a409da3e8",
+      "9c9a62f9996c"
+     ],
+     "nacheinander"
+    ]
+   ],
+   "D": [
+    [
+     "1.4.0/1.3.0/1.2.0",
+     [
+      "66dcd7c60f8a",
+      "ce3468d00215",
+      "9c9a62f9996c"
+     ],
+     "getrennt"
+    ]
+   ]
+  }
+ },
+ "soll": {
+  "einwaende": 205,
+  "bestaetigt": 198,
+  "inhaltlich": 143,
+  "kleinkorrektur": 55,
+  "nicht_bestaetigt": 7,
+  "auftraggeber": 5,
+  "G03_bestaetigt": 20,
+  "je_ms": {
+   "4506": [
+    31,
+    2
+   ],
+   "4695": [
+    17,
+    4
+   ],
+   "4733": [
+    20,
+    4
+   ],
+   "5046": [
+    75,
+    45
+   ]
+  }
+ },
+ "soll_mehrheit_abweichungen": [],
+ "einzelbefunde_gegen_gutachten": {
+  "zahl": 4418,
+  "ungleich": []
+ },
+ "source_nicht_erkannt": 0,
+ "source_ohne_instanz": [
+  [
+   "ZF",
+   114
+  ]
+ ],
+ "zuordnung_mehrheit_gegen_mehrheit_md": {
+  "abweichungen": [
+   [
+    "L01",
+    "4695-RC1-07",
+    "Eintraege",
+    [
+     "GB-02"
+    ],
+    [
+     "GB-02",
+     "GB-14"
+    ]
+   ],
+   [
+    "L18",
+    "4733-RC1-13",
+    "Eintraege",
+    [
+     "GB-39"
+    ],
+    [
+     "GB-22",
+     "GB-39"
+    ]
+   ],
+   [
+    "L45",
+    "5046-RC2-03",
+    "Eintraege",
+    [
+     "GB-35",
+     "GB-46",
+     "GB-53"
+    ],
+    [
+     "GB-35",
+     "GB-39",
+     "GB-46",
+     "GB-53"
+    ]
+   ]
+  ],
+  "zahl": 3,
+  "ohne_mehrheit": 0
+ },
+ "zutreffend_nach_zuordnung": {
+  "zahl": 676,
+  "nicht_im_gutachten": [],
+  "strittig_eigen": 3742,
+  "strittig_geliefert": 3742,
+  "differenz": []
+ },
+ "gruppen": {
+  "zahl": 896,
+  "einzelbefunde_in_gruppen": 3742,
+  "kennungen_json": 3742,
+  "ohne_gruppe": [],
+  "gruppe_ohne_kennung": [],
+  "falsches_manuskript": 0,
+  "strittig_ohne_zufallskennung": 0,
+  "zufallskennung_nicht_strittig": 0
+ },
+ "ki_mehrheit": {
+  "gruppen": 896,
+  "mehrheit": 893,
+  "ohne_mehrheit": 3,
+  "mehrheit_unklar": 3,
+  "fehlende_urteile": 0,
+  "abweichungen_gegen_mehrheit_json": [],
+  "doppelte_zeilen": [],
+  "verteilung": {
+   "zutreffend": 788,
+   "ansichtssache": 90,
+   "null": 3,
+   "nicht zutreffend": 12,
+   "unklar": 3
+  }
+ },
+ "stichprobe_ziehung": {
+  "gezogen_zahl": 60,
+  "tsv_teil1": 60,
+  "tsv_teil2": 6,
+  "gleich_gezogen_tsv": true,
+  "je_bedingung": {
+   "B": 15,
+   "D": 15,
+   "C": 15,
+   "A": 15
+  },
+  "alle_aus_zulaessigen_gruppen": true,
+  "nachgezogen_ein_generator": true,
+  "nachgezogen_generator_je_bedingung": false,
+  "teil2_gleich_gruppen_ohne_mehrheit": true
+ },
+ "endgueltig_gegenprobe": {
+  "einzelbefunde_abweichend": 0,
+  "beispiele": [],
+  "gruppen_abweichend": 0,
+  "beispiele_gruppen": [],
+  "verteilung_eigen": {
+   "zutreffend": 4192,
+   "ansichtssache": 206,
+   "nicht zutreffend": 20
+  },
+  "offen": 0
+ },
+ "k4_schlusszeile": {
+  "lesbar": 25,
+  "gleich_mehrheit": 25,
+  "ungleich": []
+ },
+ "k8_zaehler": {
+  "faelle_genannt": 315,
+  "von_allen_drei": 256
+ },
+ "schwelle": {
+  "anteil": 0.95,
+  "erreicht": true
+ }
+}

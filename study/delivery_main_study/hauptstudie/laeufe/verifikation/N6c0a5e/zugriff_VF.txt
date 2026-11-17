@@ -1,0 +1,68 @@
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N6c0a5e/auftrag_VF.txt
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N6c0a5e/
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N6c0a5e/seiten/
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N6c0a5e/vf/
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N6c0a5e/vf/zugriff_VF.txt
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N6c0a5e/gutachten.md
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N6c0a5e/text.json
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N6c0a5e/egusphere-2025-4506.pdf
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N6c0a5e/vf/layout.txt
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N6c0a5e/vf/lines.py
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N6c0a5e/vf/lines.txt
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N6c0a5e/vf/quotes.py
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N6c0a5e/vf/items.json
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N6c0a5e/vf/r300/ (300 dpi renders p-01..p-29)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N6c0a5e/vf/crop_p6_a.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N6c0a5e/vf/crop_p6_w.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N6c0a5e/vf/crop_fig12a.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N6c0a5e/vf/crop_fig12a_lab.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N6c0a5e/vf/calc.py
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N6c0a5e/seiten/seite-04.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N6c0a5e/seiten/seite-06.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N6c0a5e/seiten/seite-08.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N6c0a5e/seiten/seite-09.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N6c0a5e/seiten/seite-10.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N6c0a5e/seiten/seite-12.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N6c0a5e/seiten/seite-13.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N6c0a5e/seiten/seite-14.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N6c0a5e/seiten/seite-17.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N6c0a5e/seiten/seite-18.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N6c0a5e/seiten/seite-19.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N6c0a5e/seiten/seite-20.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N6c0a5e/seiten/seite-21.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N6c0a5e/seiten/seite-22.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N6c0a5e/seiten/seite-23.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N6c0a5e/seiten/seite-24.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N6c0a5e/seiten/seite-25.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N6c0a5e/seiten/seite-27.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N6c0a5e/seiten/seite-28.png
+WebSearch: Zhao Wang Wu Su Liu Jin "Mogangling giant landslide triggered by the 1786 Moxi M 7.75 earthquake" Natural Hazards abstract
+https://ideas.repec.org/a/spr/nathaz/v106y2021i1d10.1007_s11069-020-04471-1.html
+https://journal.hep.com.cn/jes/EN/1160318253862020026
+WebSearch: "Genetic Mechanism and Failure Process of the Mogangling Seismic Landslide" Journal of the Geological Society of India 2013
+https://link.springer.com/article/10.1007/s12594-013-0150-3 (Abruf abgelehnt, nicht auf Allowlist)
+WebSearch: Wu Wang Dong Chen Wang 2013 Mogangling seismic landslide genetic mechanism back-slope amplification J. Geol. Soc. India 82 277
+https://esurf.copernicus.org/articles/7/439/2019/
+WebSearch: Crosta EGU2014-16272 Cerro Caquilluco rock avalanche pre-failure topography reconstruction
+https://meetingorganizer.copernicus.org/EGU2014/EGU2014-16272.pdf
+https://nhess.copernicus.org/articles/22/639/2022/
+WebSearch: De Blasio Crosta 2015 "Fragmentation and boosting of rock falls and rock avalanches" Geophysical Research Letters abstract slope 70°
+https://boa.unimib.it/handle/10281/109013
+https://www.frontiersin.org/journals/earth-science/articles/10.3389/feart.2023.1140326/full (Abruf abgelehnt, nicht auf Allowlist)
+WebSearch: "Multi-fault rupture behavior of the 1786 M 7¾ Kangding earthquake" Feng Chen Han Frontiers in Earth Science 2023
+https://www.frontiersin.org/articles/10.3389/feart.2023.1140326/full
+WebSearch: "Study on the chain-type failure mechanism of large-scale ancient landslides" Frontiers Earth Science 2024 1466751
+https://public-pages-files-2025.frontiersin.org/journals/earth-science/articles/10.3389/feart.2024.1466751/text
+https://www.frontiersin.org/journals/earth-science/articles/10.3389/feart.2024.1466751/pdf (Abruf fehlgeschlagen)
+https://www.frontiersin.org/journals/earth-science/articles/10.3389/feart.2024.1466751/epub (nur Binärdaten)
+WebSearch: Cheng Li "Numerical Simulation Analysis and Research of Huanglang Valley Ancient Landslide" 2014 ISDEA UDEC
+WebSearch: "Huanglang Valley" ancient landslide numerical simulation UDEC 2014 Fifth International Conference Intelligent Systems Design Engineering Applications Cheng Fei
+WebSearch: Carpignano Golia Di Mauro Bouchon Nordvik 2009 "multi-risk maps at the regional level" Journal of Risk Research abstract Piedmont
+https://ideas.repec.org/a/taf/jriskr/v12y2009i3-4p513-534.html
+WebSearch: Fan Scaringi Korup West van Westen Tanyas Hovius "Earthquake-induced chains of geologic hazards: patterns, mechanisms, and impacts" Reviews of Geophysics 2019
+https://pubs.usgs.gov/publication/70204730
+https://orca.cardiff.ac.uk/id/eprint/123110/
+WebSearch: Fan Yang Siva Subramanian "Prediction of a multi-hazard chain by an integrated numerical simulation approach: the Baige landslide" Landslides 17 147-164 2020
+https://research.utwente.nl/en/publications/prediction-of-a-multi-hazard-chain-by-an-integrated-numerical-sim/
+Hinweis: In Suchergebnissen angezeigte Links auf egusphere.copernicus.org (egusphere-2025-4506) und nhess.copernicus.org/articles/26/1955/2026 wurden nicht geoeffnet.
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N6c0a5e/vf/verifikation.md

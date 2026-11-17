@@ -1,0 +1,70 @@
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N0277ba/auftrag_VF.txt
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N0277ba/gutachten.md
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N0277ba/text.json
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N0277ba/supplement/text.json
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N0277ba/supplement/fassung.json
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N0277ba/egusphere-2025-5046.pdf
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N0277ba/egusphere-2025-5046-supplement.pdf
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N0277ba/vf/ms.txt
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N0277ba/vf/supp.txt
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N0277ba/vf/ms_num.txt
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N0277ba/vf/p300_*.png (rendered pages 24,26-29 at 300 dpi)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N0277ba/seiten/seite-24.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N0277ba/seiten/seite-25.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N0277ba/seiten/seite-26.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N0277ba/seiten/seite-27.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N0277ba/seiten/seite-28.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N0277ba/seiten/seite-29.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N0277ba/supplement/seiten/seite-02.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N0277ba/supplement/seiten/seite-04.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N0277ba/supplement/seiten/seite-06.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N0277ba/supplement/seiten/seite-08.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N0277ba/supplement/seiten/seite-10.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N0277ba/supplement/seiten/seite-21.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N0277ba/vf/s1.json
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N0277ba/vf/s2.json
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N0277ba/vf/p300_24-24.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N0277ba/vf/p300_26-26.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N0277ba/vf/p300_27-27.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N0277ba/vf/p300_28-28.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N0277ba/vf/p300_29-29.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N0277ba/vf/verifikation.md
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/vfscripts/number.py
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/vfscripts/parse.py
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/vfscripts/s1stats.py
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/vfscripts/s1more.py
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/vfscripts/s2stats.py
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/vfscripts/srch.py
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/vfscripts/q.py
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/vfscripts/kk.json
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/vfscripts/gb.json
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/vfscripts/hgt.py
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/vfscripts/write.py
+WebSearch: Vanderstraeten 2023 EPICA Dronning Maud Land dust provenance Rare Earth Element mixing model abstract
+WebSearch: Lambert 2015 Dust fluxes and iron fertilization in Holocene and Last Glacial Maximum climates 20 ppm
+WebSearch: Lambert 2021 Regional patterns and temporal evolution of ocean iron fertilization and CO2 drawdown during the last glacial termination
+WebSearch: Siggaard-Andersen 2007 Soluble and insoluble lithium dust EPICA DomeC ice core dust provenance
+WebSearch: Martinez-Garcia 2014 Iron Fertilization of the Subantarctic Ocean During the Last Ice Age abstract
+WebSearch: Engelbrecht 2019 Downscaling Last Glacial Maximum climate over southern Africa abstract
+WebSearch: Vallelonga 2010 Lead isotopic compositions in the EPICA Dome C ice core pdf
+WebSearch: Delmonte 2013 Modern and Holocene aeolian dust variability from Talos Dome pdf
+WebSearch: Vallelonga 2002 lead pollution history of Law Dome abstract
+WebSearch: Delmonte 2004 Comparing the Epica and Vostok dust records Earth-Science Reviews
+WebSearch: Wegner 2012 Change in dust variability in the Atlantic sector of Antarctica abstract
+WebSearch: Gabrielli 2010 A major glacial-interglacial change in aeolian dust composition pdf
+https://www.iceandclimate.nbi.ku.dk/publications/papers/abstracts/abstract_10/ (erst abgelehnt, nach Suche gelesen)
+https://boris.unibe.ch/57917 (erst abgelehnt, nach Suche gelesen)
+https://asu.elsevierpure.com/en/publications/downscaling-last-glacial-maximum-climate-over-southern-africa/ (erst abgelehnt, nach Suche gelesen)
+https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2015GL064250 (abgelehnt, nicht gelesen)
+https://boa.unimib.it/retrieve/e39773b7-1d77-35a3-e053-3a05fe0aac26/Lambert_2021_EPSL_Dust-iron-CO2.pdf
+https://marineinfo.org/id/publication/382930
+https://epic2-clone.awi.de/38919/1/lambert15grl.pdf
+https://bpcrc.osu.edu/sites/default/files/2020-12/QSR Vallelonga 2010.pdf
+https://www.taldice.org/pub/taldice/2013_Delmonte_QSR.pdf
+https://paleo.ltrr.arizona.edu/json/noaa-icecore-11918.json
+https://www.documentation.ird.fr/hor/PAR00000018 (Weiterleitung auf Wartungsseite, nicht gelesen)
+https://cp.copernicus.org/articles/8/135/2012/
+https://bpcrc.osu.edu/sites/default/files/2020-12/QSR Gabrielli 2010.pdf
+https://hal.archives-ouvertes.fr/hal-01695944 (Zugriff verweigert)
+https://www.iceandclimate.nbi.ku.dk/publications/papers/abstracts/Abstract202/ (nicht auf Freigabeliste, nicht gelesen)
+https://repository.geologyscience.ru/handle/123456789/38581?show=full

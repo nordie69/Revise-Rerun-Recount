@@ -1,0 +1,40 @@
+gelesen: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Na482af/auftrag_VF.txt
+gelesen: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Na482af/ (Verzeichnisliste, ohne Unterordner zu1/ zu2/ zu3/)
+gelesen: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Na482af/seiten/ (Verzeichnisliste)
+gelesen: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Na482af/gutachten.md
+geschrieben: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Na482af/vf/zugriff_VF.txt
+gelesen: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Na482af/text.json
+geschrieben: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Na482af/vf/text.txt
+gelesen: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Na482af/egusphere-2025-4733.pdf
+geschrieben: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Na482af/vf/hr/ (300-dpi-Renderings der Seiten 4 6 8 9 12 14 16 17 19 20 21 22 24 25 26 27)
+geschrieben: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Na482af/vf/crop.py
+geschrieben: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Na482af/vf/c_fig2_st.png
+geschrieben: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Na482af/vf/c_fig7_p10.png
+geschrieben: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Na482af/vf/c_fig10.png
+geschrieben: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Na482af/vf/c_p31.png
+geschrieben: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Na482af/vf/c_p33.png
+gelesen: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Na482af/seiten/seite-01.png bis seite-08.png, seite-10.png bis seite-29.png, seite-31.png, seite-32.png, seite-33.png
+gelesen: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Na482af/vf/hr/p6-06.png, p16-16.png, p20-20.png (Ausschnitte)
+URL (WebSearch): Brixel 2020 Tracking fluid flow in shallow crustal fault zones (Suchanfrage)
+URL: https://se.copernicus.org/articles/13/301/2022/
+URL (nicht abrufbar, Provenienz): https://doi.org/10.1029/2019JB018200
+URL (nicht abrufbar, Provenienz): https://doi.org/10.1029/2019JB019108
+URL (WebSearch): Brixel Klepikova ... e2019JB018200 e2019JB019108 (Suchanfrage)
+URL (WebSearch): Brixel 2020 Insights from cross-hole forced flow experiments (Suchanfrage)
+URL: https://eos.org/editor-highlights/fluctuating-fluid-flows-in-a-fractured-fault
+URL (blockiert): https://hal-insu.archives-ouvertes.fr/insu-03222620
+URL (WebSearch): Mizrahi 2024 Developing Testing Communicating Earthquake Forecasts (Suchanfrage)
+URL: https://pubs.usgs.gov/publication/70270090
+URL: https://www.mdpi.com/2076-3417/15/7/3492
+URL (WebSearch): Cappa 2018 282-m depth (Suchanfrage)
+URL: https://escholarship.org/content/qt3h67x2fx/qt3h67x2fx.pdf
+URL: https://projets.oca.eu/images/hydroseis/pdf/Cappa_et_al-2018-Geophysical_Research_Letters.pdf
+URL (WebSearch): Evans 2004 Soultz transmissive fault 3.5 km (Suchanfrage)
+URL: https://libra.unine.ch/handle/123456789/22546
+URL (WebSearch): Microseismicity and permeability enhancement ... abstract (Suchanfrage)
+URL: https://www.research-collection.ethz.ch/entities/publication/c853094e-73a2-44be-a491-e11fec16534f
+URL: https://earthref.org/ERR/85980
+URL: https://wiki.seg.org/wiki/Porosities,_velocities,_and_densities_of_rocks
+geschrieben: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Na482af/vf/c_fig2_samp.png
+geschrieben: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Na482af/vf/c_figA1_f2.png; gelesen: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Na482af/vf/hr/p24-24.png
+geschrieben: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Na482af/vf/verifikation.md

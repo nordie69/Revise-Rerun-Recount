@@ -1,0 +1,137 @@
+{
+ "V6d0078": {
+  "lauf": "V1-LAM-1",
+  "ordner": "erprobung/durchgang1/LAM1",
+  "fall": "LAM",
+  "gutachten": "Listen_Answer_Memorize_Copernicus_Gutachten_20261015.md",
+  "sha256_gutachten": "e95b4a97c312ded4f59b133a878ab798aa25bd8d4dbf570f360c84e047ef3717",
+  "neutralisiert": 0,
+  "sollbefunde": 46
+ },
+ "V219dcd": {
+  "lauf": "V1-LAM-2",
+  "ordner": "erprobung/durchgang1/LAM2",
+  "fall": "LAM",
+  "gutachten": "Listen_Answer_Memorize_Copernicus_Gutachten_20261015.md",
+  "sha256_gutachten": "5aa8e54233a7393e24e0886772cdf179151b1d2349ec068c0bfd126e2959ec1b",
+  "neutralisiert": 0,
+  "sollbefunde": 46
+ },
+ "V3d8601": {
+  "lauf": "V1-TCD-1",
+  "ordner": "erprobung/durchgang1/TCD",
+  "fall": "TCD",
+  "gutachten": "Talk_Check_Decide_A_Skill-Based_Workflow_Gutachten_20261015.md",
+  "sha256_gutachten": "49a34e48fde701e6fcef3a41eaf98caccc6f785477594f3878b1bc51e74f4d9a",
+  "neutralisiert": 0,
+  "sollbefunde": 52
+ },
+ "V8448e7": {
+  "lauf": "V1-HOR-1",
+  "ordner": "erprobung/durchgang1/HOR",
+  "fall": "HOR",
+  "gutachten": "egusphere-2025-2248_Gutachten_20261015.md",
+  "sha256_gutachten": "d3d3e9a8d29becd20d4b7af348f4fcba9594dc54f57b3e62ac76ffe1e5be79df",
+  "neutralisiert": 0,
+  "sollbefunde": 51
+ },
+ "V63edbd": {
+  "lauf": "V2-LAM-1",
+  "ordner": "erprobung/durchgang2/LAM",
+  "fall": "LAM",
+  "gutachten": "Listen_Answer_Memorize_Copernicus_Gutachten_20261015.md",
+  "sha256_gutachten": "9fb7ed5b3720ee6feeedb40394f10dc7afe137a8c11b6c83bd32d43957429397",
+  "neutralisiert": 0,
+  "sollbefunde": 46
+ },
+ "Vac4408": {
+  "lauf": "V2-TCD-1",
+  "ordner": "erprobung/durchgang2/TCD",
+  "fall": "TCD",
+  "gutachten": "Talk_Check_Decide_A_Skill-Based_Workflow_Gutachten_20261015.md",
+  "sha256_gutachten": "137fd7b3e422418e0625a693d5e6ed17ba8aa9428f4837b3a535596e13ef35ea",
+  "neutralisiert": 0,
+  "sollbefunde": 52
+ },
+ "V227301": {
+  "lauf": "V2-HOR-1",
+  "ordner": "erprobung/durchgang2/HOR",
+  "fall": "HOR",
+  "gutachten": "egusphere-2025-2248_Gutachten_20261015.md",
+  "sha256_gutachten": "fb12da8ea728ed4e299cc0db2dbcc7fbd271de6a8192575580d9bc59728fff12",
+  "neutralisiert": 0,
+  "sollbefunde": 51
+ },
+ "V793c4d": {
+  "lauf": "V3-LAM-1",
+  "ordner": "erprobung/durchgang3/LAM_A",
+  "fall": "LAM",
+  "gutachten": "Listen_Answer_Memorize_Copernicus_Gutachten_20261016.md",
+  "sha256_gutachten": "cdbd336fc12af6eeb336e98898766a78ccf8b02471f99b8210df809a18841d35",
+  "neutralisiert": 0,
+  "sollbefunde": 46
+ },
+ "Vb53ccc": {
+  "lauf": "V3-LAM-2",
+  "ordner": "erprobung/durchgang3/LAM_B",
+  "fall": "LAM",
+  "gutachten": "Listen_Answer_Memorize_Copernicus_Gutachten_20261016.md",
+  "sha256_gutachten": "c5dad22ba4e569534c23b76418563b64cb43d314658269da08858d36d9d5b4f3",
+  "neutralisiert": 1,
+  "sollbefunde": 46
+ },
+ "V355eeb": {
+  "lauf": "V3-TCD-1",
+  "ordner": "erprobung/durchgang3/TCD",
+  "fall": "TCD",
+  "gutachten": "Talk_Check_Decide_A_Skill-Based_Workflow_Gutachten_20261016.md",
+  "sha256_gutachten": "c86a8a5b4373e8d6e81dfe8829d0c1fa6ee9d6a4427ac00dafb4473608c54ce7",
+  "neutralisiert": 0,
+  "sollbefunde": 52
+ },
+ "V58f909": {
+  "lauf": "V3-HOR-1",
+  "ordner": "erprobung/durchgang3/HOR",
+  "fall": "HOR",
+  "gutachten": "egusphere-2025-2248_Gutachten_20261016.md",
+  "sha256_gutachten": "6f72e9024fd9daa6d9237f61194261abafa21853bb57dbf5da80a3802c5545a6",
+  "neutralisiert": 0,
+  "sollbefunde": 51
+ },
+ "Vd12fe1": {
+  "lauf": "V4-LAM-1",
+  "ordner": "erprobung/durchgang4/LAM_A",
+  "fall": "LAM",
+  "gutachten": "Listen_Answer_Memorize_Copernicus_Gutachten_20261016.md",
+  "sha256_gutachten": "baef01dd10c37a95134f3ab0701f705ec8339d7865b400d474b03ea4dcf43d1b",
+  "neutralisiert": 2,
+  "sollbefunde": 46
+ },
+ "V2d32f7": {
+  "lauf": "V4-LAM-2",
+  "ordner": "erprobung/durchgang4/LAM_B",
+  "fall": "LAM",
+  "gutachten": "Listen_Answer_Memorize_Copernicus_Gutachten_20261016.md",
+  "sha256_gutachten": "3686a476e947bf39c2fe16a7073b497b82fa878f2818305ba033744a5d22c3a0",
+  "neutralisiert": 0,
+  "sollbefunde": 46
+ },
+ "V6828ce": {
+  "lauf": "V4-TCD-1",
+  "ordner": "erprobung/durchgang4/TCD",
+  "fall": "TCD",
+  "gutachten": "Talk_Check_Decide_A_Skill-Based_Workflow_Gutachten_20261016.md",
+  "sha256_gutachten": "5818c299af06f897b6e220a0aa378eddd529484240acadabca7fe2758f0506fc",
+  "neutralisiert": 0,
+  "sollbefunde": 52
+ },
+ "Ve88229": {
+  "lauf": "V4-HOR-1",
+  "ordner": "erprobung/durchgang4/HOR",
+  "fall": "HOR",
+  "gutachten": "egusphere-2025-2248_Gutachten_20261016.md",
+  "sha256_gutachten": "423ce45292fe99eaca73489a71da7a9204bfa67d19d13e22e9a451e8a5b50195",
+  "neutralisiert": 0,
+  "sollbefunde": 51
+ }
+}

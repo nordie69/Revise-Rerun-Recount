@@ -1,0 +1,51 @@
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N3bc61e/auftrag_VF.txt (gelesen)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N3bc61e (Verzeichnisliste)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N3bc61e/seiten (Verzeichnisliste)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N3bc61e/gutachten.md (gelesen)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N3bc61e/vf/zugriff_VF.txt (geschrieben)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N3bc61e/text.json (gelesen)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N3bc61e/vf/text.txt (geschrieben)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N3bc61e/egusphere-2025-4695.pdf (gelesen)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N3bc61e/vf/layout.txt (geschrieben)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N3bc61e/vf/num.py (geschrieben)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N3bc61e/vf/numbered.txt (geschrieben)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N3bc61e/vf/r300/ (geschrieben, Seiten 25 bis 37 mit 300 dpi)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N3bc61e/vf/search.py (geschrieben)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N3bc61e/vf/dup.py (geschrieben)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N3bc61e/vf/fig11.py (geschrieben)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N3bc61e/vf/fig15.py (geschrieben)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N3bc61e/vf/markers.py (geschrieben)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N3bc61e/vf/c8a.png (geschrieben)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N3bc61e/vf/c8b.png (geschrieben)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N3bc61e/vf/axis.py (geschrieben)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N3bc61e/vf/curve.py (geschrieben)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N3bc61e/vf/g26.png (geschrieben)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N3bc61e/vf/g27.png (geschrieben)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N3bc61e/seiten/seite-13.png (gelesen)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N3bc61e/seiten/seite-20.png (gelesen)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N3bc61e/vf/c13.png (geschrieben)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N3bc61e/vf/c20.png (geschrieben)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N3bc61e/vf/c31.png (geschrieben)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N3bc61e/vf/c20b.png (geschrieben)
+WebSearch: Walling 2009 "The impact of global change on erosion and sediment transport by rivers" UNESCO
+https://webarchive.unesco.org/web/20151226104117/http://unesdoc.unesco.org/images/0018/001850/185078E.pdf (nur Suchtreffer)
+WebSearch: Eberl 2004 Quantitative mineralogy of the Yukon River system
+https://pubs.usgs.gov/publication/70026557 (WebFetch)
+WebSearch: Andrews Eberl 2012 SedUnMix
+https://pubs.usgs.gov/publication/70032707 (WebFetch)
+WebSearch: Cooper Krueger Hiscock Rawlins 2014
+https://ueaeprints.uea.ac.uk/51892/ (WebFetch)
+WebSearch: De Doncker Herman Fox 2020 Inversion of provenance data
+https://serval.unil.ch/notice/serval:BIB_1A4D2FF81D64 (WebFetch)
+WebSearch: Lafuente Downs Yang Stone RRUFF project
+https://experts.azregents.edu/en/publications/the-power-of-databases-the-rruff-project/ (WebFetch)
+WebSearch: Gergel et al. 2002 Aquatic Sciences landscape indicators
+https://experts.illinois.edu/en/publications/landscape-indicators-of-human-impacts-to-riverine-systems/ (nur Suchtreffer)
+WebSearch: Kobe 2021 Ubuntu as a spirituality of liberation
+https://hts.org.za/index.php/hts/article/view/6176 (nur Suchtreffer)
+WebSearch: Wilson et al. 1993 Soil erosion in the Falkland Islands
+WebSearch: chrysolite olivine versus chrysotile serpentine
+https://minerals.net/variety/chrysolite (WebFetch)
+https://doi.org/10.5281/zenodo.17120374 (WebFetch versucht, nicht auf Freigabeliste, nicht abgerufen)
+WebSearch: zenodo 17120374 Non-Linear-XRD-Inversion (kein verwertbarer Treffer; Treffer auf egusphere.copernicus.org und esurf.copernicus.org nicht geöffnet)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N3bc61e/vf/verifikation.md (geschrieben)

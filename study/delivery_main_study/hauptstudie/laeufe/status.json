@@ -1,0 +1,351 @@
+{
+ "L01": {
+  "datum": "2026-10-17",
+  "modell": "",
+  "gutachten_sha": "4a403b9387af",
+  "gueltig": "gültig (Zugriffe geprüft: markierte Zeilen sind Suchtreffer zum Manuskript, nicht geöffnet, und ein Artikel einer anderen Copernicus-Zeitschrift; kein verbotener Abruf)",
+  "verbrauch": {
+   "ausgabe": 186992,
+   "neue_eingabe": 1042152,
+   "cache_gelesen": 83219664,
+   "dauer_min": 36
+  }
+ },
+ "L04": {
+  "datum": "2026-10-18",
+  "modell": "",
+  "gutachten_sha": "a1ab54787304",
+  "gueltig": "gültig (Zugriffe geprüft 2026-10-18: markierte URLs sind zitierte Literatur anderer Copernicus-Artikel und Tagungsbeiträge, SD-Zeilen relative Pfade im Laufordner; kein Zugriff auf das Manuskript, seine Diskussion oder Gutachten)",
+  "paket": 2
+ },
+ "L05": {
+  "datum": "2026-10-18",
+  "modell": "",
+  "gutachten_sha": "3a7a62cf4e77",
+  "gueltig": "gültig (Zugriffe geprüft 2026-10-18: markierte URLs sind zitierte Literatur anderer Copernicus-Artikel; S1:33 Suchtreffer nicht geöffnet; SD:42 Ablage der Werkzeugausgabe durch die Umgebung, nicht gelesen)",
+  "paket": 2
+ },
+ "L06": {
+  "datum": "2026-10-18",
+  "modell": "",
+  "gutachten_sha": "e96227e67156",
+  "gueltig": "gültig (Zugriffe geprüft 2026-10-18: markierte URLs sind zitierte Literatur anderer Copernicus-Artikel; C:84 Suchtreffer zum Manuskript nicht geöffnet)",
+  "paket": 2
+ },
+ "L07": {
+  "datum": "2026-10-22",
+  "modell": "",
+  "gutachten_sha": "36db3ff7ab74",
+  "gueltig": "gültig (Zugriffe geprüft 2026-10-22: markierte URLs sind zitierte Literatur anderer Copernicus-Artikel und Tagungsbeiträge; ZF:38 Suchtreffer zum Manuskript nicht geöffnet)",
+  "paket": 3
+ },
+ "L08": {
+  "datum": "2026-10-22",
+  "modell": "",
+  "gutachten_sha": "1bc4e0637158",
+  "gueltig": "gültig (Zugriffe geprüft 2026-10-22: markierte URLs sind Tagungsbeiträge anderer Autoren; SD:56 Ablage der Werkzeugausgabe durch die Umgebung, nicht gelesen)",
+  "paket": 3
+ },
+ "L09": {
+  "datum": "2026-10-22",
+  "modell": "",
+  "gutachten_sha": "156c5210028d",
+  "gueltig": "gültig (Zugriffe geprüft 2026-10-22: markierte URLs sind zitierte Literatur anderer Copernicus-Artikel)",
+  "paket": 3
+ },
+ "L10": {
+  "datum": "2026-10-22",
+  "modell": "",
+  "gutachten_sha": "90818a04abdf",
+  "gueltig": "gültig (Zugriffe geprüft 2026-10-22: S1:48 zitierte Literatur eines anderen Copernicus-Artikels; S2:19 und S2:25 Pfade im Laufordner, Fehlmarkierung der Pfaderkennung)",
+  "paket": 4
+ },
+ "L11": {
+  "datum": "2026-10-22",
+  "modell": "",
+  "gutachten_sha": "e9bbf0efe5bc",
+  "gueltig": "gültig (Zugriffe geprüft 2026-10-22: S1:44 Tagungsbeitrag anderer Autoren; S4:22 Websuche nach einer DOI, Fehlmarkierung)",
+  "paket": 4
+ },
+ "L12": {
+  "datum": "2026-10-22",
+  "modell": "",
+  "gutachten_sha": "ff64ee27af6f",
+  "gueltig": "gültig (Zugriffe geprüft 2026-10-22: markierte URLs sind zitierte Literatur anderer Copernicus-Artikel)",
+  "paket": 4
+ },
+ "L13": {
+  "datum": "2026-10-22",
+  "modell": "",
+  "gutachten_sha": "da1e967a24e3",
+  "gueltig": "gültig (Zugriffe geprüft 2026-10-22: markierte URLs sind zitierte Literatur anderer Copernicus-Artikel; AB:17 Ablage der eigenen Werkzeugausgabe durch die Umgebung; S1:49 Websuche, Fehlmarkierung)",
+  "paket": 5
+ },
+ "L14": {
+  "datum": "2026-10-22",
+  "modell": "",
+  "gutachten_sha": "29943de4657c",
+  "gueltig": "gültig (Zugriffe geprüft 2026-10-22: markierte URLs sind zitierte Literatur anderer Copernicus-Artikel)",
+  "paket": 5
+ },
+ "L15": {
+  "datum": "2026-10-22",
+  "modell": "",
+  "gutachten_sha": "06d52a6de410",
+  "gueltig": "gültig (Zugriffe geprüft 2026-10-22: markierte URLs sind zitierte Literatur eines anderen Copernicus-Artikels)",
+  "paket": 5
+ },
+ "L16": {
+  "datum": "2026-10-22",
+  "modell": "",
+  "gutachten_sha": "289468136d29",
+  "gueltig": "gültig (Zugriffe geprüft 2026-10-22: C:53 Tagungsbeitrag anderer Autoren)",
+  "paket": 6
+ },
+ "L17": {
+  "datum": "2026-10-22",
+  "modell": "",
+  "gutachten_sha": "706af6b61342",
+  "gueltig": "gültig (Zugriffe geprüft 2026-10-22: S1:36 zitierte Literatur eines anderen Copernicus-Artikels)",
+  "paket": 7
+ },
+ "L18": {
+  "datum": "2026-10-22",
+  "modell": "",
+  "gutachten_sha": "2c5fe05c5805",
+  "gueltig": "gültig (Zugriffe geprüft 2026-10-22: S1 zitierte Literatur anderer Copernicus-Artikel und ein frei zugängliches Literatur-PDF; AB:162 Ausgabedatei eines abgebrochenen Hintergrundlaufs, von der Umgebung angelegt, nicht gelesen)",
+  "paket": 7
+ },
+ "L19": {
+  "datum": "2026-10-22",
+  "modell": "",
+  "gutachten_sha": "e077f614e3f5",
+  "gueltig": "gültig",
+  "paket": 7
+ },
+ "L20": {
+  "datum": "2026-10-22",
+  "modell": "",
+  "gutachten_sha": "775c2da5eb42",
+  "gueltig": "gültig (Zugriffe geprüft 2026-10-22: markierte URLs sind zitierte Literatur anderer Copernicus-Artikel, darunter ein anderer EGUsphere-Vorabdruck)",
+  "paket": 8
+ },
+ "L21": {
+  "datum": "2026-10-22",
+  "modell": "",
+  "gutachten_sha": "39a3cb4c495b",
+  "gueltig": "gültig (Zugriffe geprüft 2026-10-22: C:73 zitierte Literatur eines anderen Copernicus-Artikels; C:68 und C:69 Websuchen, Suchtreffer zum Manuskript nicht geöffnet)",
+  "paket": 8
+ },
+ "L22": {
+  "datum": "2026-10-22",
+  "modell": "",
+  "gutachten_sha": "9886a70b458a",
+  "gueltig": "gültig",
+  "paket": 8
+ },
+ "L23": {
+  "datum": "2026-10-22",
+  "modell": "",
+  "gutachten_sha": "681a6ff6d0f4",
+  "gueltig": "gültig (Zugriffe geprüft 2026-10-22: C:52 zitierte Literatur eines anderen Copernicus-Artikels; C:42 Websuche, Treffer zum Manuskript nicht geöffnet)",
+  "paket": 9
+ },
+ "L24": {
+  "datum": "2026-10-22",
+  "modell": "",
+  "gutachten_sha": "5176e2463ee5",
+  "gueltig": "gültig (Zugriffe geprüft 2026-10-22: markierte URLs sind Literatur anderer Copernicus-Artikel; nhess 25/4247/2025 per Websuche als andere Arbeit (anderer Rutschungsfall) bestätigt)",
+  "paket": 9
+ },
+ "L25": {
+  "datum": "2026-10-22",
+  "modell": "",
+  "gutachten_sha": "937793ae8112",
+  "gueltig": "gültig (Zugriffe geprüft 2026-10-22: markierte URLs sind zitierte Literatur anderer Copernicus-Artikel; S2:49 Vermerk ohne Abruf, Fehlmarkierung)",
+  "paket": 9
+ },
+ "L26": {
+  "datum": "2026-10-22",
+  "modell": "",
+  "gutachten_sha": "3e4e525684d4",
+  "gueltig": "gültig (Zugriffe geprüft 2026-10-22: markierte URLs sind zitierte Literatur anderer Copernicus-Artikel; ZF:39 eigene, von der Umgebung ausgelagerte Werkzeugausgabe)",
+  "paket": 10
+ },
+ "L27": {
+  "datum": "2026-10-22",
+  "modell": "",
+  "gutachten_sha": "81ce67981f96",
+  "gueltig": "gültig (Zugriffe geprüft 2026-10-22: markierte URLs sind zitierte Literatur anderer Copernicus-Artikel; S1:61 Suchtreffer zum Manuskript und seiner späteren Fassung nicht geöffnet; S2:6 eigene ausgelagerte Werkzeugausgabe)",
+  "paket": 10
+ },
+ "L28": {
+  "datum": "2026-10-22",
+  "modell": "",
+  "gutachten_sha": "0e28b3e0cb74",
+  "gueltig": "gültig (Zugriffe geprüft 2026-10-22: markierte URLs sind zitierte Literatur anderer Copernicus-Artikel)",
+  "paket": 10
+ },
+ "L29": {
+  "datum": "2026-10-22",
+  "modell": "",
+  "gutachten_sha": "f31518299c87",
+  "gueltig": "gültig (Zugriffe geprüft 2026-10-22: markierte URLs sind zitierte Literatur eines anderen Copernicus-Artikels und ein Tagungsbeitrag)",
+  "paket": 11
+ },
+ "L30": {
+  "datum": "2026-10-22",
+  "modell": "",
+  "gutachten_sha": "273ce4e2ac2c",
+  "gueltig": "gültig (Zugriffe geprüft 2026-10-22: markierte URLs sind zitierte Literatur anderer Copernicus-Artikel; S1:46 Seite \"relations\" eines anderen Artikels zeigte den Titel einer Folgefassung des Manuskripts in einer Liste, nicht geöffnet)",
+  "paket": 11
+ },
+ "L31": {
+  "datum": "2026-10-22",
+  "modell": "",
+  "gutachten_sha": "ba896c5c8ac6",
+  "gueltig": "gültig (Zugriffe geprüft 2026-10-22: markierte URLs sind zitierte Literatur anderer Copernicus-Artikel; C:58 Suchtreffer zum Manuskript und seiner späteren Fassung nicht geöffnet; C:114 Pfade im Laufordner)",
+  "paket": 11
+ },
+ "L32": {
+  "datum": "2026-10-22",
+  "modell": "",
+  "gutachten_sha": "430ceb7f2e92",
+  "gueltig": "gültig (Zugriffe geprüft 2026-10-22: AB-Zeilen sind relative Pfade im Laufordner (Fehlmarkierung); S1 zitierte Literatur anderer Copernicus-Artikel und ein Tagungsbeitrag; Suchtreffer zum Manuskript nicht geöffnet)",
+  "paket": 12
+ },
+ "L33": {
+  "datum": "2026-10-22",
+  "modell": "",
+  "gutachten_sha": "394f7e4939be",
+  "gueltig": "gültig (Zugriffe geprüft 2026-10-22: markierte URLs sind zitierte Literatur eines anderen Copernicus-Artikels; Websuchen mit nicht geöffneten Treffern zum Manuskript und einer möglichen späteren Fassung; S2:13 Websuche nach Datenrichtlinie des Verlags)",
+  "paket": 13
+ },
+ "L34": {
+  "datum": "2026-10-22",
+  "modell": "",
+  "gutachten_sha": "983f47a696ab",
+  "gueltig": "gültig (Zugriffe geprüft 2026-10-22: markierte URLs sind zitierte Literatur anderer Copernicus-Artikel, darunter ein anderer EGUsphere-Vorabdruck)",
+  "paket": 13
+ },
+ "L35": {
+  "datum": "2026-10-22",
+  "modell": "",
+  "gutachten_sha": "f7c1104f525e",
+  "gueltig": "gültig (Zugriffe geprüft 2026-10-22: AB:14 eigene, von der Umgebung ausgelagerte Werkzeugausgabe)",
+  "paket": 13
+ },
+ "L36": {
+  "datum": "2026-10-22",
+  "modell": "",
+  "gutachten_sha": "7b05c91624a0",
+  "gueltig": "gültig (Zugriffe geprüft 2026-10-22: markierte Zeilen sind Pfade im Laufordner und Websuchen, Treffer zum Manuskript nicht geöffnet)",
+  "paket": 14
+ },
+ "L37": {
+  "datum": "2026-10-22",
+  "modell": "",
+  "gutachten_sha": "7aa89b67d17a",
+  "gueltig": "gültig (Zugriffe geprüft 2026-10-22: Websuchen, Treffer zum Manuskript und seiner späteren Fassung nicht geöffnet)",
+  "paket": 14
+ },
+ "L38": {
+  "datum": "2026-10-22",
+  "modell": "",
+  "gutachten_sha": "53b19c84b451",
+  "gueltig": "gültig (Zugriffe geprüft 2026-10-22: C:16 eigene, von der Umgebung ausgelagerte Werkzeugausgabe; übrige Zeilen Pfade im Laufordner; Websuchen mit nicht geöffneten Treffern zum Manuskript und seiner späteren Fassung)",
+  "paket": 14
+ },
+ "L39": {
+  "datum": "2026-10-22",
+  "modell": "",
+  "gutachten_sha": "8b6ecf7b18ac",
+  "gueltig": "gültig (Zugriffe geprüft 2026-10-22: markierte URLs sind zitierte Literatur anderer Copernicus-Artikel)",
+  "paket": 15
+ },
+ "L40": {
+  "datum": "2026-10-22",
+  "modell": "",
+  "gutachten_sha": "67832fcf01a9",
+  "gueltig": "gültig (Zugriffe geprüft 2026-10-22: S1:26 Literaturabfrage bei OpenAlex, Fehlmarkierung; ZF:54 und ZF:55 eigene, von der Umgebung ausgelagerte Werkzeugausgaben)",
+  "paket": 15
+ },
+ "L41": {
+  "datum": "2026-10-22",
+  "modell": "",
+  "gutachten_sha": "f154a784c252",
+  "gueltig": "gültig (Zugriffe geprüft 2026-10-22: AB-Zeilen sind Pfade im Laufordner (Fehlmarkierung \"gelesen/gelistet\"); übrige URLs zitierte Literatur anderer Copernicus-Artikel und ein Tagungsbeitrag)",
+  "paket": 15
+ },
+ "L42": {
+  "datum": "2026-10-22",
+  "modell": "",
+  "gutachten_sha": "31f056c92299",
+  "gueltig": "gültig (Zugriffe geprüft 2026-10-22: markierte URLs sind zitierte Literatur anderer Copernicus-Artikel; S1:81 Suchtreffer zum Manuskript, seiner Diskussion und späteren Fassung nicht geöffnet)",
+  "paket": 16
+ },
+ "L43": {
+  "datum": "2026-10-22",
+  "modell": "",
+  "gutachten_sha": "be6371b08149",
+  "gueltig": "gültig (Zugriffe geprüft 2026-10-22: markierte URLs sind zitierte Literatur anderer Copernicus-Artikel; S2:36 Suchtreffer nicht geöffnet; AB:34, S1:55, ZF:12 Fehlmarkierungen)",
+  "paket": 16
+ },
+ "L44": {
+  "datum": "2026-10-22",
+  "modell": "",
+  "gutachten_sha": "ec98d1e79942",
+  "gueltig": "gültig (Zugriffe geprüft 2026-10-22: markierte URLs sind zitierte Literatur anderer Copernicus-Artikel)",
+  "paket": 16
+ },
+ "L45": {
+  "datum": "2026-10-22",
+  "modell": "",
+  "gutachten_sha": "18971c47bb2b",
+  "gueltig": "gültig (Zugriffe geprüft 2026-10-22: markierte URLs sind zitierte Literatur anderer Copernicus-Artikel, ein anderer Vorabdruck von 2021 und ein Tagungsbeitrag; S1:100 eigene, ausgelagerte Werkzeugausgabe; übrige Fehlmarkierungen)",
+  "paket": 17
+ },
+ "L46": {
+  "datum": "2026-10-22",
+  "modell": "",
+  "gutachten_sha": "01c53e2d8baf",
+  "gueltig": "gültig (Zugriffe geprüft 2026-10-22: markierte URLs sind Tagungsbeiträge und zitierte Literatur; S2:9 eigene, ausgelagerte Werkzeugausgabe)",
+  "paket": 17
+ },
+ "L47": {
+  "datum": "2026-10-22",
+  "modell": "",
+  "gutachten_sha": "7afbfcbb4507",
+  "gueltig": "gültig (Zugriffe geprüft 2026-10-22: C:17 eigene, ausgelagerte Werkzeugausgabe; übrige Zeilen Pfade im Laufordner; Suchtreffer zum Manuskript nicht geöffnet)",
+  "paket": 17
+ },
+ "L48": {
+  "datum": "2026-10-22",
+  "modell": "",
+  "gutachten_sha": "bdc0a7f9399e",
+  "gueltig": "gültig (Zugriffe geprüft 2026-10-22: markierte URLs sind zitierte Literatur anderer Copernicus-Artikel)",
+  "paket": 18
+ },
+ "L02": {
+  "datum": "2026-10-17",
+  "modell": "",
+  "gutachten_sha": "2bf5fcabeea4",
+  "gueltig": "gültig (Zugriffe geprüft: geöffnet nur zitierte Literatur, darunter Artikel derselben Zeitschrift aus 2018 bis 2024; Treffer zum Manuskript und seiner Endfassung nicht geöffnet; Websuche nach dem Datensatz des Manuskripts)",
+  "verbrauch": {
+   "ausgabe": 821328,
+   "neue_eingabe": 4771866,
+   "cache_gelesen": 262247722
+  }
+ },
+ "L03": {
+  "datum": "2026-10-17",
+  "modell": "",
+  "gutachten_sha": "87bdda33a282",
+  "gueltig": "gültig (Zugriffe geprüft: geöffnet nur zitierte Literatur, ein Vorabdruck und Artikel von 2018/2019 einer anderen Zeitschrift; Websuchen nach DOIs)",
+  "verbrauch": {
+   "ausgabe": 674462,
+   "neue_eingabe": 4880118,
+   "cache_gelesen": 165842246
+  }
+ }
+}

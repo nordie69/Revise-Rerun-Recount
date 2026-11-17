@@ -1,0 +1,6273 @@
+{
+ "vergleiche": [
+  {
+   "kennzahl": "K1 inhaltlich, getroffen (Hauptmaß) (mit G03), A, Mittel",
+   "eigen": 29.13752913752914,
+   "geliefert": 29.1,
+   "einheit": "pp",
+   "differenz": 0.03752913752913756,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 inhaltlich, getroffen (Hauptmaß) (mit G03), A, min",
+   "eigen": 23.776223776223777,
+   "geliefert": 23.8,
+   "einheit": "pp",
+   "differenz": 0.023776223776224015,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 inhaltlich, getroffen (Hauptmaß) (mit G03), A, max",
+   "eigen": 33.56643356643357,
+   "geliefert": 33.6,
+   "einheit": "pp",
+   "differenz": 0.03356643356643474,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 inhaltlich, getroffen (Hauptmaß) (mit G03), B, Mittel",
+   "eigen": 28.671328671328673,
+   "geliefert": 28.7,
+   "einheit": "pp",
+   "differenz": 0.028671328671325824,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 inhaltlich, getroffen (Hauptmaß) (mit G03), B, min",
+   "eigen": 25.174825174825177,
+   "geliefert": 25.2,
+   "einheit": "pp",
+   "differenz": 0.0251748251748225,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 inhaltlich, getroffen (Hauptmaß) (mit G03), B, max",
+   "eigen": 30.76923076923077,
+   "geliefert": 30.8,
+   "einheit": "pp",
+   "differenz": 0.03076923076923066,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 inhaltlich, getroffen (Hauptmaß) (mit G03), C, Mittel",
+   "eigen": 21.91142191142191,
+   "geliefert": 21.9,
+   "einheit": "pp",
+   "differenz": 0.011421911421912512,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 inhaltlich, getroffen (Hauptmaß) (mit G03), C, min",
+   "eigen": 21.678321678321677,
+   "geliefert": 21.7,
+   "einheit": "pp",
+   "differenz": 0.02167832167832273,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 inhaltlich, getroffen (Hauptmaß) (mit G03), C, max",
+   "eigen": 22.377622377622377,
+   "geliefert": 22.4,
+   "einheit": "pp",
+   "differenz": 0.022377622377621975,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 inhaltlich, getroffen (Hauptmaß) (mit G03), D, Mittel",
+   "eigen": 27.73892773892774,
+   "geliefert": 27.7,
+   "einheit": "pp",
+   "differenz": 0.0389277389277396,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 inhaltlich, getroffen (Hauptmaß) (mit G03), D, min",
+   "eigen": 25.874125874125873,
+   "geliefert": 25.9,
+   "einheit": "pp",
+   "differenz": 0.025874125874125298,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 inhaltlich, getroffen (Hauptmaß) (mit G03), D, max",
+   "eigen": 30.76923076923077,
+   "geliefert": 30.8,
+   "einheit": "pp",
+   "differenz": 0.03076923076923066,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 inhaltlich, teilweise (mit G03), A, Mittel",
+   "eigen": 32.16783216783217,
+   "geliefert": 32.2,
+   "einheit": "pp",
+   "differenz": 0.03216783216783625,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 inhaltlich, teilweise (mit G03), A, min",
+   "eigen": 28.671328671328673,
+   "geliefert": 28.7,
+   "einheit": "pp",
+   "differenz": 0.028671328671325824,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 inhaltlich, teilweise (mit G03), A, max",
+   "eigen": 37.06293706293706,
+   "geliefert": 37.1,
+   "einheit": "pp",
+   "differenz": 0.037062937062941614,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 inhaltlich, teilweise (mit G03), B, Mittel",
+   "eigen": 31.002331002331,
+   "geliefert": 31.0,
+   "einheit": "pp",
+   "differenz": 0.002331002331001031,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 inhaltlich, teilweise (mit G03), B, min",
+   "eigen": 28.671328671328673,
+   "geliefert": 28.7,
+   "einheit": "pp",
+   "differenz": 0.028671328671325824,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 inhaltlich, teilweise (mit G03), B, max",
+   "eigen": 34.96503496503497,
+   "geliefert": 35.0,
+   "einheit": "pp",
+   "differenz": 0.034965034965033226,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 inhaltlich, teilweise (mit G03), C, Mittel",
+   "eigen": 29.836829836829843,
+   "geliefert": 29.8,
+   "einheit": "pp",
+   "differenz": 0.03682983682984187,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 inhaltlich, teilweise (mit G03), C, min",
+   "eigen": 25.874125874125873,
+   "geliefert": 25.9,
+   "einheit": "pp",
+   "differenz": 0.025874125874125298,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 inhaltlich, teilweise (mit G03), C, max",
+   "eigen": 35.66433566433567,
+   "geliefert": 35.7,
+   "einheit": "pp",
+   "differenz": 0.03566433566433602,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 inhaltlich, teilweise (mit G03), D, Mittel",
+   "eigen": 30.76923076923077,
+   "geliefert": 30.8,
+   "einheit": "pp",
+   "differenz": 0.03076923076923066,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 inhaltlich, teilweise (mit G03), D, min",
+   "eigen": 30.069930069930066,
+   "geliefert": 30.1,
+   "einheit": "pp",
+   "differenz": 0.03006993006993497,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 inhaltlich, teilweise (mit G03), D, max",
+   "eigen": 31.46853146853147,
+   "geliefert": 31.5,
+   "einheit": "pp",
+   "differenz": 0.0314685314685299,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 Kleinkorrekturen, getroffen (mit G03), A, Mittel",
+   "eigen": 65.45454545454545,
+   "geliefert": 65.5,
+   "einheit": "pp",
+   "differenz": 0.045454545454546746,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 Kleinkorrekturen, getroffen (mit G03), A, min",
+   "eigen": 60.0,
+   "geliefert": 60.0,
+   "einheit": "pp",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 Kleinkorrekturen, getroffen (mit G03), A, max",
+   "eigen": 69.0909090909091,
+   "geliefert": 69.1,
+   "einheit": "pp",
+   "differenz": 0.009090909090900823,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 Kleinkorrekturen, getroffen (mit G03), B, Mittel",
+   "eigen": 64.24242424242425,
+   "geliefert": 64.2,
+   "einheit": "pp",
+   "differenz": 0.04242424242424647,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 Kleinkorrekturen, getroffen (mit G03), B, min",
+   "eigen": 61.81818181818181,
+   "geliefert": 61.8,
+   "einheit": "pp",
+   "differenz": 0.018181818181815856,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 Kleinkorrekturen, getroffen (mit G03), B, max",
+   "eigen": 67.27272727272727,
+   "geliefert": 67.3,
+   "einheit": "pp",
+   "differenz": 0.02727272727273089,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 Kleinkorrekturen, getroffen (mit G03), C, Mittel",
+   "eigen": 46.06060606060606,
+   "geliefert": 46.1,
+   "einheit": "pp",
+   "differenz": 0.03939393939393909,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 Kleinkorrekturen, getroffen (mit G03), C, min",
+   "eigen": 45.45454545454545,
+   "geliefert": 45.5,
+   "einheit": "pp",
+   "differenz": 0.045454545454546746,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 Kleinkorrekturen, getroffen (mit G03), C, max",
+   "eigen": 47.27272727272727,
+   "geliefert": 47.3,
+   "einheit": "pp",
+   "differenz": 0.027272727272723785,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 Kleinkorrekturen, getroffen (mit G03), D, Mittel",
+   "eigen": 66.66666666666666,
+   "geliefert": 66.7,
+   "einheit": "pp",
+   "differenz": 0.03333333333334565,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 Kleinkorrekturen, getroffen (mit G03), D, min",
+   "eigen": 65.45454545454545,
+   "geliefert": 65.5,
+   "einheit": "pp",
+   "differenz": 0.045454545454546746,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 Kleinkorrekturen, getroffen (mit G03), D, max",
+   "eigen": 69.0909090909091,
+   "geliefert": 69.1,
+   "einheit": "pp",
+   "differenz": 0.009090909090900823,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 Kleinkorrekturen, teilweise (mit G03), A, Mittel",
+   "eigen": 7.2727272727272725,
+   "geliefert": 7.3,
+   "einheit": "pp",
+   "differenz": 0.027272727272727337,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 Kleinkorrekturen, teilweise (mit G03), A, min",
+   "eigen": 5.454545454545454,
+   "geliefert": 5.5,
+   "einheit": "pp",
+   "differenz": 0.04545454545454586,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 Kleinkorrekturen, teilweise (mit G03), A, max",
+   "eigen": 9.090909090909092,
+   "geliefert": 9.1,
+   "einheit": "pp",
+   "differenz": 0.009090909090907928,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 Kleinkorrekturen, teilweise (mit G03), B, Mittel",
+   "eigen": 9.696969696969697,
+   "geliefert": 9.7,
+   "einheit": "pp",
+   "differenz": 0.0030303030303020506,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 Kleinkorrekturen, teilweise (mit G03), B, min",
+   "eigen": 7.2727272727272725,
+   "geliefert": 7.3,
+   "einheit": "pp",
+   "differenz": 0.027272727272727337,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 Kleinkorrekturen, teilweise (mit G03), B, max",
+   "eigen": 10.909090909090908,
+   "geliefert": 10.9,
+   "einheit": "pp",
+   "differenz": 0.009090909090907928,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 Kleinkorrekturen, teilweise (mit G03), C, Mittel",
+   "eigen": 6.0606060606060606,
+   "geliefert": 6.1,
+   "einheit": "pp",
+   "differenz": 0.03939393939393909,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 Kleinkorrekturen, teilweise (mit G03), C, min",
+   "eigen": 3.6363636363636362,
+   "geliefert": 3.6,
+   "einheit": "pp",
+   "differenz": 0.036363636363636154,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 Kleinkorrekturen, teilweise (mit G03), C, max",
+   "eigen": 9.090909090909092,
+   "geliefert": 9.1,
+   "einheit": "pp",
+   "differenz": 0.009090909090907928,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 Kleinkorrekturen, teilweise (mit G03), D, Mittel",
+   "eigen": 6.666666666666667,
+   "geliefert": 6.7,
+   "einheit": "pp",
+   "differenz": 0.033333333333333215,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 Kleinkorrekturen, teilweise (mit G03), D, min",
+   "eigen": 5.454545454545454,
+   "geliefert": 5.5,
+   "einheit": "pp",
+   "differenz": 0.04545454545454586,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 Kleinkorrekturen, teilweise (mit G03), D, max",
+   "eigen": 7.2727272727272725,
+   "geliefert": 7.3,
+   "einheit": "pp",
+   "differenz": 0.027272727272727337,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K2 nicht zutreffend, Anteil an allen Einträgen (mit G03), A, Mittel",
+   "eigen": 0.681448048791899,
+   "geliefert": 0.7,
+   "einheit": "pp",
+   "differenz": 0.018551951208100936,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K2 nicht zutreffend, Anteil an allen Einträgen (mit G03), A, min",
+   "eigen": 0.43383947939262474,
+   "geliefert": 0.4,
+   "einheit": "pp",
+   "differenz": 0.033839479392624716,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K2 nicht zutreffend, Anteil an allen Einträgen (mit G03), A, max",
+   "eigen": 0.9302325581395349,
+   "geliefert": 0.9,
+   "einheit": "pp",
+   "differenz": 0.03023255813953485,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K2 nicht zutreffend, Anteil an allen Einträgen (mit G03), B, Mittel",
+   "eigen": 0.5836329569048462,
+   "geliefert": 0.6,
+   "einheit": "pp",
+   "differenz": 0.0163670430951538,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K2 nicht zutreffend, Anteil an allen Einträgen (mit G03), B, min",
+   "eigen": 0.49627791563275436,
+   "geliefert": 0.5,
+   "einheit": "pp",
+   "differenz": 0.003722084367245637,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K2 nicht zutreffend, Anteil an allen Einträgen (mit G03), B, max",
+   "eigen": 0.7444168734491315,
+   "geliefert": 0.7,
+   "einheit": "pp",
+   "differenz": 0.04441687344913159,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K2 nicht zutreffend, Anteil an allen Einträgen (mit G03), C, Mittel",
+   "eigen": 0.4830917874396135,
+   "geliefert": 0.5,
+   "einheit": "pp",
+   "differenz": 0.016908212560386493,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K2 nicht zutreffend, Anteil an allen Einträgen (mit G03), C, min",
+   "eigen": 0.0,
+   "geliefert": 0.0,
+   "einheit": "pp",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K2 nicht zutreffend, Anteil an allen Einträgen (mit G03), C, max",
+   "eigen": 1.4492753623188406,
+   "geliefert": 1.4,
+   "einheit": "pp",
+   "differenz": 0.049275362318840665,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K2 nicht zutreffend, Anteil an allen Einträgen (mit G03), D, Mittel",
+   "eigen": 0.0835421888053467,
+   "geliefert": 0.1,
+   "einheit": "pp",
+   "differenz": 0.01645781119465331,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K2 nicht zutreffend, Anteil an allen Einträgen (mit G03), D, min",
+   "eigen": 0.0,
+   "geliefert": 0.0,
+   "einheit": "pp",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K2 nicht zutreffend, Anteil an allen Einträgen (mit G03), D, max",
+   "eigen": 0.2506265664160401,
+   "geliefert": 0.3,
+   "einheit": "pp",
+   "differenz": 0.0493734335839599,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K2 ergänzend: Ansichtssache, Anteil (mit G03), A, Mittel",
+   "eigen": 5.76040132039296,
+   "geliefert": 5.8,
+   "einheit": "pp",
+   "differenz": 0.03959867960703978,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K2 ergänzend: Ansichtssache, Anteil (mit G03), A, min",
+   "eigen": 4.651162790697675,
+   "geliefert": 4.7,
+   "einheit": "pp",
+   "differenz": 0.04883720930232549,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K2 ergänzend: Ansichtssache, Anteil (mit G03), A, max",
+   "eigen": 6.507592190889371,
+   "geliefert": 6.5,
+   "einheit": "pp",
+   "differenz": 0.007592190889370798,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K2 ergänzend: Ansichtssache, Anteil (mit G03), B, Mittel",
+   "eigen": 4.577066558633378,
+   "geliefert": 4.6,
+   "einheit": "pp",
+   "differenz": 0.022933441366621565,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K2 ergänzend: Ansichtssache, Anteil (mit G03), B, min",
+   "eigen": 3.061224489795918,
+   "geliefert": 3.1,
+   "einheit": "pp",
+   "differenz": 0.038775510204081876,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K2 ergänzend: Ansichtssache, Anteil (mit G03), B, max",
+   "eigen": 5.955334987593052,
+   "geliefert": 6.0,
+   "einheit": "pp",
+   "differenz": 0.044665012406947646,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K2 ergänzend: Ansichtssache, Anteil (mit G03), C, Mittel",
+   "eigen": 1.7709705753184015,
+   "geliefert": 1.8,
+   "einheit": "pp",
+   "differenz": 0.029029424681598526,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K2 ergänzend: Ansichtssache, Anteil (mit G03), C, min",
+   "eigen": 1.3636363636363635,
+   "geliefert": 1.4,
+   "einheit": "pp",
+   "differenz": 0.036363636363636376,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K2 ergänzend: Ansichtssache, Anteil (mit G03), C, max",
+   "eigen": 2.5,
+   "geliefert": 2.5,
+   "einheit": "pp",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K2 ergänzend: Ansichtssache, Anteil (mit G03), D, Mittel",
+   "eigen": 5.094296023747312,
+   "geliefert": 5.1,
+   "einheit": "pp",
+   "differenz": 0.005703976252688037,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K2 ergänzend: Ansichtssache, Anteil (mit G03), D, min",
+   "eigen": 4.25531914893617,
+   "geliefert": 4.3,
+   "einheit": "pp",
+   "differenz": 0.044680851063829685,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K2 ergänzend: Ansichtssache, Anteil (mit G03), D, max",
+   "eigen": 6.015037593984962,
+   "geliefert": 6.0,
+   "einheit": "pp",
+   "differenz": 0.015037593984962072,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K3 Zusatzbefunde je Gutachten (Anzahl) (mit G03), A, Mittel",
+   "eigen": 75.08333333333333,
+   "geliefert": 75.1,
+   "einheit": "Fälle",
+   "differenz": 0.01666666666666572,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K3 Zusatzbefunde je Gutachten (Anzahl) (mit G03), A, min",
+   "eigen": 72.5,
+   "geliefert": 72.5,
+   "einheit": "Fälle",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K3 Zusatzbefunde je Gutachten (Anzahl) (mit G03), A, max",
+   "eigen": 77.75,
+   "geliefert": 77.8,
+   "einheit": "Fälle",
+   "differenz": 0.04999999999999716,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K3 Zusatzbefunde je Gutachten (Anzahl) (mit G03), B, Mittel",
+   "eigen": 66.66666666666667,
+   "geliefert": 66.7,
+   "einheit": "Fälle",
+   "differenz": 0.03333333333333144,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K3 Zusatzbefunde je Gutachten (Anzahl) (mit G03), B, min",
+   "eigen": 65.5,
+   "geliefert": 65.5,
+   "einheit": "Fälle",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K3 Zusatzbefunde je Gutachten (Anzahl) (mit G03), B, max",
+   "eigen": 68.25,
+   "geliefert": 68.2,
+   "einheit": "Fälle",
+   "differenz": 0.04999999999999716,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K3 Zusatzbefunde je Gutachten (Anzahl) (mit G03), C, Mittel",
+   "eigen": 36.833333333333336,
+   "geliefert": 36.8,
+   "einheit": "Fälle",
+   "differenz": 0.033333333333338544,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K3 Zusatzbefunde je Gutachten (Anzahl) (mit G03), C, min",
+   "eigen": 33.25,
+   "geliefert": 33.2,
+   "einheit": "Fälle",
+   "differenz": 0.04999999999999716,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K3 Zusatzbefunde je Gutachten (Anzahl) (mit G03), C, max",
+   "eigen": 39.75,
+   "geliefert": 39.8,
+   "einheit": "Fälle",
+   "differenz": 0.04999999999999716,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K3 Zusatzbefunde je Gutachten (Anzahl) (mit G03), D, Mittel",
+   "eigen": 69.58333333333333,
+   "geliefert": 69.6,
+   "einheit": "Fälle",
+   "differenz": 0.01666666666666572,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K3 Zusatzbefunde je Gutachten (Anzahl) (mit G03), D, min",
+   "eigen": 67.25,
+   "geliefert": 67.2,
+   "einheit": "Fälle",
+   "differenz": 0.04999999999999716,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K3 Zusatzbefunde je Gutachten (Anzahl) (mit G03), D, max",
+   "eigen": 72.75,
+   "geliefert": 72.8,
+   "einheit": "Fälle",
+   "differenz": 0.04999999999999716,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K7 Zuordnung, drei Läufe gleich (mit G03), A, Mittel",
+   "eigen": 91.07744107744108,
+   "geliefert": 91.1,
+   "einheit": "pp",
+   "differenz": 0.022558922558914674,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K7 Zuordnung, drei Läufe gleich (mit G03), A, min",
+   "eigen": 86.86868686868688,
+   "geliefert": 86.9,
+   "einheit": "pp",
+   "differenz": 0.03131313131312652,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K7 Zuordnung, drei Läufe gleich (mit G03), A, max",
+   "eigen": 94.44444444444444,
+   "geliefert": 94.4,
+   "einheit": "pp",
+   "differenz": 0.04444444444443718,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K7 Zuordnung, drei Läufe gleich (mit G03), B, Mittel",
+   "eigen": 92.25589225589226,
+   "geliefert": 92.3,
+   "einheit": "pp",
+   "differenz": 0.04410774410773399,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K7 Zuordnung, drei Läufe gleich (mit G03), B, min",
+   "eigen": 91.41414141414141,
+   "geliefert": 91.4,
+   "einheit": "pp",
+   "differenz": 0.014141414141406017,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K7 Zuordnung, drei Läufe gleich (mit G03), B, max",
+   "eigen": 93.43434343434343,
+   "geliefert": 93.4,
+   "einheit": "pp",
+   "differenz": 0.03434343434342679,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K7 Zuordnung, drei Läufe gleich (mit G03), C, Mittel",
+   "eigen": 92.76094276094277,
+   "geliefert": 92.8,
+   "einheit": "pp",
+   "differenz": 0.0390572390572288,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K7 Zuordnung, drei Läufe gleich (mit G03), C, min",
+   "eigen": 92.42424242424242,
+   "geliefert": 92.4,
+   "einheit": "pp",
+   "differenz": 0.024242424242416405,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K7 Zuordnung, drei Läufe gleich (mit G03), C, max",
+   "eigen": 93.43434343434343,
+   "geliefert": 93.4,
+   "einheit": "pp",
+   "differenz": 0.03434343434342679,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K7 Zuordnung, drei Läufe gleich (mit G03), D, Mittel",
+   "eigen": 92.76094276094277,
+   "geliefert": 92.8,
+   "einheit": "pp",
+   "differenz": 0.0390572390572288,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K7 Zuordnung, drei Läufe gleich (mit G03), D, min",
+   "eigen": 90.40404040404042,
+   "geliefert": 90.4,
+   "einheit": "pp",
+   "differenz": 0.00404040404040984,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K7 Zuordnung, drei Läufe gleich (mit G03), D, max",
+   "eigen": 95.95959595959596,
+   "geliefert": 96.0,
+   "einheit": "pp",
+   "differenz": 0.04040404040404155,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 inhaltlich getroffen 4506 (mit G03), A, Mittel",
+   "eigen": 32.25806451612903,
+   "geliefert": 32.3,
+   "einheit": "pp",
+   "differenz": 0.04193548387096513,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 inhaltlich getroffen 4506 (mit G03), A, min",
+   "eigen": 25.806451612903224,
+   "geliefert": 25.8,
+   "einheit": "pp",
+   "differenz": 0.0064516129032234915,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 inhaltlich getroffen 4506 (mit G03), A, max",
+   "eigen": 41.935483870967744,
+   "geliefert": 41.9,
+   "einheit": "pp",
+   "differenz": 0.03548387096774519,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 inhaltlich getroffen 4506 (mit G03), B, Mittel",
+   "eigen": 36.55913978494623,
+   "geliefert": 36.6,
+   "einheit": "pp",
+   "differenz": 0.04086021505376891,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 inhaltlich getroffen 4506 (mit G03), B, min",
+   "eigen": 29.03225806451613,
+   "geliefert": 29.0,
+   "einheit": "pp",
+   "differenz": 0.03225806451613167,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 inhaltlich getroffen 4506 (mit G03), B, max",
+   "eigen": 41.935483870967744,
+   "geliefert": 41.9,
+   "einheit": "pp",
+   "differenz": 0.03548387096774519,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 inhaltlich getroffen 4506 (mit G03), C, Mittel",
+   "eigen": 23.655913978494624,
+   "geliefert": 23.7,
+   "einheit": "pp",
+   "differenz": 0.04408602150537533,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 inhaltlich getroffen 4506 (mit G03), C, min",
+   "eigen": 22.58064516129032,
+   "geliefert": 22.6,
+   "einheit": "pp",
+   "differenz": 0.019354838709681133,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 inhaltlich getroffen 4506 (mit G03), C, max",
+   "eigen": 25.806451612903224,
+   "geliefert": 25.8,
+   "einheit": "pp",
+   "differenz": 0.0064516129032234915,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 inhaltlich getroffen 4506 (mit G03), D, Mittel",
+   "eigen": 35.48387096774193,
+   "geliefert": 35.5,
+   "einheit": "pp",
+   "differenz": 0.016129032258071163,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 inhaltlich getroffen 4506 (mit G03), D, min",
+   "eigen": 32.25806451612903,
+   "geliefert": 32.3,
+   "einheit": "pp",
+   "differenz": 0.04193548387096513,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 inhaltlich getroffen 4506 (mit G03), D, max",
+   "eigen": 38.70967741935484,
+   "geliefert": 38.7,
+   "einheit": "pp",
+   "differenz": 0.009677419354837014,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 inhaltlich getroffen 4695 (mit G03), A, Mittel",
+   "eigen": 43.13725490196079,
+   "geliefert": 43.1,
+   "einheit": "pp",
+   "differenz": 0.03725490196078596,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 inhaltlich getroffen 4695 (mit G03), A, min",
+   "eigen": 35.294117647058826,
+   "geliefert": 35.3,
+   "einheit": "pp",
+   "differenz": 0.005882352941171121,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 inhaltlich getroffen 4695 (mit G03), A, max",
+   "eigen": 47.05882352941176,
+   "geliefert": 47.1,
+   "einheit": "pp",
+   "differenz": 0.04117647058824048,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 inhaltlich getroffen 4695 (mit G03), B, Mittel",
+   "eigen": 37.254901960784316,
+   "geliefert": 37.3,
+   "einheit": "pp",
+   "differenz": 0.045098039215680785,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 inhaltlich getroffen 4695 (mit G03), B, min",
+   "eigen": 29.411764705882355,
+   "geliefert": 29.4,
+   "einheit": "pp",
+   "differenz": 0.011764705882356452,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 inhaltlich getroffen 4695 (mit G03), B, max",
+   "eigen": 41.17647058823529,
+   "geliefert": 41.2,
+   "einheit": "pp",
+   "differenz": 0.023529411764712904,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 inhaltlich getroffen 4695 (mit G03), C, Mittel",
+   "eigen": 41.1764705882353,
+   "geliefert": 41.2,
+   "einheit": "pp",
+   "differenz": 0.0235294117647058,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 inhaltlich getroffen 4695 (mit G03), C, min",
+   "eigen": 35.294117647058826,
+   "geliefert": 35.3,
+   "einheit": "pp",
+   "differenz": 0.005882352941171121,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 inhaltlich getroffen 4695 (mit G03), C, max",
+   "eigen": 47.05882352941176,
+   "geliefert": 47.1,
+   "einheit": "pp",
+   "differenz": 0.04117647058824048,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 inhaltlich getroffen 4695 (mit G03), D, Mittel",
+   "eigen": 41.1764705882353,
+   "geliefert": 41.2,
+   "einheit": "pp",
+   "differenz": 0.0235294117647058,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 inhaltlich getroffen 4695 (mit G03), D, min",
+   "eigen": 35.294117647058826,
+   "geliefert": 35.3,
+   "einheit": "pp",
+   "differenz": 0.005882352941171121,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 inhaltlich getroffen 4695 (mit G03), D, max",
+   "eigen": 47.05882352941176,
+   "geliefert": 47.1,
+   "einheit": "pp",
+   "differenz": 0.04117647058824048,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 inhaltlich getroffen 4733 (mit G03), A, Mittel",
+   "eigen": 23.333333333333332,
+   "geliefert": 23.3,
+   "einheit": "pp",
+   "differenz": 0.03333333333333144,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 inhaltlich getroffen 4733 (mit G03), A, min",
+   "eigen": 15.0,
+   "geliefert": 15.0,
+   "einheit": "pp",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 inhaltlich getroffen 4733 (mit G03), A, max",
+   "eigen": 35.0,
+   "geliefert": 35.0,
+   "einheit": "pp",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 inhaltlich getroffen 4733 (mit G03), B, Mittel",
+   "eigen": 16.666666666666664,
+   "geliefert": 16.7,
+   "einheit": "pp",
+   "differenz": 0.03333333333333499,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 inhaltlich getroffen 4733 (mit G03), B, min",
+   "eigen": 10.0,
+   "geliefert": 10.0,
+   "einheit": "pp",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 inhaltlich getroffen 4733 (mit G03), B, max",
+   "eigen": 30.0,
+   "geliefert": 30.0,
+   "einheit": "pp",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 inhaltlich getroffen 4733 (mit G03), C, Mittel",
+   "eigen": 15.0,
+   "geliefert": 15.0,
+   "einheit": "pp",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 inhaltlich getroffen 4733 (mit G03), C, min",
+   "eigen": 10.0,
+   "geliefert": 10.0,
+   "einheit": "pp",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 inhaltlich getroffen 4733 (mit G03), C, max",
+   "eigen": 20.0,
+   "geliefert": 20.0,
+   "einheit": "pp",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 inhaltlich getroffen 4733 (mit G03), D, Mittel",
+   "eigen": 13.333333333333334,
+   "geliefert": 13.3,
+   "einheit": "pp",
+   "differenz": 0.033333333333333215,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 inhaltlich getroffen 4733 (mit G03), D, min",
+   "eigen": 5.0,
+   "geliefert": 5.0,
+   "einheit": "pp",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 inhaltlich getroffen 4733 (mit G03), D, max",
+   "eigen": 20.0,
+   "geliefert": 20.0,
+   "einheit": "pp",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 inhaltlich getroffen 5046 (mit G03), A, Mittel",
+   "eigen": 26.222222222222218,
+   "geliefert": 26.2,
+   "einheit": "pp",
+   "differenz": 0.02222222222221859,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 inhaltlich getroffen 5046 (mit G03), A, min",
+   "eigen": 20.0,
+   "geliefert": 20.0,
+   "einheit": "pp",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 inhaltlich getroffen 5046 (mit G03), A, max",
+   "eigen": 30.666666666666664,
+   "geliefert": 30.7,
+   "einheit": "pp",
+   "differenz": 0.03333333333333499,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 inhaltlich getroffen 5046 (mit G03), B, Mittel",
+   "eigen": 26.666666666666668,
+   "geliefert": 26.7,
+   "einheit": "pp",
+   "differenz": 0.03333333333333144,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 inhaltlich getroffen 5046 (mit G03), B, min",
+   "eigen": 24.0,
+   "geliefert": 24.0,
+   "einheit": "pp",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 inhaltlich getroffen 5046 (mit G03), B, max",
+   "eigen": 30.666666666666664,
+   "geliefert": 30.7,
+   "einheit": "pp",
+   "differenz": 0.03333333333333499,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 inhaltlich getroffen 5046 (mit G03), C, Mittel",
+   "eigen": 18.666666666666668,
+   "geliefert": 18.7,
+   "einheit": "pp",
+   "differenz": 0.03333333333333144,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 inhaltlich getroffen 5046 (mit G03), C, min",
+   "eigen": 18.666666666666668,
+   "geliefert": 18.7,
+   "einheit": "pp",
+   "differenz": 0.03333333333333144,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 inhaltlich getroffen 5046 (mit G03), C, max",
+   "eigen": 18.666666666666668,
+   "geliefert": 18.7,
+   "einheit": "pp",
+   "differenz": 0.03333333333333144,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 inhaltlich getroffen 5046 (mit G03), D, Mittel",
+   "eigen": 25.333333333333336,
+   "geliefert": 25.3,
+   "einheit": "pp",
+   "differenz": 0.03333333333333499,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 inhaltlich getroffen 5046 (mit G03), D, min",
+   "eigen": 24.0,
+   "geliefert": 24.0,
+   "einheit": "pp",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 inhaltlich getroffen 5046 (mit G03), D, max",
+   "eigen": 28.000000000000004,
+   "geliefert": 28.0,
+   "einheit": "pp",
+   "differenz": 3.552713678800501e-15,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 inhaltlich, getroffen (Hauptmaß) (ohne G03), A, Mittel",
+   "eigen": 28.49462365591398,
+   "geliefert": 28.5,
+   "einheit": "pp",
+   "differenz": 0.005376344086020168,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 inhaltlich, getroffen (Hauptmaß) (ohne G03), A, min",
+   "eigen": 23.387096774193548,
+   "geliefert": 23.4,
+   "einheit": "pp",
+   "differenz": 0.012903225806450536,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 inhaltlich, getroffen (Hauptmaß) (ohne G03), A, max",
+   "eigen": 32.25806451612903,
+   "geliefert": 32.3,
+   "einheit": "pp",
+   "differenz": 0.04193548387096513,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 inhaltlich, getroffen (Hauptmaß) (ohne G03), B, Mittel",
+   "eigen": 26.344086021505376,
+   "geliefert": 26.3,
+   "einheit": "pp",
+   "differenz": 0.04408602150537533,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 inhaltlich, getroffen (Hauptmaß) (ohne G03), B, min",
+   "eigen": 24.193548387096776,
+   "geliefert": 24.2,
+   "einheit": "pp",
+   "differenz": 0.0064516129032234915,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 inhaltlich, getroffen (Hauptmaß) (ohne G03), B, max",
+   "eigen": 28.225806451612907,
+   "geliefert": 28.2,
+   "einheit": "pp",
+   "differenz": 0.025806451612908177,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 inhaltlich, getroffen (Hauptmaß) (ohne G03), C, Mittel",
+   "eigen": 21.236559139784948,
+   "geliefert": 21.2,
+   "einheit": "pp",
+   "differenz": 0.03655913978494851,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 inhaltlich, getroffen (Hauptmaß) (ohne G03), C, min",
+   "eigen": 20.967741935483872,
+   "geliefert": 21.0,
+   "einheit": "pp",
+   "differenz": 0.032258064516128115,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 inhaltlich, getroffen (Hauptmaß) (ohne G03), C, max",
+   "eigen": 21.774193548387096,
+   "geliefert": 21.8,
+   "einheit": "pp",
+   "differenz": 0.025806451612904624,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 inhaltlich, getroffen (Hauptmaß) (ohne G03), D, Mittel",
+   "eigen": 25.268817204301076,
+   "geliefert": 25.3,
+   "einheit": "pp",
+   "differenz": 0.031182795698924792,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 inhaltlich, getroffen (Hauptmaß) (ohne G03), D, min",
+   "eigen": 23.387096774193548,
+   "geliefert": 23.4,
+   "einheit": "pp",
+   "differenz": 0.012903225806450536,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 inhaltlich, getroffen (Hauptmaß) (ohne G03), D, max",
+   "eigen": 28.225806451612907,
+   "geliefert": 28.2,
+   "einheit": "pp",
+   "differenz": 0.025806451612908177,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 inhaltlich, teilweise (ohne G03), A, Mittel",
+   "eigen": 30.107526881720432,
+   "geliefert": 30.1,
+   "einheit": "pp",
+   "differenz": 0.007526881720430367,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 inhaltlich, teilweise (ohne G03), A, min",
+   "eigen": 25.806451612903224,
+   "geliefert": 25.8,
+   "einheit": "pp",
+   "differenz": 0.0064516129032234915,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 inhaltlich, teilweise (ohne G03), A, max",
+   "eigen": 35.483870967741936,
+   "geliefert": 35.5,
+   "einheit": "pp",
+   "differenz": 0.016129032258064058,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 inhaltlich, teilweise (ohne G03), B, Mittel",
+   "eigen": 28.763440860215056,
+   "geliefert": 28.8,
+   "einheit": "pp",
+   "differenz": 0.03655913978494496,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 inhaltlich, teilweise (ohne G03), B, min",
+   "eigen": 25.0,
+   "geliefert": 25.0,
+   "einheit": "pp",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 inhaltlich, teilweise (ohne G03), B, max",
+   "eigen": 34.67741935483871,
+   "geliefert": 34.7,
+   "einheit": "pp",
+   "differenz": 0.022580645161291102,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 inhaltlich, teilweise (ohne G03), C, Mittel",
+   "eigen": 26.881720430107524,
+   "geliefert": 26.9,
+   "einheit": "pp",
+   "differenz": 0.018279569892474257,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 inhaltlich, teilweise (ohne G03), C, min",
+   "eigen": 24.193548387096776,
+   "geliefert": 24.2,
+   "einheit": "pp",
+   "differenz": 0.0064516129032234915,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 inhaltlich, teilweise (ohne G03), C, max",
+   "eigen": 32.25806451612903,
+   "geliefert": 32.3,
+   "einheit": "pp",
+   "differenz": 0.04193548387096513,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 inhaltlich, teilweise (ohne G03), D, Mittel",
+   "eigen": 28.49462365591398,
+   "geliefert": 28.5,
+   "einheit": "pp",
+   "differenz": 0.005376344086020168,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 inhaltlich, teilweise (ohne G03), D, min",
+   "eigen": 28.225806451612907,
+   "geliefert": 28.2,
+   "einheit": "pp",
+   "differenz": 0.025806451612908177,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 inhaltlich, teilweise (ohne G03), D, max",
+   "eigen": 29.03225806451613,
+   "geliefert": 29.0,
+   "einheit": "pp",
+   "differenz": 0.03225806451613167,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 Kleinkorrekturen, getroffen (ohne G03), A, Mittel",
+   "eigen": 66.04938271604938,
+   "geliefert": 66.0,
+   "einheit": "pp",
+   "differenz": 0.04938271604937938,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 Kleinkorrekturen, getroffen (ohne G03), A, min",
+   "eigen": 61.111111111111114,
+   "geliefert": 61.1,
+   "einheit": "pp",
+   "differenz": 0.011111111111112848,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 Kleinkorrekturen, getroffen (ohne G03), A, max",
+   "eigen": 70.37037037037037,
+   "geliefert": 70.4,
+   "einheit": "pp",
+   "differenz": 0.029629629629639,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 Kleinkorrekturen, getroffen (ohne G03), B, Mittel",
+   "eigen": 64.19753086419753,
+   "geliefert": 64.2,
+   "einheit": "pp",
+   "differenz": 0.0024691358024711008,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 Kleinkorrekturen, getroffen (ohne G03), B, min",
+   "eigen": 61.111111111111114,
+   "geliefert": 61.1,
+   "einheit": "pp",
+   "differenz": 0.011111111111112848,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 Kleinkorrekturen, getroffen (ohne G03), B, max",
+   "eigen": 66.66666666666666,
+   "geliefert": 66.7,
+   "einheit": "pp",
+   "differenz": 0.03333333333334565,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 Kleinkorrekturen, getroffen (ohne G03), C, Mittel",
+   "eigen": 46.91358024691358,
+   "geliefert": 46.9,
+   "einheit": "pp",
+   "differenz": 0.013580246913583949,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 Kleinkorrekturen, getroffen (ohne G03), C, min",
+   "eigen": 46.2962962962963,
+   "geliefert": 46.3,
+   "einheit": "pp",
+   "differenz": 0.0037037037036995457,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 Kleinkorrekturen, getroffen (ohne G03), C, max",
+   "eigen": 48.148148148148145,
+   "geliefert": 48.1,
+   "einheit": "pp",
+   "differenz": 0.04814814814814383,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 Kleinkorrekturen, getroffen (ohne G03), D, Mittel",
+   "eigen": 67.28395061728395,
+   "geliefert": 67.3,
+   "einheit": "pp",
+   "differenz": 0.016049382716047944,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 Kleinkorrekturen, getroffen (ohne G03), D, min",
+   "eigen": 66.66666666666666,
+   "geliefert": 66.7,
+   "einheit": "pp",
+   "differenz": 0.03333333333334565,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 Kleinkorrekturen, getroffen (ohne G03), D, max",
+   "eigen": 68.51851851851852,
+   "geliefert": 68.5,
+   "einheit": "pp",
+   "differenz": 0.018518518518519045,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 Kleinkorrekturen, teilweise (ohne G03), A, Mittel",
+   "eigen": 6.172839506172839,
+   "geliefert": 6.2,
+   "einheit": "pp",
+   "differenz": 0.027160493827160792,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 Kleinkorrekturen, teilweise (ohne G03), A, min",
+   "eigen": 3.7037037037037033,
+   "geliefert": 3.7,
+   "einheit": "pp",
+   "differenz": 0.0037037037037030984,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 Kleinkorrekturen, teilweise (ohne G03), A, max",
+   "eigen": 7.4074074074074066,
+   "geliefert": 7.4,
+   "einheit": "pp",
+   "differenz": 0.007407407407406197,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 Kleinkorrekturen, teilweise (ohne G03), B, Mittel",
+   "eigen": 9.25925925925926,
+   "geliefert": 9.3,
+   "einheit": "pp",
+   "differenz": 0.04074074074074119,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 Kleinkorrekturen, teilweise (ohne G03), B, min",
+   "eigen": 7.4074074074074066,
+   "geliefert": 7.4,
+   "einheit": "pp",
+   "differenz": 0.007407407407406197,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 Kleinkorrekturen, teilweise (ohne G03), B, max",
+   "eigen": 11.11111111111111,
+   "geliefert": 11.1,
+   "einheit": "pp",
+   "differenz": 0.011111111111111072,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 Kleinkorrekturen, teilweise (ohne G03), C, Mittel",
+   "eigen": 4.320987654320987,
+   "geliefert": 4.3,
+   "einheit": "pp",
+   "differenz": 0.02098765432098748,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 Kleinkorrekturen, teilweise (ohne G03), C, min",
+   "eigen": 1.8518518518518516,
+   "geliefert": 1.9,
+   "einheit": "pp",
+   "differenz": 0.04814814814814827,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 Kleinkorrekturen, teilweise (ohne G03), C, max",
+   "eigen": 7.4074074074074066,
+   "geliefert": 7.4,
+   "einheit": "pp",
+   "differenz": 0.007407407407406197,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 Kleinkorrekturen, teilweise (ohne G03), D, Mittel",
+   "eigen": 5.555555555555555,
+   "geliefert": 5.6,
+   "einheit": "pp",
+   "differenz": 0.04444444444444429,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 Kleinkorrekturen, teilweise (ohne G03), D, min",
+   "eigen": 3.7037037037037033,
+   "geliefert": 3.7,
+   "einheit": "pp",
+   "differenz": 0.0037037037037030984,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 Kleinkorrekturen, teilweise (ohne G03), D, max",
+   "eigen": 7.4074074074074066,
+   "geliefert": 7.4,
+   "einheit": "pp",
+   "differenz": 0.007407407407406197,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K2 nicht zutreffend, Anteil an allen Einträgen (ohne G03), A, Mittel",
+   "eigen": 0.681448048791899,
+   "geliefert": 0.7,
+   "einheit": "pp",
+   "differenz": 0.018551951208100936,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K2 nicht zutreffend, Anteil an allen Einträgen (ohne G03), A, min",
+   "eigen": 0.43383947939262474,
+   "geliefert": 0.4,
+   "einheit": "pp",
+   "differenz": 0.033839479392624716,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K2 nicht zutreffend, Anteil an allen Einträgen (ohne G03), A, max",
+   "eigen": 0.9302325581395349,
+   "geliefert": 0.9,
+   "einheit": "pp",
+   "differenz": 0.03023255813953485,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K2 nicht zutreffend, Anteil an allen Einträgen (ohne G03), B, Mittel",
+   "eigen": 0.5836329569048462,
+   "geliefert": 0.6,
+   "einheit": "pp",
+   "differenz": 0.0163670430951538,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K2 nicht zutreffend, Anteil an allen Einträgen (ohne G03), B, min",
+   "eigen": 0.49627791563275436,
+   "geliefert": 0.5,
+   "einheit": "pp",
+   "differenz": 0.003722084367245637,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K2 nicht zutreffend, Anteil an allen Einträgen (ohne G03), B, max",
+   "eigen": 0.7444168734491315,
+   "geliefert": 0.7,
+   "einheit": "pp",
+   "differenz": 0.04441687344913159,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K2 nicht zutreffend, Anteil an allen Einträgen (ohne G03), C, Mittel",
+   "eigen": 0.4830917874396135,
+   "geliefert": 0.5,
+   "einheit": "pp",
+   "differenz": 0.016908212560386493,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K2 nicht zutreffend, Anteil an allen Einträgen (ohne G03), C, min",
+   "eigen": 0.0,
+   "geliefert": 0.0,
+   "einheit": "pp",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K2 nicht zutreffend, Anteil an allen Einträgen (ohne G03), C, max",
+   "eigen": 1.4492753623188406,
+   "geliefert": 1.4,
+   "einheit": "pp",
+   "differenz": 0.049275362318840665,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K2 nicht zutreffend, Anteil an allen Einträgen (ohne G03), D, Mittel",
+   "eigen": 0.0835421888053467,
+   "geliefert": 0.1,
+   "einheit": "pp",
+   "differenz": 0.01645781119465331,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K2 nicht zutreffend, Anteil an allen Einträgen (ohne G03), D, min",
+   "eigen": 0.0,
+   "geliefert": 0.0,
+   "einheit": "pp",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K2 nicht zutreffend, Anteil an allen Einträgen (ohne G03), D, max",
+   "eigen": 0.2506265664160401,
+   "geliefert": 0.3,
+   "einheit": "pp",
+   "differenz": 0.0493734335839599,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K2 ergänzend: Ansichtssache, Anteil (ohne G03), A, Mittel",
+   "eigen": 5.76040132039296,
+   "geliefert": 5.8,
+   "einheit": "pp",
+   "differenz": 0.03959867960703978,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K2 ergänzend: Ansichtssache, Anteil (ohne G03), A, min",
+   "eigen": 4.651162790697675,
+   "geliefert": 4.7,
+   "einheit": "pp",
+   "differenz": 0.04883720930232549,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K2 ergänzend: Ansichtssache, Anteil (ohne G03), A, max",
+   "eigen": 6.507592190889371,
+   "geliefert": 6.5,
+   "einheit": "pp",
+   "differenz": 0.007592190889370798,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K2 ergänzend: Ansichtssache, Anteil (ohne G03), B, Mittel",
+   "eigen": 4.577066558633378,
+   "geliefert": 4.6,
+   "einheit": "pp",
+   "differenz": 0.022933441366621565,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K2 ergänzend: Ansichtssache, Anteil (ohne G03), B, min",
+   "eigen": 3.061224489795918,
+   "geliefert": 3.1,
+   "einheit": "pp",
+   "differenz": 0.038775510204081876,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K2 ergänzend: Ansichtssache, Anteil (ohne G03), B, max",
+   "eigen": 5.955334987593052,
+   "geliefert": 6.0,
+   "einheit": "pp",
+   "differenz": 0.044665012406947646,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K2 ergänzend: Ansichtssache, Anteil (ohne G03), C, Mittel",
+   "eigen": 1.7709705753184015,
+   "geliefert": 1.8,
+   "einheit": "pp",
+   "differenz": 0.029029424681598526,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K2 ergänzend: Ansichtssache, Anteil (ohne G03), C, min",
+   "eigen": 1.3636363636363635,
+   "geliefert": 1.4,
+   "einheit": "pp",
+   "differenz": 0.036363636363636376,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K2 ergänzend: Ansichtssache, Anteil (ohne G03), C, max",
+   "eigen": 2.5,
+   "geliefert": 2.5,
+   "einheit": "pp",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K2 ergänzend: Ansichtssache, Anteil (ohne G03), D, Mittel",
+   "eigen": 5.094296023747312,
+   "geliefert": 5.1,
+   "einheit": "pp",
+   "differenz": 0.005703976252688037,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K2 ergänzend: Ansichtssache, Anteil (ohne G03), D, min",
+   "eigen": 4.25531914893617,
+   "geliefert": 4.3,
+   "einheit": "pp",
+   "differenz": 0.044680851063829685,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K2 ergänzend: Ansichtssache, Anteil (ohne G03), D, max",
+   "eigen": 6.015037593984962,
+   "geliefert": 6.0,
+   "einheit": "pp",
+   "differenz": 0.015037593984962072,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K3 Zusatzbefunde je Gutachten (Anzahl) (ohne G03), A, Mittel",
+   "eigen": 78.91666666666667,
+   "geliefert": 78.9,
+   "einheit": "Fälle",
+   "differenz": 0.01666666666666572,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K3 Zusatzbefunde je Gutachten (Anzahl) (ohne G03), A, min",
+   "eigen": 76.75,
+   "geliefert": 76.8,
+   "einheit": "Fälle",
+   "differenz": 0.04999999999999716,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K3 Zusatzbefunde je Gutachten (Anzahl) (ohne G03), A, max",
+   "eigen": 80.5,
+   "geliefert": 80.5,
+   "einheit": "Fälle",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K3 Zusatzbefunde je Gutachten (Anzahl) (ohne G03), B, Mittel",
+   "eigen": 70.16666666666667,
+   "geliefert": 70.2,
+   "einheit": "Fälle",
+   "differenz": 0.03333333333333144,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K3 Zusatzbefunde je Gutachten (Anzahl) (ohne G03), B, min",
+   "eigen": 68.25,
+   "geliefert": 68.2,
+   "einheit": "Fälle",
+   "differenz": 0.04999999999999716,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K3 Zusatzbefunde je Gutachten (Anzahl) (ohne G03), B, max",
+   "eigen": 73.0,
+   "geliefert": 73.0,
+   "einheit": "Fälle",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K3 Zusatzbefunde je Gutachten (Anzahl) (ohne G03), C, Mittel",
+   "eigen": 39.416666666666664,
+   "geliefert": 39.4,
+   "einheit": "Fälle",
+   "differenz": 0.01666666666666572,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K3 Zusatzbefunde je Gutachten (Anzahl) (ohne G03), C, min",
+   "eigen": 35.5,
+   "geliefert": 35.5,
+   "einheit": "Fälle",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K3 Zusatzbefunde je Gutachten (Anzahl) (ohne G03), C, max",
+   "eigen": 43.0,
+   "geliefert": 43.0,
+   "einheit": "Fälle",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K3 Zusatzbefunde je Gutachten (Anzahl) (ohne G03), D, Mittel",
+   "eigen": 72.66666666666667,
+   "geliefert": 72.7,
+   "einheit": "Fälle",
+   "differenz": 0.03333333333333144,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K3 Zusatzbefunde je Gutachten (Anzahl) (ohne G03), D, min",
+   "eigen": 70.5,
+   "geliefert": 70.5,
+   "einheit": "Fälle",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K3 Zusatzbefunde je Gutachten (Anzahl) (ohne G03), D, max",
+   "eigen": 76.25,
+   "geliefert": 76.2,
+   "einheit": "Fälle",
+   "differenz": 0.04999999999999716,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K7 Zuordnung, drei Läufe gleich (ohne G03), A, Mittel",
+   "eigen": 92.32209737827715,
+   "geliefert": 92.3,
+   "einheit": "pp",
+   "differenz": 0.022097378277152302,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K7 Zuordnung, drei Läufe gleich (ohne G03), A, min",
+   "eigen": 88.20224719101124,
+   "geliefert": 88.2,
+   "einheit": "pp",
+   "differenz": 0.0022471910112358273,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K7 Zuordnung, drei Läufe gleich (ohne G03), A, max",
+   "eigen": 95.50561797752809,
+   "geliefert": 95.5,
+   "einheit": "pp",
+   "differenz": 0.005617977528089568,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K7 Zuordnung, drei Läufe gleich (ohne G03), B, Mittel",
+   "eigen": 92.69662921348315,
+   "geliefert": 92.7,
+   "einheit": "pp",
+   "differenz": 0.003370786516853741,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K7 Zuordnung, drei Läufe gleich (ohne G03), B, min",
+   "eigen": 92.13483146067416,
+   "geliefert": 92.1,
+   "einheit": "pp",
+   "differenz": 0.034831460674169534,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K7 Zuordnung, drei Läufe gleich (ohne G03), B, max",
+   "eigen": 93.25842696629213,
+   "geliefert": 93.3,
+   "einheit": "pp",
+   "differenz": 0.041573033707862805,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K7 Zuordnung, drei Läufe gleich (ohne G03), C, Mittel",
+   "eigen": 93.82022471910112,
+   "geliefert": 93.8,
+   "einheit": "pp",
+   "differenz": 0.020224719101122446,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K7 Zuordnung, drei Läufe gleich (ohne G03), C, min",
+   "eigen": 93.25842696629213,
+   "geliefert": 93.3,
+   "einheit": "pp",
+   "differenz": 0.041573033707862805,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K7 Zuordnung, drei Läufe gleich (ohne G03), C, max",
+   "eigen": 94.3820224719101,
+   "geliefert": 94.4,
+   "einheit": "pp",
+   "differenz": 0.01797752808990083,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K7 Zuordnung, drei Läufe gleich (ohne G03), D, Mittel",
+   "eigen": 93.63295880149813,
+   "geliefert": 93.6,
+   "einheit": "pp",
+   "differenz": 0.03295880149813968,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K7 Zuordnung, drei Läufe gleich (ohne G03), D, min",
+   "eigen": 92.13483146067416,
+   "geliefert": 92.1,
+   "einheit": "pp",
+   "differenz": 0.034831460674169534,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K7 Zuordnung, drei Läufe gleich (ohne G03), D, max",
+   "eigen": 96.06741573033707,
+   "geliefert": 96.1,
+   "einheit": "pp",
+   "differenz": 0.032584269662919496,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 inhaltlich getroffen 4506 (ohne G03), A, Mittel",
+   "eigen": 30.555555555555557,
+   "geliefert": 30.6,
+   "einheit": "pp",
+   "differenz": 0.04444444444444429,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 inhaltlich getroffen 4506 (ohne G03), A, min",
+   "eigen": 25.0,
+   "geliefert": 25.0,
+   "einheit": "pp",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 inhaltlich getroffen 4506 (ohne G03), A, max",
+   "eigen": 41.66666666666667,
+   "geliefert": 41.7,
+   "einheit": "pp",
+   "differenz": 0.03333333333333144,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 inhaltlich getroffen 4506 (ohne G03), B, Mittel",
+   "eigen": 25.0,
+   "geliefert": 25.0,
+   "einheit": "pp",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 inhaltlich getroffen 4506 (ohne G03), B, min",
+   "eigen": 25.0,
+   "geliefert": 25.0,
+   "einheit": "pp",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 inhaltlich getroffen 4506 (ohne G03), B, max",
+   "eigen": 25.0,
+   "geliefert": 25.0,
+   "einheit": "pp",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 inhaltlich getroffen 4506 (ohne G03), C, Mittel",
+   "eigen": 19.444444444444443,
+   "geliefert": 19.4,
+   "einheit": "pp",
+   "differenz": 0.04444444444444429,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 inhaltlich getroffen 4506 (ohne G03), C, min",
+   "eigen": 16.666666666666664,
+   "geliefert": 16.7,
+   "einheit": "pp",
+   "differenz": 0.03333333333333499,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 inhaltlich getroffen 4506 (ohne G03), C, max",
+   "eigen": 25.0,
+   "geliefert": 25.0,
+   "einheit": "pp",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 inhaltlich getroffen 4506 (ohne G03), D, Mittel",
+   "eigen": 22.22222222222222,
+   "geliefert": 22.2,
+   "einheit": "pp",
+   "differenz": 0.022222222222222143,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 inhaltlich getroffen 4506 (ohne G03), D, min",
+   "eigen": 16.666666666666664,
+   "geliefert": 16.7,
+   "einheit": "pp",
+   "differenz": 0.03333333333333499,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 inhaltlich getroffen 4506 (ohne G03), D, max",
+   "eigen": 25.0,
+   "geliefert": 25.0,
+   "einheit": "pp",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 inhaltlich getroffen 4695 (ohne G03), A, Mittel",
+   "eigen": 43.13725490196079,
+   "geliefert": 43.1,
+   "einheit": "pp",
+   "differenz": 0.03725490196078596,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 inhaltlich getroffen 4695 (ohne G03), A, min",
+   "eigen": 35.294117647058826,
+   "geliefert": 35.3,
+   "einheit": "pp",
+   "differenz": 0.005882352941171121,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 inhaltlich getroffen 4695 (ohne G03), A, max",
+   "eigen": 47.05882352941176,
+   "geliefert": 47.1,
+   "einheit": "pp",
+   "differenz": 0.04117647058824048,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 inhaltlich getroffen 4695 (ohne G03), B, Mittel",
+   "eigen": 37.254901960784316,
+   "geliefert": 37.3,
+   "einheit": "pp",
+   "differenz": 0.045098039215680785,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 inhaltlich getroffen 4695 (ohne G03), B, min",
+   "eigen": 29.411764705882355,
+   "geliefert": 29.4,
+   "einheit": "pp",
+   "differenz": 0.011764705882356452,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 inhaltlich getroffen 4695 (ohne G03), B, max",
+   "eigen": 41.17647058823529,
+   "geliefert": 41.2,
+   "einheit": "pp",
+   "differenz": 0.023529411764712904,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 inhaltlich getroffen 4695 (ohne G03), C, Mittel",
+   "eigen": 41.1764705882353,
+   "geliefert": 41.2,
+   "einheit": "pp",
+   "differenz": 0.0235294117647058,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 inhaltlich getroffen 4695 (ohne G03), C, min",
+   "eigen": 35.294117647058826,
+   "geliefert": 35.3,
+   "einheit": "pp",
+   "differenz": 0.005882352941171121,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 inhaltlich getroffen 4695 (ohne G03), C, max",
+   "eigen": 47.05882352941176,
+   "geliefert": 47.1,
+   "einheit": "pp",
+   "differenz": 0.04117647058824048,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 inhaltlich getroffen 4695 (ohne G03), D, Mittel",
+   "eigen": 41.1764705882353,
+   "geliefert": 41.2,
+   "einheit": "pp",
+   "differenz": 0.0235294117647058,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 inhaltlich getroffen 4695 (ohne G03), D, min",
+   "eigen": 35.294117647058826,
+   "geliefert": 35.3,
+   "einheit": "pp",
+   "differenz": 0.005882352941171121,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 inhaltlich getroffen 4695 (ohne G03), D, max",
+   "eigen": 47.05882352941176,
+   "geliefert": 47.1,
+   "einheit": "pp",
+   "differenz": 0.04117647058824048,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 inhaltlich getroffen 4733 (ohne G03), A, Mittel",
+   "eigen": 23.333333333333332,
+   "geliefert": 23.3,
+   "einheit": "pp",
+   "differenz": 0.03333333333333144,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 inhaltlich getroffen 4733 (ohne G03), A, min",
+   "eigen": 15.0,
+   "geliefert": 15.0,
+   "einheit": "pp",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 inhaltlich getroffen 4733 (ohne G03), A, max",
+   "eigen": 35.0,
+   "geliefert": 35.0,
+   "einheit": "pp",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 inhaltlich getroffen 4733 (ohne G03), B, Mittel",
+   "eigen": 16.666666666666664,
+   "geliefert": 16.7,
+   "einheit": "pp",
+   "differenz": 0.03333333333333499,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 inhaltlich getroffen 4733 (ohne G03), B, min",
+   "eigen": 10.0,
+   "geliefert": 10.0,
+   "einheit": "pp",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 inhaltlich getroffen 4733 (ohne G03), B, max",
+   "eigen": 30.0,
+   "geliefert": 30.0,
+   "einheit": "pp",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 inhaltlich getroffen 4733 (ohne G03), C, Mittel",
+   "eigen": 15.0,
+   "geliefert": 15.0,
+   "einheit": "pp",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 inhaltlich getroffen 4733 (ohne G03), C, min",
+   "eigen": 10.0,
+   "geliefert": 10.0,
+   "einheit": "pp",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 inhaltlich getroffen 4733 (ohne G03), C, max",
+   "eigen": 20.0,
+   "geliefert": 20.0,
+   "einheit": "pp",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 inhaltlich getroffen 4733 (ohne G03), D, Mittel",
+   "eigen": 13.333333333333334,
+   "geliefert": 13.3,
+   "einheit": "pp",
+   "differenz": 0.033333333333333215,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 inhaltlich getroffen 4733 (ohne G03), D, min",
+   "eigen": 5.0,
+   "geliefert": 5.0,
+   "einheit": "pp",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 inhaltlich getroffen 4733 (ohne G03), D, max",
+   "eigen": 20.0,
+   "geliefert": 20.0,
+   "einheit": "pp",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 inhaltlich getroffen 5046 (ohne G03), A, Mittel",
+   "eigen": 26.222222222222218,
+   "geliefert": 26.2,
+   "einheit": "pp",
+   "differenz": 0.02222222222221859,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 inhaltlich getroffen 5046 (ohne G03), A, min",
+   "eigen": 20.0,
+   "geliefert": 20.0,
+   "einheit": "pp",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 inhaltlich getroffen 5046 (ohne G03), A, max",
+   "eigen": 30.666666666666664,
+   "geliefert": 30.7,
+   "einheit": "pp",
+   "differenz": 0.03333333333333499,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 inhaltlich getroffen 5046 (ohne G03), B, Mittel",
+   "eigen": 26.666666666666668,
+   "geliefert": 26.7,
+   "einheit": "pp",
+   "differenz": 0.03333333333333144,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 inhaltlich getroffen 5046 (ohne G03), B, min",
+   "eigen": 24.0,
+   "geliefert": 24.0,
+   "einheit": "pp",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 inhaltlich getroffen 5046 (ohne G03), B, max",
+   "eigen": 30.666666666666664,
+   "geliefert": 30.7,
+   "einheit": "pp",
+   "differenz": 0.03333333333333499,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 inhaltlich getroffen 5046 (ohne G03), C, Mittel",
+   "eigen": 18.666666666666668,
+   "geliefert": 18.7,
+   "einheit": "pp",
+   "differenz": 0.03333333333333144,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 inhaltlich getroffen 5046 (ohne G03), C, min",
+   "eigen": 18.666666666666668,
+   "geliefert": 18.7,
+   "einheit": "pp",
+   "differenz": 0.03333333333333144,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 inhaltlich getroffen 5046 (ohne G03), C, max",
+   "eigen": 18.666666666666668,
+   "geliefert": 18.7,
+   "einheit": "pp",
+   "differenz": 0.03333333333333144,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 inhaltlich getroffen 5046 (ohne G03), D, Mittel",
+   "eigen": 25.333333333333336,
+   "geliefert": 25.3,
+   "einheit": "pp",
+   "differenz": 0.03333333333333499,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 inhaltlich getroffen 5046 (ohne G03), D, min",
+   "eigen": 24.0,
+   "geliefert": 24.0,
+   "einheit": "pp",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K1 inhaltlich getroffen 5046 (ohne G03), D, max",
+   "eigen": 28.000000000000004,
+   "geliefert": 28.0,
+   "einheit": "pp",
+   "differenz": 3.552713678800501e-15,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "Einträge je Gutachten, A, Mittel",
+   "eigen": 111.0,
+   "geliefert": 111.0,
+   "einheit": "Fälle",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "Einträge je Gutachten, A, min",
+   "eigen": 107.5,
+   "geliefert": 107.5,
+   "einheit": "Fälle",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "Einträge je Gutachten, A, max",
+   "eigen": 115.25,
+   "geliefert": 115.2,
+   "einheit": "Fälle",
+   "differenz": 0.04999999999999716,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "Einträge je Gutachten, B, Mittel",
+   "eigen": 99.83333333333333,
+   "geliefert": 99.8,
+   "einheit": "Fälle",
+   "differenz": 0.03333333333333144,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "Einträge je Gutachten, B, min",
+   "eigen": 98.0,
+   "geliefert": 98.0,
+   "einheit": "Fälle",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "Einträge je Gutachten, B, max",
+   "eigen": 100.75,
+   "geliefert": 100.8,
+   "einheit": "Fälle",
+   "differenz": 0.04999999999999716,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "Einträge je Gutachten, C, Mittel",
+   "eigen": 55.583333333333336,
+   "geliefert": 55.6,
+   "einheit": "Fälle",
+   "differenz": 0.01666666666666572,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "Einträge je Gutachten, C, min",
+   "eigen": 51.75,
+   "geliefert": 51.8,
+   "einheit": "Fälle",
+   "differenz": 0.04999999999999716,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "Einträge je Gutachten, C, max",
+   "eigen": 60.0,
+   "geliefert": 60.0,
+   "einheit": "Fälle",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "Einträge je Gutachten, D, Mittel",
+   "eigen": 101.75,
+   "geliefert": 101.8,
+   "einheit": "Fälle",
+   "differenz": 0.04999999999999716,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "Einträge je Gutachten, D, min",
+   "eigen": 99.75,
+   "geliefert": 99.8,
+   "einheit": "Fälle",
+   "differenz": 0.04999999999999716,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "Einträge je Gutachten, D, max",
+   "eigen": 105.75,
+   "geliefert": 105.8,
+   "einheit": "Fälle",
+   "differenz": 0.04999999999999716,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "davon inhaltliche Befunde, A, Mittel",
+   "eigen": 59.0,
+   "geliefert": 59.0,
+   "einheit": "Fälle",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "davon inhaltliche Befunde, A, min",
+   "eigen": 56.0,
+   "geliefert": 56.0,
+   "einheit": "Fälle",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "davon inhaltliche Befunde, A, max",
+   "eigen": 61.75,
+   "geliefert": 61.8,
+   "einheit": "Fälle",
+   "differenz": 0.04999999999999716,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "davon inhaltliche Befunde, B, Mittel",
+   "eigen": 57.916666666666664,
+   "geliefert": 57.9,
+   "einheit": "Fälle",
+   "differenz": 0.01666666666666572,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "davon inhaltliche Befunde, B, min",
+   "eigen": 54.0,
+   "geliefert": 54.0,
+   "einheit": "Fälle",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "davon inhaltliche Befunde, B, max",
+   "eigen": 60.25,
+   "geliefert": 60.2,
+   "einheit": "Fälle",
+   "differenz": 0.04999999999999716,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "davon inhaltliche Befunde, C, Mittel",
+   "eigen": 33.333333333333336,
+   "geliefert": 33.3,
+   "einheit": "Fälle",
+   "differenz": 0.033333333333338544,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "davon inhaltliche Befunde, C, min",
+   "eigen": 31.5,
+   "geliefert": 31.5,
+   "einheit": "Fälle",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "davon inhaltliche Befunde, C, max",
+   "eigen": 35.25,
+   "geliefert": 35.2,
+   "einheit": "Fälle",
+   "differenz": 0.04999999999999716,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "davon inhaltliche Befunde, D, Mittel",
+   "eigen": 58.166666666666664,
+   "geliefert": 58.2,
+   "einheit": "Fälle",
+   "differenz": 0.033333333333338544,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "davon inhaltliche Befunde, D, min",
+   "eigen": 55.25,
+   "geliefert": 55.2,
+   "einheit": "Fälle",
+   "differenz": 0.04999999999999716,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "davon inhaltliche Befunde, D, max",
+   "eigen": 60.5,
+   "geliefert": 60.5,
+   "einheit": "Fälle",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "davon Kleinkorrekturen, A, Mittel",
+   "eigen": 52.0,
+   "geliefert": 52.0,
+   "einheit": "Fälle",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "davon Kleinkorrekturen, A, min",
+   "eigen": 48.25,
+   "geliefert": 48.2,
+   "einheit": "Fälle",
+   "differenz": 0.04999999999999716,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "davon Kleinkorrekturen, A, max",
+   "eigen": 54.25,
+   "geliefert": 54.2,
+   "einheit": "Fälle",
+   "differenz": 0.04999999999999716,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "davon Kleinkorrekturen, B, Mittel",
+   "eigen": 41.916666666666664,
+   "geliefert": 41.9,
+   "einheit": "Fälle",
+   "differenz": 0.01666666666666572,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "davon Kleinkorrekturen, B, min",
+   "eigen": 38.5,
+   "geliefert": 38.5,
+   "einheit": "Fälle",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "davon Kleinkorrekturen, B, max",
+   "eigen": 46.75,
+   "geliefert": 46.8,
+   "einheit": "Fälle",
+   "differenz": 0.04999999999999716,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "davon Kleinkorrekturen, C, Mittel",
+   "eigen": 22.25,
+   "geliefert": 22.2,
+   "einheit": "Fälle",
+   "differenz": 0.05000000000000071,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "davon Kleinkorrekturen, C, min",
+   "eigen": 18.5,
+   "geliefert": 18.5,
+   "einheit": "Fälle",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "davon Kleinkorrekturen, C, max",
+   "eigen": 24.75,
+   "geliefert": 24.8,
+   "einheit": "Fälle",
+   "differenz": 0.05000000000000071,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "davon Kleinkorrekturen, D, Mittel",
+   "eigen": 43.583333333333336,
+   "geliefert": 43.6,
+   "einheit": "Fälle",
+   "differenz": 0.01666666666666572,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "davon Kleinkorrekturen, D, min",
+   "eigen": 41.0,
+   "geliefert": 41.0,
+   "einheit": "Fälle",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "davon Kleinkorrekturen, D, max",
+   "eigen": 45.25,
+   "geliefert": 45.2,
+   "einheit": "Fälle",
+   "differenz": 0.04999999999999716,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K6 zutreffende Einträge aus nur einer Prüfinstanz, A, Mittel",
+   "eigen": 63.29636048991699,
+   "geliefert": 63.3,
+   "einheit": "pp",
+   "differenz": 0.003639510083004893,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K6 zutreffende Einträge aus nur einer Prüfinstanz, A, min",
+   "eigen": 61.330049261083744,
+   "geliefert": 61.3,
+   "einheit": "pp",
+   "differenz": 0.030049261083746615,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K6 zutreffende Einträge aus nur einer Prüfinstanz, A, max",
+   "eigen": 64.56876456876456,
+   "geliefert": 64.6,
+   "einheit": "pp",
+   "differenz": 0.031235431235430156,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K6 zutreffende Einträge aus nur einer Prüfinstanz, B, Mittel",
+   "eigen": 61.08091931585303,
+   "geliefert": 61.1,
+   "einheit": "pp",
+   "differenz": 0.01908068414697084,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K6 zutreffende Einträge aus nur einer Prüfinstanz, B, min",
+   "eigen": 59.523809523809526,
+   "geliefert": 59.5,
+   "einheit": "pp",
+   "differenz": 0.0238095238095255,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K6 zutreffende Einträge aus nur einer Prüfinstanz, B, max",
+   "eigen": 63.61256544502618,
+   "geliefert": 63.6,
+   "einheit": "pp",
+   "differenz": 0.012565445026176292,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K6 zutreffende Einträge aus nur einer Prüfinstanz, C, Mittel",
+   "eigen": 78.97435309568193,
+   "geliefert": 79.0,
+   "einheit": "pp",
+   "differenz": 0.025646904318065822,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K6 zutreffende Einträge aus nur einer Prüfinstanz, C, min",
+   "eigen": 77.61194029850746,
+   "geliefert": 77.6,
+   "einheit": "pp",
+   "differenz": 0.011940298507468583,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K6 zutreffende Einträge aus nur einer Prüfinstanz, C, max",
+   "eigen": 81.10599078341014,
+   "geliefert": 81.1,
+   "einheit": "pp",
+   "differenz": 0.005990783410140921,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K6 zutreffende Einträge aus nur einer Prüfinstanz, D, Mittel",
+   "eigen": 62.52251616696061,
+   "geliefert": 62.5,
+   "einheit": "pp",
+   "differenz": 0.022516166960606654,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K6 zutreffende Einträge aus nur einer Prüfinstanz, D, min",
+   "eigen": 62.4,
+   "geliefert": 62.4,
+   "einheit": "pp",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K6 zutreffende Einträge aus nur einer Prüfinstanz, D, max",
+   "eigen": 62.698412698412696,
+   "geliefert": 62.7,
+   "einheit": "pp",
+   "differenz": 0.0015873015873069107,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K5 Spannweite K1 4506, A",
+   "eigen": 16.12903225806452,
+   "geliefert": 16.1,
+   "einheit": "pp",
+   "differenz": 0.029032258064518146,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K5 Spannweite K1 4506, B",
+   "eigen": 12.903225806451612,
+   "geliefert": 12.9,
+   "einheit": "pp",
+   "differenz": 0.0032258064516117457,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K5 Spannweite K1 4506, C",
+   "eigen": 3.225806451612903,
+   "geliefert": 3.2,
+   "einheit": "pp",
+   "differenz": 0.025806451612902848,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K5 Spannweite K1 4506, D",
+   "eigen": 6.451612903225806,
+   "geliefert": 6.5,
+   "einheit": "pp",
+   "differenz": 0.04838709677419395,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K5 Spannweite K1 4695, A",
+   "eigen": 11.764705882352938,
+   "geliefert": 11.8,
+   "einheit": "pp",
+   "differenz": 0.03529411764706225,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K5 Spannweite K1 4695, B",
+   "eigen": 11.764705882352938,
+   "geliefert": 11.8,
+   "einheit": "pp",
+   "differenz": 0.03529411764706225,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K5 Spannweite K1 4695, C",
+   "eigen": 11.764705882352938,
+   "geliefert": 11.8,
+   "einheit": "pp",
+   "differenz": 0.03529411764706225,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K5 Spannweite K1 4695, D",
+   "eigen": 11.764705882352938,
+   "geliefert": 11.8,
+   "einheit": "pp",
+   "differenz": 0.03529411764706225,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K5 Spannweite K1 4733, A",
+   "eigen": 20.0,
+   "geliefert": 20.0,
+   "einheit": "pp",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K5 Spannweite K1 4733, B",
+   "eigen": 20.0,
+   "geliefert": 20.0,
+   "einheit": "pp",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K5 Spannweite K1 4733, C",
+   "eigen": 10.0,
+   "geliefert": 10.0,
+   "einheit": "pp",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K5 Spannweite K1 4733, D",
+   "eigen": 15.000000000000002,
+   "geliefert": 15.0,
+   "einheit": "pp",
+   "differenz": 1.7763568394002505e-15,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K5 Spannweite K1 5046, A",
+   "eigen": 10.666666666666663,
+   "geliefert": 10.7,
+   "einheit": "pp",
+   "differenz": 0.03333333333333677,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K5 Spannweite K1 5046, B",
+   "eigen": 6.666666666666665,
+   "geliefert": 6.7,
+   "einheit": "pp",
+   "differenz": 0.03333333333333499,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K5 Spannweite K1 5046, C",
+   "eigen": 0.0,
+   "geliefert": 0.0,
+   "einheit": "pp",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K5 Spannweite K1 5046, D",
+   "eigen": 4.0000000000000036,
+   "geliefert": 4.0,
+   "einheit": "pp",
+   "differenz": 3.552713678800501e-15,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K5 gleiche Schweregrade, A (eigene Hauptdefinition: nur getroffen)",
+   "eigen": 79.1497975708502,
+   "geliefert": 71.8,
+   "einheit": "pp",
+   "differenz": 7.3497975708502,
+   "gleich": false,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K5 gleiche Schweregrade, Paare, A (eigene Hauptdefinition: nur getroffen)",
+   "eigen": 494,
+   "geliefert": 691,
+   "einheit": "Fälle",
+   "differenz": 197,
+   "gleich": false,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K5 gleiche Schweregrade, A (Variante getroffen oder teilweise)",
+   "eigen": 71.78002894356005,
+   "geliefert": 71.8,
+   "einheit": "pp",
+   "differenz": 0.01997105643994246,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": true
+  },
+  {
+   "kennzahl": "K5 gleiche Schweregrade, Paare, A (Variante getroffen oder teilweise)",
+   "eigen": 691,
+   "geliefert": 691,
+   "einheit": "Fälle",
+   "differenz": 0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": true
+  },
+  {
+   "kennzahl": "K5 gleiche Schweregrade, B (eigene Hauptdefinition: nur getroffen)",
+   "eigen": 73.81404174573055,
+   "geliefert": 68.1,
+   "einheit": "pp",
+   "differenz": 5.714041745730555,
+   "gleich": false,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K5 gleiche Schweregrade, Paare, B (eigene Hauptdefinition: nur getroffen)",
+   "eigen": 527,
+   "geliefert": 756,
+   "einheit": "Fälle",
+   "differenz": 229,
+   "gleich": false,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K5 gleiche Schweregrade, B (Variante getroffen oder teilweise)",
+   "eigen": 68.12169312169311,
+   "geliefert": 68.1,
+   "einheit": "pp",
+   "differenz": 0.021693121693118655,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": true
+  },
+  {
+   "kennzahl": "K5 gleiche Schweregrade, Paare, B (Variante getroffen oder teilweise)",
+   "eigen": 756,
+   "geliefert": 756,
+   "einheit": "Fälle",
+   "differenz": 0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": true
+  },
+  {
+   "kennzahl": "K5 gleiche Schweregrade, C (eigene Hauptdefinition: nur getroffen)",
+   "eigen": 79.24528301886792,
+   "geliefert": 72.8,
+   "einheit": "pp",
+   "differenz": 6.445283018867926,
+   "gleich": false,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K5 gleiche Schweregrade, Paare, C (eigene Hauptdefinition: nur getroffen)",
+   "eigen": 265,
+   "geliefert": 375,
+   "einheit": "Fälle",
+   "differenz": 110,
+   "gleich": false,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K5 gleiche Schweregrade, C (Variante getroffen oder teilweise)",
+   "eigen": 72.8,
+   "geliefert": 72.8,
+   "einheit": "pp",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": true
+  },
+  {
+   "kennzahl": "K5 gleiche Schweregrade, Paare, C (Variante getroffen oder teilweise)",
+   "eigen": 375,
+   "geliefert": 375,
+   "einheit": "Fälle",
+   "differenz": 0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": true
+  },
+  {
+   "kennzahl": "K5 gleiche Schweregrade, D (eigene Hauptdefinition: nur getroffen)",
+   "eigen": 76.29482071713147,
+   "geliefert": 70.0,
+   "einheit": "pp",
+   "differenz": 6.294820717131472,
+   "gleich": false,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K5 gleiche Schweregrade, Paare, D (eigene Hauptdefinition: nur getroffen)",
+   "eigen": 502,
+   "geliefert": 680,
+   "einheit": "Fälle",
+   "differenz": 178,
+   "gleich": false,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K5 gleiche Schweregrade, D (Variante getroffen oder teilweise)",
+   "eigen": 70.0,
+   "geliefert": 70.0,
+   "einheit": "pp",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": true
+  },
+  {
+   "kennzahl": "K5 gleiche Schweregrade, Paare, D (Variante getroffen oder teilweise)",
+   "eigen": 680,
+   "geliefert": 680,
+   "einheit": "Fälle",
+   "differenz": 0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": true
+  },
+  {
+   "kennzahl": "K7 Einstufung, Anteil Gruppen mit KI-Mehrheit (Mehrheit \"unklar\" mitgezählt)",
+   "eigen": 99.66517857142857,
+   "geliefert": 99.3,
+   "einheit": "pp",
+   "differenz": 0.36517857142857224,
+   "gleich": false,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K7 Einstufung, Anteil Gruppen mit KI-Mehrheit (Variante: Mehrheit \"unklar\" nicht als Mehrheit)",
+   "eigen": 99.33035714285714,
+   "geliefert": 99.3,
+   "einheit": "pp",
+   "differenz": 0.03035714285714164,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": true
+  },
+  {
+   "kennzahl": "K7 Stichprobe gesamt",
+   "eigen": 95.0,
+   "geliefert": 95.0,
+   "einheit": "pp",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K7 Stichprobe A, gleiche Urteile",
+   "eigen": 14,
+   "geliefert": 14,
+   "einheit": "Fälle",
+   "differenz": 0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K7 Stichprobe B, gleiche Urteile",
+   "eigen": 14,
+   "geliefert": 14,
+   "einheit": "Fälle",
+   "differenz": 0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K7 Stichprobe C, gleiche Urteile",
+   "eigen": 14,
+   "geliefert": 14,
+   "einheit": "Fälle",
+   "differenz": 0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K7 Stichprobe D, gleiche Urteile",
+   "eigen": 15,
+   "geliefert": 15,
+   "einheit": "Fälle",
+   "differenz": 0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K4, A, Mittel",
+   "eigen": 1.25,
+   "geliefert": 1.25,
+   "einheit": "Fälle",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K4, A, min",
+   "eigen": 0.5,
+   "geliefert": 0.5,
+   "einheit": "Fälle",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K4, A, max",
+   "eigen": 2.5,
+   "geliefert": 2.5,
+   "einheit": "Fälle",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K4, B, Mittel",
+   "eigen": 0.5,
+   "geliefert": 0.5,
+   "einheit": "Fälle",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K4, B, min",
+   "eigen": 0.0,
+   "geliefert": 0.0,
+   "einheit": "Fälle",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K4, B, max",
+   "eigen": 1.0,
+   "geliefert": 1.0,
+   "einheit": "Fälle",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K4, C, Mittel",
+   "eigen": 0.4166666666666667,
+   "geliefert": 0.42,
+   "einheit": "Fälle",
+   "differenz": 0.0033333333333332993,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K4, C, min",
+   "eigen": 0.0,
+   "geliefert": 0.0,
+   "einheit": "Fälle",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K4, C, max",
+   "eigen": 1.0,
+   "geliefert": 1.0,
+   "einheit": "Fälle",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K4, D, Mittel",
+   "eigen": 0.9166666666666666,
+   "geliefert": 0.92,
+   "einheit": "Fälle",
+   "differenz": 0.0033333333333334103,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K4, D, min",
+   "eigen": 0.5,
+   "geliefert": 0.5,
+   "einheit": "Fälle",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K4, D, max",
+   "eigen": 1.75,
+   "geliefert": 1.75,
+   "einheit": "Fälle",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "F1, A, Mittel",
+   "eigen": 0.3333333333333333,
+   "geliefert": 0.33,
+   "einheit": "Fälle",
+   "differenz": 0.0033333333333332993,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "F1, A, min",
+   "eigen": 0.0,
+   "geliefert": 0.0,
+   "einheit": "Fälle",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "F1, A, max",
+   "eigen": 1.0,
+   "geliefert": 1.0,
+   "einheit": "Fälle",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "F1, B, Mittel",
+   "eigen": 0.3333333333333333,
+   "geliefert": 0.33,
+   "einheit": "Fälle",
+   "differenz": 0.0033333333333332993,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "F1, B, min",
+   "eigen": 0.25,
+   "geliefert": 0.25,
+   "einheit": "Fälle",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "F1, B, max",
+   "eigen": 0.5,
+   "geliefert": 0.5,
+   "einheit": "Fälle",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "F1, C, Mittel",
+   "eigen": 0.08333333333333333,
+   "geliefert": 0.08,
+   "einheit": "Fälle",
+   "differenz": 0.003333333333333327,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "F1, C, min",
+   "eigen": 0.0,
+   "geliefert": 0.0,
+   "einheit": "Fälle",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "F1, C, max",
+   "eigen": 0.25,
+   "geliefert": 0.25,
+   "einheit": "Fälle",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "F1, D, Mittel",
+   "eigen": 0.0,
+   "geliefert": 0.0,
+   "einheit": "Fälle",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "F1, D, min",
+   "eigen": 0.0,
+   "geliefert": 0.0,
+   "einheit": "Fälle",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "F1, D, max",
+   "eigen": 0.0,
+   "geliefert": 0.0,
+   "einheit": "Fälle",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "F2, A, Mittel",
+   "eigen": 1.9166666666666667,
+   "geliefert": 1.92,
+   "einheit": "Fälle",
+   "differenz": 0.0033333333333331883,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "F2, A, min",
+   "eigen": 0.75,
+   "geliefert": 0.75,
+   "einheit": "Fälle",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "F2, A, max",
+   "eigen": 3.25,
+   "geliefert": 3.25,
+   "einheit": "Fälle",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "F2, B, Mittel",
+   "eigen": 0.9166666666666666,
+   "geliefert": 0.92,
+   "einheit": "Fälle",
+   "differenz": 0.0033333333333334103,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "F2, B, min",
+   "eigen": 0.75,
+   "geliefert": 0.75,
+   "einheit": "Fälle",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "F2, B, max",
+   "eigen": 1.25,
+   "geliefert": 1.25,
+   "einheit": "Fälle",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "F2, C, Mittel",
+   "eigen": 1.1666666666666667,
+   "geliefert": 1.17,
+   "einheit": "Fälle",
+   "differenz": 0.0033333333333331883,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "F2, C, min",
+   "eigen": 0.25,
+   "geliefert": 0.25,
+   "einheit": "Fälle",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "F2, C, max",
+   "eigen": 1.75,
+   "geliefert": 1.75,
+   "einheit": "Fälle",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "F2, D, Mittel",
+   "eigen": 0.25,
+   "geliefert": 0.25,
+   "einheit": "Fälle",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "F2, D, min",
+   "eigen": 0.0,
+   "geliefert": 0.0,
+   "einheit": "Fälle",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "F2, D, max",
+   "eigen": 0.5,
+   "geliefert": 0.5,
+   "einheit": "Fälle",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "F3, A, Mittel",
+   "eigen": 0.8333333333333334,
+   "geliefert": 0.83,
+   "einheit": "Fälle",
+   "differenz": 0.0033333333333334103,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "F3, A, min",
+   "eigen": 0.25,
+   "geliefert": 0.25,
+   "einheit": "Fälle",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "F3, A, max",
+   "eigen": 1.25,
+   "geliefert": 1.25,
+   "einheit": "Fälle",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "F3, B, Mittel",
+   "eigen": 0.4166666666666667,
+   "geliefert": 0.42,
+   "einheit": "Fälle",
+   "differenz": 0.0033333333333332993,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "F3, B, min",
+   "eigen": 0.25,
+   "geliefert": 0.25,
+   "einheit": "Fälle",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "F3, B, max",
+   "eigen": 0.5,
+   "geliefert": 0.5,
+   "einheit": "Fälle",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "F3, C, Mittel",
+   "eigen": 0.5,
+   "geliefert": 0.5,
+   "einheit": "Fälle",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "F3, C, min",
+   "eigen": 0.25,
+   "geliefert": 0.25,
+   "einheit": "Fälle",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "F3, C, max",
+   "eigen": 0.75,
+   "geliefert": 0.75,
+   "einheit": "Fälle",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "F3, D, Mittel",
+   "eigen": 1.1666666666666667,
+   "geliefert": 1.17,
+   "einheit": "Fälle",
+   "differenz": 0.0033333333333331883,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "F3, D, min",
+   "eigen": 0.75,
+   "geliefert": 0.75,
+   "einheit": "Fälle",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "F3, D, max",
+   "eigen": 1.5,
+   "geliefert": 1.5,
+   "einheit": "Fälle",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "F4, A, Mittel",
+   "eigen": 1.0833333333333333,
+   "geliefert": 1.08,
+   "einheit": "Fälle",
+   "differenz": 0.0033333333333331883,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "F4, A, min",
+   "eigen": 0.25,
+   "geliefert": 0.25,
+   "einheit": "Fälle",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "F4, A, max",
+   "eigen": 1.75,
+   "geliefert": 1.75,
+   "einheit": "Fälle",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "F4, B, Mittel",
+   "eigen": 0.5,
+   "geliefert": 0.5,
+   "einheit": "Fälle",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "F4, B, min",
+   "eigen": 0.25,
+   "geliefert": 0.25,
+   "einheit": "Fälle",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "F4, B, max",
+   "eigen": 1.0,
+   "geliefert": 1.0,
+   "einheit": "Fälle",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "F4, C, Mittel",
+   "eigen": 0.8333333333333334,
+   "geliefert": 0.83,
+   "einheit": "Fälle",
+   "differenz": 0.0033333333333334103,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "F4, C, min",
+   "eigen": 0.5,
+   "geliefert": 0.5,
+   "einheit": "Fälle",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "F4, C, max",
+   "eigen": 1.0,
+   "geliefert": 1.0,
+   "einheit": "Fälle",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "F4, D, Mittel",
+   "eigen": 0.75,
+   "geliefert": 0.75,
+   "einheit": "Fälle",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "F4, D, min",
+   "eigen": 0.5,
+   "geliefert": 0.5,
+   "einheit": "Fälle",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "F4, D, max",
+   "eigen": 1.0,
+   "geliefert": 1.0,
+   "einheit": "Fälle",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "F5, A, Mittel",
+   "eigen": 0.5,
+   "geliefert": 0.5,
+   "einheit": "Fälle",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "F5, A, min",
+   "eigen": 0.0,
+   "geliefert": 0.0,
+   "einheit": "Fälle",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "F5, A, max",
+   "eigen": 1.25,
+   "geliefert": 1.25,
+   "einheit": "Fälle",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "F5, B, Mittel",
+   "eigen": 0.3333333333333333,
+   "geliefert": 0.33,
+   "einheit": "Fälle",
+   "differenz": 0.0033333333333332993,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "F5, B, min",
+   "eigen": 0.0,
+   "geliefert": 0.0,
+   "einheit": "Fälle",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "F5, B, max",
+   "eigen": 0.5,
+   "geliefert": 0.5,
+   "einheit": "Fälle",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "F5, C, Mittel",
+   "eigen": 0.75,
+   "geliefert": 0.75,
+   "einheit": "Fälle",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "F5, C, min",
+   "eigen": 0.5,
+   "geliefert": 0.5,
+   "einheit": "Fälle",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "F5, C, max",
+   "eigen": 1.0,
+   "geliefert": 1.0,
+   "einheit": "Fälle",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "F5, D, Mittel",
+   "eigen": 0.4166666666666667,
+   "geliefert": 0.42,
+   "einheit": "Fälle",
+   "differenz": 0.0033333333333332993,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "F5, D, min",
+   "eigen": 0.25,
+   "geliefert": 0.25,
+   "einheit": "Fälle",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "F5, D, max",
+   "eigen": 0.5,
+   "geliefert": 0.5,
+   "einheit": "Fälle",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "F6, A, Mittel",
+   "eigen": 0.3333333333333333,
+   "geliefert": 0.33,
+   "einheit": "Fälle",
+   "differenz": 0.0033333333333332993,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "F6, A, min",
+   "eigen": 0.25,
+   "geliefert": 0.25,
+   "einheit": "Fälle",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "F6, A, max",
+   "eigen": 0.5,
+   "geliefert": 0.5,
+   "einheit": "Fälle",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "F6, B, Mittel",
+   "eigen": 0.08333333333333333,
+   "geliefert": 0.08,
+   "einheit": "Fälle",
+   "differenz": 0.003333333333333327,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "F6, B, min",
+   "eigen": 0.0,
+   "geliefert": 0.0,
+   "einheit": "Fälle",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "F6, B, max",
+   "eigen": 0.25,
+   "geliefert": 0.25,
+   "einheit": "Fälle",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "F6, C, Mittel",
+   "eigen": 0.08333333333333333,
+   "geliefert": 0.08,
+   "einheit": "Fälle",
+   "differenz": 0.003333333333333327,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "F6, C, min",
+   "eigen": 0.0,
+   "geliefert": 0.0,
+   "einheit": "Fälle",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "F6, C, max",
+   "eigen": 0.25,
+   "geliefert": 0.25,
+   "einheit": "Fälle",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "F6, D, Mittel",
+   "eigen": 0.0,
+   "geliefert": 0.0,
+   "einheit": "Fälle",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "F6, D, min",
+   "eigen": 0.0,
+   "geliefert": 0.0,
+   "einheit": "Fälle",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "F6, D, max",
+   "eigen": 0.0,
+   "geliefert": 0.0,
+   "einheit": "Fälle",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "F7, A, Mittel",
+   "eigen": 1.9166666666666667,
+   "geliefert": 1.92,
+   "einheit": "Fälle",
+   "differenz": 0.0033333333333331883,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "F7, A, min",
+   "eigen": 1.0,
+   "geliefert": 1.0,
+   "einheit": "Fälle",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "F7, A, max",
+   "eigen": 2.5,
+   "geliefert": 2.5,
+   "einheit": "Fälle",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "F7, B, Mittel",
+   "eigen": 3.0833333333333335,
+   "geliefert": 3.08,
+   "einheit": "Fälle",
+   "differenz": 0.0033333333333334103,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "F7, B, min",
+   "eigen": 1.5,
+   "geliefert": 1.5,
+   "einheit": "Fälle",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "F7, B, max",
+   "eigen": 4.75,
+   "geliefert": 4.75,
+   "einheit": "Fälle",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "F7, C, Mittel",
+   "eigen": 1.5833333333333333,
+   "geliefert": 1.58,
+   "einheit": "Fälle",
+   "differenz": 0.0033333333333331883,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "F7, C, min",
+   "eigen": 1.25,
+   "geliefert": 1.25,
+   "einheit": "Fälle",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "F7, C, max",
+   "eigen": 2.25,
+   "geliefert": 2.25,
+   "einheit": "Fälle",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "F7, D, Mittel",
+   "eigen": 0.3333333333333333,
+   "geliefert": 0.33,
+   "einheit": "Fälle",
+   "differenz": 0.0033333333333332993,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "F7, D, min",
+   "eigen": 0.0,
+   "geliefert": 0.0,
+   "einheit": "Fälle",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "F7, D, max",
+   "eigen": 1.0,
+   "geliefert": 1.0,
+   "einheit": "Fälle",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "F1 bis F7 zusammen, A, Mittel",
+   "eigen": 6.916666666666667,
+   "geliefert": 6.92,
+   "einheit": "Fälle",
+   "differenz": 0.0033333333333329662,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "F1 bis F7 zusammen, A, min",
+   "eigen": 4.25,
+   "geliefert": 4.25,
+   "einheit": "Fälle",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "F1 bis F7 zusammen, A, max",
+   "eigen": 9.75,
+   "geliefert": 9.75,
+   "einheit": "Fälle",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "F1 bis F7 zusammen, B, Mittel",
+   "eigen": 5.666666666666667,
+   "geliefert": 5.67,
+   "einheit": "Fälle",
+   "differenz": 0.0033333333333329662,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "F1 bis F7 zusammen, B, min",
+   "eigen": 5.25,
+   "geliefert": 5.25,
+   "einheit": "Fälle",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "F1 bis F7 zusammen, B, max",
+   "eigen": 6.25,
+   "geliefert": 6.25,
+   "einheit": "Fälle",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "F1 bis F7 zusammen, C, Mittel",
+   "eigen": 5.0,
+   "geliefert": 5.0,
+   "einheit": "Fälle",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "F1 bis F7 zusammen, C, min",
+   "eigen": 3.5,
+   "geliefert": 3.5,
+   "einheit": "Fälle",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "F1 bis F7 zusammen, C, max",
+   "eigen": 6.0,
+   "geliefert": 6.0,
+   "einheit": "Fälle",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "F1 bis F7 zusammen, D, Mittel",
+   "eigen": 2.9166666666666665,
+   "geliefert": 2.92,
+   "einheit": "Fälle",
+   "differenz": 0.0033333333333334103,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "F1 bis F7 zusammen, D, min",
+   "eigen": 2.5,
+   "geliefert": 2.5,
+   "einheit": "Fälle",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "F1 bis F7 zusammen, D, max",
+   "eigen": 3.5,
+   "geliefert": 3.5,
+   "einheit": "Fälle",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "F1 bis F7 je 100 Einträge (ergänzend), A, Mittel",
+   "eigen": 6.26049189903587,
+   "geliefert": 6.26,
+   "einheit": "Fälle",
+   "differenz": 0.0004918990358699915,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "F1 bis F7 je 100 Einträge (ergänzend), A, min",
+   "eigen": 3.854875283446712,
+   "geliefert": 3.85,
+   "einheit": "Fälle",
+   "differenz": 0.004875283446712064,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "F1 bis F7 je 100 Einträge (ergänzend), A, max",
+   "eigen": 9.069767441860465,
+   "geliefert": 9.07,
+   "einheit": "Fälle",
+   "differenz": 0.000232558139535044,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "F1 bis F7 je 100 Einträge (ergänzend), B, Mittel",
+   "eigen": 5.682508735504126,
+   "geliefert": 5.68,
+   "einheit": "Fälle",
+   "differenz": 0.002508735504126669,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "F1 bis F7 je 100 Einträge (ergänzend), B, min",
+   "eigen": 5.2109181141439205,
+   "geliefert": 5.21,
+   "einheit": "Fälle",
+   "differenz": 0.000918114143920512,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "F1 bis F7 je 100 Einträge (ergänzend), B, max",
+   "eigen": 6.377551020408164,
+   "geliefert": 6.38,
+   "einheit": "Fälle",
+   "differenz": 0.00244897959183632,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "F1 bis F7 je 100 Einträge (ergänzend), C, Mittel",
+   "eigen": 9.142512077294686,
+   "geliefert": 9.14,
+   "einheit": "Fälle",
+   "differenz": 0.0025120772946856107,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "F1 bis F7 je 100 Einträge (ergänzend), C, min",
+   "eigen": 5.833333333333333,
+   "geliefert": 5.83,
+   "einheit": "Fälle",
+   "differenz": 0.0033333333333329662,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "F1 bis F7 je 100 Einträge (ergänzend), C, max",
+   "eigen": 11.594202898550725,
+   "geliefert": 11.59,
+   "einheit": "Fälle",
+   "differenz": 0.004202898550724754,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "F1 bis F7 je 100 Einträge (ergänzend), D, Mittel",
+   "eigen": 2.857616855377214,
+   "geliefert": 2.86,
+   "einheit": "Fälle",
+   "differenz": 0.002383144622785771,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "F1 bis F7 je 100 Einträge (ergänzend), D, min",
+   "eigen": 2.506265664160401,
+   "geliefert": 2.51,
+   "einheit": "Fälle",
+   "differenz": 0.0037343358395989235,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "F1 bis F7 je 100 Einträge (ergänzend), D, max",
+   "eigen": 3.309692671394799,
+   "geliefert": 3.31,
+   "einheit": "Fälle",
+   "differenz": 0.00030732860520110705,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K8 Zähler, Fälle von allen drei genannt",
+   "eigen": 256,
+   "geliefert": 256,
+   "einheit": "Fälle",
+   "differenz": 0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K8 Zähler, genannte Fälle",
+   "eigen": 315,
+   "geliefert": 315,
+   "einheit": "Fälle",
+   "differenz": 0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K9 vorgeschlagene Regeln",
+   "eigen": 7,
+   "geliefert": 7.0,
+   "einheit": "Fälle",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K9 Anteil bestätigt",
+   "eigen": 100.0,
+   "geliefert": 100.0,
+   "einheit": "pp",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K9 Anteil der Fälle einer Klasse zugeordnet",
+   "eigen": 63.46153846153846,
+   "geliefert": 63.5,
+   "einheit": "pp",
+   "differenz": 0.0384615384615401,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K9 Fälle, die R und R2 beide sammeln",
+   "eigen": 52,
+   "geliefert": 44.0,
+   "einheit": "Fälle",
+   "differenz": 8.0,
+   "gleich": false,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K9 Anteil Fallpaare gleich gruppiert",
+   "eigen": 93.58974358974359,
+   "geliefert": 94.8,
+   "einheit": "pp",
+   "differenz": 1.210256410256406,
+   "gleich": false,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "Vorstudie V1-LAM-1 Sollbefunde",
+   "eigen": 46,
+   "geliefert": 46.0,
+   "einheit": "Fälle",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "Vorstudie V1-LAM-1 getroffen (alle Arten)",
+   "eigen": 18,
+   "geliefert": 18.0,
+   "einheit": "Fälle",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "Vorstudie V1-LAM-1 teilweise (alle Arten)",
+   "eigen": 12,
+   "geliefert": 12.0,
+   "einheit": "Fälle",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "Vorstudie V1-LAM-1 getroffen in % (alle Arten)",
+   "eigen": 39.130434782608695,
+   "geliefert": 39.1,
+   "einheit": "pp",
+   "differenz": 0.030434782608693922,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "Vorstudie V1-LAM-1 getroffen oder teilweise in %",
+   "eigen": 65.21739130434783,
+   "geliefert": 65.2,
+   "einheit": "pp",
+   "differenz": 0.0173913043478251,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "Vorstudie V1-LAM-1 drei Läufe gleich",
+   "eigen": 44,
+   "geliefert": 44.0,
+   "einheit": "Fälle",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "Vorstudie V1-LAM-2 Sollbefunde",
+   "eigen": 46,
+   "geliefert": 46.0,
+   "einheit": "Fälle",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "Vorstudie V1-LAM-2 getroffen (alle Arten)",
+   "eigen": 20,
+   "geliefert": 20.0,
+   "einheit": "Fälle",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "Vorstudie V1-LAM-2 teilweise (alle Arten)",
+   "eigen": 7,
+   "geliefert": 7.0,
+   "einheit": "Fälle",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "Vorstudie V1-LAM-2 getroffen in % (alle Arten)",
+   "eigen": 43.47826086956522,
+   "geliefert": 43.5,
+   "einheit": "pp",
+   "differenz": 0.021739130434781373,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "Vorstudie V1-LAM-2 getroffen oder teilweise in %",
+   "eigen": 58.69565217391305,
+   "geliefert": 58.7,
+   "einheit": "pp",
+   "differenz": 0.004347826086956275,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "Vorstudie V1-LAM-2 drei Läufe gleich",
+   "eigen": 44,
+   "geliefert": 44.0,
+   "einheit": "Fälle",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "Vorstudie V1-TCD-1 Sollbefunde",
+   "eigen": 52,
+   "geliefert": 52.0,
+   "einheit": "Fälle",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "Vorstudie V1-TCD-1 getroffen (alle Arten)",
+   "eigen": 25,
+   "geliefert": 25.0,
+   "einheit": "Fälle",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "Vorstudie V1-TCD-1 teilweise (alle Arten)",
+   "eigen": 13,
+   "geliefert": 13.0,
+   "einheit": "Fälle",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "Vorstudie V1-TCD-1 getroffen in % (alle Arten)",
+   "eigen": 48.07692307692308,
+   "geliefert": 48.1,
+   "einheit": "pp",
+   "differenz": 0.02307692307692122,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "Vorstudie V1-TCD-1 getroffen oder teilweise in %",
+   "eigen": 73.07692307692308,
+   "geliefert": 73.1,
+   "einheit": "pp",
+   "differenz": 0.023076923076914113,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "Vorstudie V1-TCD-1 drei Läufe gleich",
+   "eigen": 49,
+   "geliefert": 49.0,
+   "einheit": "Fälle",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "Vorstudie V1-HOR-1 Sollbefunde",
+   "eigen": 51,
+   "geliefert": 51.0,
+   "einheit": "Fälle",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "Vorstudie V1-HOR-1 getroffen (alle Arten)",
+   "eigen": 26,
+   "geliefert": 26.0,
+   "einheit": "Fälle",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "Vorstudie V1-HOR-1 teilweise (alle Arten)",
+   "eigen": 7,
+   "geliefert": 7.0,
+   "einheit": "Fälle",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "Vorstudie V1-HOR-1 getroffen in % (alle Arten)",
+   "eigen": 50.98039215686274,
+   "geliefert": 51.0,
+   "einheit": "pp",
+   "differenz": 0.019607843137258385,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "Vorstudie V1-HOR-1 getroffen oder teilweise in %",
+   "eigen": 64.70588235294117,
+   "geliefert": 64.7,
+   "einheit": "pp",
+   "differenz": 0.005882352941171121,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "Vorstudie V1-HOR-1 drei Läufe gleich",
+   "eigen": 46,
+   "geliefert": 46.0,
+   "einheit": "Fälle",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "Vorstudie V2-LAM-1 Sollbefunde",
+   "eigen": 46,
+   "geliefert": 46.0,
+   "einheit": "Fälle",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "Vorstudie V2-LAM-1 getroffen (alle Arten)",
+   "eigen": 25,
+   "geliefert": 25.0,
+   "einheit": "Fälle",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "Vorstudie V2-LAM-1 teilweise (alle Arten)",
+   "eigen": 10,
+   "geliefert": 10.0,
+   "einheit": "Fälle",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "Vorstudie V2-LAM-1 getroffen in % (alle Arten)",
+   "eigen": 54.34782608695652,
+   "geliefert": 54.3,
+   "einheit": "pp",
+   "differenz": 0.047826086956526126,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "Vorstudie V2-LAM-1 getroffen oder teilweise in %",
+   "eigen": 76.08695652173913,
+   "geliefert": 76.1,
+   "einheit": "pp",
+   "differenz": 0.013043478260868824,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "Vorstudie V2-LAM-1 drei Läufe gleich",
+   "eigen": 45,
+   "geliefert": 45.0,
+   "einheit": "Fälle",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "Vorstudie V2-TCD-1 Sollbefunde",
+   "eigen": 52,
+   "geliefert": 52.0,
+   "einheit": "Fälle",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "Vorstudie V2-TCD-1 getroffen (alle Arten)",
+   "eigen": 36,
+   "geliefert": 36.0,
+   "einheit": "Fälle",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "Vorstudie V2-TCD-1 teilweise (alle Arten)",
+   "eigen": 8,
+   "geliefert": 8.0,
+   "einheit": "Fälle",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "Vorstudie V2-TCD-1 getroffen in % (alle Arten)",
+   "eigen": 69.23076923076923,
+   "geliefert": 69.2,
+   "einheit": "pp",
+   "differenz": 0.030769230769223554,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "Vorstudie V2-TCD-1 getroffen oder teilweise in %",
+   "eigen": 84.61538461538461,
+   "geliefert": 84.6,
+   "einheit": "pp",
+   "differenz": 0.015384615384618883,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "Vorstudie V2-TCD-1 drei Läufe gleich",
+   "eigen": 48,
+   "geliefert": 48.0,
+   "einheit": "Fälle",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "Vorstudie V2-HOR-1 Sollbefunde",
+   "eigen": 51,
+   "geliefert": 51.0,
+   "einheit": "Fälle",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "Vorstudie V2-HOR-1 getroffen (alle Arten)",
+   "eigen": 27,
+   "geliefert": 27.0,
+   "einheit": "Fälle",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "Vorstudie V2-HOR-1 teilweise (alle Arten)",
+   "eigen": 8,
+   "geliefert": 8.0,
+   "einheit": "Fälle",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "Vorstudie V2-HOR-1 getroffen in % (alle Arten)",
+   "eigen": 52.94117647058823,
+   "geliefert": 52.9,
+   "einheit": "pp",
+   "differenz": 0.04117647058823337,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "Vorstudie V2-HOR-1 getroffen oder teilweise in %",
+   "eigen": 68.62745098039215,
+   "geliefert": 68.6,
+   "einheit": "pp",
+   "differenz": 0.027450980392160318,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "Vorstudie V2-HOR-1 drei Läufe gleich",
+   "eigen": 50,
+   "geliefert": 50.0,
+   "einheit": "Fälle",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "Vorstudie V3-LAM-1 Sollbefunde",
+   "eigen": 46,
+   "geliefert": 46.0,
+   "einheit": "Fälle",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "Vorstudie V3-LAM-1 getroffen (alle Arten)",
+   "eigen": 23,
+   "geliefert": 23.0,
+   "einheit": "Fälle",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "Vorstudie V3-LAM-1 teilweise (alle Arten)",
+   "eigen": 10,
+   "geliefert": 10.0,
+   "einheit": "Fälle",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "Vorstudie V3-LAM-1 getroffen in % (alle Arten)",
+   "eigen": 50.0,
+   "geliefert": 50.0,
+   "einheit": "pp",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "Vorstudie V3-LAM-1 getroffen oder teilweise in %",
+   "eigen": 71.73913043478261,
+   "geliefert": 71.7,
+   "einheit": "pp",
+   "differenz": 0.03913043478260647,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "Vorstudie V3-LAM-1 drei Läufe gleich",
+   "eigen": 41,
+   "geliefert": 41.0,
+   "einheit": "Fälle",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "Vorstudie V3-LAM-2 Sollbefunde",
+   "eigen": 46,
+   "geliefert": 46.0,
+   "einheit": "Fälle",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "Vorstudie V3-LAM-2 getroffen (alle Arten)",
+   "eigen": 28,
+   "geliefert": 28.0,
+   "einheit": "Fälle",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "Vorstudie V3-LAM-2 teilweise (alle Arten)",
+   "eigen": 10,
+   "geliefert": 10.0,
+   "einheit": "Fälle",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "Vorstudie V3-LAM-2 getroffen in % (alle Arten)",
+   "eigen": 60.869565217391305,
+   "geliefert": 60.9,
+   "einheit": "pp",
+   "differenz": 0.030434782608693922,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "Vorstudie V3-LAM-2 getroffen oder teilweise in %",
+   "eigen": 82.6086956521739,
+   "geliefert": 82.6,
+   "einheit": "pp",
+   "differenz": 0.00869565217391255,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "Vorstudie V3-LAM-2 drei Läufe gleich",
+   "eigen": 45,
+   "geliefert": 45.0,
+   "einheit": "Fälle",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "Vorstudie V3-TCD-1 Sollbefunde",
+   "eigen": 52,
+   "geliefert": 52.0,
+   "einheit": "Fälle",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "Vorstudie V3-TCD-1 getroffen (alle Arten)",
+   "eigen": 34,
+   "geliefert": 34.0,
+   "einheit": "Fälle",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "Vorstudie V3-TCD-1 teilweise (alle Arten)",
+   "eigen": 8,
+   "geliefert": 8.0,
+   "einheit": "Fälle",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "Vorstudie V3-TCD-1 getroffen in % (alle Arten)",
+   "eigen": 65.38461538461539,
+   "geliefert": 65.4,
+   "einheit": "pp",
+   "differenz": 0.015384615384618883,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "Vorstudie V3-TCD-1 getroffen oder teilweise in %",
+   "eigen": 80.76923076923077,
+   "geliefert": 80.8,
+   "einheit": "pp",
+   "differenz": 0.030769230769223554,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "Vorstudie V3-TCD-1 drei Läufe gleich",
+   "eigen": 50,
+   "geliefert": 50.0,
+   "einheit": "Fälle",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "Vorstudie V3-HOR-1 Sollbefunde",
+   "eigen": 51,
+   "geliefert": 51.0,
+   "einheit": "Fälle",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "Vorstudie V3-HOR-1 getroffen (alle Arten)",
+   "eigen": 33,
+   "geliefert": 33.0,
+   "einheit": "Fälle",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "Vorstudie V3-HOR-1 teilweise (alle Arten)",
+   "eigen": 8,
+   "geliefert": 8.0,
+   "einheit": "Fälle",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "Vorstudie V3-HOR-1 getroffen in % (alle Arten)",
+   "eigen": 64.70588235294117,
+   "geliefert": 64.7,
+   "einheit": "pp",
+   "differenz": 0.005882352941171121,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "Vorstudie V3-HOR-1 getroffen oder teilweise in %",
+   "eigen": 80.3921568627451,
+   "geliefert": 80.4,
+   "einheit": "pp",
+   "differenz": 0.007843137254909038,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "Vorstudie V3-HOR-1 drei Läufe gleich",
+   "eigen": 49,
+   "geliefert": 49.0,
+   "einheit": "Fälle",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "Vorstudie V4-LAM-1 Sollbefunde",
+   "eigen": 46,
+   "geliefert": 46.0,
+   "einheit": "Fälle",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "Vorstudie V4-LAM-1 getroffen (alle Arten)",
+   "eigen": 25,
+   "geliefert": 25.0,
+   "einheit": "Fälle",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "Vorstudie V4-LAM-1 teilweise (alle Arten)",
+   "eigen": 9,
+   "geliefert": 9.0,
+   "einheit": "Fälle",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "Vorstudie V4-LAM-1 getroffen in % (alle Arten)",
+   "eigen": 54.34782608695652,
+   "geliefert": 54.3,
+   "einheit": "pp",
+   "differenz": 0.047826086956526126,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "Vorstudie V4-LAM-1 getroffen oder teilweise in %",
+   "eigen": 73.91304347826087,
+   "geliefert": 73.9,
+   "einheit": "pp",
+   "differenz": 0.013043478260868824,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "Vorstudie V4-LAM-1 drei Läufe gleich",
+   "eigen": 46,
+   "geliefert": 46.0,
+   "einheit": "Fälle",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "Vorstudie V4-LAM-2 Sollbefunde",
+   "eigen": 46,
+   "geliefert": 46.0,
+   "einheit": "Fälle",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "Vorstudie V4-LAM-2 getroffen (alle Arten)",
+   "eigen": 22,
+   "geliefert": 22.0,
+   "einheit": "Fälle",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "Vorstudie V4-LAM-2 teilweise (alle Arten)",
+   "eigen": 10,
+   "geliefert": 10.0,
+   "einheit": "Fälle",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "Vorstudie V4-LAM-2 getroffen in % (alle Arten)",
+   "eigen": 47.82608695652174,
+   "geliefert": 47.8,
+   "einheit": "pp",
+   "differenz": 0.026086956521744753,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "Vorstudie V4-LAM-2 getroffen oder teilweise in %",
+   "eigen": 69.56521739130434,
+   "geliefert": 69.6,
+   "einheit": "pp",
+   "differenz": 0.0347826086956502,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "Vorstudie V4-LAM-2 drei Läufe gleich",
+   "eigen": 44,
+   "geliefert": 44.0,
+   "einheit": "Fälle",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "Vorstudie V4-TCD-1 Sollbefunde",
+   "eigen": 52,
+   "geliefert": 52.0,
+   "einheit": "Fälle",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "Vorstudie V4-TCD-1 getroffen (alle Arten)",
+   "eigen": 38,
+   "geliefert": 38.0,
+   "einheit": "Fälle",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "Vorstudie V4-TCD-1 teilweise (alle Arten)",
+   "eigen": 10,
+   "geliefert": 10.0,
+   "einheit": "Fälle",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "Vorstudie V4-TCD-1 getroffen in % (alle Arten)",
+   "eigen": 73.07692307692308,
+   "geliefert": 73.1,
+   "einheit": "pp",
+   "differenz": 0.023076923076914113,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "Vorstudie V4-TCD-1 getroffen oder teilweise in %",
+   "eigen": 92.3076923076923,
+   "geliefert": 92.3,
+   "einheit": "pp",
+   "differenz": 0.007692307692309441,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "Vorstudie V4-TCD-1 drei Läufe gleich",
+   "eigen": 49,
+   "geliefert": 49.0,
+   "einheit": "Fälle",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "Vorstudie V4-HOR-1 Sollbefunde",
+   "eigen": 51,
+   "geliefert": 51.0,
+   "einheit": "Fälle",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "Vorstudie V4-HOR-1 getroffen (alle Arten)",
+   "eigen": 32,
+   "geliefert": 32.0,
+   "einheit": "Fälle",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "Vorstudie V4-HOR-1 teilweise (alle Arten)",
+   "eigen": 9,
+   "geliefert": 9.0,
+   "einheit": "Fälle",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "Vorstudie V4-HOR-1 getroffen in % (alle Arten)",
+   "eigen": 62.745098039215684,
+   "geliefert": 62.7,
+   "einheit": "pp",
+   "differenz": 0.045098039215680785,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "Vorstudie V4-HOR-1 getroffen oder teilweise in %",
+   "eigen": 80.3921568627451,
+   "geliefert": 80.4,
+   "einheit": "pp",
+   "differenz": 0.007843137254909038,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "Vorstudie V4-HOR-1 drei Läufe gleich",
+   "eigen": 46,
+   "geliefert": 46.0,
+   "einheit": "Fälle",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "Vorstudie V1 getroffen in % (alle Arten, gepoolt)",
+   "eigen": 45.64102564102564,
+   "geliefert": 45.6,
+   "einheit": "pp",
+   "differenz": 0.04102564102564088,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "Vorstudie V1 getroffen oder teilweise in %",
+   "eigen": 65.64102564102564,
+   "geliefert": 65.6,
+   "einheit": "pp",
+   "differenz": 0.04102564102564088,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "Vorstudie V2 getroffen in % (alle Arten, gepoolt)",
+   "eigen": 59.060402684563755,
+   "geliefert": 59.1,
+   "einheit": "pp",
+   "differenz": 0.03959731543624656,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "Vorstudie V2 getroffen oder teilweise in %",
+   "eigen": 76.51006711409396,
+   "geliefert": 76.5,
+   "einheit": "pp",
+   "differenz": 0.010067114093956775,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "Vorstudie V3 getroffen in % (alle Arten, gepoolt)",
+   "eigen": 60.51282051282051,
+   "geliefert": 60.5,
+   "einheit": "pp",
+   "differenz": 0.012820512820510999,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "Vorstudie V3 getroffen oder teilweise in %",
+   "eigen": 78.97435897435898,
+   "geliefert": 79.0,
+   "einheit": "pp",
+   "differenz": 0.025641025641021997,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "Vorstudie V4 getroffen in % (alle Arten, gepoolt)",
+   "eigen": 60.0,
+   "geliefert": 60.0,
+   "einheit": "pp",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "Vorstudie V4 getroffen oder teilweise in %",
+   "eigen": 79.48717948717949,
+   "geliefert": 79.5,
+   "einheit": "pp",
+   "differenz": 0.012820512820510999,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "Vorstudie K7 gesamt",
+   "eigen": 94.82288828337875,
+   "geliefert": 94.8,
+   "einheit": "pp",
+   "differenz": 0.022888283378748042,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  }
+ ],
+ "zahl": 592,
+ "gleich": 581,
+ "abweichungen": [
+  {
+   "kennzahl": "K5 gleiche Schweregrade, A (eigene Hauptdefinition: nur getroffen)",
+   "eigen": 79.1497975708502,
+   "geliefert": 71.8,
+   "einheit": "pp",
+   "differenz": 7.3497975708502,
+   "gleich": false,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K5 gleiche Schweregrade, Paare, A (eigene Hauptdefinition: nur getroffen)",
+   "eigen": 494,
+   "geliefert": 691,
+   "einheit": "Fälle",
+   "differenz": 197,
+   "gleich": false,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K5 gleiche Schweregrade, B (eigene Hauptdefinition: nur getroffen)",
+   "eigen": 73.81404174573055,
+   "geliefert": 68.1,
+   "einheit": "pp",
+   "differenz": 5.714041745730555,
+   "gleich": false,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K5 gleiche Schweregrade, Paare, B (eigene Hauptdefinition: nur getroffen)",
+   "eigen": 527,
+   "geliefert": 756,
+   "einheit": "Fälle",
+   "differenz": 229,
+   "gleich": false,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K5 gleiche Schweregrade, C (eigene Hauptdefinition: nur getroffen)",
+   "eigen": 79.24528301886792,
+   "geliefert": 72.8,
+   "einheit": "pp",
+   "differenz": 6.445283018867926,
+   "gleich": false,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K5 gleiche Schweregrade, Paare, C (eigene Hauptdefinition: nur getroffen)",
+   "eigen": 265,
+   "geliefert": 375,
+   "einheit": "Fälle",
+   "differenz": 110,
+   "gleich": false,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K5 gleiche Schweregrade, D (eigene Hauptdefinition: nur getroffen)",
+   "eigen": 76.29482071713147,
+   "geliefert": 70.0,
+   "einheit": "pp",
+   "differenz": 6.294820717131472,
+   "gleich": false,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K5 gleiche Schweregrade, Paare, D (eigene Hauptdefinition: nur getroffen)",
+   "eigen": 502,
+   "geliefert": 680,
+   "einheit": "Fälle",
+   "differenz": 178,
+   "gleich": false,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K7 Einstufung, Anteil Gruppen mit KI-Mehrheit (Mehrheit \"unklar\" mitgezählt)",
+   "eigen": 99.66517857142857,
+   "geliefert": 99.3,
+   "einheit": "pp",
+   "differenz": 0.36517857142857224,
+   "gleich": false,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K9 Fälle, die R und R2 beide sammeln",
+   "eigen": 52,
+   "geliefert": 44.0,
+   "einheit": "Fälle",
+   "differenz": 8.0,
+   "gleich": false,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  },
+  {
+   "kennzahl": "K9 Anteil Fallpaare gleich gruppiert",
+   "eigen": 93.58974358974359,
+   "geliefert": 94.8,
+   "einheit": "pp",
+   "differenz": 1.210256410256406,
+   "gleich": false,
+   "quelle": "Trefferbilanz",
+   "variante": false
+  }
+ ],
+ "varianten": [
+  {
+   "kennzahl": "K5 gleiche Schweregrade, A (Variante getroffen oder teilweise)",
+   "eigen": 71.78002894356005,
+   "geliefert": 71.8,
+   "einheit": "pp",
+   "differenz": 0.01997105643994246,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": true
+  },
+  {
+   "kennzahl": "K5 gleiche Schweregrade, Paare, A (Variante getroffen oder teilweise)",
+   "eigen": 691,
+   "geliefert": 691,
+   "einheit": "Fälle",
+   "differenz": 0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": true
+  },
+  {
+   "kennzahl": "K5 gleiche Schweregrade, B (Variante getroffen oder teilweise)",
+   "eigen": 68.12169312169311,
+   "geliefert": 68.1,
+   "einheit": "pp",
+   "differenz": 0.021693121693118655,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": true
+  },
+  {
+   "kennzahl": "K5 gleiche Schweregrade, Paare, B (Variante getroffen oder teilweise)",
+   "eigen": 756,
+   "geliefert": 756,
+   "einheit": "Fälle",
+   "differenz": 0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": true
+  },
+  {
+   "kennzahl": "K5 gleiche Schweregrade, C (Variante getroffen oder teilweise)",
+   "eigen": 72.8,
+   "geliefert": 72.8,
+   "einheit": "pp",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": true
+  },
+  {
+   "kennzahl": "K5 gleiche Schweregrade, Paare, C (Variante getroffen oder teilweise)",
+   "eigen": 375,
+   "geliefert": 375,
+   "einheit": "Fälle",
+   "differenz": 0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": true
+  },
+  {
+   "kennzahl": "K5 gleiche Schweregrade, D (Variante getroffen oder teilweise)",
+   "eigen": 70.0,
+   "geliefert": 70.0,
+   "einheit": "pp",
+   "differenz": 0.0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": true
+  },
+  {
+   "kennzahl": "K5 gleiche Schweregrade, Paare, D (Variante getroffen oder teilweise)",
+   "eigen": 680,
+   "geliefert": 680,
+   "einheit": "Fälle",
+   "differenz": 0,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": true
+  },
+  {
+   "kennzahl": "K7 Einstufung, Anteil Gruppen mit KI-Mehrheit (Variante: Mehrheit \"unklar\" nicht als Mehrheit)",
+   "eigen": 99.33035714285714,
+   "geliefert": 99.3,
+   "einheit": "pp",
+   "differenz": 0.03035714285714164,
+   "gleich": true,
+   "quelle": "Trefferbilanz",
+   "variante": true
+  }
+ ],
+ "k8_mehrheit_je_gutachten": {
+  "werte": 384,
+  "abweichend": 0,
+  "beispiele": []
+ },
+ "effektregel_urteile": [
+  {
+   "rq": "RQ1 (mit G03)",
+   "geliefert": "nicht erfüllt",
+   "eigen": "nicht erfüllt",
+   "gleich": true
+  },
+  {
+   "rq": "RQ2 (mit G03)",
+   "geliefert": "erfüllt",
+   "eigen": "erfüllt",
+   "gleich": true
+  },
+  {
+   "rq": "RQ3 (mit G03)",
+   "geliefert": "erfüllt",
+   "eigen": "erfüllt",
+   "gleich": true
+  },
+  {
+   "rq": "RQ1 (ohne G03)",
+   "geliefert": "nicht erfüllt",
+   "eigen": "nicht erfüllt",
+   "gleich": true
+  },
+  {
+   "rq": "RQ2 (ohne G03)",
+   "geliefert": "erfüllt",
+   "eigen": "erfüllt",
+   "gleich": true
+  },
+  {
+   "rq": "RQ3 (ohne G03)",
+   "geliefert": "erfüllt",
+   "eigen": "erfüllt",
+   "gleich": true
+  }
+ ],
+ "kennzahlen_dateien_gleich_trefferbilanz": {
+  "zellen": 180,
+  "gleich": 180,
+  "ungleich": []
+ },
+ "je_gutachten": {
+  "werte": 912,
+  "abweichend": 0,
+  "beispiele": []
+ }
+}

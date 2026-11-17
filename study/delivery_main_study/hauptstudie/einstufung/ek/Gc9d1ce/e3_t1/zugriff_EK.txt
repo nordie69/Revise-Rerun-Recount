@@ -1,0 +1,46 @@
+GELESEN (Dateien)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/Gc9d1ce/e3_t1/auftrag_EK.txt
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/Gc9d1ce/teil1.md
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/Gc9d1ce/text.json
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/Gc9d1ce/seiten/seite-01.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/Gc9d1ce/supplement/text.json
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/Gc9d1ce/supplement/fassung.json
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/Gc9d1ce/supplement/seiten/seite-04.png
+(Verzeichnislisten: Gc9d1ce/ ohne Unterordner anderer Einstufer, seiten/, supplement/, supplement/seiten/)
+/root/.claude/projects/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/tool-results/bc3y1jr0g.txt (vom Werkzeug automatisch abgelegte Ausgabe eigener Abfrage, nur Vorschau angezeigt, nicht gezielt gelesen)
+
+GESCHRIEBEN (Hilfsdateien und Ausgabe, alle im Ausgabeordner)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/Gc9d1ce/e3_t1/ms_text.txt
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/Gc9d1ce/e3_t1/supp_text.txt
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/Gc9d1ce/e3_t1/refs.txt
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/Gc9d1ce/e3_t1/s1.py
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/Gc9d1ce/e3_t1/s1.json
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/Gc9d1ce/e3_t1/einstufung.md
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/Gc9d1ce/e3_t1/zugriff_EK.txt
+
+URLS (WebFetch)
+https://marineinfo.org/doc/publication/382930
+https://boris.unibe.ch/37302
+https://boris.unibe.ch/57917
+https://asu.elsevierpure.com/en/publications/downscaling-last-glacial-maximum-climate-over-southern-africa/
+https://par.nsf.gov/servlets/purl/10503478
+https://hal-insu.archives-ouvertes.fr/insu-00378332 (gesperrt)
+https://doi.org/10.1029/2021PA004356 (nicht abgerufen, nicht freigegeben)
+https://researchportal.northumbria.ac.uk/en/publications/spatial-and-temporal-trends-in-mineral-dust-provenance-in-the-sou/
+https://www.iceandclimate.nbi.ku.dk/publications/papers/abstracts/abstract_10/
+https://ri.conicet.gov.ar/handle/11336/54533?show=full
+https://www.taldice.org/pub/taldice/Delmonte_QSR_2010_EDC_TALDICE.pdf
+https://boris.unibe.ch/18163
+https://boris.unibe.ch/4607
+
+WEBSEARCH-ANFRAGEN
+Vanderstraeten 2023 EDML dust provenance rare earth elements Patagonia "below 50 %" Science of the Total Environment
+Engelbrecht Marean Cowling 2019 "Downscaling Last Glacial Maximum climate over southern Africa" westerlies pdf
+Delmonte 2008 "Aeolian dust in East Antarctica (EPICA-Dome C and Vostok): Provenance during glacial ages over the last 800 kyr" pdf
+Longman Struve Pahnke 2022 "Spatial and temporal trends in mineral dust provenance in the South Pacific" mixing models
+Siggaard-Andersen 2007 "Soluble and insoluble lithium dust in the EPICA DomeC ice core" provenance glacial-interglacial transition abstract
+Vallelonga 2010 "Lead isotopic compositions in the EPICA Dome C ice core and Southern Hemisphere Potential Source Areas" Quaternary Science Reviews abstract Australia
+Delmonte 2010 "Geographic provenance of aeolian dust in East Antarctica during Pleistocene glaciations" Talos Dome interglacial Australia Andean abstract
+Wegner 2012 "Change in dust variability in the Atlantic sector of Antarctica at the end of the last deglaciation" abstract "15 000" Australia New Zealand
+Gabrielli 2010 "A major glacial-interglacial change in aeolian dust composition inferred from Rare Earth Elements in Antarctic ice" abstract
+(Ergebnislisten enthielten auch egusphere.copernicus.org und cp.copernicus.org; diese wurden nicht geöffnet.)

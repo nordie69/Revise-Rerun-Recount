@@ -1,0 +1,3 @@
+R: 50 Fälle, 33 klassiert; R2: 51 Fälle, 23 klassiert; gemeinsam 44; nur R 6; nur R2 7
+Fallpaare gleich gruppiert: 897 von 946 = 94.8 %
+in beiden klassiert: 23

@@ -1,0 +1,72 @@
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N0ee7a2/auftrag_VF.txt
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N0ee7a2/gutachten.md
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N0ee7a2/text.json
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N0ee7a2/egusphere-2025-5046.pdf
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N0ee7a2/vf/zugriff_VF.txt
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N0ee7a2/supplement/text.json
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N0ee7a2/supplement/fassung.json
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N0ee7a2/vf/main.txt
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N0ee7a2/vf/lines.py
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N0ee7a2/vf/main_num.txt
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N0ee7a2/vf/supp.txt
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N0ee7a2/vf/s1.py
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N0ee7a2/vf/s1.json
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N0ee7a2/vf/s2.py
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N0ee7a2/vf/s2.json
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N0ee7a2/vf/chk1.py
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N0ee7a2/vf/chk2.py
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N0ee7a2/vf/chk3.py
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N0ee7a2/egusphere-2025-5046-supplement.pdf
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N0ee7a2/vf/r/ (eigene Renderings m-*.png, s-*.png)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N0ee7a2/vf/chk4.py
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N0ee7a2/vf/chk5.py
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N0ee7a2/vf/quotes.py
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N0ee7a2/vf/quotes_out.txt
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N0ee7a2/seiten/seite-24.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N0ee7a2/seiten/seite-27.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N0ee7a2/seiten/seite-28.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N0ee7a2/seiten/seite-29.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N0ee7a2/vf/r/m-26.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N0ee7a2/supplement/seiten/seite-03.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N0ee7a2/supplement/seiten/seite-04.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N0ee7a2/supplement/seiten/seite-06.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N0ee7a2/supplement/seiten/seite-08.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N0ee7a2/supplement/seiten/seite-10.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N0ee7a2/supplement/seiten/seite-13.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N0ee7a2/supplement/seiten/seite-21.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N0ee7a2/vf/r/s-17.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N0ee7a2/vf/r/s17top.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N0ee7a2/vf/chk4.py
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N0ee7a2/vf/chk5.py
+WebSearch: Vanderstraeten 2023 EPICA Dronning Maud Land dust provenance rare earth element mixing model abstract
+https://marineinfo.org/doc/publication/382930
+WebSearch: Lambert 2015 Dust fluxes and iron fertilization ppm
+https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2015GL064250 (abgelehnt, nicht geladen)
+https://epic2-clone.awi.de/38919/1/lambert15grl.pdf
+WebSearch: Lambert 2021 Regional patterns ... CO2 drawdown
+https://boa.unimib.it/retrieve/e39773b7-1d77-35a3-e053-3a05fe0aac26/Lambert_2021_EPSL_Dust-iron-CO2.pdf
+WebSearch: Lambert 2008 Dust-climate couplings 25-fold
+https://ideas.repec.org/a/nat/nature/v452y2008i7187d10.1038_nature06763.html
+WebSearch: Delmonte 2008 Aeolian dust in East Antarctica EPICA-Dome C and Vostok
+https://hal-insu.archives-ouvertes.fr/insu-00378332
+https://boa.unimib.it/handle/10281/6594
+WebSearch: Delmonte 2017 Causes of dust size variability Dome B
+https://boa.unimib.it/handle/10281/156340
+WebSearch: Engelbrecht 2019 Downscaling LGM climate southern Africa
+https://asu.elsevierpure.com/en/publications/downscaling-last-glacial-maximum-climate-over-southern-africa/
+WebSearch: Aarons 2017 Dust composition changes from Taylor Glacier
+https://byrd.osu.edu/sites/default/files/2020-12/Aarons_et_al_QSR_2017.pdf
+WebSearch: Longman Struve Pahnke 2022 Spatial and temporal trends in mineral dust provenance South Pacific
+https://researchportal.northumbria.ac.uk/en/publications/spatial-and-temporal-trends-in-mineral-dust-provenance-in-the-sou/
+https://nrl.northumbria.ac.uk/51437/1/Paleoceanog%20and%20Paleoclimatol%20-%202022%20-%20Longman%20-%20Spatial%20and%20Temporal%20Trends%20in%20Mineral%20Dust%20Provenance%20in%20the%20South.pdf
+WebSearch: Wegner 2012 Change in dust variability Atlantic sector decadal to centennial resolution
+https://boris.unibe.ch/18163
+WebSearch: Gili 2016 Provenance of dust to Antarctica lead isotopic perspective
+https://ri.conicet.gov.ar/handle/11336/130678
+WebSearch: Delmonte 2004 Comparing the Epica and Vostok dust records Earth-Science Reviews
+https://boa.unimib.it/handle/10281/553
+WebSearch: Gabrielli 2010 major glacial-interglacial change aeolian dust REE pdf
+https://bpcrc.osu.edu/sites/default/files/2020-12/QSR Gabrielli 2010.pdf
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N0ee7a2/seiten/seite-01.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N0ee7a2/supplement/seiten/seite-02.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N0ee7a2/vf/verifikation.md

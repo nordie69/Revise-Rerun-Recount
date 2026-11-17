@@ -1,0 +1,49 @@
+gelesen: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Nba6629/auftrag_VF.txt
+gelesen: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Nba6629/gutachten.md
+gelesen: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Nba6629 (Verzeichnisliste)
+gelesen: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Nba6629/seiten (Verzeichnisliste)
+geschrieben: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Nba6629/vf/zugriff_VF.txt
+gelesen: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Nba6629/text.json
+geschrieben: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Nba6629/vf/text.txt
+geschrieben: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Nba6629/vf/chk1.py
+gelesen: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Nba6629/egusphere-2025-4695.pdf (Seiten 22 bis 37 gerendert)
+geschrieben: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Nba6629/vf/r300/ (p-22.png bis p-37.png)
+geschrieben: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Nba6629/vf/f8_left.png
+geschrieben: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Nba6629/vf/markers.py
+geschrieben: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Nba6629/vf/f10_a.png, f10_b.png, f10_c.png
+geschrieben: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Nba6629/vf/fig11.py
+geschrieben: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Nba6629/vf/r200-17.png bis r200-21.png, p20_crop.png, p18_crop.png
+geschrieben: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Nba6629/vf/f10_cb1.png
+geschrieben: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Nba6629/vf/chk2.py
+gelesen: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Nba6629/seiten/seite-01.png bis seite-19.png, seite-25.png bis seite-36.png
+gelesen: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Nba6629/vf/r300/ und /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Nba6629/vf/r200-*.png (eigene Renderings)
+URL (WebSearch): Andrews Eberl 2012 SedUnMix
+URL: https://pubs.usgs.gov/publication/70032707
+URL (WebSearch): Braun Gemignani van der Beek 2018
+URL: https://research.vu.nl/en/publications/extracting-information-on-the-spatial-variability-in-erosion-rate/
+URL (WebSearch): Cooper Krueger Hiscock Rawlins 2014
+URL: https://ueaeprints.uea.ac.uk/51892/
+URL: https://arxiv.org/abs/math-ph/0401050
+URL (WebSearch): Walling 2009 UNESCO (zwei Suchen)
+URL: https://webarchive.unesco.org/web/20151226104117/http://unesdoc.unesco.org/images/0018/001850/185078E.pdf (nicht lesbar)
+URL (WebSearch): Barker Dixon Hooke 1997
+URL: https://researchportal.port.ac.uk/en/publications/use-of-terrestrial-photogrammetry-for-monitoring-and-measuring-ba/
+URL (WebSearch): Blaen 2016
+URL: https://research.birmingham.ac.uk/en/publications/real-time-monitoring-of-nutrients-and-dissolved-organic-matter-in/
+URL (WebSearch): Gergel et al. 2002
+URL: https://experts.illinois.edu/en/publications/landscape-indicators-of-human-impacts-to-riverine-systems/
+URL (WebSearch): Niu et al. 2020
+URL: https://link.springer.com/article/10.1007/s11368-019-02424-1
+URL (WebSearch): Haddadchi et al. 2013
+URL: https://hal.archives-ouvertes.fr/cea-02615645 (Zugriff verweigert)
+URL: https://rune.une.edu.au/web/handle/1959.11/14544
+URL (WebSearch): De Doncker et al. 2020 (Treffer zu egusphere/esurf nicht geoeffnet)
+URL: https://serval.unil.ch/notice/serval:BIB_1A4D2FF81D64
+URL (WebSearch): Das et al. 2023 (Treffer zu egusphere nicht geoeffnet; keine Seite geoeffnet)
+URL: https://en.wikipedia.org/wiki/Chrysolite (abgelehnt, nicht abgerufen)
+URL (WebSearch): GLUE Beven Binley 1992
+URL (WebSearch): chrysolite olivine chrysotile
+URL: https://minerals.net/variety/chrysolite
+URL: https://doi.org/10.5281/zenodo.17120374 (abgelehnt, nicht abgerufen)
+URL (WebSearch): zenodo 17120374 (Treffer zu egusphere nicht geoeffnet)
+geschrieben: /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Nba6629/vf/verifikation.md

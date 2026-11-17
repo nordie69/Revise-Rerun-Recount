@@ -1,0 +1,47 @@
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Na1d43f/auftrag_VF.txt
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Na1d43f/ (Verzeichnisliste)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Na1d43f/seiten/ (Verzeichnisliste)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Na1d43f/gutachten.md
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Na1d43f/text.json
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Na1d43f/vf/text_dump.txt (geschrieben)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Na1d43f/vf/skripte/rand.py (geschrieben)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Na1d43f/vf/rand.txt (geschrieben)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Na1d43f/egusphere-2025-4506.pdf (gelesen, gerendert)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Na1d43f/vf/r300/ (geschrieben, Seitenbilder 300 dpi)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Na1d43f/vf/skripte/fig8.py (geschrieben)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Na1d43f/vf/r600p7-07.png (geschrieben)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Na1d43f/vf/r300p22-22.png, /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Na1d43f/vf/p22_klein.png (geschrieben)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Na1d43f/vf/skripte/suche.py (geschrieben)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Na1d43f/vf/skripte/rechnung.py (geschrieben)
+URL https://nhess.copernicus.org/articles/22/639/2022/
+URL https://esurf.copernicus.org/articles/7/439/2019/
+URL https://gh.copernicus.org/articles/77/21/2022/
+URL https://www.frontiersin.org/journals/earth-science/articles/10.3389/feart.2024.1466751/full (abgelehnt, nicht auf Allowlist)
+URL https://public-pages-files-2025.frontiersin.org/journals/earth-science/articles/10.3389/feart.2024.1466751/text
+URL https://www.frontiersin.org/journals/earth-science/articles/10.3389/feart.2024.1466751/pdf (Fehler)
+URL https://link.springer.com/article/10.1007/s10346-021-01750-1
+URL https://link.springer.com/article/10.1007/s11069-020-04471-1 (abgelehnt)
+URL https://link.springer.com/article/10.1007/s10346-023-02171-y (abgelehnt)
+URL https://link.springer.com/article/10.1007/s12583-022-1806-y (abgelehnt)
+URL https://link.springer.com/article/10.1007/s12594-013-0150-3 (abgelehnt)
+WebSearch: Li Dai Cheng 2024 chain-type failure mechanism Frontiers
+WebSearch: Mogangling giant landslide 1786 Moxi Zhao Natural Hazards 2021 (Treffer egusphere.copernicus.org und nhess 26/1955/2026 nicht geoeffnet)
+URL https://ideas.repec.org/a/spr/nathaz/v106y2021i1d10.1007_s11069-020-04471-1.html
+URL https://journal.hep.com.cn/jes/EN/1160318253862020026
+WebSearch: Seismic response of an irregular slope ... Dadu River (kein Treffer)
+WebSearch: He Wang Zhao 2023 Landslides 21 621-640 (kein Treffer)
+WebSearch: Genetic Mechanism and Failure Process of the Mogangling Seismic Landslide (Treffer egusphere/nhess nicht geoeffnet)
+URL https://ideas.repec.org/a/taf/jriskr/v12y2009i3-4p513-534.html
+URL https://pubs.usgs.gov/publication/70204730
+URL https://link.springer.com/chapter/10.1007/978-3-319-53483-1_36 (abgelehnt)
+URL https://link.springer.com/article/10.1007/s11629-020-6617-y (abgelehnt)
+WebSearch: Landslide Deformation Prediction by Numerical Simulation in the Three Gorges (kein Treffer)
+WebSearch: Jiaobunong landslide Du 2021
+URL https://jms.imde.ac.cn/article/doi/10.1007/s11629-020-6617-y
+URL https://www.frontiersin.org/journals/earth-science/articles/10.3389/feart.2024.1466751/epub (binaer)
+URL https://doaj.org/article/1667b0c8845746618e49f7b29624794a
+URL https://www.slf.ch/fileadmin/user_upload/WSL/Mitarbeitende/schweizj/vanHerwijnen_Schweizer_Avalanche_activity_seismic_monitoring_CRST_2011.pdf
+URL https://link.springer.com/article/10.1007/s10346-019-01313-5 (abgelehnt)
+WebSearch: Prediction of a multi-hazard chain ... Baige landslide
+URL https://research.utwente.nl/en/publications/prediction-of-a-multi-hazard-chain-by-an-integrated-numerical-sim/
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Na1d43f/vf/verifikation.md (geschrieben)

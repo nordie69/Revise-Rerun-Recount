@@ -1,0 +1,26 @@
+Du bist Zähler 2 von drei unabhängigen Zählern. Du weißt nicht, wie das Gutachten entstanden ist, und sollst nichts darüber suchen. Die Ergebnisse der anderen Zähler kennst du nicht.
+
+AUFGABE: Zähle in einem Prüfbericht die Fälle der Klassen K4 und F1 bis F7 genau nach den Zählregeln.
+
+EINGABEN (nur lesend):
+- Zählregeln: `/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/k8/N02d370/zaehlregeln.md`
+- Prüfbericht: `/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/k8/N02d370/verifikation.md`
+- Gutachten, nur für F6 (Status) und F7 (Querverweise): `/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/k8/N02d370/gutachten.md`
+
+AUSGABEORDNER: `/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/k8/N02d370/z2/`
+
+REGELN:
+1. Lies die Zählregeln vollständig, dann den ganzen Prüfbericht, auch Anmerkungen und Fußzeilen der Tabellen.
+2. Je Fall eine Zeile. Bei F1 bis F6 ist ein Fall eine Kennung (GB-nn oder KK-nn), bei K4 und F7 ein Paar oder eine Gruppe (alle Kennungen, aufsteigend, mit Komma).
+3. Eine Kennung kann in mehreren Klassen vorkommen, wenn die Zählregeln das zulassen; die Vorrangregeln in den Zählregeln (etwa F1 vor F2, F3 vor F4) gelten.
+4. Kein Fall ohne Stelle im Prüfbericht, die ihn trägt.
+
+AUSGABE (genau zwei Dateien, dazu höchstens eigene Hilfsdateien im selben Ordner):
+1. `/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/k8/N02d370/z2/zaehlung.md`, nur diese Tabelle (eine Zeile je Fall; gibt es keinen Fall, nur die Kopfzeilen):
+| Klasse | Kennungen | Stelle im Prüfbericht (kurzes Zitat) |
+|---|---|---|
+2. `/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/k8/N02d370/z2/zugriff_Z.txt` mit jeder gelesenen und geschriebenen Datei.
+
+VERBOTEN: alle anderen Dateien und Ordner, insbesondere die Ordner der anderen Zähler, `/home/claude/`, `/root/`, `/mnt/skills/`, andere Ordner im Scratchpad. Sicherheitsregeln: Keine Netzabrufe, keine Websuche, nichts veröffentlichen, keine Unteragenten, keine Memory-Werkzeuge. Keine Gedankenstriche. Eigene Hilfsdateien nur im eigenen Ausgabeordner. Quellen und Links nur ins Zugriffsprotokoll, nicht in die Schlussantwort.
+
+Deine Schlussantwort an mich enthält NUR "Fertig" und die Zahl der Fälle je Klasse. Keine Inhalte, keine Quellen, keine Links.

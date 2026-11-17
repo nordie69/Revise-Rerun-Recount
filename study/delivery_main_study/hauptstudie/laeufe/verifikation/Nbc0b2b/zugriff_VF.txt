@@ -1,0 +1,62 @@
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Nbc0b2b/auftrag_VF.txt
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Nbc0b2b/
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Nbc0b2b/gutachten.md
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Nbc0b2b/text.json
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Nbc0b2b/seiten/
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Nbc0b2b/vf/text.txt
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Nbc0b2b/egusphere-2025-4733.pdf
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Nbc0b2b/vf/r300/ (p-01.png ... p-33.png, gerendert 300 dpi)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Nbc0b2b/seiten/seite-01.png bis seite-30.png und seite-33.png (gelesen)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Nbc0b2b/vf/r300/p-06.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Nbc0b2b/vf/r300/p-11.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Nbc0b2b/vf/r300/p-14.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Nbc0b2b/vf/r300/p-16.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Nbc0b2b/vf/r300/p-24.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Nbc0b2b/vf/c_sv6.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Nbc0b2b/vf/c_sv5.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Nbc0b2b/vf/c_leg2.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Nbc0b2b/vf/c_p11_254.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Nbc0b2b/vf/c_f6_last.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Nbc0b2b/vf/c_f7_last.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Nbc0b2b/vf/c_f7_k.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Nbc0b2b/vf/c_f2_bo5.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Nbc0b2b/vf/c_f2_bo6.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Nbc0b2b/vf/c_a1_f1.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Nbc0b2b/vf/bars.py
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Nbc0b2b/vf/p10.py
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Nbc0b2b/vf/runs.py
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Nbc0b2b/vf/vcol.py
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Nbc0b2b/vf/verifikation.md
+WebSearch: Brixel Klepikova Jalali 2020 Tracking fluid flow in shallow crustal fault zones
+https://eos.org/editor-highlights/fluctuating-fluid-flows-in-a-fractured-fault
+WebSearch: Achtziger-Zupancic 2024 Selection and characterisation of the target fault Solid Earth 15 1087
+https://doaj.org/article/cf901c0cf5b34c8ea40c519b832b9e6e
+WebSearch: Wenning Madonna De Haller Burg 2018 Solid Earth
+https://se.copernicus.org/articles/9/683/2018/se-9-683-2018.pdf
+WebSearch: Broeker Ma 2022 least principal stress Bedretto
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9072525/
+https://pmc.ncbi.nlm.nih.gov/articles/PMC9072525
+WebSearch: Davy Le Goc Darcel Selroos 2023 Scaling of fractured rock flow
+https://comptes-rendus.academie-sciences.fr/geoscience/articles/en/10.5802/crgeos.174/
+WebSearch: Potter 1999 CREWES Gardner
+https://www.crewes.org/Documents/ResearchReports/1999/1999-55.pdf
+WebSearch: Gardner's relation 0.31 Vp^0.25 SEG wiki
+https://www.spec2000.net/25-edit15.htm
+https://wiki.seg.org/wiki/Porosities,_velocities,_and_densities_of_rocks
+WebSearch: Rast et al. 2022 Geology along the Bedretto tunnel TM 5218
+https://sjg.springeropen.com/articles/10.1186/s00015-022-00409-w/figures/3
+WebSearch: Geology along the Bedretto tunnel Swiss Journal of Geosciences 2022
+https://sjg.springeropen.com/counter/pdf/10.1186/s00015-022-00409-w
+https://link.springer.com/content/pdf/10.1186/s00015-022-00409-w.pdf (nicht abgerufen, nicht freigegeben)
+https://sjg.pensoft.net/article_preview.php?id=36774
+WebSearch: Pizzo Rotondo 3192 m Gotthard massif
+WebSearch: Thiem 1906 Hydrologische Methoden Leipzig Gebhardt
+https://hess.copernicus.org/articles/26/4055/2022/hess-26-4055-2022.html
+https://hess.copernicus.org/articles/26/4055/2022/hess-26-4055-2022.pdf
+https://www.history-of-hydrology.net/mediawiki/index.php/Houben_and_Batelaan_(2022)_Adolf_and_Günther_Thiem
+https://anaflow.readthedocs.io/en/stable/api/anaflow.flow.thiem.html
+https://geostat-framework.readthedocs.io/projects/anaflow/en/stable/api/anaflow.flow.thiem.html (nicht abgerufen, nicht freigegeben)
+https://pubs.usgs.gov/wsp/0679a/report.pdf
+https://www.deutsche-biographie.de/pnd117336645.html
+https://meetingorganizer.copernicus.org/EGU2018/EGU2018-5674.pdf
+WebSearch: Berger Mercolli Herwegh Gnos 2017 Geological map of the Aar massif Tavetsch

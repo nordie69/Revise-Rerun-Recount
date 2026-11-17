@@ -1,0 +1,54 @@
+LESEN /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Nc355ad/auftrag_VF.txt
+LESEN /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Nc355ad/gutachten.md
+LESEN /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Nc355ad (Verzeichnisliste)
+LESEN /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Nc355ad/seiten (Verzeichnisliste)
+SCHREIBEN /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Nc355ad/vf/zugriff_VF.txt
+LESEN /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Nc355ad/text.json
+SCHREIBEN /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Nc355ad/vf/text.txt
+SCHREIBEN /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Nc355ad/vf/map.py
+SCHREIBEN /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Nc355ad/vf/zeilen.tsv
+LESEN /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Nc355ad/egusphere-2025-4506.pdf
+SCHREIBEN /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Nc355ad/vf/r600/ (600-dpi-Seitenbilder p-01.png bis p-29.png)
+SCHREIBEN /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Nc355ad/vf/c_fig2a.png
+SCHREIBEN /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Nc355ad/vf/c_fig2c.png
+SCHREIBEN /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Nc355ad/vf/c_fig2c_small.png
+SCHREIBEN /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Nc355ad/vf/c_fig2c_a.png
+SCHREIBEN /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Nc355ad/vf/c_fig2c_a2.png
+SCHREIBEN /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Nc355ad/vf/fig8.py
+SCHREIBEN /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Nc355ad/vf/c_fig5a.png
+SCHREIBEN /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Nc355ad/vf/c_fig5d.png
+SCHREIBEN /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Nc355ad/vf/c_fig11tick.png
+URL WebSearch: Carpignano 2009 multi-risk maps
+URL https://ideas.repec.org/a/taf/jriskr/v12y2009i3-4p513-534.html
+URL WebSearch: Zhao 2021 Mogangling Natural Hazards
+URL https://ideas.repec.org/a/spr/nathaz/v106y2021i1d10.1007_s11069-020-04471-1.html
+URL WebSearch: Fan 2019 Earthquake-induced chains of geologic hazards
+URL https://pubs.usgs.gov/publication/70204730
+URL https://gh.copernicus.org/articles/77/21/2022/ (Abruf abgelehnt, nicht auf Allowlist)
+URL WebSearch: De Pedrini 2022 Monte Crenone
+URL https://doaj.org/article/897323a4167040c38e0adb5c69eb1253
+URL https://gh.copernicus.org/articles/77/21/2022/gh-77-21-2022.pdf
+URL WebSearch: Crosta EGU2014-16272
+URL https://meetingorganizer.copernicus.org/EGU2014/EGU2014-16272.pdf
+URL WebSearch: Koerfgen EGU2014-6621
+URL https://meetingorganizer.copernicus.org/EGU2014/EGU2014-6621.pdf
+URL WebSearch: Gatter PeerJ e5903 (drei Abfragen)
+URL https://doi.org/10.7717/peerj.5903 (Abruf abgelehnt)
+URL https://peerj.com/articles/5903/ (Abruf abgelehnt)
+URL https://peerj.com/articles/5903.pdf
+URL WebSearch: Li 2024 chain-type failure Frontiers
+URL https://doaj.org/article/1667b0c8845746618e49f7b29624794a
+URL WebSearch: Song 2017 Three Gorges (zwei Abfragen)
+URL WebSearch: 10.1007/978-3-319-53483-1_36
+URL WebSearch: van Herwijnen Schweizer 2011
+URL https://www.slf.ch/fileadmin/user_upload/WSL/Mitarbeitende/schweizj/vanHerwijnen_Schweizer_Avalanche_activity_seismic_monitoring_CRST_2011.pdf
+URL WebSearch: Navarre 2009 seismic detection avalanches
+URL https://www.cambridge.org/core/journals/annals-of-glaciology/article/prototype-for-operational-seismic-detection-of-natural-avalanches/7588721755FC8E245C1A23CA4A59EA5B
+URL WebSearch: Zhang 2022 Hongshiyan Landslides
+URL https://link.springer.com/article/10.1007/s10346-022-01878-8
+URL WebSearch: Gao 2020 IJG Tangjia
+URL https://structurae.de/de/fachliteratur/fachartikel/insights-into-the-transport-and-fragmentation-characteristics-of-earthquake-induced-rock-avalanche-numerical-study
+URL https://www.geogroup.mcgill.ca/Research/Journals/55-Insights into the transport and fragmentation characteristics_Gao-ASCE_IJOG-2020.pdf (Abruf fehlgeschlagen)
+URL https://ascelibrary.com/doi/10.1061/%28ASCE%29GM.1943-5622.0001800
+SCHREIBEN /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Nc355ad/vf/c_fig4inset.png
+SCHREIBEN /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/Nc355ad/vf/verifikation.md

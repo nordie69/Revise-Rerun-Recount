@@ -1,0 +1,47 @@
+GELESEN:
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/Gc9d1ce/e1_t1/auftrag_EK.txt
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/Gc9d1ce/teil1.md
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/Gc9d1ce/text.json
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/Gc9d1ce/supplement/text.json
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/Gc9d1ce/seiten/seite-01.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/Gc9d1ce/seiten/seite-03.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/Gc9d1ce/supplement/seiten/seite-10.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/Gc9d1ce/supplement/seiten/seite-17.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/Gc9d1ce/supplement/seiten/seite-22.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/Gc9d1ce/e1_t1/ms_text.txt
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/Gc9d1ce/e1_t1/ms_refs.txt
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/Gc9d1ce/e1_t1/supp_text.txt
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/Gc9d1ce/e1_t1/s1.json
+VERZEICHNISLISTE (nur Namen): /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/Gc9d1ce/ , /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/Gc9d1ce/supplement/ , /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/Gc9d1ce/seiten/ , /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/Gc9d1ce/supplement/seiten/
+GESCHRIEBEN:
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/Gc9d1ce/e1_t1/ms_text.txt
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/Gc9d1ce/e1_t1/ms_refs.txt
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/Gc9d1ce/e1_t1/supp_text.txt
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/Gc9d1ce/e1_t1/s1parse.py
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/Gc9d1ce/e1_t1/s1.json
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/Gc9d1ce/e1_t1/calc.py
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/Gc9d1ce/e1_t1/einstufung.md
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/einst/Gc9d1ce/e1_t1/zugriff_EK.txt
+URLS (WebFetch):
+https://boris.unibe.ch/37302
+https://boris.unibe.ch/57917
+https://asu.elsevierpure.com/en/publications/downscaling-last-glacial-maximum-climate-over-southern-africa/
+https://hal-insu.archives-ouvertes.fr/insu-00378332 (gesperrt)
+https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2008GL033382 (nicht erlaubt, nicht abgerufen)
+https://boa.unimib.it/handle/10281/6594
+https://byrd.osu.edu/sites/default/files/2020-12/Aarons_et_al_QSR_2017.pdf
+https://researchportal.northumbria.ac.uk/en/publications/spatial-and-temporal-trends-in-mineral-dust-provenance-in-the-sou/
+https://www.iceandclimate.nbi.ku.dk/publications/papers/abstracts/abstract_10/
+https://epic.awi.de/id/eprint/19910/ (gesperrt)
+https://www.taldice.org/pub/taldice/Delmonte_QSR_2010_EDC_TALDICE.pdf
+https://cp.copernicus.org/articles/8/135/2012/
+https://bpcrc.osu.edu/sites/default/files/2020-12/QSR Gabrielli 2010.pdf
+https://marineinfo.org/doc/publication/382930
+WEBSEARCH-ANFRAGEN:
+Engelbrecht 2019 Downscaling Last Glacial Maximum climate over southern Africa abstract westerlies
+Delmonte 2008 Aeolian dust in East Antarctica (EPICA-Dome C and Vostok) abstract
+Aarons 2017 Dust composition changes from Taylor Glacier
+Longman Struve Pahnke 2022 Spatial and temporal trends in mineral dust provenance in the South Pacific
+Siggaard-Andersen 2007 Soluble and insoluble lithium dust in the EPICA DomeC ice core
+Vallelonga 2010 Lead isotopic compositions in the EPICA Dome C ice core
+Delmonte 2010 Geographic provenance of aeolian dust in East Antarctica during Pleistocene glaciations

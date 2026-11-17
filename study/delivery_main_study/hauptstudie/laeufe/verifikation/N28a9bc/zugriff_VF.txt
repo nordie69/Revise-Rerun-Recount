@@ -1,0 +1,40 @@
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N28a9bc/auftrag_VF.txt
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N28a9bc/gutachten.md
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N28a9bc/text.json
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N28a9bc/seiten/
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N28a9bc/egusphere-2025-4733.pdf
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N28a9bc/vf/zugriff_VF.txt
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N28a9bc/vf/text_lines.txt
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N28a9bc/vf/hi/ (300 dpi renderings p6,14,16,17,19,20,21,22,24,25,26,27)
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N28a9bc/vf/py/s.py
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N28a9bc/vf/py/rechnung.py
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N28a9bc/vf/c_p14_low.png /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N28a9bc/vf/c_p14_p10.png /tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N28a9bc/vf/c_p14_k.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N28a9bc/vf/c_p14_boxes.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N28a9bc/vf/c_p16_k.png
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N28a9bc/vf/py/zitate.py
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N28a9bc/seiten/seite-01.png bis seite-33.png (alle 33 gelesen)
+https://se.copernicus.org/articles/13/301/2022/
+https://pmc.ncbi.nlm.nih.gov/articles/PMC9072525
+https://se.copernicus.org/articles/15/1087/2024/ (abgewiesen, nicht gelesen)
+https://se.copernicus.org/articles/15/1087/2024/se-15-1087-2024.pdf
+https://data.nbmg.unr.edu/public/Geothermal/Presentations/GRC_2006_Explor_Workshop/Structure Davatzes Selected References/CaineEtAl1996.pdf
+https://eos.org/editor-highlights/fluctuating-fluid-flows-in-a-fractured-fault
+https://dspace.library.uvic.ca/handle/1828/8323
+https://projets.oca.eu/images/hydroseis/pdf/Cappa_et_al-2018-Geophysical_Research_Letters.pdf
+https://pangea.stanford.edu/ERE/db/GeoConf/papers/SGW/2023/Kneafsey.pdf
+https://comptes-rendus.academie-sciences.fr/geoscience/articles/10.1016/j.crte.2008.11.010/
+https://www.research-collection.ethz.ch/items/29fe063b-5e85-4e74-a692-735977c6d745
+https://digitalcommons.usu.edu/geology_facpub/34
+https://comptes-rendus.academie-sciences.fr/geoscience/articles/en/10.5802/crgeos.174/
+https://wiki.seg.org/wiki/Porosities,_velocities,_and_densities_of_rocks
+https://www.crewes.org/Documents/ResearchReports/1999/1999-55.pdf
+https://diposit.ub.edu/items/746057b6-3bee-4f62-9780-7f159bdf82fb/full
+https://se.copernicus.org/articles/9/683/2018/se-9-683-2018.pdf
+https://sjg.springeropen.com/articles/10.1007/s00015-010-0050-0 (Weiterleitung, nicht gelesen)
+https://link.springer.com/article/10.1007/s00015-010-0050-0?code=b6c27f68-0cdd-4cd7-b266-047a024c9c52&error=cookies_not_supported (abgewiesen)
+WebSearch: Lützenkirchen Loew 2011 Late Alpine brittle faulting in the Rotondo granite Swiss Journal of Geosciences 104
+https://sjg.pensoft.net/article_preview.php?id=36219
+https://doc.rero.ch/record/321258/files/10040_2009_Article_569.pdf
+https://www.research-collection.ethz.ch/handle/20.500.11850/528279
+https://github.com/nSights/nsights
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/nach/N28a9bc/vf/verifikation.md (geschrieben)
