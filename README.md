@@ -11,11 +11,11 @@ The study ran three review skills for an AI assistant in four conditions on four
 | Folder | Content | In the paper |
 |---|---|---|
 | `skills/` | the skill packages (`.skill`, zip archives) of the four version sets: eleven distinct packages, science-review-studiendesign 1.2.0 appears in two sets | Table 2, Appendix A, Table A1 |
-| `protocol/final_with_amendments/` | study protocol as frozen on 17 October 2026 with its three amendments, checksum file, note on freezing, origin of the rules | Sect. 3.6, Appendix B |
-| `protocol/first_frozen_version_superseded/` | first frozen version of the same day, before the amendments, with the file comparison of the packages D against B | Sect. 3.3, 3.6 |
-| `study/delivery_main_study/` | run register, the 48 reviews with their check reports and the access logs of the verification (`laeufe/`), reference issues and their confirmation (`soll/`, `soll_vorstudie/`), matching, grouping and rating (`einstufung/`), rule proposals of R and R2 (`rq3/`), assessment of AI assistance in referee reports (`spinoff_ki_herkunft/`), recount of the pilot (`vorstudie/`), measures (`auswertung/`), scripts (`tools/`) | Sects. 3.3 to 3.8, 4.1 to 4.6, Appendix B |
+| `protocol/final_with_amendments/` | study protocol as frozen on 17 October 2026 with its three amendments, checksum file, note on freezing, origin of the rules; the amendments were entered after the first run had finished and before any review was matched or rated (the times come from the working log of the study, which is not part of this repository) | Sect. 3.6, Appendix B |
+| `protocol/first_frozen_version_superseded/` | first frozen version of the same day, before the first run and before the amendments, its checksum file and note on freezing, with the file comparison of the packages D against B | Sect. 3.3, 3.6 |
+| `study/delivery_main_study/` | run register, the 48 reviews with their check reports, the access logs of the verification and the matching (`laeufe/`), reference issues and their confirmation (`soll/`, `soll_vorstudie/`), grouping and rating (`einstufung/`), rule proposals of R and R2 (`rq3/`), assessment of AI assistance in referee reports (`spinoff_ki_herkunft/`), recount of the pilot (`vorstudie/`), measures (`auswertung/`), scripts (`tools/`) | Sects. 3.3 to 3.8, 4.1 to 4.6, Appendix B |
 | `study/delivery_supplement_1/` | study handbook, analysis of the rise of F3, note on the line numbers of two manuscripts, scripts | Sects. 4.4, 4.6 |
-| `recalculation/` | independent recalculation of every measure from the raw data (report, scripts, results) and the list of corrections to the delivery | all numbers in Sect. 4; where the delivery and the recalculation differ in rounding or in K9, the paper follows the recalculation |
+| `recalculation/` | independent recalculation of every measure from the raw data (report, scripts, results) and the list of corrections to the delivery | the measures in Sect. 4; where the delivery and the recalculation differ in rounding or in K9, the paper follows the recalculation |
 | `figures/` | scripts and output (PNG, PDF, SVG) of Figs. 1 to 5; script and output (PNG, SVG) of the graphical abstract (`ga`) | Figs. 1 to 5, graphical abstract |
 
 Figure files: `fig_ablauf_skill` is Fig. 1, `fig01_methods` Fig. 2, `fig02_pilot` Fig. 3, `fig03_k1_conditions` Fig. 4, `fig04_error_classes` Fig. 5.
@@ -31,13 +31,15 @@ Skill packages by use:
 
 ## What is not included
 
-- The four preprints of the test material and their referee reports. They are public on the EGUsphere discussion pages (https://egusphere.copernicus.org/preprints/2025/egusphere-2025-4506/, -4695/, -4733/, -5046/).
-- The individual verdicts of the human rater on the blinded sample of 60 findings and on the finding groups without an AI majority. The repository gives the counts (57 of 60, per condition) and the final verdict of every finding group; where a final verdict was not set by the AI majority, its source is given as "set under the protocol, not by AI majority". Four files differ from the delivered originals for this reason; they are listed in `REDACTIONS.md` with the checksums of the originals.
+- The four preprints of the test material and their referee reports. They are public on the EGUsphere discussion pages (https://egusphere.copernicus.org/preprints/2025/egusphere-2025-4506/, -4695/, -4733/, -5046/). The same holds for egusphere-2025-2248 of the pilot.
+- The individual verdicts of the human rater on the blinded sample of 60 findings and on the finding groups without an AI majority. The repository gives the counts (57 of 60, per condition) and the final verdict of every finding group; where a final verdict was not set by the AI majority, its source is given as "set under the protocol, not by AI majority". Three files of the delivery and two files of the recalculation differ from their originals for this reason; they are listed in `REDACTIONS.md`, the three delivery files with the checksums of the originals. The final verdicts themselves are part of the data, so for the finding groups that were not decided by the AI majority the final verdict is the one set by the human rater.
 - The objections extracted from the reports of an AI peer-review service on the author's two earlier papers, with their verbatim quotations (pilot study, `soll_vorstudie/LAM` and `soll_vorstudie/TCD`). The lists of these reference issues with identifier, kind and confirmation are included; their wording is not.
 - The instructions and access logs of the agents that wrote the 48 reviews and of the matching and extraction agents. They were not kept; the access logs of the runs were checked after each run (Sect. 4.6 of the paper). Instructions or access logs are included for the verification, the rating, the count of the error classes, the rule proposals and the recount of the pilot.
+- The 15 reviews of the pilot and the four check reports of V4 from which the rules of condition D were proposed. The matching of the pilot reviews is included.
+- The second extraction of the reference issues and its comparison with the first (Sect. 3.4 of the paper); the protocol gives the result.
 - A later version of the main skill that was built after the study.
 
-Because of the first two withheld items, the scripts in `recalculation/` and `study/.../tools/` that read the rating sheet of the human rater or the extraction files of the pilot do not run to the end on this repository; all other steps can be recomputed from the files given here.
+Because the rating sheet and the pilot extraction files are withheld (second and third item), the scripts in `recalculation/` and `study/.../tools/` that read the rating sheet of the human rater or the extraction files of the pilot do not run to the end on this repository; all other steps can be recomputed from the files given here.
 
 ## Checksums
 

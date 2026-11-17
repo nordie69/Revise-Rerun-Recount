@@ -22,29 +22,7 @@
  },
  "schwelle": 0.8,
  "schwelle_erreicht": true,
- "abweichungen": [
-  {
-   "nr": 22,
-   "kennung": "Bb0138",
-   "gruppe": "Gdd8515/BG-151",
-   "ki": "ansichtssache",
-   "gruppengroesse": 1
-  },
-  {
-   "nr": 28,
-   "kennung": "B269b0",
-   "gruppe": "G51faf2/BG-195",
-   "ki": "ansichtssache",
-   "gruppengroesse": 9
-  },
-  {
-   "nr": 46,
-   "kennung": "B17541",
-   "gruppe": "Gc9d1ce/BG-176",
-   "ki": "zutreffend",
-   "gruppengroesse": 9
-  }
- ],
+ "abweichungen": "3 items; identifiers, groups and AI majority not published",
  "gruppen_ohne_mehrheit": 6,
  "gezaehlt": "2026-11-15, vor jeder Entscheidung",
  "hinweis": "Redacted for publication: the individual verdicts of the human rater are withheld; counts are unchanged."

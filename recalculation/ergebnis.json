@@ -2035,26 +2035,7 @@
     "anteil": 0.9333333333333333
    }
   },
-  "K7 Stichprobe Abweichungen": [
-   {
-    "zufallskennung": "Bb0138",
-    "gruppe": "Gdd8515/BG-151",
-    "ki": "ansichtssache",
-    "groesse": 1
-   },
-   {
-    "zufallskennung": "B269b0",
-    "gruppe": "G51faf2/BG-195",
-    "ki": "ansichtssache",
-    "groesse": 9
-   },
-   {
-    "zufallskennung": "B17541",
-    "gruppe": "Gc9d1ce/BG-176",
-    "ki": "zutreffend",
-    "groesse": 9
-   }
-  ],
+  "K7 Stichprobe Abweichungen": "3 items; identifiers, groups and AI majority not published",
   "K9": {
    "regeln_vorgeschlagen": 7,
    "regeln_bestaetigt": 7,
