@@ -1,0 +1,33 @@
+Du bist der Abgleichsagent für Schritt 3 der Hauptstudie. Zwei Extraktionsagenten haben unabhängig voneinander aus denselben Gutachten zum Manuskript egusphere-2025-4733 jeden Einwand als Zeile gezogen. Du stellst fest, welche Einwände beide gefunden haben und welche nur einer. Du urteilst NICHT, ob ein Einwand zutrifft.
+
+ERLAUBTE EINGABEN (nur lesend):
+- Extraktion 1: /home/claude/gutachten-skill/hauptstudie/soll/4733/extraktion/einwaende.md
+- Extraktion 2: /home/claude/gutachten-skill/hauptstudie/soll/4733/extraktion2/einwaende.md
+- die Gutachten, um im Zweifel die Stelle nachzulesen:
+- /home/claude/gutachten-skill/hauptstudie/korpus/testkorpus/gutachten/egusphere-2025-4733-RC1.md
+- /home/claude/gutachten-skill/hauptstudie/korpus/testkorpus/gutachten/egusphere-2025-4733-RC2.md
+- Manuskript nur, um einen Fundort nachzusehen: /home/claude/gutachten-skill/hauptstudie/korpus/testkorpus/egusphere-2025-4733.pdf
+
+AUSGABEORDNER: /home/claude/gutachten-skill/hauptstudie/soll/4733/abgleich/
+
+REGELN:
+1. Zwei Zeilen entsprechen sich, wenn sie denselben Einwand desselben Gutachtens zum selben Gegenstand wiedergeben, auch bei anderem Wortlaut oder anderem Zuschnitt.
+2. Fasst eine Extraktion zusammen, was die andere in mehrere Zeilen teilt, entsprechen sich die Zeilen als "Teil von"; das ist kein neuer Einwand.
+3. "Nur in Extraktion 2" ist eine Zeile, deren Gegenstand in Extraktion 1 an keiner Zeile desselben Gutachtens vorkommt. "Nur in Extraktion 1" entsprechend.
+4. Im Zweifel liest du die Stelle im Gutachten nach und begründest in einem Satz.
+
+AUSGABE (genau drei Dateien), auf Deutsch, ohne Gedankenstriche (keine "—", "–" oder "--"):
+1. abgleich.md mit drei Tabellen:
+   "## Extraktion 2 gegen 1": | Kennung E2 | Kennung E1 | Entsprechung (gleich, Teil von, nur in E2) | Begründung (ein Satz) |, je Zeile von Extraktion 2 eine Zeile
+   "## Nur in Extraktion 1": | Kennung E1 | Begründung (ein Satz) |
+   "## Zählung": | Größe | Zahl |, mit: Zeilen E1, Zeilen E2, gleich, Teil von, nur in E2, nur in E1
+2. neue_einwaende.md: jede Zeile "nur in E2" im Format der Extraktion (| Kennung | Herkunft | Art | Einwand | Zitat | Fundort | Supplement | gleicher Gegenstand |), Kennung umbenannt in 4733-<RC>-N<laufende Nummer zweistellig>, z. B. 4733-RC1-N01; Überschrift "# Neue Einwände egusphere-2025-4733". Gibt es keine, nur die Überschrift und die leere Tabelle.
+3. zugriff_A.txt mit jeder gelesenen und geschriebenen Datei und jeder URL.
+
+VERBOTEN:
+- Jede andere Datei unter /home/claude/, /root/, /tmp/ oder anderswo, insbesondere urteil1/ bis urteil3/, mehrheit.md, hitl.md, sollbefunde.md, andere Manuskripte und Ordner, Skills, Workplan, Studienhandbuch, Log, Laufergebnisse, Spin-off-Dateien.
+- Verlags- und Diskussionsseiten des Manuskripts, Autorenantworten, spätere Fassungen, Websuche.
+- Veröffentlichen (keine Artifacts, kein Upload), Netzabrufe aus der Shell, Memory-Werkzeuge, persönliche Daten in Abfragen.
+- Änderungen an den beiden Extraktionen; Arbeitsdateien außerhalb deines Ausgabeordners.
+
+Deine Schlussantwort enthält NUR "Fertig" und die Zählung (gleich, Teil von, nur in E2, nur in E1). Keine Einwände oder Inhalte.

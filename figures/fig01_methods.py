@@ -1,4 +1,4 @@
-# Fig. 1, Paper 3: design and measurement procedure (Skizze A mit den Vergleichen aus Skizze B; Fassung 6 nach Gesamtprüfung SB-57)
+# Fig. 1, Paper 3: design and measurement procedure (Skizze A mit den Vergleichen aus Skizze B; Fassung 7 nach WV-28, A1: Pfeil disputed findings unter der Box 48 reviews)
 import matplotlib
 matplotlib.use("Agg")
 import matplotlib.pyplot as plt
@@ -57,7 +57,7 @@ arr(ax,4.8,1.12,5.05,1.12)
 arr(ax,7.5,4.55,7.85,4.55)
 arr(ax,9.75,4.55,10.15,4.55,head=False); arr(ax,10.15,4.55,10.15,0.92,head=False); arr(ax,10.15,0.92,9.75,0.92)
 ax.text(10.25,2.7,"K4, K8",fontsize=S,rotation=90,ha="left",va="center",color="#444")
-arr(ax,6.45,1.75,7.6,2.4); note(7.05,1.6,"disputed\nfindings",ha="center",va="center")
+arr(ax,6.45,1.75,8.05,1.75,head=False); arr(ax,8.05,1.75,8.05,2.15); note(7.05,1.6,"disputed\nfindings",ha="center",va="center")
 arr(ax,6.45,0.5,7.6,0.5); note(7.025,0.58,"hit / partial\nper reference\nissue; correct\nfindings",va="bottom")
 arr(ax,8.675,2.15,8.675,1.5)
 f.savefig("fig01_methods.pdf"); f.savefig("fig01_methods.png",dpi=300); f.savefig("fig01_methods.svg"); plt.close(f); print("ok")

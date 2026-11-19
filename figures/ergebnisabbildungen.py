@@ -10,8 +10,10 @@ COL={"A":"#999999","B":"#0072B2","C":"#E69F00","D":"#009E73"}
 def save(f,n):
     for ext,kw in (("png",{"dpi":300}),("pdf",{}),("svg",{})): f.savefig(f"{n}.{ext}",**kw)
     plt.close(f)
-def rng(ax,x,m,lo,hi,c,mk="o",open_=False,lw=2.4):
+def rng(ax,x,m,lo,hi,c,mk="o",open_=False,lw=2.4,cap=0):
     ax.plot([x,x],[lo,hi],color=c,lw=lw,alpha=0.55,solid_capstyle="butt")
+    if cap:  # Endstriche, nur Fig. 5 (WV-28, A2)
+        for yv in (lo,hi): ax.plot([x-cap,x+cap],[yv,yv],color=c,lw=0.9)
     ax.plot(x,m,mk,color=c,ms=3.8,mfc="white" if open_ else c,mew=0.9)
 
 # Fig. 2 Vorstudie: Hauptmaß, inhaltliche Sollbefunde getroffen, je Gutachten (DAT-63, Vorstudie K1 getrennt nach Art)
@@ -52,11 +54,11 @@ F={"F1":((0.33,0.25,0.50),(0.00,0.00,0.00),"D lower"),"F2":((0.92,0.75,1.25),(0.
    "F4":((0.50,0.25,1.00),(0.75,0.50,1.00),""),"F5":((0.33,0.00,0.50),(0.42,0.25,0.50),""),"F6":((0.08,0.00,0.25),(0.00,0.00,0.00),""),"F7":((3.08,1.50,4.75),(0.33,0.00,1.00),"D lower")}
 f,(a1,a2)=plt.subplots(1,2,figsize=(6.69,2.6),gridspec_kw={"width_ratios":[5,1.2]},constrained_layout=True)
 for i,(k,(b,d,eff)) in enumerate(F.items()):
-    rng(a1,i-0.15,*b,COL["B"]); rng(a1,i+0.15,*d,COL["D"])
+    rng(a1,i-0.15,*b,COL["B"],cap=0.09); rng(a1,i+0.15,*d,COL["D"],cap=0.09)
     if eff: a1.text(i,5.05,eff,ha="center",va="bottom",fontsize=6.0,color="#000000" if eff=="D higher" else "#444444",weight="bold" if eff=="D higher" else "normal")
 NAMES=["F1\npage of a\nline range","F2\nline number\noffset","F3\nwrong\ncount","F4\nclaim on\nseveral places\nunchecked","F5\nevidence\nmoved to\nneighbour","F6\nsource detail\nclaimed as\nverified","F7\nneighbours\nnot linked"]
 a1.set_xticks(range(7)); a1.set_xticklabels(NAMES); a1.set_ylim(-0.2,5.6); a1.set_ylabel("cases per review")
-rng(a2,0,5.67,5.25,6.25,COL["B"]); rng(a2,1,2.92,2.50,3.50,COL["D"])
+rng(a2,0,5.67,5.25,6.25,COL["B"],cap=0.18); rng(a2,1,2.92,2.50,3.50,COL["D"],cap=0.18)
 a2.set_xticks([0,1]); a2.set_xticklabels(["B","D"]); a2.set_xlim(-0.6,1.6); a2.set_ylim(0,7.4); a2.set_title("all classes"); a2.set_ylabel("cases per review")
 a2.text(0.5,6.55,"D lower",ha="center",va="bottom",fontsize=6.0,color="#444444")
 save(f,"fig04_error_classes")

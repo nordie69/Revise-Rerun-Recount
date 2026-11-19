@@ -1,0 +1,146 @@
+{
+ "K1_alle_198": {
+  "A": [
+   39.2256,
+   33.8384,
+   43.4343
+  ],
+  "B": [
+   38.5522,
+   35.8586,
+   40.9091
+  ],
+  "C": [
+   28.6195,
+   28.2828,
+   28.7879
+  ],
+  "D": [
+   38.5522,
+   37.3737,
+   40.404
+  ]
+ },
+ "Treffer_summe_alle": {
+  "A": 233,
+  "B": 229,
+  "C": 170,
+  "D": 229
+ },
+ "4506_ohne_RC3": {
+  "A": [
+   11,
+   36,
+   30.56
+  ],
+  "B": [
+   9,
+   36,
+   25.0
+  ],
+  "C": [
+   7,
+   36,
+   19.44
+  ],
+  "D": [
+   8,
+   36,
+   22.22
+  ]
+ },
+ "Eintraege_je_Fall": {
+  "A": {
+   "Fälle nach Zahl der Einträge": {
+    "1": 60,
+    "2": 22,
+    "3": 1
+   },
+   "Einträge": 99
+  },
+  "B": {
+   "Fälle nach Zahl der Einträge": {
+    "1": 31,
+    "2": 35,
+    "3": 1,
+    "5": 1
+   },
+   "Einträge": 104
+  },
+  "C": {
+   "Fälle nach Zahl der Einträge": {
+    "1": 41,
+    "2": 18,
+    "3": 1
+   },
+   "Einträge": 73
+  },
+  "D": {
+   "Fälle nach Zahl der Einträge": {
+    "1": 31,
+    "2": 4
+   },
+   "Einträge": 35
+  }
+ },
+ "K8_Weg": {
+  "A Seitenbilder": {
+   "F1": 4,
+   "F2": 5,
+   "Einträge": 700,
+   "F1+F2 je 100": 1.29
+  },
+  "A Skript": {
+   "F1": 0,
+   "F2": 18,
+   "Einträge": 632,
+   "F1+F2 je 100": 2.85
+  },
+  "B Seitenbilder": {
+   "F1": 3,
+   "F2": 1,
+   "Einträge": 643,
+   "F1+F2 je 100": 0.62
+  },
+  "B Skript": {
+   "F1": 1,
+   "F2": 10,
+   "Einträge": 555,
+   "F1+F2 je 100": 1.98
+  },
+  "C Seitenbilder": {
+   "F1": 0,
+   "F2": 5,
+   "Einträge": 332,
+   "F1+F2 je 100": 1.51
+  },
+  "C Skript": {
+   "F1": 1,
+   "F2": 9,
+   "Einträge": 335,
+   "F1+F2 je 100": 2.99
+  },
+  "D Seitenbilder": {
+   "F1": 0,
+   "F2": 0,
+   "Einträge": 633,
+   "F1+F2 je 100": 0.0
+  },
+  "D Skript": {
+   "F1": 0,
+   "F2": 3,
+   "Einträge": 588,
+   "F1+F2 je 100": 0.51
+  },
+  "alle Seitenbilder": {
+   "F1+F2": 18,
+   "Einträge": 2308,
+   "je 100": 0.78
+  },
+  "alle Skript": {
+   "F1+F2": 42,
+   "Einträge": 2110,
+   "je 100": 1.99
+  }
+ }
+}

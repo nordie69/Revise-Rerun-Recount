@@ -19,3 +19,5 @@ Files changed or withheld for publication, relative to the delivered data of the
 | `study/delivery_main_study/hauptstudie/einstufung/auftraggeber/Einstufung_Auftraggeber_v1_20261022_ausgefuellt_20261115.tsv` | individual verdicts of the human rater on the sample and on six finding groups |
 | `study/delivery_main_study/hauptstudie/soll_vorstudie/LAM/extraktion/`, `.../TCD/extraktion/`, `.../LAM/hitl.md`, `.../TCD/hitl.md` | verbatim quotations from the reports of an AI peer-review service |
 | `paket/` and `abbildungen/paket/` of the supplement to the delivery | skill versions built after the study |
+| reviews of pilot rounds V1 to V3 with their check reports (not part of a delivery) | the pilot is not compared with the main study; the four reviews of V4 are published in `study/delivery_supplement_2/` |
+| material of the author's timed trial rating (not part of a delivery) | the author's own ratings |

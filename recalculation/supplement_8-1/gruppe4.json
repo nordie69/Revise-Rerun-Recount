@@ -1,0 +1,241 @@
+{
+ "GB-19": {
+  "A": {
+   "n_rc3": 19,
+   "treffer_je_lauf": [
+    5,
+    8,
+    6
+   ],
+   "quote_mittel": 33.333333333333336,
+   "quote_min": 26.31578947368421,
+   "quote_max": 42.10526315789474,
+   "uebrige_mittel": 28.49462365591398,
+   "uebrige_min": 23.387096774193548,
+   "uebrige_max": 32.25806451612903,
+   "n_uebrige": 124
+  },
+  "B": {
+   "n_rc3": 19,
+   "treffer_je_lauf": [
+    6,
+    9,
+    10
+   ],
+   "quote_mittel": 43.85964912280702,
+   "quote_min": 31.57894736842105,
+   "quote_max": 52.63157894736842,
+   "uebrige_mittel": 26.344086021505376,
+   "uebrige_min": 24.193548387096776,
+   "uebrige_max": 28.225806451612904,
+   "n_uebrige": 124
+  },
+  "C": {
+   "n_rc3": 19,
+   "treffer_je_lauf": [
+    5,
+    5,
+    5
+   ],
+   "quote_mittel": 26.31578947368421,
+   "quote_min": 26.31578947368421,
+   "quote_max": 26.31578947368421,
+   "uebrige_mittel": 21.236559139784948,
+   "uebrige_min": 20.967741935483872,
+   "uebrige_max": 21.774193548387096,
+   "n_uebrige": 124
+  },
+  "D": {
+   "n_rc3": 19,
+   "treffer_je_lauf": [
+    9,
+    8,
+    8
+   ],
+   "quote_mittel": 43.85964912280702,
+   "quote_min": 42.10526315789474,
+   "quote_max": 47.36842105263158,
+   "uebrige_mittel": 25.268817204301076,
+   "uebrige_min": 23.387096774193548,
+   "uebrige_max": 28.225806451612904,
+   "n_uebrige": 124
+  }
+ },
+ "GB-20": {
+  "A": {
+   "('ohne Sollbefund', 'zutreffend')": 901,
+   "('teilweise', 'zutreffend')": 159,
+   "richtig durch Zuordnung": 186,
+   "('ohne Sollbefund', 'ansichtssache')": 74,
+   "('teilweise', 'nicht zutreffend')": 3,
+   "('ohne Sollbefund', 'nicht zutreffend')": 6,
+   "('teilweise', 'ansichtssache')": 3,
+   "summe": 1332,
+   "je_gutachten": 111.0
+  },
+  "B": {
+   "('ohne Sollbefund', 'zutreffend')": 800,
+   "('ohne Sollbefund', 'ansichtssache')": 51,
+   "richtig durch Zuordnung": 184,
+   "('teilweise', 'zutreffend')": 152,
+   "('teilweise', 'ansichtssache')": 4,
+   "('ohne Sollbefund', 'nicht zutreffend')": 7,
+   "summe": 1198,
+   "je_gutachten": 99.83333333333333
+  },
+  "C": {
+   "('ohne Sollbefund', 'zutreffend')": 442,
+   "richtig durch Zuordnung": 120,
+   "('teilweise', 'zutreffend')": 90,
+   "('ohne Sollbefund', 'ansichtssache')": 11,
+   "('teilweise', 'ansichtssache')": 1,
+   "('ohne Sollbefund', 'nicht zutreffend')": 2,
+   "('teilweise', 'nicht zutreffend')": 1,
+   "summe": 667,
+   "je_gutachten": 55.583333333333336
+  },
+  "D": {
+   "('ohne Sollbefund', 'zutreffend')": 835,
+   "richtig durch Zuordnung": 186,
+   "('ohne Sollbefund', 'ansichtssache')": 59,
+   "('teilweise', 'zutreffend')": 137,
+   "('teilweise', 'ansichtssache')": 3,
+   "('teilweise', 'nicht zutreffend')": 1,
+   "summe": 1221,
+   "je_gutachten": 101.75
+  }
+ },
+ "GB-27": {
+  "A": {
+   "nicht_zutreffend": 9,
+   "eintraege": 1332
+  },
+  "B": {
+   "nicht_zutreffend": 7,
+   "eintraege": 1198
+  },
+  "C": {
+   "nicht_zutreffend": 3,
+   "eintraege": 667
+  },
+  "D": {
+   "nicht_zutreffend": 1,
+   "eintraege": 1221
+  }
+ },
+ "K3_gegenprobe": {
+  "A": {
+   "eigen": 75.08333333333333,
+   "geliefert": 75.08333333333333
+  },
+  "B": {
+   "eigen": 66.66666666666667,
+   "geliefert": 66.66666666666667
+  },
+  "C": {
+   "eigen": 36.833333333333336,
+   "geliefert": 36.833333333333336
+  },
+  "D": {
+   "eigen": 69.58333333333333,
+   "geliefert": 69.58333333333333
+  }
+ },
+ "GB-30": {
+  "A": {
+   "getroffene_sollbefunde": 233,
+   "davon_mit_eintrag_mit_mehrheit": 233,
+   "eintraege_fuer_mehrere_sollbefunde": 64,
+   "richtige_eintraege_aus_treffern": 186
+  },
+  "B": {
+   "getroffene_sollbefunde": 229,
+   "davon_mit_eintrag_mit_mehrheit": 229,
+   "eintraege_fuer_mehrere_sollbefunde": 70,
+   "richtige_eintraege_aus_treffern": 184
+  },
+  "C": {
+   "getroffene_sollbefunde": 170,
+   "davon_mit_eintrag_mit_mehrheit": 170,
+   "eintraege_fuer_mehrere_sollbefunde": 43,
+   "richtige_eintraege_aus_treffern": 120
+  },
+  "D": {
+   "getroffene_sollbefunde": 229,
+   "davon_mit_eintrag_mit_mehrheit": 229,
+   "eintraege_fuer_mehrere_sollbefunde": 60,
+   "richtige_eintraege_aus_treffern": 186
+  },
+  "alle": {
+   "getroffene_sollbefunde": 861,
+   "davon_mit_eintrag_mit_mehrheit": 861,
+   "eintraege_fuer_mehrere_sollbefunde": 237,
+   "richtige_eintraege_aus_treffern": 676
+  },
+  "richtig_durch_zuordnung_einstufung": 676
+ },
+ "GB-21": {
+  "pruefberichte": 48,
+  "genannt": 315,
+  "von_drei": 256,
+  "von_zwei": 27,
+  "von_einem": 32,
+  "K5_paare": "71,8 (496 von 691 Paaren) | 68,1 (515 von 756 Paaren) | 72,8 (273 von 375 Paaren) | 70,0 (476 von 680 Paaren)"
+ },
+ "GB-18": {
+  "inhaltliche_sollbefunde": {
+   "LAM": 40,
+   "TCD": 50,
+   "HOR": 34
+  },
+  "runden": {
+   "V1": {
+    "gutachten": 4,
+    "treffer": {
+     "HOR-1": 16,
+     "LAM-1": 17,
+     "LAM-2": 19,
+     "TCD-1": 25
+    },
+    "gepoolt": 46.951219512195124,
+    "LAM_einmal": 47.58064516129032,
+    "mittel_drei_manuskripte": 47.35294117647059
+   },
+   "V2": {
+    "gutachten": 3,
+    "treffer": {
+     "HOR-1": 17,
+     "LAM-1": 24,
+     "TCD-1": 36
+    },
+    "gepoolt": 62.096774193548384,
+    "LAM_einmal": 62.096774193548384,
+    "mittel_drei_manuskripte": 60.666666666666664
+   },
+   "V3": {
+    "gutachten": 4,
+    "treffer": {
+     "HOR-1": 22,
+     "LAM-1": 21,
+     "LAM-2": 26,
+     "TCD-1": 34
+    },
+    "gepoolt": 62.80487804878049,
+    "LAM_einmal": 64.11290322580645,
+    "mittel_drei_manuskripte": 63.818627450980394
+   },
+   "V4": {
+    "gutachten": 4,
+    "treffer": {
+     "HOR-1": 20,
+     "LAM-1": 23,
+     "LAM-2": 21,
+     "TCD-1": 38
+    },
+    "gepoolt": 62.19512195121951,
+    "LAM_einmal": 64.51612903225806,
+    "mittel_drei_manuskripte": 63.27450980392157
+   }
+  }
+ }
+}
