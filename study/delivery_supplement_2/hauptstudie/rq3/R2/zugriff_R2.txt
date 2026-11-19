@@ -1,0 +1,35 @@
+Zugriffe Regelvorschlagsagent RQ3 R2, 2026-10-17
+
+GELESEN (Inhalt)
+/home/claude/gutachten-skill/hauptstudie/rq3/R2/auftrag_R2.txt
+/home/claude/gutachten-skill/erprobung/verifikation4/LAM_A_verifikation.md
+/home/claude/gutachten-skill/erprobung/verifikation4/LAM_B_verifikation.md
+/home/claude/gutachten-skill/erprobung/verifikation4/TCD_verifikation.md
+/home/claude/gutachten-skill/erprobung/verifikation4/HOR_verifikation.md
+/home/claude/gutachten-skill/erprobung/durchgang4/LAM_A/Listen_Answer_Memorize_Copernicus_Gutachten_20261016.md (Überschriften, Kopf, GB-01, GB-02, GB-04, GB-09, GB-33; Skriptsuche nach Querverweisen)
+/home/claude/gutachten-skill/erprobung/durchgang4/LAM_B/Listen_Answer_Memorize_Copernicus_Gutachten_20261016.md (Überschriften, GB-03, GB-06, GB-07, GB-26, GB-28, GB-40, GB-42; Skriptsuche nach Querverweisen)
+/home/claude/gutachten-skill/erprobung/durchgang4/TCD/Talk_Check_Decide_A_Skill-Based_Workflow_Gutachten_20261016.md (Überschriften, GB-08, GB-09, GB-11, GB-12, GB-15, GB-39, GB-41, GB-52, GB-53; Skriptsuche nach Querverweisen)
+/home/claude/gutachten-skill/erprobung/durchgang4/HOR/egusphere-2025-2248_Gutachten_20261016.md (Überschriften, GB-01, GB-07, GB-17, GB-44, GB-47, GB-51, KK-28 und PP-35 per grep; Skriptsuche nach Querverweisen)
+/mnt/skills/user/science-review-gutachten/SKILL.md
+/mnt/skills/user/science-review-gutachten/references/befundformat.md
+/mnt/skills/user/science-review-gutachten/references/segment-4.md
+/mnt/skills/user/science-review-abbildungen/SKILL.md
+/mnt/skills/user/science-review-abbildungen/references/messverfahren.md
+/mnt/skills/user/science-review-abbildungen/references/pruefliste-abbildungen.md
+/mnt/skills/user/science-review-studiendesign/SKILL.md
+
+NUR VERZEICHNISLISTEN ODER METADATEN (kein Inhalt gelesen)
+ls von /home/claude/gutachten-skill/erprobung/verifikation4/ und /home/claude/gutachten-skill/erprobung/durchgang4/{LAM_A,LAM_B,TCD,HOR}/ (Dateinamen und Größen)
+ls -R der drei erlaubten Skillordner unter /mnt/skills/user/
+wc -l über /mnt/skills/user/*/SKILL.md und /mnt/skills/user/*/references/*.md (versehentlich breiter als die drei erlaubten Skills; ausgegeben wurden nur Zeilenzahlen, kein Inhalt anderer Skills wurde gelesen)
+wc -w der vier Prüfberichte
+ls von /home/claude/gutachten-skill/hauptstudie/rq3/R2/
+
+GESCHRIEBEN
+/home/claude/gutachten-skill/hauptstudie/rq3/R2/Regelvorschlaege_RQ3_R2.md
+/home/claude/gutachten-skill/hauptstudie/rq3/R2/zugriff_R2.txt
+/tmp/claude-0/-home-claude/388bb276-2a71-5718-a623-841ee1533b2f/scratchpad/xref.py (Hilfsskript zur Suche von Querverweisen in den vier Gutachten, nur lesend auf die Gutachten)
+
+NICHT GELESEN
+Sollbefundlisten, Trefferbilanzen, Workplan, Studienhandbuch, Log, Chatprotokoll, Organisation, Konsistenzberichte, andere Dateien unter hauptstudie/, Instanzdateien, zf/-Ordner, Arbeitsordner der Prüfberichte, Manuskripte (PDF, text.json, Seitenbilder).
+Keine Websuche, keine Netzabrufe, keine Veröffentlichung, keine Memory-Werkzeuge.

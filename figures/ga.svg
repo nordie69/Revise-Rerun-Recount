@@ -14,8 +14,8 @@
 <text x="214" y="484" font-size="28" fill="#333333" text-anchor="middle" font-weight="bold">issues hit</text>
 <rect x="424" y="24" width="480" height="483" rx="12" fill="#FFFFFF" stroke="#0072B2" stroke-width="6"/>
 <text x="664" y="66" font-size="28" fill="#333333" text-anchor="middle" font-weight="bold">Revising the AI's</text>
-<text x="664" y="100" font-size="28" fill="#333333" text-anchor="middle" font-weight="bold">review instructions</text>
-<text x="664" y="136" font-size="24" fill="#555555" text-anchor="middle" font-weight="normal">substantive referee issues hit</text>
+<text x="664" y="100" font-size="28" fill="#333333" text-anchor="middle" font-weight="bold">review skills</text>
+<text x="664" y="136" font-size="24" fill="#555555" text-anchor="middle" font-weight="normal">substantive reference issues hit</text>
 <rect x="516" y="215.2" width="116" height="168.8" rx="4" fill="#999999"/>
 <text x="574" y="177.12" font-size="30" fill="#333333" text-anchor="middle" font-weight="bold">29.1 %</text>
 <path d="M574,246.0 L574,189.1 M560,246.0 L588,246.0 M560,189.1 L588,189.1" stroke="#333333" stroke-width="3" fill="none"/>
@@ -26,7 +26,7 @@
 <text x="754" y="414" font-size="24" fill="#555555" text-anchor="middle" font-weight="normal">revised</text>
 <line x1="474" y1="384" x2="854" y2="384" stroke="#999999" stroke-width="3"/>
 <text x="664" y="484" font-size="44" fill="#333333" text-anchor="middle" font-weight="bold">no gain</text>
-<text x="1114" y="46" font-size="24" fill="#555555" text-anchor="middle" font-weight="bold">Separate tests</text>
+<text x="1114" y="46" font-size="24" fill="#555555" text-anchor="middle" font-weight="bold">Further comparisons</text>
 <rect x="924" y="60" width="380" height="206" rx="12" fill="#FFFFFF" stroke="#999999" stroke-width="4"/>
 <text x="1114" y="98" font-size="28" fill="#333333" text-anchor="middle" font-weight="bold">Separate agents</text>
 <rect x="990" y="118" width="70" height="70" rx="6" fill="#E69F00"/><line x1="1076" y1="153" x2="1118" y2="153" stroke="#555555" stroke-width="3" marker-end="url(#pf)"/>
@@ -36,7 +36,7 @@
 <text x="1114" y="318" font-size="28" fill="#333333" text-anchor="middle" font-weight="bold">New rules</text>
 <rect x="965" y="352.0" width="40" height="68.0" rx="2" fill="#0072B2"/><rect x="1049" y="385.0" width="40" height="35.0" rx="2" fill="#009E73"/><line x1="1013" y1="392" x2="1043" y2="392" stroke="#555555" stroke-width="3" marker-end="url(#pf)"/>
 <line x1="959" y1="420" x2="1095" y2="420" stroke="#999999" stroke-width="3"/>
-<text x="1027" y="450" font-size="24" fill="#555555" text-anchor="middle" font-weight="normal">targeted errors:</text>
+<text x="1027" y="450" font-size="24" fill="#555555" text-anchor="middle" font-weight="normal">sum of classes:</text>
 <text x="1027" y="480" font-size="26" fill="#333333" text-anchor="middle" font-weight="bold">about halved</text>
 <rect x="1150" y="415.0" width="40" height="5.0" rx="2" fill="#0072B2"/><rect x="1234" y="406.0" width="40" height="14.0" rx="2" fill="#009E73"/><line x1="1198" y1="398" x2="1228" y2="398" stroke="#555555" stroke-width="3" marker-end="url(#pf)"/>
 <line x1="1144" y1="420" x2="1280" y2="420" stroke="#999999" stroke-width="3"/>
