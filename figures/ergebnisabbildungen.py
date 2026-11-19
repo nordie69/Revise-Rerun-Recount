@@ -42,7 +42,7 @@ f,ax=plt.subplots(figsize=(3.27,2.5),constrained_layout=True)
 for i,c in enumerate("ABCD"):
     rng(ax,i-0.13,*K1["mit"][c],COL[c])
     rng(ax,i+0.13,*K1["ohne"][c],COL[c],mk="D",open_=True)
-for a,b,t,y in ((0,1,"RQ1: not met",35.2),(1,2,"RQ2: met",33.0),(1,3,"RQ3: met (K1 not lower)",37.4)):
+for a,b,t,y in ((0,1,"RQ1: not met",35.2),(1,2,"RQ2: met",33.0),(1,3,"RQ3, K1 part: met (D not lower)",37.4)):
     ax.plot([a,b],[y,y],color="#444444",lw=0.6); ax.plot([a,a],[y-0.4,y],color="#444444",lw=0.6); ax.plot([b,b],[y-0.4,y],color="#444444",lw=0.6)
     ax.text((a+b)/2,y+0.25,t,ha="center",va="bottom",fontsize=6.0)
 ax.set_xticks(range(4)); ax.set_xticklabels(["A\nfirst version","B\nbase version","C\none context","D\nnew rules"])
@@ -50,16 +50,18 @@ ax.set_ylim(15,39.5); ax.set_xlim(-0.5,3.5); ax.set_ylabel("substantive referenc
 save(f,"fig03_k1_conditions")
 
 # Fig. 4 Fehlerklassen B gegen D
+# Schrift größer für den Druck (Gutachten 3, AB-GB-01): mindestens 6 pt bei voller Satzbreite
+plt.rcParams.update({"font.size":7.2,"axes.labelsize":7.2,"xtick.labelsize":6.7,"ytick.labelsize":6.7,"axes.titlesize":7.2})
 F={"F1":((0.33,0.25,0.50),(0.00,0.00,0.00),"D lower"),"F2":((0.92,0.75,1.25),(0.25,0.00,0.50),"D lower"),"F3":((0.42,0.25,0.50),(1.17,0.75,1.50),"D higher"),
    "F4":((0.50,0.25,1.00),(0.75,0.50,1.00),""),"F5":((0.33,0.00,0.50),(0.42,0.25,0.50),""),"F6":((0.08,0.00,0.25),(0.00,0.00,0.00),""),"F7":((3.08,1.50,4.75),(0.33,0.00,1.00),"D lower")}
 f,(a1,a2)=plt.subplots(1,2,figsize=(6.69,2.6),gridspec_kw={"width_ratios":[5,1.2]},constrained_layout=True)
 for i,(k,(b,d,eff)) in enumerate(F.items()):
     rng(a1,i-0.15,*b,COL["B"],cap=0.09); rng(a1,i+0.15,*d,COL["D"],cap=0.09)
-    if eff: a1.text(i,5.05,eff,ha="center",va="bottom",fontsize=6.0,color="#000000" if eff=="D higher" else "#444444",weight="bold" if eff=="D higher" else "normal")
+    if eff: a1.text(i,5.05,eff,ha="center",va="bottom",fontsize=6.7,color="#000000" if eff=="D higher" else "#444444",weight="bold" if eff=="D higher" else "normal")
 NAMES=["F1\npage of a\nline range","F2\nline number\noffset","F3\nwrong\ncount","F4\nclaim on\nseveral places\nunchecked","F5\nevidence\nmoved to\nneighbour","F6\nsource detail\nclaimed as\nverified","F7\nneighbours\nnot linked"]
 a1.set_xticks(range(7)); a1.set_xticklabels(NAMES); a1.set_ylim(-0.2,5.6); a1.set_ylabel("cases per review")
 rng(a2,0,5.67,5.25,6.25,COL["B"],cap=0.18); rng(a2,1,2.92,2.50,3.50,COL["D"],cap=0.18)
 a2.set_xticks([0,1]); a2.set_xticklabels(["B","D"]); a2.set_xlim(-0.6,1.6); a2.set_ylim(0,7.4); a2.set_title("all classes"); a2.set_ylabel("cases per review")
-a2.text(0.5,6.55,"D lower",ha="center",va="bottom",fontsize=6.0,color="#444444")
+a2.text(0.5,6.55,"D lower",ha="center",va="bottom",fontsize=6.7,color="#444444")
 save(f,"fig04_error_classes")
 print("ok")

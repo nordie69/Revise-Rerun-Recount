@@ -6,7 +6,7 @@
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2026-11-18T19:17:08.298862</dc:date>
+    <dc:date>2026-11-19T10:30:47.206712</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -35,7 +35,7 @@ L 481.68 74.436923
 L 481.68 0 
 L 0 0 
 z
-" clip-path="url(#p4ec3318bd8)" style="fill: #e0e0e0"/>
+" clip-path="url(#pac0924df09)" style="fill: #e0e0e0"/>
    </g>
    <g id="patch_3">
     <path d="M 0 332.64 
@@ -43,7 +43,7 @@ L 481.68 332.64
 L 481.68 81.415385 
 L 0 81.415385 
 z
-" clip-path="url(#p4ec3318bd8)" style="fill: #ffffff"/>
+" clip-path="url(#pac0924df09)" style="fill: #ffffff"/>
    </g>
    <g id="patch_4">
     <path d="M 11.814792 68.388923 
@@ -56,7 +56,7 @@ Q 8.179472 17.678769 8.179472 21.400615
 L 8.179472 64.667077 
 Q 8.179472 68.388923 11.814792 68.388923 
 z
-" clip-path="url(#p4ec3318bd8)" style="fill: #ffffff; stroke-dasharray: 4.07,1.76; stroke-dashoffset: 0; stroke: #333333; stroke-width: 1.1; stroke-linejoin: miter"/>
+" clip-path="url(#pac0924df09)" style="fill: #ffffff; stroke-dasharray: 4.07,1.76; stroke-dashoffset: 0; stroke: #333333; stroke-width: 1.1; stroke-linejoin: miter"/>
    </g>
    <g id="patch_5">
     <path d="M 136.778943 68.388923 
@@ -69,7 +69,7 @@ Q 133.143623 17.678769 133.143623 21.400615
 L 133.143623 64.667077 
 Q 133.143623 68.388923 136.778943 68.388923 
 z
-" clip-path="url(#p4ec3318bd8)" style="fill: #ffffff; stroke-dasharray: 4.07,1.76; stroke-dashoffset: 0; stroke: #333333; stroke-width: 1.1; stroke-linejoin: miter"/>
+" clip-path="url(#pac0924df09)" style="fill: #ffffff; stroke-dasharray: 4.07,1.76; stroke-dashoffset: 0; stroke: #333333; stroke-width: 1.1; stroke-linejoin: miter"/>
    </g>
    <g id="patch_6">
     <path d="M 245.838566 68.388923 
@@ -82,7 +82,7 @@ Q 242.203245 17.678769 242.203245 21.400615
 L 242.203245 64.667077 
 Q 242.203245 68.388923 245.838566 68.388923 
 z
-" clip-path="url(#p4ec3318bd8)" style="fill: #ffffff; stroke-dasharray: 4.07,1.76; stroke-dashoffset: 0; stroke: #333333; stroke-width: 1.1; stroke-linejoin: miter"/>
+" clip-path="url(#pac0924df09)" style="fill: #ffffff; stroke-dasharray: 4.07,1.76; stroke-dashoffset: 0; stroke: #333333; stroke-width: 1.1; stroke-linejoin: miter"/>
    </g>
    <g id="patch_7">
     <path d="M 363.986491 68.388923 
@@ -95,7 +95,7 @@ Q 360.35117 17.678769 360.35117 21.400615
 L 360.35117 64.667077 
 Q 360.35117 68.388923 363.986491 68.388923 
 z
-" clip-path="url(#p4ec3318bd8)" style="fill: #ffffff; stroke-dasharray: 4.07,1.76; stroke-dashoffset: 0; stroke: #333333; stroke-width: 1.1; stroke-linejoin: miter"/>
+" clip-path="url(#pac0924df09)" style="fill: #ffffff; stroke-dasharray: 4.07,1.76; stroke-dashoffset: 0; stroke: #333333; stroke-width: 1.1; stroke-linejoin: miter"/>
    </g>
    <g id="patch_8">
     <path d="M 11.814792 196.327385 
@@ -108,7 +108,7 @@ Q 8.179472 133.986462 8.179472 137.708308
 L 8.179472 192.605538 
 Q 8.179472 196.327385 11.814792 196.327385 
 z
-" clip-path="url(#p4ec3318bd8)" style="fill: #ffffff; stroke: #333333; stroke-width: 1.1; stroke-linejoin: miter"/>
+" clip-path="url(#pac0924df09)" style="fill: #ffffff; stroke: #333333; stroke-width: 1.1; stroke-linejoin: miter"/>
    </g>
    <g id="patch_9">
     <path d="M 11.814792 305.656615 
@@ -121,7 +121,7 @@ Q 8.179472 259.598769 8.179472 263.320615
 L 8.179472 301.934769 
 Q 8.179472 305.656615 11.814792 305.656615 
 z
-" clip-path="url(#p4ec3318bd8)" style="fill: #ffffff; stroke: #333333; stroke-width: 1.1; stroke-linejoin: miter"/>
+" clip-path="url(#pac0924df09)" style="fill: #ffffff; stroke: #333333; stroke-width: 1.1; stroke-linejoin: miter"/>
    </g>
    <g id="patch_10">
     <path d="M 109.514038 228.893538 
@@ -134,7 +134,7 @@ Q 105.878717 101.420308 105.878717 105.142154
 L 105.878717 225.171692 
 Q 105.878717 228.893538 109.514038 228.893538 
 z
-" clip-path="url(#p4ec3318bd8)" style="fill: #ffffff; stroke: #333333; stroke-width: 1.3; stroke-linejoin: miter"/>
+" clip-path="url(#pac0924df09)" style="fill: #ffffff; stroke: #333333; stroke-width: 1.3; stroke-linejoin: miter"/>
    </g>
    <g id="patch_11">
     <path d="M 116.330264 177.718154 
@@ -147,7 +147,7 @@ Q 112.694943 142.360615 112.694943 146.082462
 L 112.694943 173.996308 
 Q 112.694943 177.718154 116.330264 177.718154 
 z
-" clip-path="url(#p4ec3318bd8)" style="fill: #ffffff; stroke: #999999; stroke-width: 1.4; stroke-linejoin: miter"/>
+" clip-path="url(#pac0924df09)" style="fill: #ffffff; stroke: #999999; stroke-width: 1.4; stroke-linejoin: miter"/>
    </g>
    <g id="patch_12">
     <path d="M 194.716868 177.718154 
@@ -160,7 +160,7 @@ Q 191.081547 142.360615 191.081547 146.082462
 L 191.081547 173.996308 
 Q 191.081547 177.718154 194.716868 177.718154 
 z
-" clip-path="url(#p4ec3318bd8)" style="fill: #ffffff; stroke: #0072b2; stroke-width: 1.4; stroke-linejoin: miter"/>
+" clip-path="url(#pac0924df09)" style="fill: #ffffff; stroke: #0072b2; stroke-width: 1.4; stroke-linejoin: miter"/>
    </g>
    <g id="patch_13">
     <path d="M 273.103472 177.718154 
@@ -173,7 +173,7 @@ Q 269.468151 142.360615 269.468151 146.082462
 L 269.468151 173.996308 
 Q 269.468151 177.718154 273.103472 177.718154 
 z
-" clip-path="url(#p4ec3318bd8)" style="fill: #ffffff; stroke: #009e73; stroke-width: 1.4; stroke-linejoin: miter"/>
+" clip-path="url(#pac0924df09)" style="fill: #ffffff; stroke: #009e73; stroke-width: 1.4; stroke-linejoin: miter"/>
    </g>
    <g id="patch_14">
     <path d="M 194.716868 221.915077 
@@ -186,7 +186,7 @@ Q 191.081547 186.557538 191.081547 190.279385
 L 191.081547 218.193231 
 Q 191.081547 221.915077 194.716868 221.915077 
 z
-" clip-path="url(#p4ec3318bd8)" style="fill: #ffffff; stroke: #e69f00; stroke-width: 1.4; stroke-linejoin: miter"/>
+" clip-path="url(#pac0924df09)" style="fill: #ffffff; stroke: #e69f00; stroke-width: 1.4; stroke-linejoin: miter"/>
    </g>
    <g id="patch_15">
     <path d="M 359.44234 140.499692 
@@ -199,7 +199,7 @@ Q 355.807019 101.420308 355.807019 105.142154
 L 355.807019 136.777846 
 Q 355.807019 140.499692 359.44234 140.499692 
 z
-" clip-path="url(#p4ec3318bd8)" style="fill: #ffffff; stroke: #333333; stroke-width: 1.1; stroke-linejoin: miter"/>
+" clip-path="url(#pac0924df09)" style="fill: #ffffff; stroke: #333333; stroke-width: 1.1; stroke-linejoin: miter"/>
    </g>
    <g id="patch_16">
     <path d="M 348.081962 233.545846 
@@ -212,7 +212,7 @@ Q 344.446642 150.269538 344.446642 153.991385
 L 344.446642 229.824 
 Q 344.446642 233.545846 348.081962 233.545846 
 z
-" clip-path="url(#p4ec3318bd8)" style="fill: #ffffff; stroke: #333333; stroke-width: 1.1; stroke-linejoin: miter"/>
+" clip-path="url(#pac0924df09)" style="fill: #ffffff; stroke: #333333; stroke-width: 1.1; stroke-linejoin: miter"/>
    </g>
    <g id="patch_17">
     <path d="M 348.081962 317.287385 
@@ -225,7 +225,7 @@ Q 344.446642 261.924923 344.446642 265.646769
 L 344.446642 313.565538 
 Q 344.446642 317.287385 348.081962 317.287385 
 z
-" clip-path="url(#p4ec3318bd8)" style="fill: #ffffff; stroke: #333333; stroke-width: 1.1; stroke-linejoin: miter"/>
+" clip-path="url(#pac0924df09)" style="fill: #ffffff; stroke: #333333; stroke-width: 1.1; stroke-linejoin: miter"/>
    </g>
    <g id="patch_18">
     <path d="M 109.514038 324.265846 
@@ -238,7 +238,7 @@ Q 105.878717 240.989538 105.878717 244.711385
 L 105.878717 320.544 
 Q 105.878717 324.265846 109.514038 324.265846 
 z
-" clip-path="url(#p4ec3318bd8)" style="fill: #ffffff; stroke: #333333; stroke-width: 1.1; stroke-linejoin: miter"/>
+" clip-path="url(#pac0924df09)" style="fill: #ffffff; stroke: #333333; stroke-width: 1.1; stroke-linejoin: miter"/>
    </g>
    <g id="patch_19">
     <path d="M 232.206113 317.287385 
@@ -251,34 +251,35 @@ Q 228.570792 243.315692 228.570792 247.037538
 L 228.570792 313.565538 
 Q 228.570792 317.287385 232.206113 317.287385 
 z
-" clip-path="url(#p4ec3318bd8)" style="fill: #ffffff; stroke: #333333; stroke-width: 1.1; stroke-linejoin: miter"/>
+" clip-path="url(#pac0924df09)" style="fill: #ffffff; stroke: #333333; stroke-width: 1.1; stroke-linejoin: miter"/>
    </g>
    <g id="text_1">
-    <text style="font-weight: 700; font-size: 6.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #333333" x="4.544151" y="9.304615" transform="rotate(-0 4.544151 9.304615)">Development (pilot): no rule taken from the test material</text>
+    <text style="font-weight: 700; font-size: 6.9px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #333333" x="4.544151" y="9.304615" transform="rotate(-0 4.544151 9.304615)">Development (pilot): no rule taken from the test material</text>
    </g>
    <g id="text_2">
-    <text style="font-weight: 700; font-size: 6.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #333333" x="4.544151" y="90.72" transform="rotate(-0 4.544151 90.72)">Main study (test material)</text>
+    <text style="font-weight: 700; font-size: 6.9px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #333333" x="4.544151" y="90.72" transform="rotate(-0 4.544151 90.72)">Main study (test material)</text>
    </g>
    <g id="text_3">
-    <text style="font-size: 6px; font-family: 'DejaVu Sans'" transform="translate(39.848526 34.920721)">Pilot V1 to V4 on</text>
-    <text style="font-size: 6px; font-family: 'DejaVu Sans'" transform="translate(30.477745 41.239471)">development material;</text>
-    <text style="font-size: 6px; font-family: 'DejaVu Sans'" transform="translate(16.490713 48.414627)">149 confirmed reference issues,</text>
-    <text style="font-size: 6px; font-family: 'DejaVu Sans'" transform="translate(21.820401 55.039471)">matched like the main study</text>
+    <text style="font-size: 6.7px; font-family: 'DejaVu Sans'" transform="translate(36.94287 30.12169)">Pilot V1 to V4 on</text>
+    <text style="font-size: 6.7px; font-family: 'DejaVu Sans'" transform="translate(26.478831 37.177627)">development material;</text>
+    <text style="font-size: 6.7px; font-family: 'DejaVu Sans'" transform="translate(40.400698 45.53169)">149 confirmed</text>
+    <text style="font-size: 6.7px; font-family: 'DejaVu Sans'" transform="translate(20.431034 52.894885)">reference issues, matched</text>
+    <text style="font-size: 6.7px; font-family: 'DejaVu Sans'" transform="translate(32.658534 60.292627)">like the main study</text>
    </g>
    <g id="text_4">
-    <text style="font-size: 6px; font-family: 'DejaVu Sans'" transform="translate(146.469631 38.370721)">V4 tests base version B</text>
-    <text style="font-size: 6px; font-family: 'DejaVu Sans'" transform="translate(149.6801 44.914471)">(1.3.0 / 1.2.0 / 1.2.0);</text>
-    <text style="font-size: 6px; font-family: 'DejaVu Sans'" transform="translate(152.544163 51.589471)">check reports of V4</text>
+    <text style="font-size: 6.7px; font-family: 'DejaVu Sans'" transform="translate(142.351717 37.82669)">V4 tests base version B</text>
+    <text style="font-size: 6.7px; font-family: 'DejaVu Sans'" transform="translate(145.936741 45.133877)">(1.3.0 / 1.2.0 / 1.2.0);</text>
+    <text style="font-size: 6.7px; font-family: 'DejaVu Sans'" transform="translate(149.134944 52.587627)">check reports of V4</text>
    </g>
    <g id="text_5">
-    <text style="font-size: 6px; font-family: 'DejaVu Sans'" transform="translate(264.335192 37.697127)">Agent R proposes</text>
-    <text style="font-size: 6px; font-family: 'DejaVu Sans'" transform="translate(270.308473 45.270721)">rules F1 to F7</text>
-    <text style="font-size: 6px; font-family: 'DejaVu Sans'" transform="translate(273.10691 52.170721)">→ version D</text>
+    <text style="font-size: 6.7px; font-family: 'DejaVu Sans'" transform="translate(261.244637 37.07451)">Agent R proposes</text>
+    <text style="font-size: 6.7px; font-family: 'DejaVu Sans'" transform="translate(267.914801 45.53169)">rules F1 to F7</text>
+    <text style="font-size: 6.7px; font-family: 'DejaVu Sans'" transform="translate(271.039723 53.23669)">→ version D</text>
    </g>
    <g id="text_6">
-    <text style="font-size: 6px; font-family: 'DejaVu Sans'" transform="translate(387.320015 37.736502)">Agent R2:</text>
-    <text style="font-size: 6px; font-family: 'DejaVu Sans'" transform="translate(384.364546 44.689471)">same input,</text>
-    <text style="font-size: 6px; font-family: 'DejaVu Sans'" transform="translate(377.203452 51.589471)">independent run</text>
+    <text style="font-size: 6.7px; font-family: 'DejaVu Sans'" transform="translate(385.588991 37.118479)">Agent R2:</text>
+    <text style="font-size: 6.7px; font-family: 'DejaVu Sans'" transform="translate(382.288718 44.882627)">same input,</text>
+    <text style="font-size: 6.7px; font-family: 'DejaVu Sans'" transform="translate(374.292163 52.587627)">independent run</text>
    </g>
    <g id="patch_20">
     <path d="M 120.42 43.266462 
@@ -306,7 +307,7 @@ Q 349.899623 43.266462 361.26 43.266462
 " style="fill: none; stroke: #333333; stroke-width: 1.2; stroke-linecap: round"/>
    </g>
    <g id="text_7">
-    <text style="font-size: 6px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #444444" x="349.899623" y="38.103209" transform="rotate(-0 349.899623 38.103209)">K9</text>
+    <text style="font-size: 6.7px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #444444" x="349.899623" y="37.935045" transform="rotate(-0 349.899623 37.935045)">K9</text>
    </g>
    <g id="patch_23">
     <path d="M 181.766038 67.458462 
@@ -329,36 +330,37 @@ z
 " style="fill: #333333; stroke: #333333; stroke-width: 0.9; stroke-linecap: round"/>
    </g>
    <g id="text_8">
-    <text style="font-size: 6.5px; font-family: 'DejaVu Sans'" transform="translate(29.029315 160.105204)">Test material:</text>
-    <text style="font-size: 6.5px; font-family: 'DejaVu Sans'" transform="translate(29.990604 166.950517)">4 EGUsphere</text>
-    <text style="font-size: 6.5px; font-family: 'DejaVu Sans'" transform="translate(36.465214 174.425517)">preprints</text>
+    <text style="font-size: 6.9px; font-family: 'DejaVu Sans'" transform="translate(27.669784 159.794329)">Test material:</text>
+    <text style="font-size: 6.9px; font-family: 'DejaVu Sans'" transform="translate(28.690229 167.060892)">4 EGUsphere</text>
+    <text style="font-size: 6.9px; font-family: 'DejaVu Sans'" transform="translate(35.563276 174.995892)">preprints</text>
    </g>
    <g id="text_9">
-    <text style="font-size: 6px; font-family: 'DejaVu Sans'" transform="translate(30.515448 277.964567)">Public referee</text>
-    <text style="font-size: 6px; font-family: 'DejaVu Sans'" transform="translate(30.674354 284.283317)">reports of the</text>
-    <text style="font-size: 6px; font-family: 'DejaVu Sans'" transform="translate(34.730448 291.183317)">4 preprints</text>
+    <text style="font-size: 6.7px; font-family: 'DejaVu Sans'" transform="translate(28.111386 277.420536)">Public referee</text>
+    <text style="font-size: 6.7px; font-family: 'DejaVu Sans'" transform="translate(28.288831 284.476474)">reports of the</text>
+    <text style="font-size: 6.7px; font-family: 'DejaVu Sans'" transform="translate(32.818136 292.181474)">4 preprints</text>
    </g>
    <g id="text_10">
-    <text style="font-weight: 700; font-size: 7.5px; font-family: 'DejaVu Sans'; text-anchor: middle" x="223.799434" y="115.930074" transform="rotate(-0 223.799434 115.930074)">48 reviews</text>
+    <text style="font-weight: 700; font-size: 7.7px; font-family: 'DejaVu Sans'; text-anchor: middle" x="223.799434" y="115.982035" transform="rotate(-0 223.799434 115.982035)">48 reviews</text>
    </g>
    <g id="text_11">
-    <text style="font-size: 6.5px; font-family: 'DejaVu Sans'; text-anchor: middle" x="223.799434" y="129.627192" transform="rotate(-0 223.799434 129.627192)">4 conditions × 4 manuscripts × 3 runs</text>
+    <text style="font-size: 6.9px; font-family: 'DejaVu Sans'; text-anchor: middle" x="223.799434" y="129.731114" transform="rotate(-0 223.799434 129.731114)">4 conditions × 4 manuscripts × 3 runs</text>
    </g>
    <g id="text_12">
-    <text style="font-size: 6px; font-family: 'DejaVu Sans'" transform="translate(123.650643 158.82626)">A  first version</text>
-    <text style="font-size: 6px; font-family: 'DejaVu Sans'" transform="translate(116.678455 165.43751)">1.0.0 / 1.0.0 / 1.0.0</text>
+    <text style="font-size: 6.7px; font-family: 'DejaVu Sans'" transform="translate(121.111721 158.684728)">A  first version</text>
+    <text style="font-size: 6.7px; font-family: 'DejaVu Sans'" transform="translate(117.584799 166.067291)">1.0.0/1.0.0/1.0.0</text>
    </g>
    <g id="text_13">
-    <text style="font-size: 6px; font-family: 'DejaVu Sans'" transform="translate(200.741153 158.82626)">B  base version</text>
-    <text style="font-size: 6px; font-family: 'DejaVu Sans'" transform="translate(195.065059 165.43751)">1.3.0 / 1.2.0 / 1.2.0</text>
+    <text style="font-size: 6.7px; font-family: 'DejaVu Sans'" transform="translate(198.05102 158.684728)">B  base version</text>
+    <text style="font-size: 6.7px; font-family: 'DejaVu Sans'" transform="translate(195.971403 166.067291)">1.3.0/1.2.0/1.2.0</text>
    </g>
    <g id="text_14">
-    <text style="font-size: 6px; font-family: 'DejaVu Sans'" transform="translate(283.438381 158.82626)">D  new rules</text>
-    <text style="font-size: 6px; font-family: 'DejaVu Sans'" transform="translate(273.451663 165.43751)">1.4.0 / 1.3.0 / 1.2.0</text>
+    <text style="font-size: 6.7px; font-family: 'DejaVu Sans'" transform="translate(281.251155 158.684728)">D  new rules</text>
+    <text style="font-size: 6.7px; font-family: 'DejaVu Sans'" transform="translate(274.358006 166.067291)">1.4.0/1.3.0/1.2.0</text>
    </g>
    <g id="text_15">
-    <text style="font-size: 6px; font-family: 'DejaVu Sans'" transform="translate(192.680528 202.66412)">C  as B, one context,</text>
-    <text style="font-size: 6px; font-family: 'DejaVu Sans'" transform="translate(205.654121 209.341933)">in sequence</text>
+    <text style="font-size: 6.7px; font-family: 'DejaVu Sans'" transform="translate(211.105028 198.628198)">C  as B,</text>
+    <text style="font-size: 6.7px; font-family: 'DejaVu Sans'" transform="translate(202.809067 206.199198)">one context,</text>
+    <text style="font-size: 6.7px; font-family: 'DejaVu Sans'" transform="translate(203.537168 213.790089)">in sequence</text>
    </g>
    <g id="patch_25">
     <path d="M 177.221887 160.039385 
@@ -366,7 +368,7 @@ Q 184.606132 160.039385 191.990377 160.039385
 " style="fill: none; stroke: #444444; stroke-width: 1.2; stroke-linecap: round"/>
    </g>
    <g id="text_16">
-    <text style="font-size: 6px; font-family: 'DejaVu Sans'; text-anchor: middle" x="184.606132" y="140.453978" transform="rotate(-0 184.606132 140.453978)">RQ1</text>
+    <text style="font-size: 6.7px; font-family: 'DejaVu Sans'; text-anchor: middle" x="184.606132" y="140.285814" transform="rotate(-0 184.606132 140.285814)">RQ1</text>
    </g>
    <g id="patch_26">
     <path d="M 255.608491 160.039385 
@@ -374,7 +376,7 @@ Q 262.992736 160.039385 270.376981 160.039385
 " style="fill: none; stroke: #444444; stroke-width: 1.2; stroke-linecap: round"/>
    </g>
    <g id="text_17">
-    <text style="font-size: 6px; font-family: 'DejaVu Sans'; text-anchor: middle" x="262.992736" y="140.453978" transform="rotate(-0 262.992736 140.453978)">RQ3</text>
+    <text style="font-size: 6.7px; font-family: 'DejaVu Sans'; text-anchor: middle" x="262.992736" y="140.285814" transform="rotate(-0 262.992736 140.285814)">RQ3</text>
    </g>
    <g id="patch_27">
     <path d="M 223.799434 176.787692 
@@ -382,41 +384,41 @@ Q 223.799434 182.137846 223.799434 187.488
 " style="fill: none; stroke: #444444; stroke-width: 1.2; stroke-linecap: round"/>
    </g>
    <g id="text_18">
-    <text style="font-size: 6px; font-family: 'DejaVu Sans'; text-anchor: start" x="227.207547" y="183.69644" transform="rotate(-0 227.207547 183.69644)">RQ2</text>
+    <text style="font-size: 6.7px; font-family: 'DejaVu Sans'; text-anchor: start" x="227.207547" y="183.878276" transform="rotate(-0 227.207547 183.878276)">RQ2</text>
    </g>
    <g id="text_19">
-    <text style="font-size: 6px; font-family: 'DejaVu Sans'; fill: #444444" transform="translate(130.799549 199.058726)">each line:</text>
-    <text style="font-size: 6px; font-family: 'DejaVu Sans'; fill: #444444" transform="translate(130.087518 206.260367)">one factor</text>
-    <text style="font-size: 6px; font-family: 'DejaVu Sans'; fill: #444444" transform="translate(132.467361 213.462007)">changed</text>
+    <text style="font-size: 6.7px; font-family: 'DejaVu Sans'; fill: #444444" transform="translate(129.094666 198.400398)">each line:</text>
+    <text style="font-size: 6.7px; font-family: 'DejaVu Sans'; fill: #444444" transform="translate(128.299565 206.44223)">one factor</text>
+    <text style="font-size: 6.7px; font-family: 'DejaVu Sans'; fill: #444444" transform="translate(130.957057 214.484062)">changed</text>
    </g>
    <g id="text_20">
-    <text style="font-size: 6px; font-family: 'DejaVu Sans'" transform="translate(383.029502 119.746875)">Verification</text>
-    <text style="font-size: 6px; font-family: 'DejaVu Sans'" transform="translate(378.644814 126.065625)">(check report)</text>
+    <text style="font-size: 6.7px; font-family: 'DejaVu Sans'" transform="translate(381.062994 119.605344)">Verification</text>
+    <text style="font-size: 6.7px; font-family: 'DejaVu Sans'" transform="translate(376.16676 126.661281)">(check report)</text>
    </g>
    <g id="text_21">
-    <text style="font-size: 6px; font-family: 'DejaVu Sans'" transform="translate(352.839782 176.313317)">Rating of disputed findings:</text>
-    <text style="font-size: 6px; font-family: 'DejaVu Sans'" transform="translate(351.216969 183.213317)">finding groups; rating agent,</text>
-    <text style="font-size: 6px; font-family: 'DejaVu Sans'" transform="translate(357.581188 190.113317)">3 runs, majority; author:</text>
-    <text style="font-size: 6px; font-family: 'DejaVu Sans'" transform="translate(353.336657 197.013317)">no majority or unclear, and</text>
-    <text style="font-size: 6px; font-family: 'DejaVu Sans'" transform="translate(362.600563 203.913317)">blinded sample of 60</text>
-    <text style="font-size: 6px; font-family: 'DejaVu Sans'" transform="translate(352.930719 211.041599)">(below 80 %: +60, then all)</text>
+    <text style="font-size: 6.7px; font-family: 'DejaVu Sans'" transform="translate(348.013829 174.493974)">Rating of disputed findings:</text>
+    <text style="font-size: 6.7px; font-family: 'DejaVu Sans'" transform="translate(346.201688 182.198974)">finding groups; rating agent,</text>
+    <text style="font-size: 6.7px; font-family: 'DejaVu Sans'" transform="translate(353.308399 189.903974)">3 runs, majority; author:</text>
+    <text style="font-size: 6.7px; font-family: 'DejaVu Sans'" transform="translate(348.568672 197.608974)">no majority or unclear, and</text>
+    <text style="font-size: 6.7px; font-family: 'DejaVu Sans'" transform="translate(358.913368 205.313974)">blinded sample of 60</text>
+    <text style="font-size: 6.7px; font-family: 'DejaVu Sans'" transform="translate(348.115376 213.273888)">(below 80 %: +60, then all)</text>
    </g>
    <g id="text_22">
-    <text style="font-weight: 700; font-size: 7.5px; font-family: 'DejaVu Sans'" transform="translate(354.558219 288.020021)">Measures K1 to K9</text>
-    <text style="font-weight: 700; font-size: 7.5px; font-family: 'DejaVu Sans'" transform="translate(365.408024 296.154591)">→ RQ1 to RQ3</text>
+    <text style="font-weight: 700; font-size: 7.7px; font-family: 'DejaVu Sans'" transform="translate(353.500969 287.977724)">Measures K1 to K9</text>
+    <text style="font-weight: 700; font-size: 7.7px; font-family: 'DejaVu Sans'" transform="translate(364.640102 296.329216)">→ RQ1 to RQ3</text>
    </g>
    <g id="text_23">
-    <text style="font-size: 6px; font-family: 'DejaVu Sans'" transform="translate(137.123084 271.064567)">Reference issues</text>
-    <text style="font-size: 6px; font-family: 'DejaVu Sans'" transform="translate(116.67949 277.383317)">205 objections, 198 confirmed</text>
-    <text style="font-size: 6px; font-family: 'DejaVu Sans'" transform="translate(134.943865 284.511599)">(143 substantive);</text>
-    <text style="font-size: 6px; font-family: 'DejaVu Sans'" transform="translate(119.620427 291.183317)">3 checking agents, majority;</text>
-    <text style="font-size: 6px; font-family: 'DejaVu Sans'" transform="translate(113.665427 298.083317)">second extraction: none missing</text>
+    <text style="font-size: 6.7px; font-family: 'DejaVu Sans'" transform="translate(134.167881 269.715536)">Reference issues</text>
+    <text style="font-size: 6.7px; font-family: 'DejaVu Sans'" transform="translate(111.339201 276.771474)">205 objections, 198 confirmed</text>
+    <text style="font-size: 6.7px; font-family: 'DejaVu Sans'" transform="translate(131.73442 284.731388)">(143 substantive);</text>
+    <text style="font-size: 6.7px; font-family: 'DejaVu Sans'" transform="translate(114.623248 292.181474)">3 checking agents, majority;</text>
+    <text style="font-size: 6.7px; font-family: 'DejaVu Sans'" transform="translate(107.973498 299.886474)">second extraction: none missing</text>
    </g>
    <g id="text_24">
-    <text style="font-size: 6.5px; font-family: 'DejaVu Sans'" transform="translate(246.346296 270.882632)">Matching</text>
-    <text style="font-size: 6.5px; font-family: 'DejaVu Sans'" transform="translate(235.48825 278.357632)">3 runs, majority</text>
-    <text style="font-size: 6.5px; font-family: 'DejaVu Sans'" transform="translate(241.301179 285.832632)">hit / partial /</text>
-    <text style="font-size: 6.5px; font-family: 'DejaVu Sans'" transform="translate(234.47364 293.68189)">missed / unclear</text>
+    <text style="font-size: 6.9px; font-family: 'DejaVu Sans'" transform="translate(245.426765 270.303007)">Matching</text>
+    <text style="font-size: 6.9px; font-family: 'DejaVu Sans'" transform="translate(233.900531 278.238007)">3 runs, majority</text>
+    <text style="font-size: 6.9px; font-family: 'DejaVu Sans'" transform="translate(240.071179 286.173007)">hit / partial /</text>
+    <text style="font-size: 6.9px; font-family: 'DejaVu Sans'" transform="translate(232.823484 294.505296)">missed / unclear</text>
    </g>
    <g id="patch_28">
     <path d="M 93.155094 165.156923 
@@ -489,7 +491,7 @@ z
 " style="fill: #444444; stroke: #444444; stroke-width: 0.9; stroke-linecap: round"/>
    </g>
    <g id="text_25">
-    <text style="font-size: 6px; font-family: 'DejaVu Sans'; fill: #444444" transform="translate(470.334065 216.686755) rotate(-90)">K4, K8</text>
+    <text style="font-size: 6.7px; font-family: 'DejaVu Sans'; fill: #444444" transform="translate(470.865901 217.813645) rotate(-90)">K4, K8</text>
    </g>
    <g id="patch_36">
     <path d="M 293.097736 251.224615 
@@ -507,8 +509,8 @@ z
 " style="fill: #444444; stroke: #444444; stroke-width: 0.9; stroke-linecap: round"/>
    </g>
    <g id="text_26">
-    <text style="font-size: 6px; font-family: 'DejaVu Sans'; fill: #444444" transform="translate(307.329517 256.161085)">disputed</text>
-    <text style="font-size: 6px; font-family: 'DejaVu Sans'; fill: #444444" transform="translate(308.465298 263.362725)">findings</text>
+    <text style="font-size: 6.7px; font-family: 'DejaVu Sans'; fill: #444444" transform="translate(305.808985 260.57516)">disputed</text>
+    <text style="font-size: 6.7px; font-family: 'DejaVu Sans'; fill: #444444" transform="translate(307.077274 268.616992)">findings</text>
    </g>
    <g id="patch_38">
     <path d="M 293.097736 309.378462 
@@ -521,10 +523,10 @@ z
 " style="fill: #444444; stroke: #444444; stroke-width: 0.9; stroke-linecap: round"/>
    </g>
    <g id="text_27">
-    <text style="font-size: 6px; font-family: 'DejaVu Sans'; fill: #444444" transform="translate(302.740666 282.009701)">hit / partial</text>
-    <text style="font-size: 6px; font-family: 'DejaVu Sans'; fill: #444444" transform="translate(298.964416 289.211342)">per reference</text>
-    <text style="font-size: 6px; font-family: 'DejaVu Sans'; fill: #444444" transform="translate(299.051604 296.412983)">issue; correct</text>
-    <text style="font-size: 6px; font-family: 'DejaVu Sans'; fill: #444444" transform="translate(307.32926 303.614623)">findings</text>
+    <text style="font-size: 6.7px; font-family: 'DejaVu Sans'; fill: #444444" transform="translate(300.817307 279.250895)">hit / partial</text>
+    <text style="font-size: 6.7px; font-family: 'DejaVu Sans'; fill: #444444" transform="translate(296.600494 287.292727)">per reference</text>
+    <text style="font-size: 6.7px; font-family: 'DejaVu Sans'; fill: #444444" transform="translate(296.697854 295.334559)">issue; correct</text>
+    <text style="font-size: 6.7px; font-family: 'DejaVu Sans'; fill: #444444" transform="translate(305.941237 303.376391)">findings</text>
    </g>
    <g id="patch_39">
     <path d="M 394.205094 232.615385 
@@ -539,7 +541,7 @@ z
   </g>
  </g>
  <defs>
-  <clipPath id="p4ec3318bd8">
+  <clipPath id="pac0924df09">
    <rect x="0" y="0" width="481.68" height="332.64"/>
   </clipPath>
  </defs>

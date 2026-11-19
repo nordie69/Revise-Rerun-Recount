@@ -4,7 +4,7 @@ matplotlib.use("Agg")
 import matplotlib.pyplot as plt
 from matplotlib.patches import FancyBboxPatch
 plt.rcParams.update({"font.family":"DejaVu Sans","pdf.fonttype":42,"svg.fonttype":"none"})
-L,M,S=7.5,6.5,6.0
+L,M,S=7.7,6.9,6.7
 def box(ax,x,y,w,h,text,c,fs=M,bold=False,lw=1.1,ls="-"):
     ax.add_patch(FancyBboxPatch((x,y),w,h,boxstyle="round,pad=0.02,rounding_size=0.08",ec=c,fc="white",lw=lw,ls=ls))
     ax.text(x+w/2,y+h/2,text,ha="center",va="center",fontsize=fs,weight="bold" if bold else "normal",linespacing=1.15)
@@ -19,7 +19,7 @@ ax.text(0.1,6.95,"Development (pilot): no rule taken from the test material",fon
 ax.add_patch(plt.Rectangle((0,0.0),W,5.4,fc="white",ec="none"))
 ax.text(0.1,5.2,"Main study (test material)",fontsize=M,weight="bold",color="#333333")
 # development
-box(ax,0.2,5.7,2.45,1.05,"Pilot V1 to V4 on\ndevelopment material;\n149 confirmed reference issues,\nmatched like the main study","#333333",fs=S,ls="--")
+box(ax,0.2,5.7,2.45,1.05,"Pilot V1 to V4 on\ndevelopment material;\n149 confirmed\nreference issues, matched\nlike the main study","#333333",fs=S,ls="--")
 box(ax,2.95,5.7,2.1,1.05,"V4 tests base version B\n(1.3.0 / 1.2.0 / 1.2.0);\ncheck reports of V4","#333333",fs=S,ls="--")
 box(ax,5.35,5.7,2.1,1.05,"Agent R proposes\nrules F1 to F7\n→ version D","#333333",fs=S,ls="--")
 box(ax,7.95,5.7,1.8,1.05,"Agent R2:\nsame input,\nindependent run","#333333",fs=S,ls="--")
@@ -36,8 +36,8 @@ ax.text(4.925,4.4,"4 conditions × 4 manuscripts × 3 runs",ha="center",va="cent
 cw,ch=1.4,0.72
 CC={"A":"#999999","B":"#0072B2","C":"#E69F00","D":"#009E73"}
 def cond(x,y,t): box(ax,x,y,cw,ch,t,CC[t.strip()[0]],fs=S,lw=1.4)
-cond(2.5,3.35,"A  first version\n1.0.0 / 1.0.0 / 1.0.0"); cond(4.225,3.35,"B  base version\n1.3.0 / 1.2.0 / 1.2.0")
-cond(5.95,3.35,"D  new rules\n1.4.0 / 1.3.0 / 1.2.0"); cond(4.225,2.4,"C  as B, one context,\nin sequence")
+cond(2.5,3.35,"A  first version\n1.0.0/1.0.0/1.0.0"); cond(4.225,3.35,"B  base version\n1.3.0/1.2.0/1.2.0")
+cond(5.95,3.35,"D  new rules\n1.4.0/1.3.0/1.2.0"); cond(4.225,2.4,"C  as B,\none context,\nin sequence")
 for x1,x2,lab in ((3.9,4.225,"RQ1"),(5.625,5.95,"RQ3")):
     arr(ax,x1,3.71,x2,3.71,head=False,lw=1.2); ax.text((x1+x2)/2,4.1,lab,ha="center",va="bottom",fontsize=S)
 arr(ax,4.925,3.35,4.925,3.12,head=False,lw=1.2); ax.text(5.0,3.235,"RQ2",fontsize=S,va="center")
@@ -57,7 +57,7 @@ arr(ax,4.8,1.12,5.05,1.12)
 arr(ax,7.5,4.55,7.85,4.55)
 arr(ax,9.75,4.55,10.15,4.55,head=False); arr(ax,10.15,4.55,10.15,0.92,head=False); arr(ax,10.15,0.92,9.75,0.92)
 ax.text(10.25,2.7,"K4, K8",fontsize=S,rotation=90,ha="left",va="center",color="#444")
-arr(ax,6.45,1.75,8.05,1.75,head=False); arr(ax,8.05,1.75,8.05,2.15); note(7.05,1.6,"disputed\nfindings",ha="center",va="center")
+arr(ax,6.45,1.75,8.05,1.75,head=False); arr(ax,8.05,1.75,8.05,2.15); note(7.05,1.5,"disputed\nfindings",ha="center",va="center")
 arr(ax,6.45,0.5,7.6,0.5); note(7.025,0.58,"hit / partial\nper reference\nissue; correct\nfindings",va="bottom")
 arr(ax,8.675,2.15,8.675,1.5)
 f.savefig("fig01_methods.pdf"); f.savefig("fig01_methods.png",dpi=300); f.savefig("fig01_methods.svg"); plt.close(f); print("ok")
