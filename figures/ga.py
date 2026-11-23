@@ -20,12 +20,12 @@ Y0=384
 for cx,v,c,lab,lo,hi in ((574,29.1,"#999999","first",23.8,33.6),(754,28.7,"#0072B2","revised",25.2,30.8)):
     h=v*5.8; s+=f'<path d="M{cx},{Y0-lo*5.8:.1f} L{cx},{Y0-hi*5.8:.1f} M{cx-14},{Y0-lo*5.8:.1f} L{cx+14},{Y0-lo*5.8:.1f} M{cx-14},{Y0-hi*5.8:.1f} L{cx+14},{Y0-hi*5.8:.1f}" stroke="#333333" stroke-width="3" fill="none"/>\n' if False else ""; s+=f'<rect x="{cx-58}" y="{Y0-h:.1f}" width="116" height="{h:.1f}" rx="4" fill="{c}"/>\n'+t(cx,Y0-hi*5.8-12,f"{v} %",30,w="bold")+f'<path d="M{cx},{Y0-lo*5.8:.1f} L{cx},{Y0-hi*5.8:.1f} M{cx-14},{Y0-lo*5.8:.1f} L{cx+14},{Y0-lo*5.8:.1f} M{cx-14},{Y0-hi*5.8:.1f} L{cx+14},{Y0-hi*5.8:.1f}" stroke="#333333" stroke-width="3" fill="none"/>\n'+t(cx,Y0+30,lab,24,c="#555555")
 s+=f'<line x1="474" y1="{Y0}" x2="854" y2="{Y0}" stroke="#999999" stroke-width="3"/>\n'
-s+=t(664,484,"no gain",44,w="bold")
+s+=t(664,484,"no gain shown",44,w="bold")
 # rechts: zwei weitere Änderungen
 s+=t(1114,46,"Further comparisons",24,w="bold",c="#555555")
 s+=box(924,60,380,206)+t(1114,98,"Separate agents",28,w="bold")
 s+='<rect x="990" y="118" width="70" height="70" rx="6" fill="#E69F00"/>'+arrow(1076,153,1118,153)+''.join(f'<rect x="{x}" y="133" width="34" height="40" rx="5" fill="#0072B2"/>' for x in (1134,1176,1218))+'\n'
-s+=t(1114,240,"more issues hit",28,w="bold")
+s+=t(1114,240,"more issues hit, pooled",28,w="bold")
 s+=box(924,281,380,226)+t(1114,318,"New rules",28,w="bold")
 YB,SC=420,12
 for x0,(b,d),l1,l2 in ((965,(5.67,2.92),"sum of classes:","about halved"),(1150,(0.42,1.17),"wrong counts:","rose")):

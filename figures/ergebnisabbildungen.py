@@ -42,7 +42,7 @@ f,ax=plt.subplots(figsize=(3.27,2.5),constrained_layout=True)
 for i,c in enumerate("ABCD"):
     rng(ax,i-0.13,*K1["mit"][c],COL[c])
     rng(ax,i+0.13,*K1["ohne"][c],COL[c],mk="D",open_=True)
-for a,b,t,y in ((0,1,"RQ1: not met",35.2),(1,2,"RQ2: met",33.0),(1,3,"RQ3, K1 part: met (D not lower)",37.4)):
+for a,b,t,y in ((0,1,"RQ1: not met",35.2),(1,2,"RQ2: met (pooled)",33.0),(1,3,"RQ3, K1 part: met (all runs)",37.4)):
     ax.plot([a,b],[y,y],color="#444444",lw=0.6); ax.plot([a,a],[y-0.4,y],color="#444444",lw=0.6); ax.plot([b,b],[y-0.4,y],color="#444444",lw=0.6)
     ax.text((a+b)/2,y+0.25,t,ha="center",va="bottom",fontsize=6.0)
 ax.set_xticks(range(4)); ax.set_xticklabels(["A\nfirst version","B\nbase version","C\none context","D\nnew rules"])

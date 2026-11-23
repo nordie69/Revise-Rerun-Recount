@@ -25,13 +25,13 @@
 <path d="M754,237.8 L754,205.4 M740,237.8 L768,237.8 M740,205.4 L768,205.4" stroke="#333333" stroke-width="3" fill="none"/>
 <text x="754" y="414" font-size="24" fill="#555555" text-anchor="middle" font-weight="normal">revised</text>
 <line x1="474" y1="384" x2="854" y2="384" stroke="#999999" stroke-width="3"/>
-<text x="664" y="484" font-size="44" fill="#333333" text-anchor="middle" font-weight="bold">no gain</text>
+<text x="664" y="484" font-size="44" fill="#333333" text-anchor="middle" font-weight="bold">no gain shown</text>
 <text x="1114" y="46" font-size="24" fill="#555555" text-anchor="middle" font-weight="bold">Further comparisons</text>
 <rect x="924" y="60" width="380" height="206" rx="12" fill="#FFFFFF" stroke="#999999" stroke-width="4"/>
 <text x="1114" y="98" font-size="28" fill="#333333" text-anchor="middle" font-weight="bold">Separate agents</text>
 <rect x="990" y="118" width="70" height="70" rx="6" fill="#E69F00"/><line x1="1076" y1="153" x2="1118" y2="153" stroke="#555555" stroke-width="3" marker-end="url(#pf)"/>
 <rect x="1134" y="133" width="34" height="40" rx="5" fill="#0072B2"/><rect x="1176" y="133" width="34" height="40" rx="5" fill="#0072B2"/><rect x="1218" y="133" width="34" height="40" rx="5" fill="#0072B2"/>
-<text x="1114" y="240" font-size="28" fill="#333333" text-anchor="middle" font-weight="bold">more issues hit</text>
+<text x="1114" y="240" font-size="28" fill="#333333" text-anchor="middle" font-weight="bold">more issues hit, pooled</text>
 <rect x="924" y="281" width="380" height="226" rx="12" fill="#FFFFFF" stroke="#999999" stroke-width="4"/>
 <text x="1114" y="318" font-size="28" fill="#333333" text-anchor="middle" font-weight="bold">New rules</text>
 <rect x="965" y="352.0" width="40" height="68.0" rx="2" fill="#0072B2"/><rect x="1049" y="385.0" width="40" height="35.0" rx="2" fill="#009E73"/><line x1="1013" y1="392" x2="1043" y2="392" stroke="#555555" stroke-width="3" marker-end="url(#pf)"/>
