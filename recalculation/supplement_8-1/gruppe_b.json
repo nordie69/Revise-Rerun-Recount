@@ -1,0 +1,596 @@
+{
+ "K8_alle_Zuordnungen": {
+  "F1": {
+   "D_unter_B_Prozent": 100.0,
+   "D_ueber_B_Prozent": 0.0,
+   "beruehrend_Prozent": 0.0,
+   "B_je_Gutachten": {
+    "4733": [
+     0,
+     0,
+     0
+    ],
+    "4506": [
+     1,
+     1,
+     1
+    ],
+    "4695": [
+     1,
+     0,
+     0
+    ],
+    "5046": [
+     0,
+     0,
+     0
+    ]
+   },
+   "D_je_Gutachten": {
+    "4733": [
+     0,
+     0,
+     0
+    ],
+    "4506": [
+     0,
+     0,
+     0
+    ],
+    "4695": [
+     0,
+     0,
+     0
+    ],
+    "5046": [
+     0,
+     0,
+     0
+    ]
+   }
+  },
+  "F2": {
+   "D_unter_B_Prozent": 55.6,
+   "D_ueber_B_Prozent": 0.0,
+   "beruehrend_Prozent": 44.4,
+   "B_je_Gutachten": {
+    "4733": [
+     2,
+     1,
+     3
+    ],
+    "4506": [
+     0,
+     0,
+     0
+    ],
+    "4695": [
+     1,
+     1,
+     2
+    ],
+    "5046": [
+     0,
+     1,
+     0
+    ]
+   },
+   "D_je_Gutachten": {
+    "4733": [
+     1,
+     2,
+     0
+    ],
+    "4506": [
+     0,
+     0,
+     0
+    ],
+    "4695": [
+     0,
+     0,
+     0
+    ],
+    "5046": [
+     0,
+     0,
+     0
+    ]
+   }
+  },
+  "F3": {
+   "D_unter_B_Prozent": 0.0,
+   "D_ueber_B_Prozent": 29.4,
+   "beruehrend_Prozent": 0.0,
+   "B_je_Gutachten": {
+    "4733": [
+     1,
+     0,
+     1
+    ],
+    "4506": [
+     0,
+     0,
+     0
+    ],
+    "4695": [
+     1,
+     0,
+     0
+    ],
+    "5046": [
+     0,
+     1,
+     1
+    ]
+   },
+   "D_je_Gutachten": {
+    "4733": [
+     1,
+     2,
+     1
+    ],
+    "4506": [
+     1,
+     0,
+     4
+    ],
+    "4695": [
+     1,
+     3,
+     0
+    ],
+    "5046": [
+     0,
+     0,
+     1
+    ]
+   }
+  },
+  "F4": {
+   "D_unter_B_Prozent": 0.0,
+   "D_ueber_B_Prozent": 0.7,
+   "beruehrend_Prozent": 0.0,
+   "B_je_Gutachten": {
+    "4733": [
+     0,
+     0,
+     2
+    ],
+    "4506": [
+     1,
+     0,
+     1
+    ],
+    "4695": [
+     0,
+     0,
+     1
+    ],
+    "5046": [
+     0,
+     1,
+     0
+    ]
+   },
+   "D_je_Gutachten": {
+    "4733": [
+     0,
+     2,
+     1
+    ],
+    "4506": [
+     2,
+     0,
+     1
+    ],
+    "4695": [
+     1,
+     0,
+     0
+    ],
+    "5046": [
+     1,
+     0,
+     1
+    ]
+   }
+  },
+  "F5": {
+   "D_unter_B_Prozent": 0.0,
+   "D_ueber_B_Prozent": 0.0,
+   "beruehrend_Prozent": 0.0,
+   "B_je_Gutachten": {
+    "4733": [
+     1,
+     0,
+     2
+    ],
+    "4506": [
+     0,
+     0,
+     0
+    ],
+    "4695": [
+     0,
+     0,
+     0
+    ],
+    "5046": [
+     1,
+     0,
+     0
+    ]
+   },
+   "D_je_Gutachten": {
+    "4733": [
+     1,
+     1,
+     0
+    ],
+    "4506": [
+     0,
+     0,
+     0
+    ],
+    "4695": [
+     1,
+     1,
+     0
+    ],
+    "5046": [
+     0,
+     0,
+     1
+    ]
+   }
+  },
+  "F6": {
+   "D_unter_B_Prozent": 0.0,
+   "D_ueber_B_Prozent": 0.0,
+   "beruehrend_Prozent": 100.0,
+   "B_je_Gutachten": {
+    "4733": [
+     0,
+     0,
+     1
+    ],
+    "4506": [
+     0,
+     0,
+     0
+    ],
+    "4695": [
+     0,
+     0,
+     0
+    ],
+    "5046": [
+     0,
+     0,
+     0
+    ]
+   },
+   "D_je_Gutachten": {
+    "4733": [
+     0,
+     0,
+     0
+    ],
+    "4506": [
+     0,
+     0,
+     0
+    ],
+    "4695": [
+     0,
+     0,
+     0
+    ],
+    "5046": [
+     0,
+     0,
+     0
+    ]
+   }
+  },
+  "F7": {
+   "D_unter_B_Prozent": 92.6,
+   "D_ueber_B_Prozent": 0.0,
+   "beruehrend_Prozent": 7.4,
+   "B_je_Gutachten": {
+    "4733": [
+     1,
+     7,
+     0
+    ],
+    "4506": [
+     2,
+     6,
+     0
+    ],
+    "4695": [
+     4,
+     6,
+     6
+    ],
+    "5046": [
+     5,
+     0,
+     0
+    ]
+   },
+   "D_je_Gutachten": {
+    "4733": [
+     0,
+     0,
+     0
+    ],
+    "4506": [
+     0,
+     0,
+     0
+    ],
+    "4695": [
+     4,
+     0,
+     0
+    ],
+    "5046": [
+     0,
+     0,
+     0
+    ]
+   }
+  },
+  "F_summe": {
+   "D_unter_B_Prozent": 76.8,
+   "D_ueber_B_Prozent": 0.0,
+   "beruehrend_Prozent": 9.3,
+   "B_je_Gutachten": {
+    "4733": [
+     5,
+     8,
+     9
+    ],
+    "4506": [
+     4,
+     7,
+     2
+    ],
+    "4695": [
+     7,
+     7,
+     9
+    ],
+    "5046": [
+     6,
+     3,
+     1
+    ]
+   },
+   "D_je_Gutachten": {
+    "4733": [
+     3,
+     7,
+     2
+    ],
+    "4506": [
+     3,
+     0,
+     5
+    ],
+    "4695": [
+     7,
+     4,
+     0
+    ],
+    "5046": [
+     1,
+     0,
+     3
+    ]
+   }
+  }
+ },
+ "K8_nur_Wdh_2_3": {
+  "F1": {
+   "B": [
+    0.25,
+    0.25
+   ],
+   "D": [
+    0.0,
+    0.0
+   ],
+   "D_unter_B": true
+  },
+  "F2": {
+   "B": [
+    0.75,
+    1.25
+   ],
+   "D": [
+    0.0,
+    0.5
+   ],
+   "D_unter_B": true
+  },
+  "F3": {
+   "B": [
+    0.25,
+    0.5
+   ],
+   "D": [
+    1.25,
+    1.5
+   ],
+   "D_unter_B": false
+  },
+  "F4": {
+   "B": [
+    0.25,
+    1.0
+   ],
+   "D": [
+    0.5,
+    0.75
+   ],
+   "D_unter_B": false
+  },
+  "F5": {
+   "B": [
+    0.0,
+    0.5
+   ],
+   "D": [
+    0.25,
+    0.5
+   ],
+   "D_unter_B": false
+  },
+  "F6": {
+   "B": [
+    0.0,
+    0.25
+   ],
+   "D": [
+    0.0,
+    0.0
+   ],
+   "D_unter_B": false
+  },
+  "F7": {
+   "B": [
+    1.5,
+    4.75
+   ],
+   "D": [
+    0.0,
+    0.0
+   ],
+   "D_unter_B": true
+  },
+  "F_summe": {
+   "B": [
+    5.25,
+    6.25
+   ],
+   "D": [
+    2.5,
+    2.75
+   ],
+   "D_unter_B": true
+  }
+ },
+ "K6_B_alle_Zuordnungen": {
+  "kleinstes_Minimum": 58.2,
+  "groesstes_Maximum": 64.9,
+  "Erwartung_mindestens_20_in_allen": true
+ },
+ "K6_B_nur_Wdh_2_3": [
+  59.5,
+  60.1
+ ],
+ "B_gegen_C_je_Manuskript": {
+  "4733": {
+   "Treffer_B_C": [
+    10,
+    9
+   ],
+   "Paare": 60,
+   "Differenz_pp": 1.7,
+   "ohne_RC3_Treffer": [
+    10,
+    9
+   ],
+   "ohne_RC3_Paare": 60,
+   "ohne_RC3_Differenz_pp": 1.7
+  },
+  "4506": {
+   "Treffer_B_C": [
+    34,
+    22
+   ],
+   "Paare": 93,
+   "Differenz_pp": 12.9,
+   "ohne_RC3_Treffer": [
+    9,
+    7
+   ],
+   "ohne_RC3_Paare": 36,
+   "ohne_RC3_Differenz_pp": 5.6
+  },
+  "4695": {
+   "Treffer_B_C": [
+    19,
+    21
+   ],
+   "Paare": 51,
+   "Differenz_pp": -3.9,
+   "ohne_RC3_Treffer": [
+    19,
+    21
+   ],
+   "ohne_RC3_Paare": 51,
+   "ohne_RC3_Differenz_pp": -3.9
+  },
+  "5046": {
+   "Treffer_B_C": [
+    60,
+    42
+   ],
+   "Paare": 225,
+   "Differenz_pp": 8.0,
+   "ohne_RC3_Treffer": [
+    60,
+    42
+   ],
+   "ohne_RC3_Paare": 225,
+   "ohne_RC3_Differenz_pp": 8.0
+  }
+ },
+ "Summe_Paare": 429,
+ "Anteil_Eintraege_mit_Treffer": {
+  "A": {
+   "gesamt": [
+    186,
+    1332,
+    14.0
+   ],
+   "je_Wiederholung": [
+    12.8,
+    16.1,
+    13.0
+   ]
+  },
+  "B": {
+   "gesamt": [
+    184,
+    1198,
+    15.4
+   ],
+   "je_Wiederholung": [
+    13.6,
+    17.1,
+    15.4
+   ]
+  }
+ },
+ "Trennschaerfe": {
+  "SD_A": 4.96,
+  "SD_B": 3.05,
+  "gleiche_Streuung_B": {
+   "5": 49.0,
+   "7": 72.2
+  },
+  "A_mit_eigener_Streuung": {
+   "5": 34.9,
+   "7": 53.1
+  },
+  "Simulation_A_eigene_Streuung": {
+   "5": 34.9,
+   "7": 53.2
+  }
+ }
+}

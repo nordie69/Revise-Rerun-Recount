@@ -32,7 +32,7 @@ box(ax,0.2,0.6,1.85,0.95,"Public referee\nreports of the\n4 preprints","#333333"
 # reviews with embedded comparisons
 box(ax,2.35,2.25,5.15,2.7,"","#333333",lw=1.3)
 ax.text(4.925,4.7,"48 reviews",ha="center",va="center",fontsize=L,weight="bold")
-ax.text(4.925,4.4,"4 conditions × 4 manuscripts × 3 runs",ha="center",va="center",fontsize=M)
+ax.text(4.925,4.4,"4 conditions × 4 manuscripts × 3 repetitions",ha="center",va="center",fontsize=M)
 cw,ch=1.4,0.72
 CC={"A":"#999999","B":"#0072B2","C":"#E69F00","D":"#009E73"}
 def cond(x,y,t): box(ax,x,y,cw,ch,t,CC[t.strip()[0]],fs=S,lw=1.4)
@@ -41,7 +41,7 @@ cond(5.95,3.35,"D  new rules\n1.4.0/1.3.0/1.2.0"); cond(4.225,2.4,"C  as B,\none
 for x1,x2,lab in ((3.9,4.225,"RQ1"),(5.625,5.95,"RQ3")):
     arr(ax,x1,3.71,x2,3.71,head=False,lw=1.2); ax.text((x1+x2)/2,4.1,lab,ha="center",va="bottom",fontsize=S)
 arr(ax,4.925,3.35,4.925,3.12,head=False,lw=1.2); ax.text(5.0,3.235,"RQ2",fontsize=S,va="center")
-note(3.2,2.75,"each line:\none factor\nchanged")
+note(3.2,2.75,"each line:\ndesigned to\nchange one factor")
 # verification, rating, measures
 box(ax,7.85,4.15,1.9,0.8,"Verification\n(check report)","#333333",fs=S)
 box(ax,7.6,2.15,2.15,1.75,"Rating of disputed findings:\nfinding groups; rating agent,\n3 runs, majority; author:\nno majority or unclear, and\nblinded sample of 60\n(below 80 %: +60, then all)","#333333",fs=S)

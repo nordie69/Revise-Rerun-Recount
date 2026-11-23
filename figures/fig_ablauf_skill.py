@@ -29,7 +29,7 @@ for (k,t),y in zip(INST,ys):
 for y in ys[:-1]:
     ax.plot([x0-0.08,x0+w+0.08],[y-gap/2,y-gap/2],color=K,lw=1.6,solid_capstyle="butt")
 ax.text(x0+w/2,5.68,"six separate agents in parallel",ha="center",va="bottom",fontsize=M,weight="bold")
-note(x0+w/2,5.6,"thick lines: no access to each other;\nevery instance: its own instructions, no reference issues",va="top")
+note(x0+w/2,5.6,"thick lines: instructed not to access each other;\nevery instance: its own instructions, no reference issues",va="top")
 # shared checks as text: brackets would cross the arrows
 note(x0+w/2,ys[5]-0.1,"overlapping items on purpose:\nS2 and AB, S4 and AB, S4 and SD",va="top")
 # merger and output
